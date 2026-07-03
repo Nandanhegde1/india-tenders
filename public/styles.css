@@ -1,0 +1,91 @@
+/* IndiaTenders — warm dark ground, saffron accent, system type.
+   Muted text tokens chosen to clear WCAG AA (4.5:1) on both grounds. */
+:root {
+  --bg: #131009;
+  --bg-card: #1d1911;
+  --border: #332c1e;
+  --border-strong: #4a4130;
+  --text: #efe9dd;
+  --text-muted: #b3a892;
+  --accent: #f0a04b;
+  --accent-ink: #1a1207;
+  --open: #7fc97f;
+  --closed: #b3a892;
+}
+* { box-sizing: border-box; }
+html { color-scheme: dark; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 16px/1.6 system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; text-underline-offset: 3px; }
+.container { max-width: 1080px; margin: 0 auto; padding: 0 20px; }
+.main { min-height: 70vh; padding-bottom: 56px; }
+
+.site-header { border-bottom: 1px solid var(--border); position: sticky; top: 0; background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(8px); z-index: 10; }
+.header-row { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 14px 20px; flex-wrap: wrap; }
+.brand { font-weight: 800; font-size: 1.1rem; color: var(--text); letter-spacing: 0.01em; }
+.brand-mark { color: var(--accent); }
+.nav { display: flex; gap: 18px; flex-wrap: wrap; font-size: 0.92rem; }
+.nav a { color: var(--text-muted); }
+.nav a:hover { color: var(--text); text-decoration: none; }
+
+.hero { padding: 44px 0 8px; }
+.hero h1 { font-size: clamp(1.7rem, 4vw, 2.5rem); line-height: 1.15; margin: 0 0 12px; letter-spacing: -0.01em; }
+.hero .lead { color: var(--text-muted); max-width: 62ch; margin: 0 0 18px; }
+.hero .accent { color: var(--accent); }
+
+.stats-row { display: flex; gap: 28px; flex-wrap: wrap; margin: 18px 0 8px; font-size: 0.95rem; color: var(--text-muted); }
+.stats-row strong { color: var(--text); font-size: 1.25rem; display: block; font-variant-numeric: tabular-nums; }
+
+.filter-bar { display: flex; gap: 10px; flex-wrap: wrap; margin: 22px 0 6px; }
+.filter-bar input[type="search"] { flex: 1 1 300px; background: var(--bg-card); color: var(--text); border: 1px solid var(--border-strong); border-radius: 6px; padding: 11px 14px; font-size: 0.95rem; }
+.filter-bar select { background: var(--bg-card); color: var(--text); border: 1px solid var(--border-strong); border-radius: 6px; padding: 11px 12px; font-size: 0.92rem; }
+.filter-bar input:focus-visible, .filter-bar select:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+.result-note { font-size: 0.85rem; color: var(--text-muted); margin: 4px 0 14px; }
+
+.tender-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 12px; }
+.tender-card {
+  background: var(--bg-card); border: 1px solid var(--border); border-radius: 8px; padding: 16px 18px;
+  content-visibility: auto; contain-intrinsic-size: auto 150px;
+}
+.tender-card:hover { border-color: var(--border-strong); }
+.tender-card .row1 { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; align-items: baseline; }
+.tender-card h2, .tender-card h3 { font-size: 1.02rem; line-height: 1.4; margin: 0; font-weight: 600; }
+.tender-card .org { color: var(--text-muted); font-size: 0.88rem; margin-top: 6px; }
+.tender-card .meta-row { display: flex; gap: 14px; flex-wrap: wrap; margin-top: 10px; font-size: 0.84rem; color: var(--text-muted); }
+.badge { display: inline-block; border-radius: 999px; padding: 3px 11px; font-size: 0.76rem; font-weight: 600; letter-spacing: 0.03em; white-space: nowrap; }
+.badge-open { color: var(--open); border: 1px solid var(--open); }
+.badge-closed { color: var(--closed); border: 1px solid var(--border-strong); }
+.badge-cat { color: var(--accent); border: 1px solid var(--accent); }
+.closing-soon { color: var(--accent); font-weight: 600; }
+
+.detail h1 { font-size: clamp(1.3rem, 3vw, 1.8rem); line-height: 1.3; margin: 26px 0 10px; }
+.kv { display: grid; grid-template-columns: 180px 1fr; gap: 8px 18px; margin: 22px 0; font-size: 0.95rem; }
+.kv dt { color: var(--text-muted); }
+.kv dd { margin: 0; }
+@media (max-width: 560px) { .kv { grid-template-columns: 1fr; gap: 2px; } .kv dt { margin-top: 10px; } }
+.cta-btn { display: inline-block; background: var(--accent); color: var(--accent-ink); font-weight: 700; border-radius: 6px; padding: 12px 22px; margin: 10px 0 4px; }
+.cta-btn:hover { text-decoration: none; filter: brightness(1.08); }
+.note { font-size: 0.85rem; color: var(--text-muted); }
+
+.prose { max-width: 68ch; }
+.prose h1 { margin-top: 34px; }
+.prose h2 { margin-top: 30px; font-size: 1.2rem; }
+.prose p, .prose li { color: var(--text-muted); }
+.prose strong { color: var(--text); }
+
+.site-footer { border-top: 1px solid var(--border); padding: 26px 0 40px; font-size: 0.85rem; color: var(--text-muted); }
+.site-footer .meta { margin-top: 8px; }
+
+table.org-table { width: 100%; border-collapse: collapse; margin-top: 18px; font-size: 0.94rem; }
+table.org-table th, table.org-table td { text-align: left; padding: 10px 8px; border-bottom: 1px solid var(--border); }
+table.org-table td:nth-child(2), table.org-table td:nth-child(3) { font-variant-numeric: tabular-nums; }
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+}

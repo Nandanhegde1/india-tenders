@@ -1,0 +1,40 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+<Layout
+  title="About — IndiaTenders"
+  description="Why IndiaTenders exists: tender discovery in India is paywalled while the underlying data is public."
+>
+  <article class="prose">
+    <h1>About IndiaTenders</h1>
+    <p>
+      Indian government bodies publish thousands of tenders — but finding the ones you can still bid on
+      means either refreshing slow portals or paying a tender-intelligence subscription thousands of
+      rupees a year. The underlying data is public. Only the convenience is paywalled.
+    </p>
+    <p>
+      IndiaTenders does the obvious thing: index the Central Public Procurement Portal's active tenders,
+      deduplicate them, derive open/closed from the closing date, categorise them, and serve it all as a
+      fast, free, static site. No signup, no cookies, no tracking, no analytics.
+    </p>
+    <h2>Honesty rules</h2>
+    <ul>
+      <li>The <a href="/methodology/">methodology page</a> states exactly what's covered and what isn't.</li>
+      <li>The freshness figure is computed in your browser at view time — it can't claim stale data is fresh.</li>
+      <li>Bidding happens only on the official portal; every tender links to its CPPP page.</li>
+    </ul>
+    <h2>Independence</h2>
+    <p>
+      An independent project — not affiliated with the Government of India, NIC, or CPPP. Tender data
+      belongs to its publishers; verify everything on the official page before acting on it.
+    </p>
+    <h2>Who runs this</h2>
+    <p>
+      Built and operated by <a href="https://nandanhegde1.github.io/portfolio/" rel="noopener" target="_blank">Nandan Hegde</a>.
+      The scrape → verify → publish pipeline runs unattended on GitHub Actions; the site is a sibling of
+      <a href="https://govai-contracts.nandanhegde1096.workers.dev/" rel="noopener" target="_blank">GovAI Contracts</a>
+      (the same architecture over U.S. federal AI contracts). Source on
+      <a href="https://github.com/Nandanhegde1/india-tenders" rel="noopener" target="_blank">GitHub</a>.
+    </p>
+  </article>
+</Layout>

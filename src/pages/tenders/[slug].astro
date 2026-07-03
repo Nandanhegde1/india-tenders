@@ -1,0 +1,57 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { allTenders, CATEGORY_LABELS } from '../../lib/data.ts';
+import { isOpen } from '../../../scripts/parse.ts';
+
+export function getStaticPaths() {
+  return allTenders.map((t) => ({ params: { slug: t.slug }, props: { t } }));
+}
+const { t } = Astro.props;
+const open = isOpen(t);
+const fmt = (iso: string | null) =>
+  iso ? new Date(iso).toLocaleString('en-IN', { day: 'numeric', month: 'short', year: 'numeric', hour: 'numeric', minute: '2-digit', timeZone: 'Asia/Kolkata' }) + ' IST' : '—';
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Open tenders', item: new URL('/', Astro.site).toString() },
+      { '@type': 'ListItem', position: 2, name: t.id, item: new URL(`/tenders/${t.slug}/`, Astro.site).toString() },
+    ],
+  },
+];
+---
+<Layout
+  title={`${t.title.slice(0, 80)} — tender ${t.id}`}
+  description={`${open ? 'OPEN' : 'Closed'} tender from ${t.organisation}: closes ${fmt(t.closingAt)}. Ref ${t.refNo}. Details and official bid link.`}
+  jsonLd={jsonLd}
+  noindex={!open}
+>
+  <article class="detail">
+    <p style="margin-top: 26px;">
+      <span class={`badge ${open ? 'badge-open' : 'badge-closed'}`}>{open ? 'OPEN — accepting bids' : 'CLOSED'}</span>
+    </p>
+    <h1>{t.title}</h1>
+    <p class="org" style="color: var(--text-muted);">{t.organisation}</p>
+
+    <dl class="kv">
+      <dt>Tender ID</dt><dd>{t.id}</dd>
+      <dt>Reference No.</dt><dd>{t.refNo}</dd>
+      <dt>Category</dt><dd>{CATEGORY_LABELS[t.category]} <span class="note">(inferred from the title)</span></dd>
+      <dt>e-Published</dt><dd>{fmt(t.publishedAt)}</dd>
+      <dt>Bid closing</dt><dd><strong>{fmt(t.closingAt)}</strong></dd>
+      <dt>Bid opening</dt><dd>{fmt(t.openingAt)}</dd>
+      <dt>Corrigendum</dt><dd>{t.hasCorrigendum ? 'Yes — check the official page for amendments' : 'None at index time'}</dd>
+      <dt>Organisation</dt><dd><a href={`/organisations/${t.orgSlug}/`}>{t.organisation}</a></dd>
+    </dl>
+
+    <a class="cta-btn" href={t.sourceUrl} rel="noopener nofollow" target="_blank">
+      View full tender &amp; bid on CPPP →
+    </a>
+    <p class="note">
+      Bidding happens only on the official portal. This index shows the fields CPPP publishes in its
+      tender list; eligibility, documents, and EMD details are on the official page.
+    </p>
+  </article>
+</Layout>

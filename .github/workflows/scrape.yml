@@ -1,0 +1,71 @@
+name: Scheduled scrape
+
+on:
+  schedule:
+    # Every 6 hours at :29 — offset from sibling-project crons
+    - cron: '29 */6 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: 'npm'
+      - run: npm ci
+
+      - name: Scrape CPPP (bounded, paced, gated by the scraper's own sanity checks)
+        run: npm run scrape
+
+      # Verify BEFORE publishing: parser rules + a full site build must pass
+      # with the fresh data, or nothing is committed/deployed.
+      - name: Test + build gate
+        run: |
+          npm test
+          npm run build
+
+      - name: Commit changes
+        id: commit
+        run: |
+          git config user.name  "Nandan Hegde"
+          git config user.email "37264314+Nandanhegde1@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain src/data/tenders.json)" ]]; then
+            git add src/data/tenders.json
+            git commit -m "chore(data): scheduled scrape $(date -u +%Y-%m-%d)"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "No changes."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Deploy to Cloudflare (skips until CLOUDFLARE_API_TOKEN secret is set)
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          if [[ -z "$CLOUDFLARE_API_TOKEN" ]]; then
+            echo "CLOUDFLARE_API_TOKEN repo secret not set — skipping deploy. Add it (Workers Scripts:Edit scope) to publish fresh data automatically."
+            exit 0
+          fi
+          npx wrangler deploy
+
+      - name: Open or update a failure issue
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          existing=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open --search "Scheduled scrape failed" --json number --jq '.[0].number // empty')
+          body="Scheduled scrape failed at $(date -u '+%Y-%m-%d %H:%M UTC') — [run]($GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID)"
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --repo "$GITHUB_REPOSITORY" --body "$body"
+          else
+            gh issue create --repo "$GITHUB_REPOSITORY" --title "Scheduled scrape failed" --body "$body"
+          fi

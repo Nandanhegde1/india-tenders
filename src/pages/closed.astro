@@ -1,0 +1,33 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { closedTenders, CATEGORY_LABELS } from '../lib/data.ts';
+const fmt = (iso: string) =>
+  new Date(iso).toLocaleString('en-IN', { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'Asia/Kolkata' });
+---
+<Layout
+  title="Recently closed tenders — IndiaTenders"
+  description={`${closedTenders.length} recently closed tenders kept for reference — see what organisations buy and how often.`}
+>
+  <section class="hero">
+    <h1>Recently closed</h1>
+    <p class="lead">
+      {closedTenders.length} tenders past their bid-closing date, kept ~60 days for reference — useful for
+      seeing what an organisation buys and how often before the next one opens.
+    </p>
+  </section>
+  <ol class="tender-list">
+    {closedTenders.map((t) => (
+      <li class="tender-card">
+        <div class="row1">
+          <h3><a href={`/tenders/${t.slug}/`}>{t.title}</a></h3>
+          <span class="badge badge-closed">CLOSED</span>
+        </div>
+        <p class="org">{t.organisation}</p>
+        <div class="meta-row">
+          <span>Closed {fmt(t.closingAt)}</span>
+          <span class="badge badge-cat">{CATEGORY_LABELS[t.category]}</span>
+        </div>
+      </li>
+    ))}
+  </ol>
+</Layout>

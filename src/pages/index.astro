@@ -1,0 +1,102 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { openTenders, allTenders, generatedAt, CATEGORY_LABELS } from '../lib/data.ts';
+import type { TenderCategory } from '../../scripts/parse.ts';
+
+const cats = Object.entries(CATEGORY_LABELS) as [TenderCategory, string][];
+const fmt = (iso: string) =>
+  new Date(iso).toLocaleString('en-IN', { day: 'numeric', month: 'short', year: 'numeric', hour: 'numeric', minute: '2-digit', timeZone: 'Asia/Kolkata' });
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Dataset',
+  name: 'IndiaTenders — open Indian government tenders',
+  description: 'Accumulating index of active tenders from the Central Public Procurement Portal (CPPP), refreshed every 6 hours.',
+  url: new URL('/', Astro.site).toString(),
+  license: 'https://creativecommons.org/publicdomain/zero/1.0/',
+  isBasedOn: 'https://eprocure.gov.in/cppp/',
+  distribution: [
+    { '@type': 'DataDownload', encodingFormat: 'application/json', contentUrl: new URL('/export/open.json', Astro.site).toString() },
+    { '@type': 'DataDownload', encodingFormat: 'text/csv', contentUrl: new URL('/export/open.csv', Astro.site).toString() },
+  ],
+};
+---
+<Layout
+  title="IndiaTenders — open Indian government tenders, searchable & free"
+  description={`${openTenders.length} open central-government tenders from CPPP, filterable by category and closing date. Free, no signup — find tenders you can still bid on.`}
+  jsonLd={jsonLd}
+>
+  <section class="hero">
+    <h1>Indian government tenders you can <span class="accent">still bid on</span>.</h1>
+    <p class="lead">
+      Active tenders from the Central Public Procurement Portal — deduplicated, categorised, sorted by
+      closing date, and refreshed every 6 hours. Free to search. No signup. Bid on the official portal.
+    </p>
+    <div class="stats-row">
+      <span><strong>{openTenders.length}</strong> open now</span>
+      <span><strong>{allTenders.length}</strong> indexed</span>
+      <span><strong data-generated-at={generatedAt}>—</strong> last refresh</span>
+    </div>
+  </section>
+
+  <div class="filter-bar">
+    <input type="search" id="q" aria-label="Search tenders by title, organisation, or tender id" placeholder="Search title, organisation, tender id…" autocomplete="off" />
+    <select id="cat" aria-label="Filter by category">
+      <option value="">All categories</option>
+      {cats.map(([id, label]) => <option value={id}>{label}</option>)}
+    </select>
+  </div>
+  <p class="result-note" id="count" aria-live="polite">{openTenders.length} open tenders, closing soonest first</p>
+
+  <ol class="tender-list" id="list">
+    {openTenders.map((t) => (
+      <li
+        class="tender-card"
+        data-hay={`${t.title} ${t.organisation} ${t.id} ${t.refNo}`.toLowerCase()}
+        data-cat={t.category}
+      >
+        <div class="row1">
+          <h2><a href={`/tenders/${t.slug}/`}>{t.title}</a></h2>
+          <span class="badge badge-open">OPEN</span>
+        </div>
+        <p class="org">{t.organisation}</p>
+        <div class="meta-row">
+          <span class:list={{ 'closing-soon': new Date(t.closingAt).getTime() - Date.now() < 3 * 864e5 }}>
+            Closes {fmt(t.closingAt)} IST
+          </span>
+          <span class="badge badge-cat">{CATEGORY_LABELS[t.category]}</span>
+          <span>{t.id}</span>
+        </div>
+      </li>
+    ))}
+  </ol>
+</Layout>
+
+<script>
+  // Freshness computed at view time — a static build's badge must never lie.
+  const el = document.querySelector<HTMLElement>('[data-generated-at]');
+  if (el?.dataset.generatedAt) {
+    const h = Math.max(0, Math.round((Date.now() - new Date(el.dataset.generatedAt).getTime()) / 36e5));
+    el.textContent = h < 1 ? '<1h ago' : h < 24 ? `${h}h ago` : `${Math.round(h / 24)}d ago`;
+  }
+
+  const q = document.getElementById('q') as HTMLInputElement;
+  const cat = document.getElementById('cat') as HTMLSelectElement;
+  const count = document.getElementById('count')!;
+  const cards = [...document.querySelectorAll<HTMLElement>('#list .tender-card')];
+
+  const apply = () => {
+    const needle = q.value.trim().toLowerCase();
+    const c = cat.value;
+    let n = 0;
+    for (const card of cards) {
+      const show = (!needle || card.dataset.hay!.includes(needle)) && (!c || card.dataset.cat === c);
+      card.style.display = show ? '' : 'none';
+      if (show) n++;
+    }
+    count.textContent = `${n} open tender${n === 1 ? '' : 's'}${needle || c ? ' matching your filters' : ', closing soonest first'}`;
+  };
+  let t: ReturnType<typeof setTimeout> | null = null;
+  q.addEventListener('input', () => { if (t) clearTimeout(t); t = setTimeout(apply, 60); });
+  cat.addEventListener('change', apply);
+</script>

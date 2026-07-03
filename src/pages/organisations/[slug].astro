@@ -1,0 +1,39 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { allTenders, organisations, CATEGORY_LABELS } from '../../lib/data.ts';
+import { isOpen } from '../../../scripts/parse.ts';
+
+export function getStaticPaths() {
+  return organisations.map((o) => ({ params: { slug: o.slug }, props: { org: o } }));
+}
+const { org } = Astro.props;
+const tenders = allTenders
+  .filter((t) => t.orgSlug === org.slug)
+  .sort((a, b) => new Date(a.closingAt).getTime() - new Date(b.closingAt).getTime());
+const fmt = (iso: string) =>
+  new Date(iso).toLocaleString('en-IN', { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'Asia/Kolkata' });
+---
+<Layout
+  title={`${org.name} — tenders`}
+  description={`${org.open} open tenders (of ${org.total} indexed) from ${org.name}, with closing dates and official bid links.`}
+>
+  <section class="hero">
+    <h1>{org.name}</h1>
+    <p class="lead">{org.open} open · {org.total} indexed</p>
+  </section>
+  <ol class="tender-list">
+    {tenders.map((t) => (
+      <li class="tender-card">
+        <div class="row1">
+          <h3><a href={`/tenders/${t.slug}/`}>{t.title}</a></h3>
+          <span class={`badge ${isOpen(t) ? 'badge-open' : 'badge-closed'}`}>{isOpen(t) ? 'OPEN' : 'CLOSED'}</span>
+        </div>
+        <div class="meta-row">
+          <span>Closes {fmt(t.closingAt)}</span>
+          <span class="badge badge-cat">{CATEGORY_LABELS[t.category]}</span>
+          <span>{t.id}</span>
+        </div>
+      </li>
+    ))}
+  </ol>
+</Layout>

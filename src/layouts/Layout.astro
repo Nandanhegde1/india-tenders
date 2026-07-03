@@ -1,0 +1,79 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  ogImage?: string;
+  jsonLd?: object | object[];
+  noindex?: boolean;
+}
+const { title, description, ogImage = '/og-default.png', jsonLd, noindex = false } = Astro.props;
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const ogImageUrl = new URL(ogImage, Astro.site).toString();
+const schemas = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
+    {noindex && <meta name="robots" content="noindex,nofollow" />}
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:image" content={ogImageUrl} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:site_name" content="IndiaTenders" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImageUrl} />
+
+    <link rel="alternate" type="application/rss+xml" title="IndiaTenders — newest tenders" href="/rss.xml" />
+
+    {schemas.map((s) => (
+      // <-escape keeps scraped tender text from closing the script tag (stored XSS)
+      <script type="application/ld+json" set:html={JSON.stringify(s).replace(/</g, '\\u003c')} />
+    ))}
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-row">
+        <a class="brand" href="/"><span class="brand-mark">▤</span> IndiaTenders</a>
+        <nav class="nav">
+          <a href="/">Open tenders</a>
+          <a href="/organisations/">Organisations</a>
+          <a href="/closed/">Recently closed</a>
+          <a href="/methodology/">Methodology</a>
+          <a href="/about/">About</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="container main">
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p>
+          IndiaTenders · free index of Indian government tenders · Data from the
+          <a href="https://eprocure.gov.in/cppp/" rel="noopener" target="_blank">Central Public Procurement Portal</a>
+          (public). Independent project — not affiliated with the Government of India. Always verify details and bid on the official portal.
+        </p>
+        <p class="meta">
+          Updated every 6 hours · <a href="/export/open.json">JSON</a> · <a href="/export/open.csv">CSV</a> · <a href="/rss.xml">RSS</a> ·
+          <a href="https://github.com/Nandanhegde1/india-tenders" rel="noopener" target="_blank">Source on GitHub</a>
+        </p>
+        <p class="meta">Built by <a href="https://nandanhegde1.github.io/portfolio/" rel="noopener" target="_blank">Nandan Hegde</a> · <a href="https://www.linkedin.com/in/nandanhegde1096/" rel="noopener" target="_blank">LinkedIn</a></p>
+      </div>
+    </footer>
+  </body>
+</html>

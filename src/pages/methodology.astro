@@ -1,0 +1,51 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { allTenders, openTenders, generatedAt } from '../lib/data.ts';
+---
+<Layout
+  title="Methodology — IndiaTenders"
+  description="Exactly where the data comes from, how often it refreshes, what's covered, and — just as important — what isn't."
+>
+  <article class="prose">
+    <h1>Methodology</h1>
+
+    <h2>Source</h2>
+    <p>
+      Every tender comes from the <strong>Central Public Procurement Portal (CPPP)</strong> —
+      <a href="https://eprocure.gov.in/cppp/" rel="noopener" target="_blank">eprocure.gov.in/cppp</a> — the
+      Government of India's central listing of active e-procurement tenders. The portal's "latest active
+      tenders" list is public; we fetch a bounded number of its newest pages every 6 hours with an
+      identifying user-agent and ~1.5s pacing between requests.
+    </p>
+
+    <h2>How the index builds</h2>
+    <p>
+      Each run parses roughly the newest 400 listings and merges them into the accumulated dataset,
+      deduplicated by tender ID (republished corrigendum entries update in place). Currently
+      <strong>{allTenders.length}</strong> tenders indexed, <strong>{openTenders.length}</strong> open.
+      A tender is <strong>OPEN</strong> when its bid-closing timestamp (IST) is in the future — that's a
+      derivation, not an editorial judgement. Closed tenders are kept ~60 days, then dropped.
+    </p>
+
+    <h2>Data-quality gates</h2>
+    <ul>
+      <li>Rows that don't parse cleanly are skipped and counted — never guessed at.</li>
+      <li>A run that parses zero tenders (markup change) refuses to publish and fails red.</li>
+      <li>A run that would shrink the dataset below 70% of its previous size refuses to overwrite it.</li>
+      <li>Categories are inferred from title keywords by tested rules — the detail page says so.</li>
+    </ul>
+
+    <h2>What this index does NOT cover (yet)</h2>
+    <ul>
+      <li><strong>GeM</strong> (Government e-Marketplace) bids.</li>
+      <li><strong>State portals</strong> not mirrored to CPPP (e.g. many mahatenders.gov.in listings).</li>
+      <li>Tender <strong>values/EMD</strong> — the CPPP list page doesn't publish them; the official detail page does.</li>
+      <li>Anything deeper than CPPP publishes in its list: always read the official tender document before bidding.</li>
+    </ul>
+    <p>
+      Coverage grows run by run. Last refresh: <strong>{new Date(generatedAt).toUTCString()}</strong>.
+      The scraper, parser, and its tests are open —
+      <a href="https://github.com/Nandanhegde1/india-tenders" rel="noopener" target="_blank">read the code</a>.
+    </p>
+  </article>
+</Layout>

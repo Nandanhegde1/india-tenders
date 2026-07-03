@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#131009"/>
+  <rect x="80" y="150" width="64" height="64" rx="12" fill="#f0a04b"/>
+  <path d="M94 168h36v7H94zm0 13h36v7H94zm0 13h22v7H94z" fill="#131009"/>
+  <text x="164" y="196" font-family="system-ui,Segoe UI,Arial" font-size="40" font-weight="700" fill="#efe9dd">IndiaTenders</text>
+  <text x="80" y="330" font-family="system-ui,Segoe UI,Arial" font-size="62" font-weight="800" fill="#efe9dd">Government tenders you</text>
+  <text x="80" y="405" font-family="system-ui,Segoe UI,Arial" font-size="62" font-weight="800" fill="#f0a04b">can still bid on.</text>
+  <text x="80" y="490" font-family="system-ui,Segoe UI,Arial" font-size="26" fill="#b3a892">Open CPPP tenders · closing-soon first · free · no signup · updated every 6 hours</text>
+  <text x="80" y="570" font-family="ui-monospace,Consolas,monospace" font-size="20" fill="#f0a04b">india-tenders.nandanhegde1096.workers.dev</text>
+</svg>

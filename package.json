@@ -1,0 +1,27 @@
+{
+  "name": "india-tenders",
+  "version": "0.1.0",
+  "description": "Free, searchable index of open Indian government tenders from the Central Public Procurement Portal",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "scrape": "tsx scripts/scrape.ts",
+    "test": "tsx --test scripts/parse.test.ts",
+    "deploy": "npm run build && wrangler deploy"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.2.1",
+    "astro": "^5.1.1"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "wrangler": "^4.107.0"
+  }
+}

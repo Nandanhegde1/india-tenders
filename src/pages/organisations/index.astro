@@ -1,0 +1,25 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { organisations } from '../../lib/data.ts';
+---
+<Layout
+  title="Organisations — IndiaTenders"
+  description={`${organisations.length} government organisations with indexed tenders, ranked by open tender count.`}
+>
+  <section class="hero">
+    <h1>Organisations</h1>
+    <p class="lead">{organisations.length} ministries, PSUs, and bodies with tenders in the index — ranked by how many are open right now.</p>
+  </section>
+  <table class="org-table">
+    <thead><tr><th>Organisation</th><th>Open</th><th>Indexed</th></tr></thead>
+    <tbody>
+      {organisations.map((o) => (
+        <tr>
+          <td><a href={`/organisations/${o.slug}/`}>{o.name}</a></td>
+          <td>{o.open}</td>
+          <td>{o.total}</td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+</Layout>

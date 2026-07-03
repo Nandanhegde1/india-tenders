@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://india-tenders.nandanhegde1096.workers.dev/sitemap-index.xml
