@@ -3,7 +3,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
-import { parsePage, parseIstDate, inferCategory, isOpen, slugify } from './parse.ts';
+import { parsePage, parseIstDate, inferCategory, isOpen, slugify, tenderIdFromUrl } from './parse.ts';
 
 const fixture = readFileSync(new URL('../test/fixtures/cppp-page.html', import.meta.url), 'utf8');
 
@@ -68,4 +68,21 @@ test('category inference: real CPPP title patterns (locks the audit fixes)', () 
 test('slugify produces stable url-safe ids', () => {
   assert.equal(slugify('2026_BPCL_25798'), '2026-bpcl-25798');
   assert.equal(slugify('Bharat Petroleum Corporation Limited'), 'bharat-petroleum-corporation-limited');
+});
+
+test('tender id comes from the URL, not fragile /-splitting of a slashy ref', () => {
+  const b64 = (s: string) => Buffer.from(s, 'utf8').toString('base64');
+  const url = `https://eprocure.gov.in/cppp/tendersfullview/${b64('x')}A13h1${b64('hash')}A13h1${b64('epoch')}A13h1${b64('53/AE (E) I/SCPED-II/2026-27')}A13h1${b64('2026_CPWD_160386_1')}`;
+  assert.equal(tenderIdFromUrl(url), '2026_CPWD_160386_1');
+
+  // A row whose ref contains slashes must still yield the URL-derived id + a clean ref (not a fragment).
+  const row = `<td>1.</td><td>03-Jul-2026 10:00 AM</td><td>16-Jul-2026 03:00 PM</td><td>16-Jul-2026 03:30 PM</td>` +
+    `<td><a href="${url}" title="External Url">Special repair works</a>/53/AE (E) I/SCPED-II/2026-27</td>` +
+    `<td>Central Public Works Department</td><td>--</td>`;
+  const { tenders } = parsePage(`<tr>${row}</tr>`);
+  assert.equal(tenders.length, 1);
+  assert.equal(tenders[0].id, '2026_CPWD_160386_1');
+  assert.equal(tenders[0].slug, '2026-cpwd-160386-1');
+  assert.equal(tenders[0].refNo, '53/AE (E) I/SCPED-II'); // ref kept whole, trailing /id dropped
+  assert.equal(tenders[0].title, 'Special repair works');
 });

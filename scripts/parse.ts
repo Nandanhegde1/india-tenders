@@ -81,10 +81,29 @@ const decodeEntities = (s: string) =>
     .replace(/&quot;/g, '"').replace(/&#0?39;/g, "'").replace(/&nbsp;/g, ' ');
 
 /**
+ * The CPPP detail URL encodes the tender's real fields as `A13h1`-delimited
+ * base64 segments; the LAST segment is the canonical tender id (and it survives
+ * even when the visible cell text is malformed). Government ref numbers contain
+ * slashes (e.g. "AE(E)/SCPED-II/2026-27"), so splitting the cell on `/` to find
+ * the id is unreliable — decode it from the URL instead.
+ */
+export function tenderIdFromUrl(url: string): string | null {
+  const segs = url.split('A13h1').slice(1);
+  if (segs.length === 0) return null;
+  try {
+    const id = Buffer.from(segs[segs.length - 1], 'base64').toString('utf8').replace(/[^\x20-\x7E]/g, '').trim();
+    return id || null;
+  } catch {
+    return null;
+  }
+}
+
+/**
  * Parse one CPPP "latest active tenders" page into Tender records.
  * Row shape (7 cells): Sl.No | e-Published | Closing | Opening |
  *   <a href=DETAIL>TITLE</a>/REF/ID | Organisation | Corrigendum
- * Unparseable rows are skipped and counted, never guessed at.
+ * id comes from the URL (robust); refNo is the cell text between the link and
+ * the trailing /id (may contain slashes). Unparseable rows are skipped + counted.
  */
 export function parsePage(html: string): { tenders: Tender[]; skipped: number } {
   const tenders: Tender[] = [];
@@ -93,19 +112,22 @@ export function parsePage(html: string): { tenders: Tender[]; skipped: number } 
   for (const row of rows) {
     const cells = [...row.matchAll(/<td[^>]*>([\s\S]*?)<\/td>/g)].map((m) => m[1].trim());
     if (cells.length < 7) continue; // header/footer fragments
-    const link = cells[4].match(/<a href="([^"]+)"[^>]*>([\s\S]*?)<\/a>\s*\/([^/<]+)\/([^<\s]+)/);
+    const link = cells[4].match(/<a href="([^"]+)"[^>]*>([\s\S]*?)<\/a>([^<]*)/);
     const publishedAt = parseIstDate(stripTags(cells[1]));
     const closingAt = parseIstDate(stripTags(cells[2]));
     if (!link || !publishedAt || !closingAt) { skipped++; continue; }
-    const [, sourceUrl, rawTitle, refNo, id] = link;
+    const [, sourceUrl, rawTitle, rest] = link;
+    const id = tenderIdFromUrl(sourceUrl);
     const title = decodeEntities(stripTags(rawTitle)).replace(/\s+/g, ' ').trim();
     const organisation = decodeEntities(stripTags(cells[5])).replace(/\s+/g, ' ').trim();
-    if (!title || !organisation || !id) { skipped++; continue; }
+    if (!id || !title || !organisation) { skipped++; continue; }
+    // rest is "/REF/VISIBLE_ID"; ref = strip leading slash + drop the trailing /segment.
+    const refNo = decodeEntities(rest.trim().replace(/^\//, '').replace(/\/[^/]*$/, '')).trim();
     tenders.push({
-      id: id.trim(),
+      id,
       slug: slugify(id),
       title,
-      refNo: refNo.trim(),
+      refNo,
       organisation,
       orgSlug: slugify(organisation),
       category: inferCategory(title),
