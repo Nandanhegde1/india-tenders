@@ -46,15 +46,23 @@ export function slugify(input: string): string {
   return input.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 80);
 }
 
+// Order matters — first match wins. Rules read the tender title, which on CPPP
+// is sometimes only a reference code (e.g. "69/EE(E)/LKO/2026-27") with no
+// describable words; those legitimately stay 'other'. Patterns below are kept
+// high-precision (observed in real CPPP titles) to avoid mislabelling.
 const CATEGORY_RULES: [TenderCategory, RegExp][] = [
-  ['it-software', /\b(software|it system|website|portal|app(lication)? development|cloud|server|network(ing)?|data cent|erp|api|digiti[sz]ation|computer)\b/],
+  ['it-software', /\b(software|it system|website|portal|app(lication)? development|cloud|server|network(ing)?|data\s?cent(re|er)?|erp|api|digiti[sz]ation|computer)\b/],
   ['medical', /\b(medical|hospital|medicine|drug|pharma|surgical|diagnostic|ambulance|health)\b/],
-  ['electrical', /\b(electrical|transformer|substation|cable|wiring|led|lighting|solar|power supply)\b/],
-  ['construction', /\b(construction|civil work|repair|renovation|building|road|bridge|erection|barricad|maintenance of|painting|flooring|boundary wall)\b/],
-  ['transport', /\b(vehicle|transport|logistics|hiring of (bus|car|taxi|truck)|freight)\b/],
-  ['security-manpower', /\b(security service|manpower|housekeeping|outsourc|guard)\b/],
-  ['consultancy', /\b(consultanc|consultant|advisor|audit|survey|feasibility|dpr)\b/],
-  ['goods-supply', /\b(supply|procurement|purchase)\b/],
+  // EE(E)/AE(E)/EE(Elect) are Executive/Assistant Engineer (Electrical) codes; genset/SITC-of-power are electrical works.
+  // Not wrapped in \b(...)\b: the EE(E) branch ends in ')', where a trailing \b can't match.
+  ['electrical', /\belectrical\b|\btransformer\b|\bsubstation\b|\bcable\b|\bwiring\b|\bled\b|\blighting\b|\bsolar\b|power\s?supply|power\s?socket|\bgen[\s-]?set\b|\b[ae]e\s*\(\s*e(?:lect)?\.?\s*\)|\bd\.?g\.?\s?set\b/],
+  // Roadworks/drainage/building vocabulary common in CPWD/MCD/MES titles.
+  ['construction', /\b(construction|civil\s?work|repair|renovation|refurbish|building|road|bridge|erection|barricad|painting|flooring|boundary\s?wall|lane|drain(age|s)?|widening|carriageway|culvert|footpath|\brmc\b|quarter|\bshed\b|\bramp\b|finishing|girder|plinth|masonry|maintenance of)\b/],
+  // Earthmoving/tipper/loader repair & hiring shows up as vehicle work.
+  ['transport', /\b(vehicle|transport|logistics|hiring of (bus|car|taxi|truck)|freight|payloader|pay\s?loader|\bhy[vw]a\b|tipper|\bjcb\b|excavator|dozer|earth[\s-]?moving)\b/],
+  ['security-manpower', /\b(security service|manpower|housekeeping|outsourc|guard|deployment of)\b/],
+  ['consultancy', /\b(consultanc|consultant|advisor|audit|survey|feasibility|\bdpr\b|soil investigation|selection of)\b/],
+  ['goods-supply', /\b(supply|procurement|purchase|provision of)\b/],
 ];
 
 /** Category from the tender title — first matching rule wins; tested. */

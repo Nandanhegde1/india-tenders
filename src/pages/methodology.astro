@@ -32,7 +32,7 @@ import { allTenders, openTenders, generatedAt } from '../lib/data.ts';
       <li>Rows that don't parse cleanly are skipped and counted — never guessed at.</li>
       <li>A run that parses zero tenders (markup change) refuses to publish and fails red.</li>
       <li>A run that would shrink the dataset below 70% of its previous size refuses to overwrite it.</li>
-      <li>Categories are inferred from title keywords by tested rules — the detail page says so.</li>
+      <li>Categories are inferred from title keywords by tested rules — the detail page says so. CPPP sometimes publishes only a reference code as the title (e.g. <code>69/EE(E)/LKO/2026-27</code>); with no describable words, those are honestly left as "Other" rather than guessed.</li>
     </ul>
 
     <h2>What this index does NOT cover (yet)</h2>

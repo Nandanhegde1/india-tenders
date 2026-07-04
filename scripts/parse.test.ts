@@ -47,6 +47,24 @@ test('category inference: first matching rule wins, unknown -> other', () => {
   assert.equal(inferCategory('Something entirely unclassifiable'), 'other');
 });
 
+test('category inference: real CPPP title patterns (locks the audit fixes)', () => {
+  // roadworks / drainage / building vocab -> construction
+  assert.equal(inferCategory('Imp. Dev. Of lanes and Drains by Pdg. RMC from H.No.16'), 'construction');
+  assert.equal(inferCategory('Widening of existing 2 lane to 4 lane divided carriageway'), 'construction');
+  assert.equal(inferCategory('Internal and External finishing of Type VI staff quarter'), 'construction');
+  // Executive/Assistant Engineer (Electrical) codes + genset -> electrical
+  assert.equal(inferCategory('69/EE(E)/LKO/2026-27'), 'electrical');
+  assert.equal(inferCategory('62(1)/AE(E)-I(Puducherry)/2026/227'), 'electrical');
+  assert.equal(inferCategory('Sasthamangalam Genset work'), 'electrical');
+  // earthmoving/loader repair -> transport
+  assert.equal(inferCategory('Repairing of Pay Loader No JH10AG 0820 under E.J.Area'), 'transport');
+  assert.equal(inferCategory('Repairing Hywa No-JH10AD-9706 under EJ Area'), 'transport');
+  // data centre -> it-software
+  assert.equal(inferCategory('EOI for Selection of Backend Partner for Data Centre Management'), 'it-software');
+  // a bare reference code has no describable words -> honestly 'other'
+  assert.equal(inferCategory('NIT No. 12-2'), 'other');
+});
+
 test('slugify produces stable url-safe ids', () => {
   assert.equal(slugify('2026_BPCL_25798'), '2026-bpcl-25798');
   assert.equal(slugify('Bharat Petroleum Corporation Limited'), 'bharat-petroleum-corporation-limited');
