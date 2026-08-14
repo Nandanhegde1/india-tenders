@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-14T13:52:37.436Z",
+ "generatedAt": "2026-08-14T19:26:33.696Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 22795,
+ "count": 22805,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -244570,6 +244570,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "165144",
+   "slug": "165144",
+   "title": "68/EE/CSD/2026-27",
+   "refNo": "68/EE/CSD/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-14T20:11:00+05:30",
+   "closingAt": "2026-08-18T15:00:00+05:30",
+   "openingAt": "2026-08-18T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTExOTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjczNTU4Mw==A13h1NjgvRUUvQ1NELzIwMjYtMjc=A13h1MTY1MTQ0",
+   "hasCorrigendum": false
+  },
+  {
    "id": "164594",
    "slug": "164594",
    "title": "10/NIT/EE/BFD-IV/IBBZ-I/2026-27/SD: Helencha",
@@ -252071,6 +252085,20 @@
    "closingAt": "2026-08-19T15:00:00+05:30",
    "openingAt": "2026-08-19T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDcxOTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjY5NDI4Mg==A13h1MjYgKDAxMCkgLyBJSVRHTlBFRCAvIDIwMjYgLyA5NCBkdDogMTMuMDguMjAyNg==A13h1MTY1MDQ4",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "165145",
+   "slug": "165145",
+   "title": "NIQ/AE(E)-II/BHUPV/2026/33",
+   "refNo": "NIQ/AE(E)-II/BHUPV/2026/33",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-08-14T20:08:00+05:30",
+   "closingAt": "2026-08-19T15:00:00+05:30",
+   "openingAt": "2026-08-19T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTExOTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjczNTU4Mw==A13h1TklRL0FFKEUpLUlJL0JIVVBWLzIwMjYvMzM=A13h1MTY1MTQ1",
    "hasCorrigendum": false
   },
   {
@@ -269560,6 +269588,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "165146",
+   "slug": "165146",
+   "title": "71/ EE(E) /MUMBAI-IV/2026-27",
+   "refNo": "71/ EE(E) /MUMBAI-IV/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-08-14T20:09:00+05:30",
+   "closingAt": "2026-08-22T11:00:00+05:30",
+   "openingAt": "2026-08-22T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTExOTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjczNTU4Mw==A13h1NzEvIEVFKEUpIC9NVU1CQUktSVYvMjAyNi0yNw==A13h1MTY1MTQ2",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "165143",
+   "slug": "165143",
+   "title": "70 / EE(E) / MUMBAI-IV / 2026-27",
+   "refNo": "70 / EE(E) / MUMBAI-IV / 2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-08-14T19:59:00+05:30",
+   "closingAt": "2026-08-22T11:00:00+05:30",
+   "openingAt": "2026-08-22T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTExOTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjczNTU4Mw==A13h1NzAgLyBFRShFKSAvIE1VTUJBSS1JViAvIDIwMjYtMjc=A13h1MTY1MTQz",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BSF_921972_1",
    "slug": "2026-bsf-921972-1",
    "title": "Repair and Maintenance of day to day Residential and Non- Residential Buildings under TSU BSF Tekanpur",
@@ -269921,6 +269977,62 @@
    "closingAt": "2026-08-22T15:00:00+05:30",
    "openingAt": "2026-08-22T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDA1ODI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjUyMTQyOA==A13h1U1IyL05UL1MtTUlTQy9ET00vWkExLzI2LzEwNzExA13h1Mjg0MjE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "165148",
+   "slug": "165148",
+   "title": "105/EE/Mumbai-IV/2026-27Recall",
+   "refNo": "105/EE/Mumbai-IV/2026-27Recall",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-14T21:20:00+05:30",
+   "closingAt": "2026-08-22T15:00:00+05:30",
+   "openingAt": "2026-08-22T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTEyMDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjczNTU4Mw==A13h1MTA1L0VFL011bWJhaS1JVi8yMDI2LTI3UmVjYWxsA13h1MTY1MTQ4",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "165150",
+   "slug": "165150",
+   "title": "17/EESM(C)-II/KPD-II/2026-27",
+   "refNo": "17/EESM(C)-II/KPD-II/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-14T21:18:00+05:30",
+   "closingAt": "2026-08-22T15:00:00+05:30",
+   "openingAt": "2026-08-22T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTEyMDU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjczNTU4Mw==A13h1MTcvRUVTTShDKS1JSS9LUEQtSUkvMjAyNi0yNw==A13h1MTY1MTUw",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "165149",
+   "slug": "165149",
+   "title": "148/EE/Mumbai-IV/2026-27",
+   "refNo": "148/EE/Mumbai-IV/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-14T21:16:00+05:30",
+   "closingAt": "2026-08-22T15:00:00+05:30",
+   "openingAt": "2026-08-22T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTEyMDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjczNTU4Mw==A13h1MTQ4L0VFL011bWJhaS1JVi8yMDI2LTI3A13h1MTY1MTQ5",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "165147",
+   "slug": "165147",
+   "title": "19(Recall)/NIQ/EESM(E)/IPED/CPWD/2026-27",
+   "refNo": "19(Recall)/NIQ/EESM(E)/IPED/CPWD/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-14T21:04:00+05:30",
+   "closingAt": "2026-08-22T15:00:00+05:30",
+   "openingAt": "2026-08-22T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTEyMDI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjczNTU4Mw==A13h1MTkoUmVjYWxsKS9OSVEvRUVTTShFKS9JUEVEL0NQV0QvMjAyNi0yNw==A13h1MTY1MTQ3",
    "hasCorrigendum": false
   },
   {
@@ -297392,6 +297504,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_26291",
+   "slug": "2026-bpcl-26291",
+   "title": "DISCOUNT E-TENDER FOR CONSTRUCTION OF RETAIL OUTLET ON PALAKKAD TO CHITTUR ROAD SURVEY NO :- 824/7, 824/21, 824/22 AT VILLAGE :- KODUMBA, TALUK:- PALA",
+   "refNo": "1000462461",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "construction",
+   "publishedAt": "2026-08-14T21:10:00+05:30",
+   "closingAt": "2026-08-29T15:00:00+05:30",
+   "openingAt": "2026-08-29T15:01:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTEyMDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjczNTU4Mw==A13h1MTAwMDQ2MjQ2MQ==A13h1MjAyNl9CUENMXzI2Mjkx",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_FACT_921271_1",
    "slug": "2026-fact-921271-1",
    "title": "Erection, Testing and Commissioning of 110KV Metering CTs at FACT- CD Switch Yard.",
@@ -301309,6 +301435,20 @@
    "closingAt": "2026-08-31T15:00:00+05:30",
    "openingAt": "2026-09-01T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDgwMzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjcxNTU0Nw==A13h1MDkvTklUL1NFL0NDLUkvMjUtMjY=A13h1MjAyNl9BUFdEXzE0OTE0OF8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "165142",
+   "slug": "165142",
+   "title": "10 / CE I / EE / MUMBAI III / 2026 - 27",
+   "refNo": "10 / CE I / EE / MUMBAI III / 2026 - 27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-14T19:55:00+05:30",
+   "closingAt": "2026-08-31T15:00:00+05:30",
+   "openingAt": "2026-08-31T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTExODA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjczNTU4Mw==A13h1MTAgLyBDRSBJIC8gRUUgLyBNVU1CQUkgSUlJIC8gMjAyNiAtIDI3A13h1MTY1MTQy",
    "hasCorrigendum": false
   },
   {
