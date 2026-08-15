@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-15T07:06:03.611Z",
+ "generatedAt": "2026-08-15T18:55:02.171Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 22815,
+ "count": 22825,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -244584,6 +244584,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_26301",
+   "slug": "2026-bpcl-26301",
+   "title": "TENDER FOR ARRANGEMENT OF PANDAL, SHAMIYANA, AMBULANCES AND OTHER MISCELLANEOUS ITEMS FOR STATE LEVEL MOCK DRILL AT BPCL LPG IMPORT TERMINAL",
+   "refNo": "1000462510",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "other",
+   "publishedAt": "2026-08-15T20:57:00+05:30",
+   "closingAt": "2026-08-18T15:00:00+05:30",
+   "openingAt": "2026-08-18T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQwNjA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjgyMDA5MQ==A13h1MTAwMDQ2MjUxMA==A13h1MjAyNl9CUENMXzI2MzAx",
+   "hasCorrigendum": false
+  },
+  {
    "id": "164594",
    "slug": "164594",
    "title": "10/NIT/EE/BFD-IV/IBBZ-I/2026-27/SD: Helencha",
@@ -245183,6 +245197,20 @@
    "closingAt": "2026-08-18T16:00:00+05:30",
    "openingAt": "2026-08-19T16:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMzc1MTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjUyMTU3Mg==A13h1TkhBSS8xNzAxMS8wMS8xNDcvMjAyNi9STyBNYWR1cmFpA13h1MjAyNl9OSEFJXzI3ODExOF80",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_NTPC_111040_1",
+   "slug": "2026-ntpc-111040-1",
+   "title": "Procurement of St4 FGD Ball Mill Feeder Spares for NTPC UNCHAHAR",
+   "refNo": "NTPC/USSC-CPG3/9900331344",
+   "organisation": "NTPC Limited",
+   "orgSlug": "ntpc-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-08-15T18:55:00+05:30",
+   "closingAt": "2026-08-18T16:00:00+05:30",
+   "openingAt": "2026-08-18T17:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTExNzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjgyMDA5MQ==A13h1TlRQQy9VU1NDLUNQRzMvOTkwMDMzMTM0NA==A13h1MjAyNl9OVFBDXzExMTA0MF8x",
    "hasCorrigendum": false
   },
   {
@@ -264982,6 +265010,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_TCIL_287780_1",
+   "slug": "2026-tcil-287780-1",
+   "title": "Selection of Service Partner for engagement of labour for Provision of Supply, laying, installation, testing and commissioning of Telecom/OFC Communication Systems including Quad Cable, HDPE Duct and IP-MPLS Network Equipment.",
+   "refNo": "TCIL/SR/HYD/2026-27/04",
+   "organisation": "Telecommunications Consultants India Limited",
+   "orgSlug": "telecommunications-consultants-india-limited",
+   "category": "it-software",
+   "publishedAt": "2026-08-15T18:55:00+05:30",
+   "closingAt": "2026-08-21T12:00:00+05:30",
+   "openingAt": "2026-08-22T12:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQwNTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjgyMDA5MQ==A13h1VENJTC9TUi9IWUQvMjAyNi0yNy8wNA==A13h1MjAyNl9UQ0lMXzI4Nzc4MF8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_TCIL_287779_1",
+   "slug": "2026-tcil-287779-1",
+   "title": "Selection of Channel Partner Supplier Authorized Distributor for Supply, laying, installation, testing and commissioning of Telecom/OFC Communication Systems including Quad Cable, HDPE Duct and IP-MPLS Network Equipment.",
+   "refNo": "TCIL/SR/HYD/2026-27/03",
+   "organisation": "Telecommunications Consultants India Limited",
+   "orgSlug": "telecommunications-consultants-india-limited",
+   "category": "it-software",
+   "publishedAt": "2026-08-15T18:30:00+05:30",
+   "closingAt": "2026-08-21T12:00:00+05:30",
+   "openingAt": "2026-08-22T12:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQwNTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjgyMDA5MQ==A13h1VENJTC9TUi9IWUQvMjAyNi0yNy8wMw==A13h1MjAyNl9UQ0lMXzI4Nzc3OV8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107149655",
    "slug": "107149655",
    "title": "S-Adenosyl Methionine 400 mg",
@@ -266603,6 +266659,20 @@
    "closingAt": "2026-08-21T15:00:00+05:30",
    "openingAt": "2026-08-21T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDcxOTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjY5NDI4Mg==A13h1MTIvRUVTTShFKS9EUFotSUkvMjAyNi0yNw==A13h1MTY1MDMw",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_NTPC_111046_1",
+   "slug": "2026-ntpc-111046-1",
+   "title": "Supply Erection Commissioning and Testing Of 3-Ph 415v LT MCC - NTPC Dadri",
+   "refNo": "NTPC/USSC-CPG2/9900331075",
+   "organisation": "NTPC Limited",
+   "orgSlug": "ntpc-limited",
+   "category": "construction",
+   "publishedAt": "2026-08-15T18:00:00+05:30",
+   "closingAt": "2026-08-21T15:00:00+05:30",
+   "openingAt": "2026-08-22T16:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTEyNzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjgyMDA5MQ==A13h1TlRQQy9VU1NDLUNQRzIvOTkwMDMzMTA3NQ==A13h1MjAyNl9OVFBDXzExMTA0Nl8x",
    "hasCorrigendum": false
   },
   {
@@ -273519,6 +273589,20 @@
    "closingAt": "2026-08-22T19:00:00+05:30",
    "openingAt": "2026-08-22T19:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMjYwMzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjE3NDA0MA==A13h1RVIyL05UL0ctQ1NSL0RPTS9FQzQvMjYvMTExNjI=A13h1Mjg0MDU=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26302",
+   "slug": "2026-bpcl-26302",
+   "title": "COMMEMORATING THE EVENT OF PHASE COMMISSIONING OF 50.40 MW WIND POWER PLANT AT NANDURBAR",
+   "refNo": "1000462516",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "other",
+   "publishedAt": "2026-08-15T23:15:00+05:30",
+   "closingAt": "2026-08-22T23:30:00+05:30",
+   "openingAt": "2026-08-22T23:45:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQwNjE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjgyMDA5MQ==A13h1MTAwMDQ2MjUxNg==A13h1MjAyNl9CUENMXzI2MzAy",
    "hasCorrigendum": false
   },
   {
@@ -297826,6 +297910,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_ENCPR_149197_1",
+   "slug": "2026-encpr-149197-1",
+   "title": "Package No.AP20PIVMLSB01, L023-Construction of Bridge on the road from 18 by 2 Km Andra R and B Road to Chakivalasa via lakshmipuram in Mentada Mandal of Vizianagaram District.(First Call)",
+   "refNo": "NIT No.177/2026-27, Dt.07.08.2026 of the Engineer-in-Chief, PR, PMGSY, Vijayawada.",
+   "organisation": "National Rural Roads Development Agency (NRRDA)",
+   "orgSlug": "national-rural-roads-development-agency-nrrda",
+   "category": "construction",
+   "publishedAt": "2026-08-15T18:50:00+05:30",
+   "closingAt": "2026-08-29T17:00:00+05:30",
+   "openingAt": "2026-09-01T16:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQwNTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjgyMDA5MQ==A13h1TklUIE5vLjE3Ny8yMDI2LTI3LCBEdC4wNy4wOC4yMDI2IG9mIHRoZSBFbmdpbmVlci1pbi1DaGllZiwgUFIsIFBNR1NZLCBWaWpheWF3YWRhLg==A13h1MjAyNl9FTkNQUl8xNDkxOTdfMQ==",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_SPMCI_285497_1",
    "slug": "2026-spmci-285497-1",
    "title": "Hiring of an Agency for Conversion of QA Silver Raw Material and Supply of QA Silver Blanks Development Tender Basis.",
@@ -299587,6 +299685,34 @@
    "closingAt": "2026-08-29T18:00:00+05:30",
    "openingAt": "2026-09-01T09:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDMxMDU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjYwODAyOQ==A13h1NDE1MC9PVC9UQ0JDKDIvMikvMjYtMjcgT0YgMjAyNi0yNw==A13h1MjAyNl9BUk1ZXzc4NDIzN18x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_784670_1",
+   "slug": "2026-mes-784670-1",
+   "title": "REPAIR AND REPLACEMENT TO ROOF COVERING, VALLEY GUTTER, IRON STRUCTURE AND OTHER MISC WORK AT ZONE-I UNDER GE 871 EWS",
+   "refNo": "8167/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-15T18:55:00+05:30",
+   "closingAt": "2026-08-29T18:00:00+05:30",
+   "openingAt": "2026-08-31T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQwNTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjgyMDA5MQ==A13h1ODE2Ny9FOA==A13h1MjAyNl9NRVNfNzg0NjcwXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_784667_1",
+   "slug": "2026-mes-784667-1",
+   "title": "REPAIR AND REPLACEMENT TO RR MASONRY, CHEQUERED TILE AND OTHER B/R NATURE OF WORK UNDER AGE B/R-I OF GE 871 EWS",
+   "refNo": "8165/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-15T18:00:00+05:30",
+   "closingAt": "2026-08-29T18:00:00+05:30",
+   "openingAt": "2026-08-31T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTEyNzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjgyMDA5MQ==A13h1ODE2NS9FOA==A13h1MjAyNl9NRVNfNzg0NjY3XzE=",
    "hasCorrigendum": false
   },
   {
@@ -308883,6 +309009,20 @@
    "closingAt": "2026-09-01T18:00:00+05:30",
    "openingAt": "2026-09-03T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDQxNDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjY3Njc0Mg==A13h1ODgxNy9FOA==A13h1MjAyNl9NRVNfNzg0NDA2XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_780513_2",
+   "slug": "2026-mes-780513-2",
+   "title": "PROVN OF SOLAR STREET LIGHT AT RIMC DEHRADUN",
+   "refNo": "8305/A/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "electrical",
+   "publishedAt": "2026-08-15T18:00:00+05:30",
+   "closingAt": "2026-09-01T18:00:00+05:30",
+   "openingAt": "2026-09-03T12:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTEyNjc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjgyMDA5MQ==A13h1ODMwNS9BL0U4A13h1MjAyNl9NRVNfNzgwNTEzXzI=",
    "hasCorrigendum": false
   },
   {
