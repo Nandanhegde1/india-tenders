@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-15T01:56:39.524Z",
+ "generatedAt": "2026-08-15T07:06:03.611Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 22805,
+ "count": 22815,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -264842,6 +264842,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_NAVY_784659_1",
+   "slug": "2026-navy-784659-1",
+   "title": "43405/09/OTE-30/ECHS/26-27",
+   "refNo": "434/05/09/OTE-30/ECHS/26-27",
+   "organisation": "IHQ of MOD (Navy)",
+   "orgSlug": "ihq-of-mod-navy",
+   "category": "other",
+   "publishedAt": "2026-08-15T11:30:00+05:30",
+   "closingAt": "2026-08-21T11:30:00+05:30",
+   "openingAt": "2026-08-22T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTEyNTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njc3NzU1Mw==A13h1NDM0LzA1LzA5L09URS0zMC9FQ0hTLzI2LTI3A13h1MjAyNl9OQVZZXzc4NDY1OV8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_DGDE_781878_1",
    "slug": "2026-dgde-781878-1",
    "title": "1 Construction of Gate at Sadar Bazar Chakrata Original Work Rs 336122.03 2 Construction of view point at Kacheri. Original Work Rs 393884.63 3 Construction of PGL at Amoli Mohalla. Original Work Rs 474424.83",
@@ -266673,6 +266687,20 @@
    "closingAt": "2026-08-21T16:00:00+05:30",
    "openingAt": "2026-08-24T10:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDEzMDI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjU5MDQ3NA==A13h1MTgvQVNTL1BBQyg4MzUpLzI2UEIvVC0zNg==A13h1MjAyNl9DU0lSXzI4NzQ0MV8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_KSRRD_149189_1",
+   "slug": "2026-ksrrd-149189-1",
+   "title": "Permanent Restoration of road from L102 Zampathri to Tragpathri Package No JK10-190",
+   "refNo": "E-NIT No.10 EE/PMGSY-Pulwama/e-tendering of 2026-27, Dated 14/08/2026",
+   "organisation": "National Rural Roads Development Agency (NRRDA)",
+   "orgSlug": "national-rural-roads-development-agency-nrrda",
+   "category": "construction",
+   "publishedAt": "2026-08-15T10:30:00+05:30",
+   "closingAt": "2026-08-21T16:30:00+05:30",
+   "openingAt": "2026-08-22T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTEyMDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njc3NzU1Mw==A13h1RS1OSVQgTm8uMTAgRUUvUE1HU1ktUHVsd2FtYS9lLXRlbmRlcmluZyBvZiAyMDI2LTI3LCBEYXRlZCAxNC8wOC8yMDI2A13h1MjAyNl9LU1JSRF8xNDkxODlfMQ==",
    "hasCorrigendum": false
   },
   {
@@ -269249,6 +269277,20 @@
    "closingAt": "2026-08-22T10:00:00+05:30",
    "openingAt": "2026-08-24T10:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDAxNTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjUyMTUwOA==A13h1S1RDL1BFL0VuTS8yNi0yNy8yMiBEYXRlZC0xMS4wOC4yMDI2A13h1MjAyNl9DQ0xfMzYzNTY2XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_ERO_190984_1",
+   "slug": "2026-ero-190984-1",
+   "title": "Development of new RO on NH-15 within 6 KM from Golden Pagoda Temple towards Tezu, District- Namsai, State- Arunachal Pradesh under Tinsukia Divisional Office",
+   "refNo": "ER-MAC/2026-27/LT/251",
+   "organisation": "IndianOil",
+   "orgSlug": "indianoil",
+   "category": "other",
+   "publishedAt": "2026-08-15T10:00:00+05:30",
+   "closingAt": "2026-08-22T10:00:00+05:30",
+   "openingAt": "2026-08-24T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDgwMDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njc3NzU1Mw==A13h1RVItTUFDLzIwMjYtMjcvTFQvMjUxA13h1MjAyNl9FUk9fMTkwOTg0XzE=",
    "hasCorrigendum": false
   },
   {
@@ -290812,6 +290854,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_CWC_922300_1",
+   "slug": "2026-cwc-922300-1",
+   "title": "Painting and Minor Repair Works in Type-II, Type-III and Type-IV Quarters of Residential Complex, CWC, Guwahati.",
+   "refNo": "6/52/TenderKPSD/DB2025MBD1815",
+   "organisation": "Central Water Commission- DoWR RD and GR",
+   "orgSlug": "central-water-commission-dowr-rd-and-gr",
+   "category": "construction",
+   "publishedAt": "2026-08-15T10:00:00+05:30",
+   "closingAt": "2026-08-27T15:00:00+05:30",
+   "openingAt": "2026-08-28T16:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTExODM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njc3NzU1Mw==A13h1Ni81Mi9UZW5kZXJLUFNEL0RCMjAyNU1CRDE4MTU=A13h1MjAyNl9DV0NfOTIyMzAwXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NTPC_110949_1",
    "slug": "2026-ntpc-110949-1",
    "title": "HORTICULTURE DEVELOPMENT MAINTENANCE WORK IN D TYPE QUARTERS AND MISC. AREA OF PTS/TTS IN TOWNSHIP.",
@@ -294099,6 +294155,20 @@
    "closingAt": "2026-08-28T12:00:00+05:30",
    "openingAt": "2026-08-29T15:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMjQxNDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjI2MDU2Mw==A13h1VUtORENPLTIzLzExKDI4KS8yLzIwMjYtTU0gVUtEQ08=A13h1MjAyNl9CU05MXzI4Njg0MV8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BSNL_287747_1",
+   "slug": "2026-bsnl-287747-1",
+   "title": "EOI for Franchisee ship of sale of BSNL products and provision of services to BSNL in Uttarakhand Circle.",
+   "refNo": "UKNDCO-23/11/1/2025-MM UKDCO",
+   "organisation": "Bharat Sanchar Nigam Limited (Govt of India Enterprise)",
+   "orgSlug": "bharat-sanchar-nigam-limited-govt-of-india-enterprise",
+   "category": "goods-supply",
+   "publishedAt": "2026-08-15T12:00:00+05:30",
+   "closingAt": "2026-08-28T12:00:00+05:30",
+   "openingAt": "2026-08-29T12:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDgzMzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njc3NzU1Mw==A13h1VUtORENPLTIzLzExLzEvMjAyNS1NTSBVS0RDTw==A13h1MjAyNl9CU05MXzI4Nzc0N18x",
    "hasCorrigendum": false
   },
   {
@@ -297515,6 +297585,20 @@
    "closingAt": "2026-08-29T15:00:00+05:30",
    "openingAt": "2026-08-29T15:01:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTEyMDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njc1ODk4OQ==A13h1MTAwMDQ2MjQ2MQ==A13h1MjAyNl9CUENMXzI2Mjkx",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_DDA_922338_1",
+   "slug": "2026-dda-922338-1",
+   "title": "M/o Schemes under Nazul Account-II Rohini Zone.",
+   "refNo": "02/EE/RPD-1/DDA/2026-27",
+   "organisation": "Delhi Development Authority",
+   "orgSlug": "delhi-development-authority",
+   "category": "other",
+   "publishedAt": "2026-08-15T12:00:00+05:30",
+   "closingAt": "2026-08-29T15:30:00+05:30",
+   "openingAt": "2026-08-31T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTEyNDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njc3NzU1Mw==A13h1MDIvRUUvUlBELTEvRERBLzIwMjYtMjc=A13h1MjAyNl9EREFfOTIyMzM4XzE=",
    "hasCorrigendum": false
   },
   {
@@ -313800,6 +313884,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_NITJ_920105_1",
+   "slug": "2026-nitj-920105-1",
+   "title": "Purchase of Air Conditioning and Ventilation System-Experiment Bench",
+   "refNo": "NITJ/PUR/ME/24/2026/e-tender No. 63/2026",
+   "organisation": "Dr.B.R.Ambedkar National Institute of Technology-Jalandhar",
+   "orgSlug": "dr-b-r-ambedkar-national-institute-of-technology-jalandhar",
+   "category": "goods-supply",
+   "publishedAt": "2026-08-15T11:00:00+05:30",
+   "closingAt": "2026-09-05T11:00:00+05:30",
+   "openingAt": "2026-09-07T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDcyMjY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njc3NzU1Mw==A13h1TklUSi9QVVIvTUUvMjQvMjAyNi9lLXRlbmRlciBOby4gNjMvMjAyNg==A13h1MjAyNl9OSVRKXzkyMDEwNV8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_ARMY_783470_1",
    "slug": "2026-army-783470-1",
    "title": "SUPPLY OF HAY LUCERNE AT SUPPLY POINT LEH 360 COY ASC SUP TYPE G IN 14 CORPS ZONE FOR THE PERIOD FROM 01 OCT 2026 TO 30 SEP 2027",
@@ -313825,6 +313923,20 @@
    "closingAt": "2026-09-05T12:40:00+05:30",
    "openingAt": "2026-09-07T12:50:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMjQwNjA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjA4ODk0NQ==A13h1MjYtMjcvUFVSLTA5MC9MVEUtMDA1A13h1MjAyNl9CUFNDTF8yODU3MjNfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_GAIL_287778_1",
+   "slug": "2026-gail-287778-1",
+   "title": "WATERPROOFING OF BUILDINGS IN GAIL VIJAIPUR PLANT PREMISES AND TOWNSHIP",
+   "refNo": "GAIL/VH/CNP/C26059/NJ/CIVIL/26",
+   "organisation": "GAIL (India) Limited",
+   "orgSlug": "gail-india-limited",
+   "category": "other",
+   "publishedAt": "2026-08-15T12:00:00+05:30",
+   "closingAt": "2026-09-05T16:00:00+05:30",
+   "openingAt": "2026-09-07T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTEyNTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njc3NzU1Mw==A13h1R0FJTC9WSC9DTlAvQzI2MDU5L05KL0NJVklMLzI2A13h1MjAyNl9HQUlMXzI4Nzc3OF8x",
    "hasCorrigendum": false
   },
   {
@@ -314427,6 +314539,34 @@
    "closingAt": "2026-09-05T18:00:00+05:30",
    "openingAt": "2026-09-07T09:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDY4MDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjY3NjY0NQ==A13h1ODM5OS9FOA==A13h1MjAyNl9NRVNfNzg0NDM3XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_784654_1",
+   "slug": "2026-mes-784654-1",
+   "title": "SPL REPAIR TO RETAINING WALL OF BLDG NO T-03 OF 457 FD HOSP AT AIZAWL MIL STN",
+   "refNo": "8186A/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-15T11:00:00+05:30",
+   "closingAt": "2026-09-05T18:00:00+05:30",
+   "openingAt": "2026-09-08T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTEyMzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njc3NzU1Mw==A13h1ODE4NkEvRTg=A13h1MjAyNl9NRVNfNzg0NjU0XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_784652_1",
+   "slug": "2026-mes-784652-1",
+   "title": "SPL REPAIRS TO EXTERNAL SURFACE OF BLDG NO P-84 (MAIN BLOCK) AT HQ CENTRAL COMD UNDER GE (EAST) LUCKNOW",
+   "refNo": "CWE/LKO/E/T-33 OF 2026-27",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "other",
+   "publishedAt": "2026-08-15T10:00:00+05:30",
+   "closingAt": "2026-09-05T18:00:00+05:30",
+   "openingAt": "2026-09-12T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTExOTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njc3NzU1Mw==A13h1Q1dFL0xLTy9FL1QtMzMgT0YgMjAyNi0yNw==A13h1MjAyNl9NRVNfNzg0NjUyXzE=",
    "hasCorrigendum": false
   },
   {
