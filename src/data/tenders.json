@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-16T07:09:02.652Z",
+ "generatedAt": "2026-08-16T13:08:33.810Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 22826,
+ "count": 22834,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -233902,6 +233902,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "91409993",
+   "slug": "91409993",
+   "title": "(PH NO.:319508) QUALITY CONTROL FOR HAEMATOLOGY ANALYSER LOW NORMAL, NORMAL AND HIGH NORMAL PARAMETERS,UNIT:PACK",
+   "refNo": "SCRLGD2630611R1",
+   "organisation": "Ministry of Railways",
+   "orgSlug": "ministry-of-railways",
+   "category": "other",
+   "publishedAt": "2026-08-15T21:15:00+05:30",
+   "closingAt": "2026-08-17T15:00:00+05:30",
+   "openingAt": "2026-08-17T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQwOTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njg4NTcwMw==A13h1U0NSTEdEMjYzMDYxMVIxA13h1OTE0MDk5OTM=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "164840",
    "slug": "164840",
    "title": "12(01)/NCESD-I/2026/H/947 date 12/08/2026 (3rd Call)",
@@ -234123,6 +234137,20 @@
    "closingAt": "2026-08-17T15:30:00+05:30",
    "openingAt": "2026-08-17T17:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDA2Mzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjUyMTQyMw==A13h1TlRQQy9VU1NDLUNQRzMvOTkwMDMzMTE3MQ==A13h1MjAyNl9OVFBDXzExMDkzMV8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "91410023",
+   "slug": "91410023",
+   "title": "(PH NO.:328661) QUALITY CONTROL REAGENT FOR HBA1C BILEVEL,UNIT:ML",
+   "refNo": "SCRLGD2632866130636",
+   "organisation": "Ministry of Railways",
+   "orgSlug": "ministry-of-railways",
+   "category": "other",
+   "publishedAt": "2026-08-15T21:37:00+05:30",
+   "closingAt": "2026-08-17T15:30:00+05:30",
+   "openingAt": "2026-08-17T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQxMDA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njg4NTcwMw==A13h1U0NSTEdEMjYzMjg2NjEzMDYzNg==A13h1OTE0MTAwMjM=",
    "hasCorrigendum": false
   },
   {
@@ -273602,7 +273630,7 @@
    "publishedAt": "2026-08-15T23:15:00+05:30",
    "closingAt": "2026-08-22T23:30:00+05:30",
    "openingAt": "2026-08-22T23:45:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQwNjE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njg2NDEzMQ==A13h1MTAwMDQ2MjUxNg==A13h1MjAyNl9CUENMXzI2MzAy",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQwNjE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njg4NTcwMw==A13h1MTAwMDQ2MjUxNg==A13h1MjAyNl9CUENMXzI2MzAy",
    "hasCorrigendum": false
   },
   {
@@ -274933,6 +274961,20 @@
    "closingAt": "2026-08-24T11:30:00+05:30",
    "openingAt": "2026-08-25T11:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDEyMTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjU2MzMwNg==A13h1bmEzMjUwLWNpdi1lLXRlbmRlciAzMi0yMDI2LTI3A13h1MjAyNl9XQ0xfMzYzNjE4XzI=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "107155807",
+   "slug": "107155807",
+   "title": "ROD PRIMARY INTERLOCK (MODIFIED)",
+   "refNo": "10264500",
+   "organisation": "Ministry of Railways",
+   "orgSlug": "ministry-of-railways",
+   "category": "other",
+   "publishedAt": "2026-08-15T22:44:00+05:30",
+   "closingAt": "2026-08-24T11:30:00+05:30",
+   "openingAt": "2026-08-24T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQyNjA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njg4NTcwMw==A13h1MTAyNjQ1MDA=A13h1MTA3MTU1ODA3",
    "hasCorrigendum": false
   },
   {
@@ -287504,7 +287546,7 @@
    "publishedAt": "2026-08-16T09:00:00+05:30",
    "closingAt": "2026-08-26T17:00:00+05:30",
    "openingAt": "2026-08-28T09:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDcxMzU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njg2NDEzMQ==A13h1TUNML0dNKEhBKS9DaXZpbC9lLVRlbmRlci8gMjYtMjcvNTUgRHQuMTQuMDguMjAyNg==A13h1MjAyNl9NQ0xfMzYzNzYxXzE=",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDcxMzU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njg4NTcwMw==A13h1TUNML0dNKEhBKS9DaXZpbC9lLVRlbmRlci8gMjYtMjcvNTUgRHQuMTQuMDguMjAyNg==A13h1MjAyNl9NQ0xfMzYzNzYxXzE=",
    "hasCorrigendum": false
   },
   {
@@ -313478,6 +313520,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "107155801",
+   "slug": "107155801",
+   "title": "Brake Pull Rod Safety Loo",
+   "refNo": "61265986",
+   "organisation": "Ministry of Railways",
+   "orgSlug": "ministry-of-railways",
+   "category": "other",
+   "publishedAt": "2026-08-15T21:03:00+05:30",
+   "closingAt": "2026-09-04T11:00:00+05:30",
+   "openingAt": "2026-09-04T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQyNTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njg4NTcwMw==A13h1NjEyNjU5ODY=A13h1MTA3MTU1ODAx",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107149706",
    "slug": "107149706",
    "title": "Supply, Installation and commissioning of Portable Co-ordinate measuring machine and all the concomitant accessories. details are attached in Technical Specification and Terms & Conditions",
@@ -315897,6 +315953,20 @@
    "closingAt": "2026-09-08T13:30:00+05:30",
    "openingAt": "2026-09-08T13:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMzQyMDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjMyOTcxMA==A13h1NzUyNjU0Njc=A13h1MTA3MTQ5NjA5",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "107155803",
+   "slug": "107155803",
+   "title": "Clip for 15 mm bore pipe to drg. no. SKT-2009/99/C Alt-1.",
+   "refNo": "30262920A",
+   "organisation": "Ministry of Railways",
+   "orgSlug": "ministry-of-railways",
+   "category": "other",
+   "publishedAt": "2026-08-15T21:12:00+05:30",
+   "closingAt": "2026-09-08T14:25:00+05:30",
+   "openingAt": "2026-09-08T14:25:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQyNTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njg4NTcwMw==A13h1MzAyNjI5MjBBA13h1MTA3MTU1ODAz",
    "hasCorrigendum": false
   },
   {
@@ -319341,6 +319411,48 @@
    "closingAt": "2026-10-01T12:00:00+05:30",
    "openingAt": "2026-10-02T14:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MTMyMzU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzE1NTk0OA==A13h1RVhQUkVTU0lPTiBPRiBJTlRFUkVTVCBGT1IgRU5MSVNUTUVOVCBPRiBTVVBQTElFUlMgRk9SIEFVVE9NQVRJQyBTVE9SQUdFIEFORCBSRVRSSUVWQUwgU1lTVEVNIEFTUlM=A13h1MjAyNl9FSUxfOTE1ODU3XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "107155806",
+   "slug": "107155806",
+   "title": "GEAR CASE OIL",
+   "refNo": "02261669",
+   "organisation": "Ministry of Railways",
+   "orgSlug": "ministry-of-railways",
+   "category": "other",
+   "publishedAt": "2026-08-15T22:33:00+05:30",
+   "closingAt": "2026-10-01T14:00:00+05:30",
+   "openingAt": "2026-10-01T14:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQyNTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njg4NTcwMw==A13h1MDIyNjE2Njk=A13h1MTA3MTU1ODA2",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "107155805",
+   "slug": "107155805",
+   "title": "SET OF DPT AND MPT KITS",
+   "refNo": "02261680",
+   "organisation": "Ministry of Railways",
+   "orgSlug": "ministry-of-railways",
+   "category": "other",
+   "publishedAt": "2026-08-15T22:21:00+05:30",
+   "closingAt": "2026-10-01T14:00:00+05:30",
+   "openingAt": "2026-10-01T14:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQyNTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njg4NTcwMw==A13h1MDIyNjE2ODA=A13h1MTA3MTU1ODA1",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "107155800",
+   "slug": "107155800",
+   "title": "SOLID MIG/MAG WELDING FILLER WIRE",
+   "refNo": "03261853",
+   "organisation": "Ministry of Railways",
+   "orgSlug": "ministry-of-railways",
+   "category": "other",
+   "publishedAt": "2026-08-15T21:00:00+05:30",
+   "closingAt": "2026-10-01T14:00:00+05:30",
+   "openingAt": "2026-10-01T14:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQyNTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njg4NTcwMw==A13h1MDMyNjE4NTM=A13h1MTA3MTU1ODAw",
    "hasCorrigendum": false
   },
   {
