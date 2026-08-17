@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-17T02:01:43.790Z",
+ "generatedAt": "2026-08-17T07:31:15.159Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 22835,
+ "count": 22855,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -250408,6 +250408,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MKTHO_190232_1",
+   "slug": "2026-mktho-190232-1",
+   "title": "Procurement of Additive ST55569",
+   "refNo": "LI/26-27/1007/LUBES",
+   "organisation": "IndianOil",
+   "orgSlug": "indianoil",
+   "category": "goods-supply",
+   "publishedAt": "2026-08-17T13:00:00+05:30",
+   "closingAt": "2026-08-19T13:00:00+05:30",
+   "openingAt": "2026-08-20T13:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQ0NTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk1MTg3MQ==A13h1TEkvMjYtMjcvMTAwNy9MVUJFUw==A13h1MjAyNl9NS1RIT18xOTAyMzJfMQ==",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_DRDO_781593_1",
    "slug": "2026-drdo-781593-1",
    "title": "Supply of Chemicals",
@@ -252421,6 +252435,20 @@
    "closingAt": "2026-08-19T16:00:00+05:30",
    "openingAt": "2026-08-20T16:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDI5NDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjYwODAyNA==A13h1NDM0LzA1LzA5L09URS0yOS9FQ0hTLzI2LTI3A13h1MjAyNl9OQVZZXzc4NDIxN18x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_NTPC_111060_1",
+   "slug": "2026-ntpc-111060-1",
+   "title": "Procurement of MUT Tschamber agitator spares in FGD at NTPC Kudgi",
+   "refNo": "NTPC/USSC-CPG3/9900331593",
+   "organisation": "NTPC Limited",
+   "orgSlug": "ntpc-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-08-17T13:00:00+05:30",
+   "closingAt": "2026-08-19T16:00:00+05:30",
+   "openingAt": "2026-08-20T16:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQ0NjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk1MTg3MQ==A13h1TlRQQy9VU1NDLUNQRzMvOTkwMDMzMTU5Mw==A13h1MjAyNl9OVFBDXzExMTA2MF8x",
    "hasCorrigendum": false
   },
   {
@@ -257363,6 +257391,20 @@
    "closingAt": "2026-08-20T12:00:00+05:30",
    "openingAt": "2026-08-21T14:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMzU0MTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjQxNTYyOA==A13h1TUtQL0MyODAtMDczLUtBLU1SLTUwMTAvMDI=A13h1MjAyNl9FSUxfOTIxMzU1XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_NTPC_111059_1",
+   "slug": "2026-ntpc-111059-1",
+   "title": "Erection and commissioning of Fire Water Diesel engine",
+   "refNo": "NTPC/USSC-CPG3/9900330554",
+   "organisation": "NTPC Limited",
+   "orgSlug": "ntpc-limited",
+   "category": "construction",
+   "publishedAt": "2026-08-17T12:40:00+05:30",
+   "closingAt": "2026-08-20T12:00:00+05:30",
+   "openingAt": "2026-08-20T16:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQ0NTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk1MTc5OA==A13h1TlRQQy9VU1NDLUNQRzMvOTkwMDMzMDU1NA==A13h1MjAyNl9OVFBDXzExMTA1OV8x",
    "hasCorrigendum": false
   },
   {
@@ -269140,6 +269182,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_26306",
+   "slug": "2026-bpcl-26306",
+   "title": "TENDER FOR COMPREHENSIVE ANNAUL MAINTANANCE CONTRACT(CAMC) FOR ENVIRONMENT MONITORING SYSTEMS AT BARGARH BIO-REFINERY, ODISHA",
+   "refNo": "1000462493",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "other",
+   "publishedAt": "2026-08-17T12:44:00+05:30",
+   "closingAt": "2026-08-21T18:00:00+05:30",
+   "openingAt": "2026-08-21T20:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQ0NDE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk1MTc5OA==A13h1MTAwMDQ2MjQ5Mw==A13h1MjAyNl9CUENMXzI2MzA2",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_ECL_363562_1",
    "slug": "2026-ecl-363562-1",
    "title": "Repairing one Viswa Make haulage at Shankarpur Colliery under Bankola Area and one AKGI Make haulage at Shankarpur Colliery under Bankola.",
@@ -277932,6 +277988,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_DLSO_191004_1",
+   "slug": "2026-dlso-191004-1",
+   "title": "Repair of outer boundary wall at Tikrikalan Bottling Plant (New Delhi)",
+   "refNo": "IOCL/DSO/DBP/BB/2026-27/NIC/11",
+   "organisation": "IndianOil",
+   "orgSlug": "indianoil",
+   "category": "construction",
+   "publishedAt": "2026-08-17T13:00:00+05:30",
+   "closingAt": "2026-08-24T17:00:00+05:30",
+   "openingAt": "2026-08-25T17:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQ0NDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk1MTg3MQ==A13h1SU9DTC9EU08vREJQL0JCLzIwMjYtMjcvTklDLzExA13h1MjAyNl9ETFNPXzE5MTAwNF8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MoRTH_916317_1",
    "slug": "2026-morth-916317-1",
    "title": "Independent Engineer Services for Upgradation of Tikamgarh Badagon Ghuwara Shahgarh Section of NH-539 (Km 75.000 to 155.700, Length 80.700 Km) to 2L with PS in Madhya Pradesh on HAM",
@@ -283305,6 +283375,20 @@
    "closingAt": "2026-08-25T15:00:00+05:30",
    "openingAt": "2026-08-26T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDQwNDI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjY3Njc2OA==A13h1QU1EL0NSL0VTRy9DaXZpbC9FVC0yMi8yMDI2LTI3ICBEYXRlLTEwLzA4LzIwMjY=A13h1MjAyNl9BTURfOTIxOTY4XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_DDA_922378_1",
+   "slug": "2026-dda-922378-1",
+   "title": "M/o Completed Schemes under Nazul A/C-II/HZ.(Repair of boundary wall, footpath, fencing, office and other miscellaneous works in NHP at Anand Vihar.)",
+   "refNo": "22/EE/HCD-1/DDA/2026-27",
+   "organisation": "Delhi Development Authority",
+   "orgSlug": "delhi-development-authority",
+   "category": "construction",
+   "publishedAt": "2026-08-17T12:45:00+05:30",
+   "closingAt": "2026-08-25T15:00:00+05:30",
+   "openingAt": "2026-08-26T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQ0ODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk1MTc5OA==A13h1MjIvRUUvSENELTEvRERBLzIwMjYtMjc=A13h1MjAyNl9EREFfOTIyMzc4XzE=",
    "hasCorrigendum": false
   },
   {
@@ -289104,6 +289188,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MES_784702_1",
+   "slug": "2026-mes-784702-1",
+   "title": "DESILITING AND CLEANING OF DUG WELL NEAR RAIN WATER HARVESTING UNDER GE MINNIE BAY SRI VIJAYAPURAM",
+   "refNo": "3031/EQTN/RFP/02/2026-27/E3",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "other",
+   "publishedAt": "2026-08-17T13:00:00+05:30",
+   "closingAt": "2026-08-26T18:00:00+05:30",
+   "openingAt": "2026-08-28T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQzODE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk1MTg3MQ==A13h1MzAzMS9FUVROL1JGUC8wMi8yMDI2LTI3L0UzA13h1MjAyNl9NRVNfNzg0NzAyXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_783379_1",
    "slug": "2026-mes-783379-1",
    "title": "COMPREHENSIVE MAINT INCLUDING SMART PERIODICAL AND E/M WORKS AT DOMESTIC AREA AT AF STN BKT",
@@ -294183,6 +294281,20 @@
    "closingAt": "2026-08-28T11:00:00+05:30",
    "openingAt": "2026-08-29T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDEyMzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjU0MzAzNw==A13h1R00oSCkvRW5NL1RlbmRlci8yNi0yNy8xMQ==A13h1MjAyNl9DQ0xfMzYzNjIxXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BHEL_64046_1",
+   "slug": "2026-bhel-64046-1",
+   "title": "SELF ADHERENT SOFT SILICONE FOAM DRESSING SIZE 12.5 CM X 12.5 CM",
+   "refNo": "BPE2600447",
+   "organisation": "Bharat Heavy Electricals Limited",
+   "orgSlug": "bharat-heavy-electricals-limited",
+   "category": "other",
+   "publishedAt": "2026-08-17T13:00:00+05:30",
+   "closingAt": "2026-08-28T11:00:00+05:30",
+   "openingAt": "2026-08-28T11:05:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQ0NTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk1MTg3MQ==A13h1QlBFMjYwMDQ0Nw==A13h1MjAyNl9CSEVMXzY0MDQ2XzE=",
    "hasCorrigendum": false
   },
   {
@@ -299772,6 +299884,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BSF_922376_1",
+   "slug": "2026-bsf-922376-1",
+   "title": "Repair and maintenance Electrical side of temporary structure Jawan barrack at BOP Ryngku at BOP Mukamchhera of 2 BN BSF under SHQ BSF Jowai",
+   "refNo": "01/NIT/SHQ/JOWAI/ELECT/2026-27",
+   "organisation": "DG,BSF,MHA",
+   "orgSlug": "dg-bsf-mha",
+   "category": "electrical",
+   "publishedAt": "2026-08-17T12:40:00+05:30",
+   "closingAt": "2026-08-29T18:00:00+05:30",
+   "openingAt": "2026-08-31T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQ0NzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk1MTc5OA==A13h1MDEvTklUL1NIUS9KT1dBSS9FTEVDVC8yMDI2LTI3A13h1MjAyNl9CU0ZfOTIyMzc2XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_770333_3",
+   "slug": "2026-mes-770333-3",
+   "title": "CERTAIN REPAIR AND REPLACEMENT OF SANITARY FITTINGS PLUMBING WORK FLOORING TILING PLASTERING AND MISC WORKS AT JCOS/OR MD ACCN OF ABDUL HAMID ENCLAVE A and B ZONE UNDER GE (WEST) FEROZEPUR CANTT",
+   "refNo": "CWE/FZR-31/2026-27",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-17T12:30:00+05:30",
+   "closingAt": "2026-08-29T18:00:00+05:30",
+   "openingAt": "2026-09-05T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQ0NjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk1MTc5OA==A13h1Q1dFL0ZaUi0zMS8yMDI2LTI3A13h1MjAyNl9NRVNfNzcwMzMzXzM=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_DRDO_781568_1",
    "slug": "2026-drdo-781568-1",
    "title": "Development of Ca- DTPA and Zn DTPA Formulation Under GMP Facility",
@@ -300301,6 +300441,34 @@
    "closingAt": "2026-08-31T11:00:00+05:30",
    "openingAt": "2026-08-31T11:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDM3ODM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjY3NjY2Mw==A13h1MjAyNjI3MDIwNC9NTS00L0RBTVNDLzIxNQ==A13h1MjAyNl9JSVRSXzkyMjA0MF8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BCCL_363846_1",
+   "slug": "2026-bccl-363846-1",
+   "title": "Repairing of centre pin hole, main frame, cradle front pin hole, steering cylinder hole and air compressor of ACE Crane Reg. No. JH10BB 2715 at ASBN OCP, Sijua Area.",
+   "refNo": "BCCL/SA/EXCV/ETENDER/26-27/51",
+   "organisation": "Bharat Coking Coal Limited",
+   "orgSlug": "bharat-coking-coal-limited",
+   "category": "other",
+   "publishedAt": "2026-08-17T13:00:00+05:30",
+   "closingAt": "2026-08-31T11:00:00+05:30",
+   "openingAt": "2026-09-01T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQ0NjU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk1MTg3MQ==A13h1QkNDTC9TQS9FWENWL0VURU5ERVIvMjYtMjcvNTE=A13h1MjAyNl9CQ0NMXzM2Mzg0Nl8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BCCL_363845_1",
+   "slug": "2026-bccl-363845-1",
+   "title": "Repairing of bucket assembly of BE-1000 Hydraulic Shovel (as float) at ASBN OCP, Sijua Area.",
+   "refNo": "BCCL/SA/EXCV/ETENDER/26-27/50",
+   "organisation": "Bharat Coking Coal Limited",
+   "orgSlug": "bharat-coking-coal-limited",
+   "category": "other",
+   "publishedAt": "2026-08-17T13:00:00+05:30",
+   "closingAt": "2026-08-31T11:00:00+05:30",
+   "openingAt": "2026-09-01T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQ0NjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk1MTg3MQ==A13h1QkNDTC9TQS9FWENWL0VURU5ERVIvMjYtMjcvNTA=A13h1MjAyNl9CQ0NMXzM2Mzg0NV8x",
    "hasCorrigendum": false
   },
   {
@@ -303087,6 +303255,20 @@
    "closingAt": "2026-08-31T17:00:00+05:30",
    "openingAt": "2026-09-01T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDcxMjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjY5NDIwMA==A13h1UE1HU1kgT05MSU5FIFJXQ1NCUC0xNy8yMDI2LTI3A13h1MjAyNl9DRVJXSV8xNDkxNDVfMw==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26305",
+   "slug": "2026-bpcl-26305",
+   "title": "REPAIR & MAINTENANCE, CALIBRATION, STAMPING AND LIASONING WITH LEGAL METROLEOGY FOR CAST IRON STANDARD WEIGHTS AT URAN LPG TERMINAL",
+   "refNo": "1000462554",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "construction",
+   "publishedAt": "2026-08-17T12:55:00+05:30",
+   "closingAt": "2026-08-31T17:00:00+05:30",
+   "openingAt": "2026-08-31T17:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQ0NzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk1MTc5OA==A13h1MTAwMDQ2MjU1NA==A13h1MjAyNl9CUENMXzI2MzA1",
    "hasCorrigendum": false
   },
   {
@@ -315046,6 +315228,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_NHAI_287800_1",
+   "slug": "2026-nhai-287800-1",
+   "title": "CSforAE forSV of the P1 Upgrad 6L JK sec of NH48 km274.100 to363.885 89.79km const of FO and SR on EPC 2.1No at GJ to GS UP FO struc of JR sec 200 FB Junc at Km.273.600 DJA Ex.on NH48 on EPC mode SV for OnM of JK sec of NH48 in Rajasthan 3rd Call",
+   "refNo": "RFPNo./ RAJDIV-20013/ 33/2026-PIU Jaipur",
+   "organisation": "National Highways Authority of India",
+   "orgSlug": "national-highways-authority-of-india",
+   "category": "other",
+   "publishedAt": "2026-08-17T12:45:00+05:30",
+   "closingAt": "2026-09-07T11:00:00+05:30",
+   "openingAt": "2026-09-08T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQ0ODA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk1MTc5OA==A13h1UkZQTm8uLyBSQUpESVYtMjAwMTMvIDMzLzIwMjYtUElVIEphaXB1cg==A13h1MjAyNl9OSEFJXzI4NzgwMF8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_AAI_282549_1",
    "slug": "2026-aai-282549-1",
    "title": "Development New Civil Enclave at Purnea, Bihar.",
@@ -315855,6 +316051,34 @@
    "closingAt": "2026-09-07T18:00:00+05:30",
    "openingAt": "2026-09-14T09:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMzU5ODg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjQzNDM3OA==A13h1Q1dFKE5XKUtPQ0hJLzgxNjc3A13h1MjAyNl9NRVNfNzgzNzYxXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_784708_1",
+   "slug": "2026-mes-784708-1",
+   "title": "GE/BAS-48/2026-27 Certain repair and cleaning of sewage line, manholes, septic tanks and soakage well in Pocket A and B at Basoli under GE Basoli",
+   "refNo": "GE/BAS-48/2026-27",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-17T12:30:00+05:30",
+   "closingAt": "2026-09-07T18:00:00+05:30",
+   "openingAt": "2026-09-09T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQ0NzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk1MTc5OA==A13h1R0UvQkFTLTQ4LzIwMjYtMjc=A13h1MjAyNl9NRVNfNzg0NzA4XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_784685_1",
+   "slug": "2026-mes-784685-1",
+   "title": "SPECIAL REPAIR TO BLDG NO T- 368 IN ZONE P AT AGARTALA MILITARY STATION",
+   "refNo": "8906/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-17T13:00:00+05:30",
+   "closingAt": "2026-09-07T18:00:00+05:30",
+   "openingAt": "2026-09-09T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQzMDU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk1MTg3MQ==A13h1ODkwNi9FOA==A13h1MjAyNl9NRVNfNzg0Njg1XzE=",
    "hasCorrigendum": false
   },
   {
@@ -317832,6 +318056,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_IITTP_922280_1",
+   "slug": "2026-iittp-922280-1",
+   "title": "NOTICE INVITING TENDER FOR THE SUPPLY, INSTALLATION, TESTING, AND COMMISSIONING OF COMPUTER WORKSTATIONS",
+   "refNo": "IITT/EE/2026-27/39",
+   "organisation": "Indian Institute of Technology Tirupati",
+   "orgSlug": "indian-institute-of-technology-tirupati",
+   "category": "it-software",
+   "publishedAt": "2026-08-17T12:30:00+05:30",
+   "closingAt": "2026-09-11T18:00:00+05:30",
+   "openingAt": "2026-09-14T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQ0NzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk1MTc5OA==A13h1SUlUVC9FRS8yMDI2LTI3LzM5A13h1MjAyNl9JSVRUUF85MjIyODBfMQ==",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_DGDE_921999_1",
    "slug": "2026-dgde-921999-1",
    "title": "SETTING UP OF A COMPRESSED BIO GAS PLANT AT GARIAJAN RIFLE RANGE DISTRICT GOLAGHAT ASSAM",
@@ -318714,6 +318952,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MoS_922163_1",
+   "slug": "2026-mos-922163-1",
+   "title": "Appointment of Technical Consultant for Preparation of Detailed Project Report (DPR) and Project Management Consultancy (PMC) for Augmentation of Existing Water Supply Network at Kamarajar Port Limited on QCBS Basis",
+   "refNo": "2026055110",
+   "organisation": "Ministry of Shipping",
+   "orgSlug": "ministry-of-shipping",
+   "category": "it-software",
+   "publishedAt": "2026-08-17T12:40:00+05:30",
+   "closingAt": "2026-09-17T15:00:00+05:30",
+   "openingAt": "2026-09-18T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQ0Nzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk1MTc5OA==A13h1MjAyNjA1NTExMA==A13h1MjAyNl9Nb1NfOTIyMTYzXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107142272",
    "slug": "107142272",
    "title": "SHUNT.TO DRG. 187/ELECT/PTS/83 SIL",
@@ -318823,6 +319075,20 @@
    "closingAt": "2026-09-18T15:00:00+05:30",
    "openingAt": "2026-09-19T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMTMxNjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTkyMTQyMA==A13h1Qk1SQ0wvUGgtMi9BTkpQRFBUL0JXLzIwMjYvMTU0A13h1MjAyNl9CTVJDTF8yODY1NzRfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_UCIL_287790_1",
+   "slug": "2026-ucil-287790-1",
+   "title": "TMPLRC/Jaggery/406",
+   "refNo": "TMPL/RC/Jaggery/406",
+   "organisation": "Uranium Corporation of India Limited",
+   "orgSlug": "uranium-corporation-of-india-limited",
+   "category": "other",
+   "publishedAt": "2026-08-17T13:00:00+05:30",
+   "closingAt": "2026-09-18T15:00:00+05:30",
+   "openingAt": "2026-09-19T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQ0Njg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk1MTg3MQ==A13h1VE1QTC9SQy9KYWdnZXJ5LzQwNg==A13h1MjAyNl9VQ0lMXzI4Nzc5MF8x",
    "hasCorrigendum": false
   },
   {
@@ -319467,6 +319733,20 @@
    "closingAt": "2026-10-01T14:00:00+05:30",
    "openingAt": "2026-10-01T14:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQyNTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njg4NTcwMw==A13h1MDMyNjE4NTM=A13h1MTA3MTU1ODAw",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MoRTH_922363_1",
+   "slug": "2026-morth-922363-1",
+   "title": "Consultancy services for preparation of DPR for Rehabilitation and Upgradation of existing road between km 0.00 to km 86.00 Gangotri to Heena from existing/single lane to double lane with paved shoulder specification on Gangotri-Uttarkashi-Dharasu.",
+   "refNo": "RO/UK/DPR/NH-34/ Gangotri to Heena /2026",
+   "organisation": "Ministry of Road Transport and Highways",
+   "orgSlug": "ministry-of-road-transport-and-highways",
+   "category": "construction",
+   "publishedAt": "2026-08-17T13:00:00+05:30",
+   "closingAt": "2026-10-01T17:00:00+05:30",
+   "openingAt": "2026-10-05T17:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQ0Nzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk1MTg3MQ==A13h1Uk8vVUsvRFBSL05ILTM0LyBHYW5nb3RyaSB0byBIZWVuYSAvMjAyNg==A13h1MjAyNl9Nb1JUSF85MjIzNjNfMQ==",
    "hasCorrigendum": false
   },
   {
