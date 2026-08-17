@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-17T07:31:15.159Z",
+ "generatedAt": "2026-08-17T13:16:32.300Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 22855,
+ "count": 22866,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -273382,6 +273382,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_ISMD_922423_1",
+   "slug": "2026-ismd-922423-1",
+   "title": "Construction of boundary wall of approximate length 300 metre at Part A of Nirsa Campus of IIT (ISM) Dhanbad using Precast RCC sections",
+   "refNo": "CMU-12011/17/2026-CMU",
+   "organisation": "Indian Institute of Technology(ISM) Dhanbad",
+   "orgSlug": "indian-institute-of-technology-ism-dhanbad",
+   "category": "construction",
+   "publishedAt": "2026-08-17T18:30:00+05:30",
+   "closingAt": "2026-08-22T18:30:00+05:30",
+   "openingAt": "2026-08-24T17:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQ5NzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk3MjU4OA==A13h1Q01VLTEyMDExLzE3LzIwMjYtQ01VA13h1MjAyNl9JU01EXzkyMjQyM18x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_ECL_363633_1",
    "slug": "2026-ecl-363633-1",
    "title": "Providing of 3 nos. winding and Oil temperature meter repairing of Buchholz relay and 1-MVA, 11KV-3.3KV power Transformer for Shankarpur Colliery under Bankola Area",
@@ -275230,6 +275244,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_NCL_363896_1",
+   "slug": "2026-ncl-363896-1",
+   "title": "spares of 190T Dumper",
+   "refNo": "DCH/PUR/STE/26-27/26032/09 DT. 17.08.2026",
+   "organisation": "Northern Coalfields Limited",
+   "orgSlug": "northern-coalfields-limited",
+   "category": "other",
+   "publishedAt": "2026-08-17T18:30:00+05:30",
+   "closingAt": "2026-08-24T12:00:00+05:30",
+   "openingAt": "2026-08-25T12:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQ5Njg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk3MjU4OA==A13h1RENIL1BVUi9TVEUvMjYtMjcvMjYwMzIvMDkgRFQuIDE3LjA4LjIwMjY=A13h1MjAyNl9OQ0xfMzYzODk2XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_DRDO_777364_1",
    "slug": "2026-drdo-777364-1",
    "title": "S-Band Instrumentation Tracking Radar",
@@ -276907,6 +276935,34 @@
    "closingAt": "2026-08-24T15:00:00+05:30",
    "openingAt": "2026-08-24T18:55:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDQwMTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjY3Njc4Ng==A13h1RTUxNjMxMTgtIFJBVEUgQ09OVFJBQ1QgRk9SIFNVUFBMWSBPRiBTRVRTIE9GIEJFQVJJTkcgQ09NUE9ORU5UUyAoNiBJVEVNUykgRk9SIFRNIElNNDUwNw==A13h1MjAyNl9CSEVMXzYzOTg5XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MCD_287865_1",
+   "slug": "2026-mcd-287865-1",
+   "title": "Provision of Air Conditioners in OPD Rooms in Mata Gujri Hospital, Tilak Nagar. NIT No.44 Item No.01",
+   "refNo": "E.E(Elect.)/WZ/2026-27/NIT No.44",
+   "organisation": "Municipal Corporation of Delhi",
+   "orgSlug": "municipal-corporation-of-delhi",
+   "category": "medical",
+   "publishedAt": "2026-08-17T18:30:00+05:30",
+   "closingAt": "2026-08-24T15:00:00+05:30",
+   "openingAt": "2026-08-24T15:05:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQ5ODI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk3MjU4OA==A13h1RS5FKEVsZWN0LikvV1ovMjAyNi0yNy9OSVQgTm8uNDQ=A13h1MjAyNl9NQ0RfMjg3ODY1XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MCD_287804_1",
+   "slug": "2026-mcd-287804-1",
+   "title": "Providing and fixing 5 mtr GI Octagonal Poles and 12 mtr Semi High Mast (SHM) Poles at various locations in Ward 96 Rajouri Garden under West Zone. EE(Elect.)/WZ/2026-27/NIT No- 43 Item No. 01",
+   "refNo": "EE/Elect/WestZone/2026-27/43",
+   "organisation": "Municipal Corporation of Delhi",
+   "orgSlug": "municipal-corporation-of-delhi",
+   "category": "electrical",
+   "publishedAt": "2026-08-17T18:30:00+05:30",
+   "closingAt": "2026-08-24T15:00:00+05:30",
+   "openingAt": "2026-08-24T15:05:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQ1MDA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk3MjU4OA==A13h1RUUvRWxlY3QvV2VzdFpvbmUvMjAyNi0yNy80Mw==A13h1MjAyNl9NQ0RfMjg3ODA0XzE=",
    "hasCorrigendum": false
   },
   {
@@ -283392,6 +283448,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "165248",
+   "slug": "165248",
+   "title": "12/NIT/SE-Rourkela/CPWD/2026-27",
+   "refNo": "12/NIT/SE-Rourkela/CPWD/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-17T18:42:00+05:30",
+   "closingAt": "2026-08-25T15:00:00+05:30",
+   "openingAt": "2026-08-25T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTUyOTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk3MjU4OA==A13h1MTIvTklUL1NFLVJvdXJrZWxhL0NQV0QvMjAyNi0yNw==A13h1MTY1MjQ4",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_IISC_920749_1",
    "slug": "2026-iisc-920749-1",
    "title": "Renovation and retrofitting of 2x500 KLD sewage treatment plants and 1x100 KLD Effluent Treatment plant with Two Years Annual Maintenance Contract at IISc, Bangalore",
@@ -286091,6 +286161,20 @@
    "closingAt": "2026-08-25T18:00:00+05:30",
    "openingAt": "2026-08-27T10:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDM5NjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjY3NjY4NA==A13h1Q0EgTk8gOTY5IFdTLSAgIC8yMDI2LTI3A13h1MjAyNl9NRVNfNzY5MDAwXzI=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BSNL_287904_1",
+   "slug": "2026-bsnl-287904-1",
+   "title": "Waterproofing repair work of BSNL staff quarter no 18 and 15 of Type Four Block at P and T Colony Char Imli Bhopal",
+   "refNo": "NIT NO. 20/EE(C) /BSNL-BPL/2026-27",
+   "organisation": "Bharat Sanchar Nigam Limited (Govt of India Enterprise)",
+   "orgSlug": "bharat-sanchar-nigam-limited-govt-of-india-enterprise",
+   "category": "construction",
+   "publishedAt": "2026-08-17T18:30:00+05:30",
+   "closingAt": "2026-08-25T18:00:00+05:30",
+   "openingAt": "2026-08-27T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTUwNDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk3MjU4OA==A13h1TklUIE5PLiAyMC9FRShDKSAvQlNOTC1CUEwvMjAyNi0yNw==A13h1MjAyNl9CU05MXzI4NzkwNF8x",
    "hasCorrigendum": false
   },
   {
@@ -301886,6 +301970,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_TTD_922174_1",
+   "slug": "2026-ttd-922174-1",
+   "title": "Supply Installation Testing and Commissioning of 20 passengers lift Ground with 2 floors to the Science Block in SV College New Delhi and Comprehensive Maintenance service contract for 3 years after warranty of 2 years",
+   "refNo": "24/SE(Elec)/TTD/TPT/2026-27",
+   "organisation": "Tirumala Tirupati Devasthanams",
+   "orgSlug": "tirumala-tirupati-devasthanams",
+   "category": "goods-supply",
+   "publishedAt": "2026-08-17T18:30:00+05:30",
+   "closingAt": "2026-08-31T15:00:00+05:30",
+   "openingAt": "2026-09-01T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQ5OTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk3MjU4OA==A13h1MjQvU0UoRWxlYykvVFREL1RQVC8yMDI2LTI3A13h1MjAyNl9UVERfOTIyMTc0XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NFL_287165_1",
    "slug": "2026-nfl-287165-1",
    "title": "Contract for purchase of seed treatment chemicals (Tebuconazole 2 percent DS w/w) for Seed Processing Unit, Panipat, Haryana and Bathinda, Punjab",
@@ -307217,6 +307315,20 @@
    "closingAt": "2026-09-01T15:00:00+05:30",
    "openingAt": "2026-09-02T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDY3NTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjY3NjY3MQ==A13h1Q0NFVy9DOC84MDIzOC9QRVJJT0RJQ0FML0FSREU=A13h1MjAyNl9EUkRPXzkyMjA5OV8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_HPCLB_287909_1",
+   "slug": "2026-hpclb-287909-1",
+   "title": "SUPPLY OF PROOF MACHINED GUN METAL BUSHES ON DOOR DELIVERY BASIS AT INTEGRATED HBL PLANT SUGAULI",
+   "refNo": "HBL/TEN/PUB/26-27/185",
+   "organisation": "HPCL Biofuels Limited",
+   "orgSlug": "hpcl-biofuels-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-08-17T18:30:00+05:30",
+   "closingAt": "2026-09-01T15:00:00+05:30",
+   "openingAt": "2026-09-02T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTUxNDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk3MjU4OA==A13h1SEJML1RFTi9QVUIvMjYtMjcvMTg1A13h1MjAyNl9IUENMQl8yODc5MDlfMQ==",
    "hasCorrigendum": false
   },
   {
@@ -315340,6 +315452,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_26297",
+   "slug": "2026-bpcl-26297",
+   "title": "TENDER FOR ANNUAL HEALTH CHECK-UP SERVICES FOR ALL WORKERS WORKING AT BPCL BANGALORE LPG PLANT",
+   "refNo": "1000462487",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "medical",
+   "publishedAt": "2026-08-17T18:24:00+05:30",
+   "closingAt": "2026-09-07T14:00:00+05:30",
+   "openingAt": "2026-09-07T14:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTUyOTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk3MjM3Mw==A13h1MTAwMDQ2MjQ4Nw==A13h1MjAyNl9CUENMXzI2Mjk3",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107149738",
    "slug": "107149738",
    "title": "WELDING PIN",
@@ -316079,6 +316205,20 @@
    "closingAt": "2026-09-07T18:00:00+05:30",
    "openingAt": "2026-09-09T09:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQzMDU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk1MTg3MQ==A13h1ODkwNi9FOA==A13h1MjAyNl9NRVNfNzg0Njg1XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_784828_1",
+   "slug": "2026-mes-784828-1",
+   "title": "SPECIAL REPAIR TO TOILET BATHROOM OF BLDG NO BCD T 13 T 14 T 31 T 32 T 15 AND T 33 AT TRG AREA OF 3 CESR AND PROVN OF HARD STANDING FOR EQPT DISPLAY AND TRG PRACTICE OF 3 CESR AT RMS",
+   "refNo": "9044/C/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-17T18:30:00+05:30",
+   "closingAt": "2026-09-07T18:00:00+05:30",
+   "openingAt": "2026-09-09T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTUwMjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk3MjU4OA==A13h1OTA0NC9DL0U4A13h1MjAyNl9NRVNfNzg0ODI4XzE=",
    "hasCorrigendum": false
   },
   {
@@ -318627,6 +318767,20 @@
    "closingAt": "2026-09-15T18:00:00+05:30",
    "openingAt": "2026-09-25T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDEzNTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjYyOTM4Ng==A13h1QkFSQy9UU0QvRVQvMTgvMjAyNi0yMDI3A13h1MjAyNl9CQVJDXzkyMTg3MV8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_784836_1",
+   "slug": "2026-mes-784836-1",
+   "title": "COMPREHENSIVE REPAIR AND MAINT TO CERTAIN B/R AND E/M SERVICES IN WSA UNDER GE (AF) TECH AREA AT AF STN AGRA",
+   "refNo": "80026-30/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-17T18:30:00+05:30",
+   "closingAt": "2026-09-15T18:00:00+05:30",
+   "openingAt": "2026-09-22T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTUxNzU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk3MjU4OA==A13h1ODAwMjYtMzAvRTg=A13h1MjAyNl9NRVNfNzg0ODM2XzE=",
    "hasCorrigendum": false
   },
   {
