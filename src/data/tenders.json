@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-18T13:20:09.299Z",
+ "generatedAt": "2026-08-18T19:05:46.651Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 22902,
+ "count": 22912,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -266760,6 +266760,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "165010",
+   "slug": "165010",
+   "title": "14/AE(E)-II/Mumbai-I/2026-27",
+   "refNo": "14/AE(E)-II/Mumbai-I/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-08-18T22:49:00+05:30",
+   "closingAt": "2026-08-21T15:00:00+05:30",
+   "openingAt": "2026-08-21T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjU3NDA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA3OTk0Mg==A13h1MTQvQUUoRSktSUkvTXVtYmFpLUkvMjAyNi0yNw==A13h1MTY1MDEw",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BARC_918922_1",
    "slug": "2026-barc-918922-1",
    "title": "Refurbishment of Cirus Lecture Hall including Civil Furniture Electrical and Air Conditioning works at BARC Trombay Mumbai",
@@ -270271,6 +270285,20 @@
    "closingAt": "2026-08-22T15:00:00+05:30",
    "openingAt": "2026-08-22T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjU2Mjg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA1OTIwMw==A13h1NzAvRUUoRSApL1NoQ0VEL0NQV0QvMjAyNi0yNy9TRC1NYWRob3B1ciAoUmVjYWxsKQ==A13h1MTY1Mzcw",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "165372",
+   "slug": "165372",
+   "title": "47/EE/AD/2026-27/1A",
+   "refNo": "47/EE/AD/2026-27/1A",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-18T19:47:00+05:30",
+   "closingAt": "2026-08-22T15:00:00+05:30",
+   "openingAt": "2026-08-22T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjU3MTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA3OTk0Mg==A13h1NDcvRUUvQUQvMjAyNi0yNy8xQQ==A13h1MTY1Mzcy",
    "hasCorrigendum": false
   },
   {
@@ -274989,6 +275017,20 @@
    "closingAt": "2026-08-24T11:00:00+05:30",
    "openingAt": "2026-08-25T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDQwOTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjY3NjcyOA==A13h1UE8vS1RXL0VuTS9lVGVuLzI2LTI3LzA1IERhdGVkLTEzLjA4LjIwMjY=A13h1MjAyNl9DQ0xfMzYzNzM4XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26316",
+   "slug": "2026-bpcl-26316",
+   "title": "PROVIDING TECHNICAL SERVICES & OTHER ALLIED SERVICES MANPOWER AT BPCL CRDC, GREATER NOIDA",
+   "refNo": "1000462624",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "security-manpower",
+   "publishedAt": "2026-08-18T21:17:00+05:30",
+   "closingAt": "2026-08-24T11:00:00+05:30",
+   "openingAt": "2026-08-24T11:01:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjU3Mzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA3OTk0Mg==A13h1MTAwMDQ2MjYyNA==A13h1MjAyNl9CUENMXzI2MzE2",
    "hasCorrigendum": false
   },
   {
@@ -283686,6 +283728,48 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_26264",
+   "slug": "2026-bpcl-26264",
+   "title": "DISCOUNT E - TENDER FOR CONSTRUCTION OF NEW RETAIL OUTLET AT SY.NO.8/6,MADANAPALLY VILLAGE ON NH44,SHAMSHABAD MANDAL,RANGAREDDY DIST.",
+   "refNo": "1000462186",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "construction",
+   "publishedAt": "2026-08-18T21:08:00+05:30",
+   "closingAt": "2026-08-25T15:00:00+05:30",
+   "openingAt": "2026-08-25T15:01:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjU3MzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA3OTk0Mg==A13h1MTAwMDQ2MjE4Ng==A13h1MjAyNl9CUENMXzI2MjY0",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "165377",
+   "slug": "165377",
+   "title": "Quotation/AB/Mum-IV/2026/2066",
+   "refNo": "Quotation/AB/Mum-IV/2026/2066",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-18T20:57:00+05:30",
+   "closingAt": "2026-08-25T15:00:00+05:30",
+   "openingAt": "2026-08-25T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjU3MzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA3OTk0Mg==A13h1UXVvdGF0aW9uL0FCL011bS1JVi8yMDI2LzIwNjY=A13h1MTY1Mzc3",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "165376",
+   "slug": "165376",
+   "title": "109/EE(E)/LKO/26-27",
+   "refNo": "109/EE(E)/LKO/26-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-08-18T20:15:00+05:30",
+   "closingAt": "2026-08-25T15:00:00+05:30",
+   "openingAt": "2026-08-25T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjU3Mjk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA3OTk0Mg==A13h1MTA5L0VFKEUpL0xLTy8yNi0yNw==A13h1MTY1Mzc2",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_IISC_920749_1",
    "slug": "2026-iisc-920749-1",
    "title": "Renovation and retrofitting of 2x500 KLD sewage treatment plants and 1x100 KLD Effluent Treatment plant with Two Years Annual Maintenance Contract at IISc, Bangalore",
@@ -287508,6 +287592,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "165375",
+   "slug": "165375",
+   "title": "01/AE(EM)-II/EESM(EM)/MPC-II/2026-27",
+   "refNo": "01/AE(EM)-II/EESM(EM)/MPC-II/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-18T19:53:00+05:30",
+   "closingAt": "2026-08-26T15:00:00+05:30",
+   "openingAt": "2026-08-26T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjU3MTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA3OTk0Mg==A13h1MDEvQUUoRU0pLUlJL0VFU00oRU0pL01QQy1JSS8yMDI2LTI3A13h1MTY1Mzc1",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BRO_781657_1",
    "slug": "2026-bro-781657-1",
    "title": "S AND S OF S/AGGREGATE OF VARIOUS SIZES AND COARSE SAND FOR GSB AND WMM WKS ON NEW HYDRO ELECTRIC PROJECT TATO II R 18 AND R 18E P1 RD UNDER 92 RCC SECTOR UNDER 44 TF PROJECT BRAHMANK IN ARUNACHAL PRADESH",
@@ -289846,6 +289944,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "165373",
+   "slug": "165373",
+   "title": "34/EE/BLY/2026-27",
+   "refNo": "34/EE/BLY/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-18T19:08:00+05:30",
+   "closingAt": "2026-08-27T10:30:00+05:30",
+   "openingAt": "2026-08-27T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjU3MTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA3OTk0Mg==A13h1MzQvRUUvQkxZLzIwMjYtMjc=A13h1MTY1Mzcz",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107149749",
    "slug": "107149749",
    "title": "2HP, 6 pole, 100L Sq cage induction mot [2HP, 6 pole, 100L Sq cage induction motor.",
@@ -291453,6 +291565,20 @@
    "closingAt": "2026-08-27T15:00:00+05:30",
    "openingAt": "2026-08-27T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjUxOTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA1OTE4Mg==A13h1MTEvTklUL0VFL01FR0gtSUkvMjAyNi0yNw==A13h1MTY1MzY3",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "165378",
+   "slug": "165378",
+   "title": "26/EE(C)Puducherry-I/CPWD/26-27(R1)",
+   "refNo": "26/EE(C)Puducherry-I/CPWD/26-27(R1)",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-18T21:11:00+05:30",
+   "closingAt": "2026-08-27T15:00:00+05:30",
+   "openingAt": "2026-08-27T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjU3Mzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA3OTk0Mg==A13h1MjYvRUUoQylQdWR1Y2hlcnJ5LUkvQ1BXRC8yNi0yNyhSMSk=A13h1MTY1Mzc4",
    "hasCorrigendum": false
   },
   {
@@ -319131,6 +319257,20 @@
    "closingAt": "2026-09-15T12:30:00+05:30",
    "openingAt": "2026-09-15T12:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMDkzMjc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTcyOTkyNw==A13h1NjEyNjI1MDM=A13h1MTA3MTQyMjU4",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2627000115",
+   "slug": "2627000115",
+   "title": "Design,EPC for the extraction of Critical Metals from Lignite Fly Ash of NLCIL Neyveli",
+   "refNo": "2627000115",
+   "organisation": "Neyveli Lignite Corporation Limited",
+   "orgSlug": "neyveli-lignite-corporation-limited",
+   "category": "other",
+   "publishedAt": "2026-08-18T21:00:00+05:30",
+   "closingAt": "2026-09-15T14:30:00+05:30",
+   "openingAt": "2026-09-15T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjU3MzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA3OTk0Mg==A13h1MjYyNzAwMDExNQ==A13h1MjYyNzAwMDExNQ==",
    "hasCorrigendum": false
   },
   {
