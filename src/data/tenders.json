@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-18T01:58:24.441Z",
+ "generatedAt": "2026-08-18T07:14:06.351Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 22876,
+ "count": 22886,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -282286,6 +282286,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BCCL_363895_1",
+   "slug": "2026-bccl-363895-1",
+   "title": "Repairing Hywa No-JH10AD-9703",
+   "refNo": "BCCL/EJA/EnM/2026-27/89",
+   "organisation": "Bharat Coking Coal Limited",
+   "orgSlug": "bharat-coking-coal-limited",
+   "category": "transport",
+   "publishedAt": "2026-08-18T12:00:00+05:30",
+   "closingAt": "2026-08-25T12:00:00+05:30",
+   "openingAt": "2026-08-26T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjIyNDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzAzNzI0Mg==A13h1QkNDTC9FSkEvRW5NLzIwMjYtMjcvODk=A13h1MjAyNl9CQ0NMXzM2Mzg5NV8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107119243",
    "slug": "107119243",
    "title": "Set of adhesives for gluing of balancing weights to LHB wheels for dynamic Balancing consisting of 3 items: 1.Loctite SF 7075-Primer activator 100 ML-06 Nos 2.Loctite AA324-Structural adhesive 250 ML-02 Nos 3.Loctite SF79040-Chisel gasket remover 510 gm-01 No Spec: Technical specification for Dynamic wheel balancing of wheel set for balancing procedure. Dte.09.01.06 page-02 of 03. procedure of rectification of wheel set imbalance: item no.6",
@@ -282773,6 +282787,20 @@
    "closingAt": "2026-08-25T14:00:00+05:30",
    "openingAt": "2026-08-25T14:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMzYzNjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjQzNDMxNg==A13h1MjYwMDAyNzczNC1IQi0wOTA1MA==A13h1MTM2ODg3",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_HWB_922432_1",
+   "slug": "2026-hwb-922432-1",
+   "title": "Maintenance of safety equipments and records at HWBF Talcher during 2026-27",
+   "refNo": "HWBF/TAL/SFTY/2026/W01A",
+   "organisation": "Heavy Water Board",
+   "orgSlug": "heavy-water-board",
+   "category": "construction",
+   "publishedAt": "2026-08-18T12:00:00+05:30",
+   "closingAt": "2026-08-25T14:00:00+05:30",
+   "openingAt": "2026-08-26T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQ4NDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzAzNzI0Mg==A13h1SFdCRi9UQUwvU0ZUWS8yMDI2L1cwMUE=A13h1MjAyNl9IV0JfOTIyNDMyXzE=",
    "hasCorrigendum": false
   },
   {
@@ -286287,6 +286315,20 @@
    "closingAt": "2026-08-25T18:00:00+05:30",
    "openingAt": "2026-08-27T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTUwNDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk3MjU4OA==A13h1TklUIE5PLiAyMC9FRShDKSAvQlNOTC1CUEwvMjAyNi0yNw==A13h1MjAyNl9CU05MXzI4NzkwNF8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_JPL_287954_1",
+   "slug": "2026-jpl-287954-1",
+   "title": "Supply of of ID Fan LCI Panel 1MFD Capacitor as per BOQ-TDS",
+   "refNo": "JPL/CNM/ST/25-26/1100013175",
+   "organisation": "Jhabua Power Ltd",
+   "orgSlug": "jhabua-power-ltd",
+   "category": "goods-supply",
+   "publishedAt": "2026-08-18T12:30:00+05:30",
+   "closingAt": "2026-08-25T18:00:00+05:30",
+   "openingAt": "2026-08-26T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjI1MDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzAzNzI0Mg==A13h1SlBML0NOTS9TVC8yNS0yNi8xMTAwMDEzMTc1A13h1MjAyNl9KUExfMjg3OTU0XzE=",
    "hasCorrigendum": false
   },
   {
@@ -305260,6 +305302,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BHEL_64083_1",
+   "slug": "2026-bhel-64083-1",
+   "title": "E2563029 FABRICATION OF SPIRAL CASING AND MAN HOLE DOOR",
+   "refNo": "E2563029 FABRICATION OF SPIRAL CASING AND MAN HOLE DOOR",
+   "organisation": "Bharat Heavy Electricals Limited",
+   "orgSlug": "bharat-heavy-electricals-limited",
+   "category": "other",
+   "publishedAt": "2026-08-18T12:10:00+05:30",
+   "closingAt": "2026-08-31T18:00:00+05:30",
+   "openingAt": "2026-09-01T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjI0MzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzAzNzI0Mg==A13h1RTI1NjMwMjkgRkFCUklDQVRJT04gT0YgU1BJUkFMIENBU0lORyBBTkQgTUFOIEhPTEUgRE9PUg==A13h1MjAyNl9CSEVMXzY0MDgzXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_ARMY_781945_1",
    "slug": "2026-army-781945-1",
    "title": "RC/26-27/92",
@@ -305537,6 +305593,20 @@
    "closingAt": "2026-09-01T11:00:00+05:30",
    "openingAt": "2026-09-02T11:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDAyNDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjUyMTUwMA==A13h1UkFKRElWIDIyMDExLzEvMjAyNSBSYWphc3RoYW4gRGl2aXNpb24vRSAyODY0MTQ=A13h1MjAyNl9OSEFJXzI4NzMzNl8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26312",
+   "slug": "2026-bpcl-26312",
+   "title": "TENDER FOR REJUVENATION OF BECAFE AT BP GORIYAD, VADODARA, GUJARAT",
+   "refNo": "1000462585",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "other",
+   "publishedAt": "2026-08-18T12:18:00+05:30",
+   "closingAt": "2026-09-01T11:00:00+05:30",
+   "openingAt": "2026-09-01T11:10:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjI1MjA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzAzNzI0Mg==A13h1MTAwMDQ2MjU4NQ==A13h1MjAyNl9CUENMXzI2MzEy",
    "hasCorrigendum": false
   },
   {
@@ -315214,6 +315284,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_CSIR_287928_1",
+   "slug": "2026-csir-287928-1",
+   "title": "Renovation of Essential staff accommodation Type II (9 Nos) in Block B and C and Type V (2 Nos) in Block E1 and E2 quarters (both Civil and Electrical works) in TTRS Thirusulam Chennai 600 043",
+   "refNo": "622(128)/2024-2025/CW/EW/SE",
+   "organisation": "Council of Scientific and Industrial Research",
+   "orgSlug": "council-of-scientific-and-industrial-research",
+   "category": "electrical",
+   "publishedAt": "2026-08-18T12:00:00+05:30",
+   "closingAt": "2026-09-05T18:00:00+05:30",
+   "openingAt": "2026-09-07T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjIyODM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzAzNzI0Mg==A13h1NjIyKDEyOCkvMjAyNC0yMDI1L0NXL0VXL1NFA13h1MjAyNl9DU0lSXzI4NzkyOF8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_PrasarBharati_28189",
    "slug": "2026-prasarbharati-28189",
    "title": "Request for Proposal (RFP) for engagement of an agency for providing international news gathering, live and packaged content, co-anchored bulletins, and production support services for DD INDIA",
@@ -316026,6 +316110,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_ARMY_784896_1",
+   "slug": "2026-army-784896-1",
+   "title": "Proc of 90 x Spares of 105/37mm IFG",
+   "refNo": "A/17508/90 x SPARES/OS-15B",
+   "organisation": "IHQ of MoD (Army)-(OSCC)",
+   "orgSlug": "ihq-of-mod-army-oscc",
+   "category": "other",
+   "publishedAt": "2026-08-18T12:00:00+05:30",
+   "closingAt": "2026-09-07T17:00:00+05:30",
+   "openingAt": "2026-09-08T12:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjIzMDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzAzNzI0Mg==A13h1QS8xNzUwOC85MCB4IFNQQVJFUy9PUy0xNUI=A13h1MjAyNl9BUk1ZXzc4NDg5Nl8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MoRTH_919081_1",
    "slug": "2026-morth-919081-1",
    "title": "Maint of Helwak Karad Vita Nagaj Section of NH 166E in the state of Mah from Km 88/500 to 90/00, 97/00 to 99/700, 102/200 to 133/417, 134/617 to 182/117 and 182/117 to 228/772 (excluding the descoped stretches aggregating 23.50 Kms ) under (PBMC)",
@@ -316502,6 +316600,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_IAF_784922_1",
+   "slug": "2026-iaf-784922-1",
+   "title": "EXPRESSION OF INTEREST FOR INDIGENOUS DEVELOPMENT OF AIRCRAFT SPARE, LAMP 4LF (DP-4953)",
+   "refNo": "5BRD/5703/19/ISC BM-II",
+   "organisation": "Indian Air Force",
+   "orgSlug": "indian-air-force",
+   "category": "other",
+   "publishedAt": "2026-08-18T12:10:00+05:30",
+   "closingAt": "2026-09-08T14:30:00+05:30",
+   "openingAt": "2026-09-10T10:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjI1MDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzAzNzI0Mg==A13h1NUJSRC81NzAzLzE5L0lTQyBCTS1JSQ==A13h1MjAyNl9JQUZfNzg0OTIyXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_IAF_780555_1",
    "slug": "2026-iaf-780555-1",
    "title": "PROCUREMENT OF SPARES FOR AN-32 AIRCRAFT",
@@ -316779,6 +316891,34 @@
    "closingAt": "2026-09-08T18:00:00+05:30",
    "openingAt": "2026-09-16T09:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDAxNzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjUyMTUwNA==A13h1ODYyNDIvRTg=A13h1MjAyNl9NRVNfNzg0MDE4XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_784898_1",
+   "slug": "2026-mes-784898-1",
+   "title": "REPAIR AND MAINTENANCE OF VARIOUS TYPE OF EARTHING, LIGHTING ARRESTOR, GARDEN LIGHT GATE LIGHTS/POST OF LIGHTS AND OTHERS CONNECTED ITEMS AT AF STATION MULLANPUR UNDER AGE (I) HIGHGROUND CHANDIGARH",
+   "refNo": "AGE (I)/HG CHD/T-22/2026-27",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "electrical",
+   "publishedAt": "2026-08-18T12:00:00+05:30",
+   "closingAt": "2026-09-08T18:00:00+05:30",
+   "openingAt": "2026-09-15T12:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjIyOTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzAzNzI0Mg==A13h1QUdFIChJKS9IRyBDSEQvVC0yMi8yMDI2LTI3A13h1MjAyNl9NRVNfNzg0ODk4XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_784883_1",
+   "slug": "2026-mes-784883-1",
+   "title": "REPAIR/ RECTIFICATION OF DAY TO DAY COMPLAINT AND WELCOME MAINT OF MD/ OTM ACCN IN OTHER THAN MH AREA UNDER GE(U) E/M MEERUT CANTT.",
+   "refNo": "8864/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-18T12:00:00+05:30",
+   "closingAt": "2026-09-08T18:00:00+05:30",
+   "openingAt": "2026-09-15T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjIyNTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzAzNzI0Mg==A13h1ODg2NC9FOA==A13h1MjAyNl9NRVNfNzg0ODgzXzE=",
    "hasCorrigendum": false
   },
   {
