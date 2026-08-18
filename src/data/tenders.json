@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-18T07:14:06.351Z",
+ "generatedAt": "2026-08-18T13:20:09.299Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 22886,
+ "count": 22902,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -266844,6 +266844,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_NTPC_111115_1",
+   "slug": "2026-ntpc-111115-1",
+   "title": "Procurement of Level switches for sump pump in CHP Barh",
+   "refNo": "NTPC/USSC-CPG3/9900331725",
+   "organisation": "NTPC Limited",
+   "orgSlug": "ntpc-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-08-18T18:15:00+05:30",
+   "closingAt": "2026-08-21T16:00:00+05:30",
+   "openingAt": "2026-08-22T16:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjMyNzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA1OTE5Mw==A13h1TlRQQy9VU1NDLUNQRzMvOTkwMDMzMTcyNQ==A13h1MjAyNl9OVFBDXzExMTExNV8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_KSRRD_149189_1",
    "slug": "2026-ksrrd-149189-1",
    "title": "Permanent Restoration of road from L102 Zampathri to Tragpathri Package No JK10-190",
@@ -270243,6 +270257,20 @@
    "closingAt": "2026-08-22T15:00:00+05:30",
    "openingAt": "2026-08-22T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTEyMDI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njc1ODk4OQ==A13h1MTkoUmVjYWxsKS9OSVEvRUVTTShFKS9JUEVEL0NQV0QvMjAyNi0yNw==A13h1MTY1MTQ3",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "165370",
+   "slug": "165370",
+   "title": "70/EE(E )/ShCED/CPWD/2026-27/SD-Madhopur (Recall)",
+   "refNo": "70/EE(E )/ShCED/CPWD/2026-27/SD-Madhopur (Recall)",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-08-18T18:38:00+05:30",
+   "closingAt": "2026-08-22T15:00:00+05:30",
+   "openingAt": "2026-08-22T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjU2Mjg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA1OTIwMw==A13h1NzAvRUUoRSApL1NoQ0VEL0NQV0QvMjAyNi0yNy9TRC1NYWRob3B1ciAoUmVjYWxsKQ==A13h1MTY1Mzcw",
    "hasCorrigendum": false
   },
   {
@@ -283602,6 +283630,62 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MCD_288044_2",
+   "slug": "2026-mcd-288044-2",
+   "title": "EE (M-IV)-SWZ/MCD/2026-27/28-02",
+   "refNo": "EE (M-IV)-SWZ/MCD/2026-27/28",
+   "organisation": "Municipal Corporation of Delhi",
+   "orgSlug": "municipal-corporation-of-delhi",
+   "category": "other",
+   "publishedAt": "2026-08-18T18:50:00+05:30",
+   "closingAt": "2026-08-25T15:00:00+05:30",
+   "openingAt": "2026-08-25T15:05:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjMwNzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA1OTIwMw==A13h1RUUgKE0tSVYpLVNXWi9NQ0QvMjAyNi0yNy8yOA==A13h1MjAyNl9NQ0RfMjg4MDQ0XzI=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MCD_288009_1",
+   "slug": "2026-mcd-288009-1",
+   "title": "EE (M-IV)-SWZ/MCD/2026-27/27-01",
+   "refNo": "EE (M-IV)-SWZ/MCD/2026-27/27",
+   "organisation": "Municipal Corporation of Delhi",
+   "orgSlug": "municipal-corporation-of-delhi",
+   "category": "other",
+   "publishedAt": "2026-08-18T18:50:00+05:30",
+   "closingAt": "2026-08-25T15:00:00+05:30",
+   "openingAt": "2026-08-25T15:05:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjI5NDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA1OTIwMw==A13h1RUUgKE0tSVYpLVNXWi9NQ0QvMjAyNi0yNy8yNw==A13h1MjAyNl9NQ0RfMjg4MDA5XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MCD_288009_2",
+   "slug": "2026-mcd-288009-2",
+   "title": "EE (M-IV)-SWZ/MCD/2026-27/27-02",
+   "refNo": "EE (M-IV)-SWZ/MCD/2026-27/27",
+   "organisation": "Municipal Corporation of Delhi",
+   "orgSlug": "municipal-corporation-of-delhi",
+   "category": "other",
+   "publishedAt": "2026-08-18T18:50:00+05:30",
+   "closingAt": "2026-08-25T15:00:00+05:30",
+   "openingAt": "2026-08-25T15:05:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjI5NTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA1OTIwMw==A13h1RUUgKE0tSVYpLVNXWi9NQ0QvMjAyNi0yNy8yNw==A13h1MjAyNl9NQ0RfMjg4MDA5XzI=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MCD_288044_1",
+   "slug": "2026-mcd-288044-1",
+   "title": "EE (M-IV)-SWZ/MCD/2026-27/28-01",
+   "refNo": "EE (M-IV)-SWZ/MCD/2026-27/28",
+   "organisation": "Municipal Corporation of Delhi",
+   "orgSlug": "municipal-corporation-of-delhi",
+   "category": "other",
+   "publishedAt": "2026-08-18T18:50:00+05:30",
+   "closingAt": "2026-08-25T15:00:00+05:30",
+   "openingAt": "2026-08-25T15:05:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjMwNjg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA1OTIwMw==A13h1RUUgKE0tSVYpLVNXWi9NQ0QvMjAyNi0yNy8yOA==A13h1MjAyNl9NQ0RfMjg4MDQ0XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_IISC_920749_1",
    "slug": "2026-iisc-920749-1",
    "title": "Renovation and retrofitting of 2x500 KLD sewage treatment plants and 1x100 KLD Effluent Treatment plant with Two Years Annual Maintenance Contract at IISc, Bangalore",
@@ -291344,6 +291428,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "165369",
+   "slug": "165369",
+   "title": "109/EE(E)/HCED/2026-27",
+   "refNo": "109/EE(E)/HCED/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-08-18T18:24:00+05:30",
+   "closingAt": "2026-08-27T15:00:00+05:30",
+   "openingAt": "2026-08-27T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjU1OTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA1OTE5Mw==A13h1MTA5L0VFKEUpL0hDRUQvMjAyNi0yNw==A13h1MTY1MzY5",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "165367",
+   "slug": "165367",
+   "title": "11/NIT/EE/MEGH-II/2026-27",
+   "refNo": "11/NIT/EE/MEGH-II/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-18T18:10:00+05:30",
+   "closingAt": "2026-08-27T15:00:00+05:30",
+   "openingAt": "2026-08-27T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjUxOTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA1OTE4Mg==A13h1MTEvTklUL0VFL01FR0gtSUkvMjAyNi0yNw==A13h1MTY1MzY3",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NTPC_110949_1",
    "slug": "2026-ntpc-110949-1",
    "title": "HORTICULTURE DEVELOPMENT MAINTENANCE WORK IN D TYPE QUARTERS AND MISC. AREA OF PTS/TTS IN TOWNSHIP.",
@@ -298355,6 +298467,20 @@
    "closingAt": "2026-08-29T17:00:00+05:30",
    "openingAt": "2026-09-01T16:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQwNTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njg2NDEzMQ==A13h1TklUIE5vLjE3Ny8yMDI2LTI3LCBEdC4wNy4wOC4yMDI2IG9mIHRoZSBFbmdpbmVlci1pbi1DaGllZiwgUFIsIFBNR1NZLCBWaWpheWF3YWRhLg==A13h1MjAyNl9FTkNQUl8xNDkxOTdfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MCL_363925_1",
+   "slug": "2026-mcl-363925-1",
+   "title": "Upgradation of High Mast Lighting and Reutilization of Existing LED Luminaries at VSS stadium of IB Valley Area",
+   "refNo": "MCL/GM/IBV/ENM/etender/112348 Dated-18.08.2026",
+   "organisation": "Mahanadi Coalfields Limited",
+   "orgSlug": "mahanadi-coalfields-limited",
+   "category": "electrical",
+   "publishedAt": "2026-08-18T18:30:00+05:30",
+   "closingAt": "2026-08-29T17:00:00+05:30",
+   "openingAt": "2026-08-31T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjI1MzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA1OTIwMw==A13h1TUNML0dNL0lCVi9FTk0vZXRlbmRlci8xMTIzNDggRGF0ZWQtMTguMDguMjAyNg==A13h1MjAyNl9NQ0xfMzYzOTI1XzE=",
    "hasCorrigendum": false
   },
   {
@@ -307808,6 +307934,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_ENCPR_149209_1",
+   "slug": "2026-encpr-149209-1",
+   "title": "Package No AP26PIV035 L031 Tajangi road to Udapalem in G.Madugula Mandal",
+   "refNo": "38/2026-27,Dt.07.08.2026 of the Engineer-in-Chief, PR, PMGSY, Vijayawada",
+   "organisation": "National Rural Roads Development Agency (NRRDA)",
+   "orgSlug": "national-rural-roads-development-agency-nrrda",
+   "category": "construction",
+   "publishedAt": "2026-08-18T18:30:00+05:30",
+   "closingAt": "2026-09-01T17:00:00+05:30",
+   "openingAt": "2026-09-07T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjMzMDU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA1OTE5Mw==A13h1MzgvMjAyNi0yNyxEdC4wNy4wOC4yMDI2IG9mIHRoZSBFbmdpbmVlci1pbi1DaGllZiwgUFIsIFBNR1NZLCBWaWpheWF3YWRhA13h1MjAyNl9FTkNQUl8xNDkyMDlfMQ==",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NITT_921677_1",
    "slug": "2026-nitt-921677-1",
    "title": "Supply and installation of MIC RF SOURCE METER (S BAND) AND MIC RF POWER METER (S BAND) WITH ACCESSORIES",
@@ -309880,6 +310020,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "28448",
+   "slug": "28448",
+   "title": "Providing Security and Surveillance services at Pandiabili Substation",
+   "refNo": "ER2/NT/S-SECUR/DOM/EC4/26/11673",
+   "organisation": "Power Grid Corporation of India Limited",
+   "orgSlug": "power-grid-corporation-of-india-limited",
+   "category": "electrical",
+   "publishedAt": "2026-08-18T18:46:00+05:30",
+   "closingAt": "2026-09-02T11:00:00+05:30",
+   "openingAt": "2026-09-02T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjU2MzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA1OTIwMw==A13h1RVIyL05UL1MtU0VDVVIvRE9NL0VDNC8yNi8xMTY3Mw==A13h1Mjg0NDg=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NHAI_287247_1",
    "slug": "2026-nhai-287247-1",
    "title": "Routine Maintenance and Incident Management of Two-Laning of Muzaffarpur Barauni Section of NH-122 (Old NH-28) from Km 519.600 to Km 627.163, including 3 km stretch from Madhaul Junction to Ramdayalu Junction of NH-22 in the State of Bihar (2nd Call)",
@@ -310384,6 +310538,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_IITR_922525_1",
+   "slug": "2026-iitr-922525-1",
+   "title": "Software",
+   "refNo": "2026270196/MM-13/HSS/226",
+   "organisation": "Indian Institute of Technology Roorkee",
+   "orgSlug": "indian-institute-of-technology-roorkee",
+   "category": "it-software",
+   "publishedAt": "2026-08-18T18:30:00+05:30",
+   "closingAt": "2026-09-02T15:00:00+05:30",
+   "openingAt": "2026-09-02T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjI0OTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA1OTIwMw==A13h1MjAyNjI3MDE5Ni9NTS0xMy9IU1MvMjI2A13h1MjAyNl9JSVRSXzkyMjUyNV8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NMPT_921590_1",
    "slug": "2026-nmpt-921590-1",
    "title": "Hiring of 1 No. Harbour Mobile Cranes (HMC) of 100 MT or above capacity on Revenue sharing basis for a period of 10 years, extendable up to 02 years at NMPA",
@@ -310409,6 +310577,20 @@
    "closingAt": "2026-09-02T16:00:00+05:30",
    "openingAt": "2026-09-03T16:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDI4MzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjYwODA4Mg==A13h1MTMvU3RyZ1NoZWQvRUUoRSlJSS8yMDEyLzI2IGR0ZC4xMi4wOC4yNg==A13h1MjAyNl9OTVBUXzkyMTkwNl8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_NTPC_111111_1",
+   "slug": "2026-ntpc-111111-1",
+   "title": "Rewinding of 6 6KV 1000KW Cranking Motor at NTPC Kawas",
+   "refNo": "NTPC/Kawas GPS/9900331662",
+   "organisation": "NTPC Limited",
+   "orgSlug": "ntpc-limited",
+   "category": "other",
+   "publishedAt": "2026-08-18T18:10:00+05:30",
+   "closingAt": "2026-09-02T16:00:00+05:30",
+   "openingAt": "2026-09-03T16:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjMyNTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA1ODg5Nw==A13h1TlRQQy9LYXdhcyBHUFMvOTkwMDMzMTY2Mg==A13h1MjAyNl9OVFBDXzExMTExMV8x",
    "hasCorrigendum": false
   },
   {
@@ -316460,6 +316642,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_IITMD_922623_1",
+   "slug": "2026-iitmd-922623-1",
+   "title": "Provision of DG Backup power supply to STP plant at North Campus of IIT Mandi",
+   "refNo": "IIT Mandi (CW)/SE-2054/2026-27/1594-96 dated 18-08-2026",
+   "organisation": "Indian Institute of Technology Mandi",
+   "orgSlug": "indian-institute-of-technology-mandi",
+   "category": "electrical",
+   "publishedAt": "2026-08-18T18:40:00+05:30",
+   "closingAt": "2026-09-07T18:00:00+05:30",
+   "openingAt": "2026-09-09T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjMxMzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA1OTIwMw==A13h1SUlUIE1hbmRpIChDVykvU0UtMjA1NC8yMDI2LTI3LzE1OTQtOTYgZGF0ZWQgMTgtMDgtMjAyNg==A13h1MjAyNl9JSVRNRF85MjI2MjNfMQ==",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NHAI_284851_1",
    "slug": "2026-nhai-284851-1",
    "title": "Balance work for Const of Western Side Spur of Rampur Rudrapur sec connecting NH24 to NH 87 bypassing Rampur Town at Risk and Cost of Contractor on EPC Mode in Uttar Pradesh",
@@ -316779,6 +316975,20 @@
    "closingAt": "2026-09-08T17:00:00+05:30",
    "openingAt": "2026-09-09T17:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMzcwNjc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjQ3Njc4NQ==A13h1Mi0yNzEvMjAyNi1Ucmc=A13h1MjAyNl9ET1BfOTIxNTg0XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_IIMT_922648_1",
+   "slug": "2026-iimt-922648-1",
+   "title": "Tender for the Supply, Installation, Testing, and Commissioning of Fixed Frame Ambient Light Rejecting Projection Screen for IIM Tiruchirappalli",
+   "refNo": "26SP163T",
+   "organisation": "Indian Institute of Management Tiruchirappalli",
+   "orgSlug": "indian-institute-of-management-tiruchirappalli",
+   "category": "goods-supply",
+   "publishedAt": "2026-08-18T18:30:00+05:30",
+   "closingAt": "2026-09-08T17:00:00+05:30",
+   "openingAt": "2026-09-10T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjMyNTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA1OTE5Mw==A13h1MjZTUDE2M1Q=A13h1MjAyNl9JSU1UXzkyMjY0OF8x",
    "hasCorrigendum": false
   },
   {
@@ -319537,6 +319747,20 @@
    "closingAt": "2026-09-18T18:00:00+05:30",
    "openingAt": "2026-09-25T13:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDM5ODU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjY3NjcxMQ==A13h1Q0VCWi9ERE4oSCkvVC0yMSBPRiAyMDI2LTI3A13h1MjAyNl9NRVNfNzg0Mzc1XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_IAF_785057_1",
+   "slug": "2026-iaf-785057-1",
+   "title": "DEVELOPMENT OF VIRTUAL REALITY AND ARTIFICIAL INTELLIGENCE BASED MAINTENANCE TRAINING SYSTEM FOR SU-30 MKI EJECTION SEAT",
+   "refNo": "11BRD/6201/35/ISC/TyBM-217",
+   "organisation": "Indian Air Force",
+   "orgSlug": "indian-air-force",
+   "category": "other",
+   "publishedAt": "2026-08-18T18:45:00+05:30",
+   "closingAt": "2026-09-21T09:00:00+05:30",
+   "openingAt": "2026-09-22T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjQ5NzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA1OTIwMw==A13h1MTFCUkQvNjIwMS8zNS9JU0MvVHlCTS0yMTc=A13h1MjAyNl9JQUZfNzg1MDU3XzE=",
    "hasCorrigendum": false
   },
   {
