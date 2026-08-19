@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-19T07:14:28.679Z",
+ "generatedAt": "2026-08-19T13:21:30.643Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 22922,
+ "count": 22936,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -283798,6 +283798,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "165485",
+   "slug": "165485",
+   "title": "NIQ-4(1)/AEE1/CPWD/MUZ/69 Dtd. 18/08/2026",
+   "refNo": "NIQ-4(1)/AEE1/CPWD/MUZ/69 Dtd. 18/08/2026",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-19T18:43:00+05:30",
+   "closingAt": "2026-08-25T15:00:00+05:30",
+   "openingAt": "2026-08-25T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzAxMjc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzE0NTY4Ng==A13h1TklRLTQoMSkvQUVFMS9DUFdEL01VWi82OSBEdGQuIDE4LzA4LzIwMjY=A13h1MTY1NDg1",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_IISC_920749_1",
    "slug": "2026-iisc-920749-1",
    "title": "Renovation and retrofitting of 2x500 KLD sewage treatment plants and 1x100 KLD Effluent Treatment plant with Two Years Annual Maintenance Contract at IISc, Bangalore",
@@ -287645,6 +287659,20 @@
    "closingAt": "2026-08-26T15:00:00+05:30",
    "openingAt": "2026-08-27T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjU5Mjk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzEyMzY2NA==A13h1TlRQQy9TaW5ncmF1bGkgU1RQUy85OTAwMzMxNjk3A13h1MjAyNl9OVFBDXzExMTEyM18x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26339",
+   "slug": "2026-bpcl-26339",
+   "title": "TENDER FOR CIVIL/MECH. & ELECTRICAL WORKS AT NRO RAJAPUR JUNCTION",
+   "refNo": "1000462743",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "electrical",
+   "publishedAt": "2026-08-19T18:32:00+05:30",
+   "closingAt": "2026-08-26T15:30:00+05:30",
+   "openingAt": "2026-08-26T15:40:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzAxMTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzE0NTY4Ng==A13h1MTAwMDQ2Mjc0Mw==A13h1MjAyNl9CUENMXzI2MzM5",
    "hasCorrigendum": false
   },
   {
@@ -291635,6 +291663,48 @@
    "closingAt": "2026-08-27T15:00:00+05:30",
    "openingAt": "2026-08-27T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjU3Mzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzEwNDc3OA==A13h1MjYvRUUoQylQdWR1Y2hlcnJ5LUkvQ1BXRC8yNi0yNyhSMSk=A13h1MTY1Mzc4",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "165481",
+   "slug": "165481",
+   "title": "73 / EE(E) / MUMBAI-IV/ 2026-27",
+   "refNo": "73 / EE(E) / MUMBAI-IV/ 2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-08-19T18:39:00+05:30",
+   "closingAt": "2026-08-27T15:00:00+05:30",
+   "openingAt": "2026-08-27T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzAxMjU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzE0NTY4Ng==A13h1NzMgLyBFRShFKSAvIE1VTUJBSS1JVi8gMjAyNi0yNw==A13h1MTY1NDgx",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "165483",
+   "slug": "165483",
+   "title": "12/EE(E)/DED-101/2026-27 Recall-3",
+   "refNo": "12/EE(E)/DED-101/2026-27 Recall-3",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-08-19T18:37:00+05:30",
+   "closingAt": "2026-08-27T15:00:00+05:30",
+   "openingAt": "2026-08-27T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzAxMTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzE0NTY4Ng==A13h1MTIvRUUoRSkvREVELTEwMS8yMDI2LTI3IFJlY2FsbC0zA13h1MTY1NDgz",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "165476",
+   "slug": "165476",
+   "title": "22/AE/MCSD-III/2026-27",
+   "refNo": "22/AE/MCSD-III/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-19T18:27:00+05:30",
+   "closingAt": "2026-08-27T15:00:00+05:30",
+   "openingAt": "2026-08-27T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzAxMTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzE0NTU5NQ==A13h1MjIvQUUvTUNTRC1JSUkvMjAyNi0yNw==A13h1MTY1NDc2",
    "hasCorrigendum": false
   },
   {
@@ -312162,6 +312232,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MES_781217_2",
+   "slug": "2026-mes-781217-2",
+   "title": "REPLACEMENT OF OLD PCC STREET LIGHT POLE INTO GI OCTAGONAL POLE STEEL TABULAR DECORATIVE POLE WITH CONNECTED WORKS AT BAIRAGARH UNDER GE BHOPAL",
+   "refNo": "8632/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "other",
+   "publishedAt": "2026-08-19T18:50:00+05:30",
+   "closingAt": "2026-09-02T18:00:00+05:30",
+   "openingAt": "2026-09-04T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjYzMjE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzE0NTY4Ng==A13h1ODYzMi9FOA==A13h1MjAyNl9NRVNfNzgxMjE3XzI=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_ISMD_921863_1",
    "slug": "2026-ismd-921863-1",
    "title": "Annual Civil Maintenance Contract of Open Campus Space and Outside Building Area in IIT (ISM) Dhanbad Main Campus Zone B",
@@ -312187,6 +312271,20 @@
    "closingAt": "2026-09-02T18:50:00+05:30",
    "openingAt": "2026-09-03T18:50:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDM4NzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjYyOTM5NQ==A13h1U0NDWS1FWC0yMDI2LTI3KDA2KQ==A13h1MjAyNl9OQ1NNXzkyMjAxOF8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26324",
+   "slug": "2026-bpcl-26324",
+   "title": "SUPPLY OF MULTI-FUNCTIONAL ADDITIVE FOR BPCL BRANDED FUELS SPEED, FOR A PERIOD OF 1 YEAR.",
+   "refNo": "1000462681",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-08-19T18:31:00+05:30",
+   "closingAt": "2026-09-02T19:00:00+05:30",
+   "openingAt": "2026-09-02T19:01:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzAxMTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzE0NTY4Ng==A13h1MTAwMDQ2MjY4MQ==A13h1MjAyNl9CUENMXzI2MzI0",
    "hasCorrigendum": false
   },
   {
@@ -312845,6 +312943,34 @@
    "closingAt": "2026-09-03T15:00:00+05:30",
    "openingAt": "2026-09-07T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDQwMzU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjY3Njc4Ng==A13h1WlYxTUMyNjAxNA==A13h1MjAyNl9PTkdDXzI4NzUxOV8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_IITR_922850_1",
+   "slug": "2026-iitr-922850-1",
+   "title": "Laboratory Water Purification System",
+   "refNo": "2026270240/MM-6/CHEMISTRY/234",
+   "organisation": "Indian Institute of Technology Roorkee",
+   "orgSlug": "indian-institute-of-technology-roorkee",
+   "category": "other",
+   "publishedAt": "2026-08-19T18:30:00+05:30",
+   "closingAt": "2026-09-03T15:00:00+05:30",
+   "openingAt": "2026-09-03T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjY3MjE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzE0NTY4Ng==A13h1MjAyNjI3MDI0MC9NTS02L0NIRU1JU1RSWS8yMzQ=A13h1MjAyNl9JSVRSXzkyMjg1MF8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_IITR_922863_1",
+   "slug": "2026-iitr-922863-1",
+   "title": "Table-Top Precision Multimeter,Digital Storage Oscilloscope,Arbitrary Function Generator",
+   "refNo": "2026270233/MM-4/EE/236",
+   "organisation": "Indian Institute of Technology Roorkee",
+   "orgSlug": "indian-institute-of-technology-roorkee",
+   "category": "other",
+   "publishedAt": "2026-08-19T18:30:00+05:30",
+   "closingAt": "2026-09-03T15:00:00+05:30",
+   "openingAt": "2026-09-03T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjY3ODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzE0NTU5NQ==A13h1MjAyNjI3MDIzMy9NTS00L0VFLzIzNg==A13h1MjAyNl9JSVRSXzkyMjg2M18x",
    "hasCorrigendum": false
   },
   {
@@ -314539,6 +314665,20 @@
    "closingAt": "2026-09-04T15:00:00+05:30",
    "openingAt": "2026-09-07T15:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDc0NTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjcxNTU0Nw==A13h1RU1EL0NWTC9UZW5kZXIvMjAyNi0yNy85A13h1MjAyNl9OSVRUXzkyMjE3MF8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_HPCLB_288189_1",
+   "slug": "2026-hpclb-288189-1",
+   "title": "CARRYING OUT MISCELLANEOUS CIVIL WORKS INCLUDING MAINTENANCE AND REPAIR OF CANE MARSHALLING YARD AT HBL INTEGRATED SUGAR PLANT, SUGAULI AND LAURIYA",
+   "refNo": "HBL/TEN/PUB/26-27/193",
+   "organisation": "HPCL Biofuels Limited",
+   "orgSlug": "hpcl-biofuels-limited",
+   "category": "construction",
+   "publishedAt": "2026-08-19T18:50:00+05:30",
+   "closingAt": "2026-09-04T15:00:00+05:30",
+   "openingAt": "2026-09-05T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjY3OTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzE0NTY4Ng==A13h1SEJML1RFTi9QVUIvMjYtMjcvMTkzA13h1MjAyNl9IUENMQl8yODgxODlfMQ==",
    "hasCorrigendum": false
   },
   {
@@ -316390,6 +316530,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_ISRTP_922855_1",
+   "slug": "2026-isrtp-922855-1",
+   "title": "Catering Services at IISER Tirupati",
+   "refNo": "IISERT/Admin/HDCS/2026-27/01",
+   "organisation": "Indian Institute of Science Education and Research - Tirupati",
+   "orgSlug": "indian-institute-of-science-education-and-research-tirupati",
+   "category": "other",
+   "publishedAt": "2026-08-19T18:30:00+05:30",
+   "closingAt": "2026-09-07T15:00:00+05:30",
+   "openingAt": "2026-09-08T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjY5Mjg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzE0NTU5NQ==A13h1SUlTRVJUL0FkbWluL0hEQ1MvMjAyNi0yNy8wMQ==A13h1MjAyNl9JU1JUUF85MjI4NTVfMQ==",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_AAI_286836_1",
    "slug": "2026-aai-286836-1",
    "title": "Replacement of AHU and interconnection of chilled water pipeline network of Old DTB ITB with pipeline of T2 NITB at NSCBI Airport Kolkata",
@@ -317955,6 +318109,34 @@
    "closingAt": "2026-09-09T18:00:00+05:30",
    "openingAt": "2026-09-11T10:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjU5NjA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzEyMzY2NA==A13h1ODkwOC9FOA==A13h1MjAyNl9NRVNfNzg1MTg1XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_776778_1",
+   "slug": "2026-mes-776778-1",
+   "title": "REPAIR/ MAINT OF EXTERNAL ELECTRIC AND WATER SUPPLY AT RRC PATPARGANJ, COMPREHENSIVE/ PREVENTIVE MAINT OF VRF TYPE ACS AT TYPE-VI QTRS AND REPAIR/ MAINT OF VRV UNITS, PACKAGE TYPE, SPLIT AND WINDOW ACS AT MBC (RESTRICTED AREA) UNDER GE (SOUTH WEST)",
+   "refNo": "GE/SW-48/2026-2027",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-19T18:50:00+05:30",
+   "closingAt": "2026-09-09T18:00:00+05:30",
+   "openingAt": "2026-09-11T12:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjY0MjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzE0NTY4Ng==A13h1R0UvU1ctNDgvMjAyNi0yMDI3A13h1MjAyNl9NRVNfNzc2Nzc4XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_777398_1",
+   "slug": "2026-mes-777398-1",
+   "title": "ROOF TREATMENT OF FLATS AT B BLOCK AT KJ APARTMENTS NOIDA (RESTRICTED AREA) UNDER GE (SOUTH WEST) NEW DELHI-03",
+   "refNo": "GE/SW-53/2026-2027",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "other",
+   "publishedAt": "2026-08-19T18:50:00+05:30",
+   "closingAt": "2026-09-09T18:00:00+05:30",
+   "openingAt": "2026-09-11T12:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjY0NTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzE0NTY4Ng==A13h1R0UvU1ctNTMvMjAyNi0yMDI3A13h1MjAyNl9NRVNfNzc3Mzk4XzE=",
    "hasCorrigendum": false
   },
   {
@@ -319677,6 +319859,20 @@
    "closingAt": "2026-09-16T18:00:00+05:30",
    "openingAt": "2026-09-23T09:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDEzMDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjYwODA5MQ==A13h1ODAxMjU3L0U4A13h1MjAyNl9NRVNfNzg0MjAzXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_NALCO_922835_1",
+   "slug": "2026-nalco-922835-1",
+   "title": "SHOP AND FIELD PAINTING OF STEEL STRUCTURES / PIPERAKES / PIPE LINES AND EQUIMPMENT STRUCTURE INSIDE ALUMINA PLANT",
+   "refNo": "TnC/AR/03/eR-3092",
+   "organisation": "National Aluminium Company Limited,NALCO",
+   "orgSlug": "national-aluminium-company-limited-nalco",
+   "category": "construction",
+   "publishedAt": "2026-08-19T18:30:00+05:30",
+   "closingAt": "2026-09-17T10:00:00+05:30",
+   "openingAt": "2026-09-19T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjcwMzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzE0NTU5NQ==A13h1VG5DL0FSLzAzL2VSLTMwOTI=A13h1MjAyNl9OQUxDT185MjI4MzVfMQ==",
    "hasCorrigendum": false
   },
   {
