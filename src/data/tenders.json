@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-19T01:59:41.832Z",
+ "generatedAt": "2026-08-19T07:14:28.679Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 22912,
+ "count": 22922,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -275342,6 +275342,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_NTPC_111129_1",
+   "slug": "2026-ntpc-111129-1",
+   "title": "PROCUREMENT OF ST 1 PT PLANT FLOCCULATOR DRIVE FOR CLARIFLOCCULATOR AT",
+   "refNo": "NTPC/USSC-CPG3/9900331756",
+   "organisation": "NTPC Limited",
+   "orgSlug": "ntpc-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-08-19T12:30:00+05:30",
+   "closingAt": "2026-08-24T12:30:00+05:30",
+   "openingAt": "2026-08-25T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjU5MTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzEyMzY2NA==A13h1TlRQQy9VU1NDLUNQRzMvOTkwMDMzMTc1Ng==A13h1MjAyNl9OVFBDXzExMTEyOV8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_DRDO_777364_1",
    "slug": "2026-drdo-777364-1",
    "title": "S-Band Instrumentation Tracking Radar",
@@ -283770,6 +283784,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_NTPC_111130_1",
+   "slug": "2026-ntpc-111130-1",
+   "title": "PROCUREMENT OF ELECON MAKE CAPITAL ITEMS FOR CHP DADRI FY 26 27",
+   "refNo": "NTPC/USSC-CPG3/9900331863",
+   "organisation": "NTPC Limited",
+   "orgSlug": "ntpc-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-08-19T12:15:00+05:30",
+   "closingAt": "2026-08-25T15:00:00+05:30",
+   "openingAt": "2026-08-25T17:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjU5MzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzEyMzY2NA==A13h1TlRQQy9VU1NDLUNQRzMvOTkwMDMzMTg2Mw==A13h1MjAyNl9OVFBDXzExMTEzMF8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_IISC_920749_1",
    "slug": "2026-iisc-920749-1",
    "title": "Renovation and retrofitting of 2x500 KLD sewage treatment plants and 1x100 KLD Effluent Treatment plant with Two Years Annual Maintenance Contract at IISc, Bangalore",
@@ -287606,6 +287634,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_NTPC_111123_1",
+   "slug": "2026-ntpc-111123-1",
+   "title": "Contract for Cleaning of Jungle, Grass,",
+   "refNo": "NTPC/Singrauli STPS/9900331697",
+   "organisation": "NTPC Limited",
+   "orgSlug": "ntpc-limited",
+   "category": "other",
+   "publishedAt": "2026-08-19T12:30:00+05:30",
+   "closingAt": "2026-08-26T15:00:00+05:30",
+   "openingAt": "2026-08-27T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjU5Mjk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzEyMzY2NA==A13h1TlRQQy9TaW5ncmF1bGkgU1RQUy85OTAwMzMxNjk3A13h1MjAyNl9OVFBDXzExMTEyM18x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BRO_781657_1",
    "slug": "2026-bro-781657-1",
    "title": "S AND S OF S/AGGREGATE OF VARIOUS SIZES AND COARSE SAND FOR GSB AND WMM WKS ON NEW HYDRO ELECTRIC PROJECT TATO II R 18 AND R 18E P1 RD UNDER 92 RCC SECTOR UNDER 44 TF PROJECT BRAHMANK IN ARUNACHAL PRADESH",
@@ -288051,6 +288093,20 @@
    "closingAt": "2026-08-26T17:00:00+05:30",
    "openingAt": "2026-08-28T09:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDcxMzU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjkzMjA5OQ==A13h1TUNML0dNKEhBKS9DaXZpbC9lLVRlbmRlci8gMjYtMjcvNTUgRHQuMTQuMDguMjAyNg==A13h1MjAyNl9NQ0xfMzYzNzYxXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_NTPC_111124_1",
+   "slug": "2026-ntpc-111124-1",
+   "title": "Study on Impact of Afforestation, Enhancing Biodiversity and",
+   "refNo": "NTPC/Korba STPS/9900331461",
+   "organisation": "NTPC Limited",
+   "orgSlug": "ntpc-limited",
+   "category": "other",
+   "publishedAt": "2026-08-19T12:00:00+05:30",
+   "closingAt": "2026-08-26T17:00:00+05:30",
+   "openingAt": "2026-08-27T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjU4Nzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzEyMzY2NA==A13h1TlRQQy9Lb3JiYSBTVFBTLzk5MDAzMzE0NjE=A13h1MjAyNl9OVFBDXzExMTEyNF8x",
    "hasCorrigendum": false
   },
   {
@@ -297644,6 +297700,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BCCL_363980_1",
+   "slug": "2026-bccl-363980-1",
+   "title": "Providing power supply to the newly constructed weighbridge and arrangement of lighting near weighbridge at maheshpur silo under Barora Area.",
+   "refNo": "BCCL/GM/AR-1/AM (ENM)/E-TENDER/2026-27/149",
+   "organisation": "Bharat Coking Coal Limited",
+   "orgSlug": "bharat-coking-coal-limited",
+   "category": "electrical",
+   "publishedAt": "2026-08-19T12:00:00+05:30",
+   "closingAt": "2026-08-28T18:00:00+05:30",
+   "openingAt": "2026-08-29T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjU3MzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzEyMzY2NA==A13h1QkNDTC9HTS9BUi0xL0FNIChFTk0pL0UtVEVOREVSLzIwMjYtMjcvMTQ5A13h1MjAyNl9CQ0NMXzM2Mzk4MF8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_TMC_919186_1",
    "slug": "2026-tmc-919186-1",
    "title": "CMC of Printers and Scanner of HBCH, Sangrur for Two years",
@@ -305859,6 +305929,20 @@
    "closingAt": "2026-09-01T11:00:00+05:30",
    "openingAt": "2026-09-01T11:10:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjI1MjA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzAzNzI0Mg==A13h1MTAwMDQ2MjU4NQ==A13h1MjAyNl9CUENMXzI2MzEy",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BHEL_64125_1",
+   "slug": "2026-bhel-64125-1",
+   "title": "METHYL PREDNISILONE ACETATE 4MG TABLETS",
+   "refNo": "BPE2600425",
+   "organisation": "Bharat Heavy Electricals Limited",
+   "orgSlug": "bharat-heavy-electricals-limited",
+   "category": "other",
+   "publishedAt": "2026-08-19T12:10:00+05:30",
+   "closingAt": "2026-09-01T11:00:00+05:30",
+   "openingAt": "2026-09-01T11:05:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjU5NTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzEyMzY2NA==A13h1QlBFMjYwMDQyNQ==A13h1MjAyNl9CSEVMXzY0MTI1XzE=",
    "hasCorrigendum": false
   },
   {
@@ -316782,6 +316866,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MES_785144_2",
+   "slug": "2026-mes-785144-2",
+   "title": "Soil Investigation of provision of 01 x Underground Living Bunker for Troops in respect of 12 Infantry Brigade Camp, 9 JAT, 283 Fd Regt, 419 Fd Hosp, 9 Compo Pl and Station HQ URI at URI under Para 35 of DWP 2020.",
+   "refNo": "3009/Q/Job/12/E3",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "consultancy",
+   "publishedAt": "2026-08-19T12:00:00+05:30",
+   "closingAt": "2026-09-08T09:00:00+05:30",
+   "openingAt": "2026-09-09T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjU4NjA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzEyMzY2NA==A13h1MzAwOS9RL0pvYi8xMi9FMw==A13h1MjAyNl9NRVNfNzg1MTQ0XzI=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NHAI_284851_1",
    "slug": "2026-nhai-284851-1",
    "title": "Balance work for Const of Western Side Spur of Rampur Rudrapur sec connecting NH24 to NH 87 bypassing Rampur Town at Risk and Cost of Contractor on EPC Mode in Uttar Pradesh",
@@ -317846,6 +317944,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MES_785185_1",
+   "slug": "2026-mes-785185-1",
+   "title": "REPAIR / MAINT OF CENTRAL AC PLANTS/ PACKAGE AC UNITS AT MWC, TPW UNDER AGE E/M NO-III OF GE (U-I) VISAKHAPATNAM",
+   "refNo": "8908/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-19T12:30:00+05:30",
+   "closingAt": "2026-09-09T18:00:00+05:30",
+   "openingAt": "2026-09-11T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjU5NjA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzEyMzY2NA==A13h1ODkwOC9FOA==A13h1MjAyNl9NRVNfNzg1MTg1XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BPSCL_287031_1",
    "slug": "2026-bpscl-287031-1",
    "title": "Rate Contract for Retrofitting and Strengthening of Machine Foundations in the Power Plant, BPSCL",
@@ -318529,6 +318641,20 @@
    "closingAt": "2026-09-10T18:00:00+05:30",
    "openingAt": "2026-09-11T18:05:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDM0MTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjY3Njc2Mw==A13h1ODMyNi8xNS9FOA==A13h1MjAyNl9NRVNfNzgxMjA3XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_785184_1",
+   "slug": "2026-mes-785184-1",
+   "title": "CWE/P-38/2026-27",
+   "refNo": "CWE/P-38/2026-27",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "other",
+   "publishedAt": "2026-08-19T12:15:00+05:30",
+   "closingAt": "2026-09-10T18:30:00+05:30",
+   "openingAt": "2026-09-12T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjU5NjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzEyMzY2NA==A13h1Q1dFL1AtMzgvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzg1MTg0XzE=",
    "hasCorrigendum": false
   },
   {
@@ -320167,6 +320293,20 @@
    "closingAt": "2026-09-23T12:30:00+05:30",
    "openingAt": "2026-09-23T12:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5NDA1Njg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzkzNjQwNw==A13h1NjEyNjE4NjA=A13h1MTA3MTE5MjU0",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_785140_1",
+   "slug": "2026-mes-785140-1",
+   "title": "COMPLETION OF INCOMPLETE WORK FOR CONSTRUCTION OF 24 DEFENCE CIVILIAN MARRIED ACCN AT GE DSSC WELLINGTON",
+   "refNo": "85172/BW/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-19T12:00:00+05:30",
+   "closingAt": "2026-09-23T18:00:00+05:30",
+   "openingAt": "2026-09-30T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjU4NTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzEyMzY2NA==A13h1ODUxNzIvQlcvRTg=A13h1MjAyNl9NRVNfNzg1MTQwXzE=",
    "hasCorrigendum": false
   },
   {
