@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-19T13:21:30.643Z",
+ "generatedAt": "2026-08-19T19:01:13.507Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 22936,
+ "count": 22946,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -264338,6 +264338,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_26344",
+   "slug": "2026-bpcl-26344",
+   "title": "SUPPLY OF TWO (02) NOS OF SERVO GAUGES FOR ADDITIONAL SLOP TANKS AT DEVANAGONTHI INSTALLATION",
+   "refNo": "1000462759",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-08-19T22:00:00+05:30",
+   "closingAt": "2026-08-21T10:00:00+05:30",
+   "openingAt": "2026-08-21T00:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzAyNDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzE2NjA2OQ==A13h1MTAwMDQ2Mjc1OQ==A13h1MjAyNl9CUENMXzI2MzQ0",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107127133",
    "slug": "107127133",
    "title": "Master controller key for EMU/MEMU",
@@ -275955,6 +275969,20 @@
    "closingAt": "2026-08-24T14:00:00+05:30",
    "openingAt": "2026-08-24T17:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDQwMzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjY3Njc4MQ==A13h1RTM3NjMwMjE=A13h1MjAyNl9CSEVMXzYzOTY0XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "165493",
+   "slug": "165493",
+   "title": "41/EE/Jodhpur/2026-27/Recall",
+   "refNo": "41/EE/Jodhpur/2026-27/Recall",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-19T19:42:00+05:30",
+   "closingAt": "2026-08-24T14:00:00+05:30",
+   "openingAt": "2026-08-24T14:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzAyMTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzE2NjA2OQ==A13h1NDEvRUUvSm9kaHB1ci8yMDI2LTI3L1JlY2FsbA==A13h1MTY1NDkz",
    "hasCorrigendum": false
   },
   {
@@ -291708,6 +291736,90 @@
    "hasCorrigendum": false
   },
   {
+   "id": "165494",
+   "slug": "165494",
+   "title": "80/EE(E)-II-Hyd/22/CE-Hyd/2026-27",
+   "refNo": "80/EE(E)-II-Hyd/22/CE-Hyd/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-08-19T20:02:00+05:30",
+   "closingAt": "2026-08-27T15:00:00+05:30",
+   "openingAt": "2026-08-27T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzAyMzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzE2NjA2OQ==A13h1ODAvRUUoRSktSUktSHlkLzIyL0NFLUh5ZC8yMDI2LTI3A13h1MTY1NDk0",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "165473",
+   "slug": "165473",
+   "title": "149/EE/Mumbai-IV/2026-27",
+   "refNo": "149/EE/Mumbai-IV/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-19T19:57:00+05:30",
+   "closingAt": "2026-08-27T15:00:00+05:30",
+   "openingAt": "2026-08-27T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzAyMzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzE2NjA2OQ==A13h1MTQ5L0VFL011bWJhaS1JVi8yMDI2LTI3A13h1MTY1NDcz",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "165490",
+   "slug": "165490",
+   "title": "150/EE/Mumbai-IV/2026-27",
+   "refNo": "150/EE/Mumbai-IV/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-19T19:56:00+05:30",
+   "closingAt": "2026-08-27T15:00:00+05:30",
+   "openingAt": "2026-08-27T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzAyMzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzE2NjA2OQ==A13h1MTUwL0VFL011bWJhaS1JVi8yMDI2LTI3A13h1MTY1NDkw",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "165492",
+   "slug": "165492",
+   "title": "151/EE/Mumbai-IV/2026-27",
+   "refNo": "151/EE/Mumbai-IV/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-19T19:53:00+05:30",
+   "closingAt": "2026-08-27T15:00:00+05:30",
+   "openingAt": "2026-08-27T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzAyMTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzE2NjA2OQ==A13h1MTUxL0VFL011bWJhaS1JVi8yMDI2LTI3A13h1MTY1NDky",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "165491",
+   "slug": "165491",
+   "title": "72/EE(E)-Hyd-I/2026-27",
+   "refNo": "72/EE(E)-Hyd-I/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-08-19T19:36:00+05:30",
+   "closingAt": "2026-08-27T15:00:00+05:30",
+   "openingAt": "2026-08-27T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzAyMTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzE2NjA2OQ==A13h1NzIvRUUoRSktSHlkLUkvMjAyNi0yNw==A13h1MTY1NDkx",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "165489",
+   "slug": "165489",
+   "title": "07/EE(E)/Vadodara/2026-27",
+   "refNo": "07/EE(E)/Vadodara/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-08-19T19:33:00+05:30",
+   "closingAt": "2026-08-27T15:00:00+05:30",
+   "openingAt": "2026-08-27T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzAyMTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzE2NjA2OQ==A13h1MDcvRUUoRSkvVmFkb2RhcmEvMjAyNi0yNw==A13h1MTY1NDg5",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NTPC_110949_1",
    "slug": "2026-ntpc-110949-1",
    "title": "HORTICULTURE DEVELOPMENT MAINTENANCE WORK IN D TYPE QUARTERS AND MISC. AREA OF PTS/TTS IN TOWNSHIP.",
@@ -302558,6 +302670,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "165488",
+   "slug": "165488",
+   "title": "74/EE(E)-Hyd-I/2026-27",
+   "refNo": "74/EE(E)-Hyd-I/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-08-19T19:19:00+05:30",
+   "closingAt": "2026-08-31T15:00:00+05:30",
+   "openingAt": "2026-08-31T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzAyMDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzE2NjA2OQ==A13h1NzQvRUUoRSktSHlkLUkvMjAyNi0yNw==A13h1MTY1NDg4",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NFL_287165_1",
    "slug": "2026-nfl-287165-1",
    "title": "Contract for purchase of seed treatment chemicals (Tebuconazole 2 percent DS w/w) for Seed Processing Unit, Panipat, Haryana and Bathinda, Punjab",
@@ -310577,6 +310703,20 @@
    "closingAt": "2026-09-02T14:00:00+05:30",
    "openingAt": "2026-09-03T15:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDQwNDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjY3Njc0Mg==A13h1MjAyNl9FU1RUTkdQXzA0MDYwMDk=A13h1MjAyNl9SQklfMjg3NDgxXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26335",
+   "slug": "2026-bpcl-26335",
+   "title": "CRFQ 1000462676 PROCUREMENT OF NUCLEONIC GAUGE SPARES 4 AT BPCL MUMBAI REFINERY.",
+   "refNo": "1000462676",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-08-19T22:54:00+05:30",
+   "closingAt": "2026-09-02T14:00:00+05:30",
+   "openingAt": "2026-09-02T14:05:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzAyNTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzE2NjA2OQ==A13h1MTAwMDQ2MjY3Ng==A13h1MjAyNl9CUENMXzI2MzM1",
    "hasCorrigendum": false
   },
   {
