@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-20T01:58:29.203Z",
+ "generatedAt": "2026-08-20T07:15:27.670Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 22946,
+ "count": 22956,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -287256,6 +287256,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_DRDO_785379_1",
+   "slug": "2026-drdo-785379-1",
+   "title": "Set of Lock rings",
+   "refNo": "NSTL/27FCT005/LP-I/26-27/L-23",
+   "organisation": "Department of Defence Research and Development",
+   "orgSlug": "department-of-defence-research-and-development",
+   "category": "other",
+   "publishedAt": "2026-08-20T12:15:00+05:30",
+   "closingAt": "2026-08-26T14:00:00+05:30",
+   "openingAt": "2026-08-27T14:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzA0OTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzIxMDEyMw==A13h1TlNUTC8yN0ZDVDAwNS9MUC1JLzI2LTI3L0wtMjM=A13h1MjAyNl9EUkRPXzc4NTM3OV8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BSNL_920374_1",
    "slug": "2026-bsnl-920374-1",
    "title": "Expression of Interest for Franchisee-ship of sale of BSNL products and provision of services to BSNL in various Business Areas (BAs) of UP (West) Telecom Circle",
@@ -290459,6 +290473,20 @@
    "closingAt": "2026-08-27T11:00:00+05:30",
    "openingAt": "2026-08-28T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDY4NzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjcxNTU0Nw==A13h1TkdIL0VYQ1YvVEVOREVSUy8yNi0yNy8wMjg=A13h1MjAyNl9OQ0xfMzYzNzQ4XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_HSL_99955_1",
+   "slug": "2026-hsl-99955-1",
+   "title": "Procurement of fasteners for Sea Chest Gratings of VC11200-204",
+   "refNo": "MP/ 3400001548/26-27",
+   "organisation": "Hindustan Shipyard Limited",
+   "orgSlug": "hindustan-shipyard-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-08-20T12:00:00+05:30",
+   "closingAt": "2026-08-27T11:00:00+05:30",
+   "openingAt": "2026-08-27T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzA0NTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzIxMDEyMw==A13h1TVAvIDM0MDAwMDE1NDgvMjYtMjc=A13h1MjAyNl9IU0xfOTk5NTVfMQ==",
    "hasCorrigendum": false
   },
   {
@@ -298596,6 +298624,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_DDA_922906_1",
+   "slug": "2026-dda-922906-1",
+   "title": "Deployment of 2 Nos Plumber / Fitter (Skilled) at PDKP.",
+   "refNo": "11/PDKP/DDA/2026-27",
+   "organisation": "Delhi Development Authority",
+   "orgSlug": "delhi-development-authority",
+   "category": "security-manpower",
+   "publishedAt": "2026-08-20T12:00:00+05:30",
+   "closingAt": "2026-08-29T15:00:00+05:30",
+   "openingAt": "2026-08-31T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzAzODg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzIxMDEyMw==A13h1MTEvUERLUC9EREEvMjAyNi0yNw==A13h1MjAyNl9EREFfOTIyOTA2XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_DDA_922896_1",
+   "slug": "2026-dda-922896-1",
+   "title": "Deployment of 06 Nos Groundsmen at PDKP.",
+   "refNo": "10/PDKP/DDA/2026-27",
+   "organisation": "Delhi Development Authority",
+   "orgSlug": "delhi-development-authority",
+   "category": "security-manpower",
+   "publishedAt": "2026-08-20T12:00:00+05:30",
+   "closingAt": "2026-08-29T15:00:00+05:30",
+   "openingAt": "2026-08-31T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzAzOTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzIxMDEyMw==A13h1MTAvUERLUC9EREEvMjAyNi0yNw==A13h1MjAyNl9EREFfOTIyODk2XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_DDA_922338_1",
    "slug": "2026-dda-922338-1",
    "title": "M/o Schemes under Nazul Account-II Rohini Zone.",
@@ -301505,6 +301561,20 @@
    "closingAt": "2026-08-31T13:00:00+05:30",
    "openingAt": "2026-09-01T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMjkxNTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjMyOTYyMg==A13h1SVdEL0lFLzIwMjYtMjcvRSBUZW5kZXIvQy0gNTYgRGF0ZWQgQXVndXN0IDA2ICwgMjAyNg==A13h1MjAyNl9JSVRSXzkyMTI0MF8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BHEL_64165_1",
+   "slug": "2026-bhel-64165-1",
+   "title": "BUCHHOLZ RELAY(N.OIL) STOCK ESP",
+   "refNo": "E44260027",
+   "organisation": "Bharat Heavy Electricals Limited",
+   "orgSlug": "bharat-heavy-electricals-limited",
+   "category": "other",
+   "publishedAt": "2026-08-20T12:00:00+05:30",
+   "closingAt": "2026-08-31T13:15:00+05:30",
+   "openingAt": "2026-08-31T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzAzNzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzIxMDEyMw==A13h1RTQ0MjYwMDI3A13h1MjAyNl9CSEVMXzY0MTY1XzE=",
    "hasCorrigendum": false
   },
   {
@@ -312750,6 +312820,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_NEISO_191059_1",
+   "slug": "2026-neiso-191059-1",
+   "title": "Limited EOI for Packed Trucks Induction at North Guwahati Bottling Plant",
+   "refNo": "IOAOD/LT/PKD/7B03/26-27/02/02",
+   "organisation": "IndianOil",
+   "orgSlug": "indianoil",
+   "category": "other",
+   "publishedAt": "2026-08-20T12:00:00+05:30",
+   "closingAt": "2026-09-03T12:00:00+05:30",
+   "openingAt": "2026-09-04T12:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzAxMzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzIxMDEyMw==A13h1SU9BT0QvTFQvUEtELzdCMDMvMjYtMjcvMDIvMDI=A13h1MjAyNl9ORUlTT18xOTEwNTlfMQ==",
+   "hasCorrigendum": false
+  },
+  {
    "id": "T1607760",
    "slug": "t1607760",
    "title": "Charter hire of 1 no. Anchor Moored Drillship or Semisubmersible Drilling Unit along with equipment and Marine Logistics for drilling, testing and abandonment of exploratory wells in water depths up to 450 m with drilling depth capability up to minimum 5000 m in the East Coast of India for a firm well of approximate 07 months duration, with a provision for an optional well of approximate 07 months duration",
@@ -314539,6 +314623,20 @@
    "closingAt": "2026-09-03T18:00:00+05:30",
    "openingAt": "2026-09-05T10:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDM3MTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjY3Njc1OQ==A13h1R0UgU3VrbmEvOTE0OA==A13h1MjAyNl9NRVNfNzg0Mjg5XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_775302_2",
+   "slug": "2026-mes-775302-2",
+   "title": "PETTY REPAIRS OF E/M NATURE OF WORK SWITCH SOCKET SUBMAIN AND DISTRIBUTION BOXES INCLUDING ATTENDING COMPLAINT DAY BY DAY ON EMERGENCY BASIS AT MIL STN PITHORAGARH AND OTHER CONNECTED AREA UNDER GE PITHORAGARH",
+   "refNo": "GE/PGH/25 of 2026-27 (8774/PGH/E8)",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "other",
+   "publishedAt": "2026-08-20T12:00:00+05:30",
+   "closingAt": "2026-09-03T18:00:00+05:30",
+   "openingAt": "2026-09-07T12:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzA0MDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzIxMDEyMw==A13h1R0UvUEdILzI1IG9mIDIwMjYtMjcgKDg3NzQvUEdIL0U4KQ==A13h1MjAyNl9NRVNfNzc1MzAyXzI=",
    "hasCorrigendum": false
   },
   {
@@ -318280,6 +318378,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MES_785402_1",
+   "slug": "2026-mes-785402-1",
+   "title": "REPAIR MAINT OF DISTRIBUTION LINES AND CONNECTED WORKS UNDER GE NARANGI",
+   "refNo": "8259/B/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-20T12:30:00+05:30",
+   "closingAt": "2026-09-09T18:00:00+05:30",
+   "openingAt": "2026-09-11T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzA1MDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzIxMDEyMw==A13h1ODI1OS9CL0U4A13h1MjAyNl9NRVNfNzg1NDAyXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BPSCL_287031_1",
    "slug": "2026-bpscl-287031-1",
    "title": "Rate Contract for Retrofitting and Strengthening of Machine Foundations in the Power Plant, BPSCL",
@@ -318966,6 +319078,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MES_785410_1",
+   "slug": "2026-mes-785410-1",
+   "title": "REPAIR / REPLACEMENT TO CENTRAL AND PACKAGE TYPE AIR CONDITIONING PLANTS DUCT LINE AND ALLIED WORK AT ITR TECH AREA AT CHANDIPUR",
+   "refNo": "8318/A",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-20T12:10:00+05:30",
+   "closingAt": "2026-09-10T18:00:00+05:30",
+   "openingAt": "2026-09-17T18:05:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzA1MTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzIxMDEyMw==A13h1ODMxOC9BA13h1MjAyNl9NRVNfNzg1NDEwXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_785184_1",
    "slug": "2026-mes-785184-1",
    "title": "CWE/P-38/2026-27",
@@ -319383,6 +319509,20 @@
    "closingAt": "2026-09-12T18:00:00+05:30",
    "openingAt": "2026-09-19T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDQwODM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjYyOTM1Mg==A13h1ODU1OC9FOA==A13h1MjAyNl9NRVNfNzg0MjM0XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_785363_1",
+   "slug": "2026-mes-785363-1",
+   "title": "PROVN OF DRAINAGE LINE 250 MTR X 50 CM ALONGWIHT 01 SEPTIC TANK AND 01 X SOAKAGE PIT AT 31 RR CDO UNDER AGE BR I OF GE 865 EWS LEH",
+   "refNo": "865/EWS(NIT-107)/2026-27",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-20T12:00:00+05:30",
+   "closingAt": "2026-09-12T18:00:00+05:30",
+   "openingAt": "2026-09-19T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzAzOTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzIxMDEyMw==A13h1ODY1L0VXUyhOSVQtMTA3KS8yMDI2LTI3A13h1MjAyNl9NRVNfNzg1MzYzXzE=",
    "hasCorrigendum": false
   },
   {
