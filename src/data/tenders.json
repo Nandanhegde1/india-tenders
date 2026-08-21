@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-21T02:05:28.556Z",
+ "generatedAt": "2026-08-21T07:16:11.716Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 22986,
+ "count": 22996,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -308746,6 +308746,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_WCL_364067_2",
+   "slug": "2026-wcl-364067-2",
+   "title": "Deployment of excavator machine or JCB for maintenance of road from coal stock yard to railway siding during monsoon at NMUG to OC Mine under New Majri Sub Area of Majri Area.",
+   "refNo": "ma9511cive01226-27/252 Dated 20082026",
+   "organisation": "Western Coalfields Limited",
+   "orgSlug": "western-coalfields-limited",
+   "category": "construction",
+   "publishedAt": "2026-08-21T12:00:00+05:30",
+   "closingAt": "2026-09-01T17:00:00+05:30",
+   "openingAt": "2026-09-02T12:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzA3NzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzI5NjU2Nw==A13h1bWE5NTExY2l2ZTAxMjI2LTI3LzI1MiBEYXRlZCAyMDA4MjAyNg==A13h1MjAyNl9XQ0xfMzY0MDY3XzI=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_WCL_364067_1",
+   "slug": "2026-wcl-364067-1",
+   "title": "Carrying out road repair work in patches of existing bituminous road from view point to manager office of NMUG to OC Mine under New Majri Sub Area of Majri Area.",
+   "refNo": "ma9511cive01226-27/252 Dated 20082026",
+   "organisation": "Western Coalfields Limited",
+   "orgSlug": "western-coalfields-limited",
+   "category": "construction",
+   "publishedAt": "2026-08-21T12:00:00+05:30",
+   "closingAt": "2026-09-01T17:00:00+05:30",
+   "openingAt": "2026-09-02T12:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzA3Njc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzI5NjU2Nw==A13h1bWE5NTExY2l2ZTAxMjI2LTI3LzI1MiBEYXRlZCAyMDA4MjAyNg==A13h1MjAyNl9XQ0xfMzY0MDY3XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NITT_921677_1",
    "slug": "2026-nitt-921677-1",
    "title": "Supply and installation of MIC RF SOURCE METER (S BAND) AND MIC RF POWER METER (S BAND) WITH ACCESSORIES",
@@ -310843,6 +310871,20 @@
    "closingAt": "2026-09-02T11:00:00+05:30",
    "openingAt": "2026-09-03T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzEyODU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzIzMjM1Mg==A13h1S0hEL0cuTS4gKEV4Y3YpL0UtVGVuZGVyLzI2LTI3LzQyMA==A13h1MjAyNl9OQ0xfMzY0MDY0XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BHEL_64219_1",
+   "slug": "2026-bhel-64219-1",
+   "title": "TRIAMCINOLONE ACETONIDE GEL / MOUTH PAST 5GM TUB",
+   "refNo": "BPE2600484",
+   "organisation": "Bharat Heavy Electricals Limited",
+   "orgSlug": "bharat-heavy-electricals-limited",
+   "category": "other",
+   "publishedAt": "2026-08-21T12:20:00+05:30",
+   "closingAt": "2026-09-02T11:00:00+05:30",
+   "openingAt": "2026-09-02T11:05:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzMyNzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzI5NjU2Nw==A13h1QlBFMjYwMDQ4NA==A13h1MjAyNl9CSEVMXzY0MjE5XzE=",
    "hasCorrigendum": false
   },
   {
@@ -313363,6 +313405,20 @@
    "closingAt": "2026-09-03T14:30:00+05:30",
    "openingAt": "2026-09-04T15:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDMxNjg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjYwNzkzOQ==A13h1OTA2MEMyNkM0Ng==A13h1MjAyNl9QUl8xOTA5NjBfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26295",
+   "slug": "2026-bpcl-26295",
+   "title": "FIREWATER LINE WORKS AT KALABURAGI LPG PLANT",
+   "refNo": "1000462479",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "other",
+   "publishedAt": "2026-08-21T12:23:00+05:30",
+   "closingAt": "2026-09-03T14:30:00+05:30",
+   "openingAt": "2026-09-03T14:31:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzMyODI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzI5NjU2Nw==A13h1MTAwMDQ2MjQ3OQ==A13h1MjAyNl9CUENMXzI2Mjk1",
    "hasCorrigendum": false
   },
   {
@@ -317930,6 +317986,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_DGDE_922443_1",
+   "slug": "2026-dgde-922443-1",
+   "title": "High Mast with fittings and its allied accessories in Ammunition Factory Area at Khadki Cantonment Board",
+   "refNo": "AE/TENDER/2026-27/P16 HM",
+   "organisation": "Dir. Gen. Defence Estates,HQ",
+   "orgSlug": "dir-gen-defence-estates-hq",
+   "category": "other",
+   "publishedAt": "2026-08-21T12:10:00+05:30",
+   "closingAt": "2026-09-08T15:00:00+05:30",
+   "openingAt": "2026-09-09T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzMyNzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzI5NjU2Nw==A13h1QUUvVEVOREVSLzIwMjYtMjcvUDE2IEhNA13h1MjAyNl9ER0RFXzkyMjQ0M18x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NITCO_920849_1",
    "slug": "2026-nitco-920849-1",
    "title": "TENDER DOCUMENT FOR APPOINTMENT OF ARCHITECTURAL AND SALES MANAGEMENT AGENCY",
@@ -318980,6 +319050,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MCD_288250_1",
+   "slug": "2026-mcd-288250-1",
+   "title": "Procurement of Signages for BRH",
+   "refNo": "BRH/ET/2026-27/P-6",
+   "organisation": "Municipal Corporation of Delhi",
+   "orgSlug": "municipal-corporation-of-delhi",
+   "category": "goods-supply",
+   "publishedAt": "2026-08-21T12:00:00+05:30",
+   "closingAt": "2026-09-10T12:00:00+05:30",
+   "openingAt": "2026-09-11T12:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzA2NTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzI5NjU2Nw==A13h1QlJIL0VULzIwMjYtMjcvUC02A13h1MjAyNl9NQ0RfMjg4MjUwXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BHEL_63993_1",
    "slug": "2026-bhel-63993-1",
    "title": "Global OT E/E243/2026/1725/Q/1",
@@ -319215,6 +319299,20 @@
    "closingAt": "2026-09-10T15:00:00+05:30",
    "openingAt": "2026-09-11T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDY3MzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjY3NjY2Mw==A13h1TkZOL0NJVklMLzY4OC8yMDI2LzA5IERBVEVEIDEzLzA4LzIwMjY=A13h1MjAyNl9ORkxfMjg3NjE5XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_IITBR_923079_1",
+   "slug": "2026-iitbr-923079-1",
+   "title": "Electrical works",
+   "refNo": "IITBBS/SE/Engg section/11/2026-27",
+   "organisation": "IIT BHUBANESWAR",
+   "orgSlug": "iit-bhubaneswar",
+   "category": "electrical",
+   "publishedAt": "2026-08-21T12:40:00+05:30",
+   "closingAt": "2026-09-10T15:00:00+05:30",
+   "openingAt": "2026-09-11T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzMyMzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzI5NjU2Nw==A13h1SUlUQkJTL1NFL0VuZ2cgc2VjdGlvbi8xMS8yMDI2LTI3A13h1MjAyNl9JSVRCUl85MjMwNzlfMQ==",
    "hasCorrigendum": false
   },
   {
@@ -319467,6 +319565,20 @@
    "closingAt": "2026-09-10T18:00:00+05:30",
    "openingAt": "2026-09-17T18:05:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzA1MTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzIxMDEyMw==A13h1ODMxOC9BA13h1MjAyNl9NRVNfNzg1NDEwXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_785623_1",
+   "slug": "2026-mes-785623-1",
+   "title": "PROVN OF COVERED SHED FOR FURNITURE NEAR BSO YARD AT LGJ MIL STN UNDER GE LALGARH JATTAN",
+   "refNo": "8937-34/GE/2026-27",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-21T12:30:00+05:30",
+   "closingAt": "2026-09-10T18:00:00+05:30",
+   "openingAt": "2026-09-12T12:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzMyNjY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzI5NjU2Nw==A13h1ODkzNy0zNC9HRS8yMDI2LTI3A13h1MjAyNl9NRVNfNzg1NjIzXzE=",
    "hasCorrigendum": false
   },
   {
@@ -319901,6 +320013,20 @@
    "closingAt": "2026-09-12T18:00:00+05:30",
    "openingAt": "2026-09-19T09:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzAzOTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzIxMDEyMw==A13h1ODY1L0VXUyhOSVQtMTA3KS8yMDI2LTI3A13h1MjAyNl9NRVNfNzg1MzYzXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_785598_1",
+   "slug": "2026-mes-785598-1",
+   "title": "PROVN OF TROLLEY MOUNTED 315 KVA OUT DOOR TYPE STEP DOWN TRANSFORMER FOR NORTH AREA UNDER GE (U) MEERUT CANTT",
+   "refNo": "94408/MRT/2026-27/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "electrical",
+   "publishedAt": "2026-08-21T12:00:00+05:30",
+   "closingAt": "2026-09-12T18:00:00+05:30",
+   "openingAt": "2026-09-18T12:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzMxODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzI5NjU2Nw==A13h1OTQ0MDgvTVJULzIwMjYtMjcvRTg=A13h1MjAyNl9NRVNfNzg1NTk4XzE=",
    "hasCorrigendum": false
   },
   {
@@ -321063,6 +321189,20 @@
    "closingAt": "2026-09-21T17:00:00+05:30",
    "openingAt": "2026-09-22T17:05:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMjcyNTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjI2MDYyMw==A13h1TklULTA0L0VFTkgvTkdQLzIwMjYtMjc=A13h1MjAyNl9Nb1JUSF85MjEyMzFfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_785592_1",
+   "slug": "2026-mes-785592-1",
+   "title": "SPECIAL REPAIR TO ROAD INCL ROAD FURNITURE, INTERLOCKING AND CONNECTED ITEMS UNDER GE GWALIOR",
+   "refNo": "CWE/JHA/GWL/TOKEN/63 OF 2026-27",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-21T12:00:00+05:30",
+   "closingAt": "2026-09-21T18:00:00+05:30",
+   "openingAt": "2026-09-23T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzMxMTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzI5NjU2Nw==A13h1Q1dFL0pIQS9HV0wvVE9LRU4vNjMgT0YgMjAyNi0yNw==A13h1MjAyNl9NRVNfNzg1NTkyXzE=",
    "hasCorrigendum": false
   },
   {
