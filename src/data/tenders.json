@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-22T01:57:30.740Z",
+ "generatedAt": "2026-08-22T07:08:19.794Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23027,
+ "count": 23037,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -308816,6 +308816,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_NTPC_111198_1",
+   "slug": "2026-ntpc-111198-1",
+   "title": "Hiring of One Maruti Ertiga for ED Nuclear for NTPC Mumbai office",
+   "refNo": "NTPC/Mouda STPP/9900331580",
+   "organisation": "NTPC Limited",
+   "orgSlug": "ntpc-limited",
+   "category": "other",
+   "publishedAt": "2026-08-22T12:00:00+05:30",
+   "closingAt": "2026-09-01T16:00:00+05:30",
+   "openingAt": "2026-09-02T16:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzgwNDE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzM4MjQ5NQ==A13h1TlRQQy9Nb3VkYSBTVFBQLzk5MDAzMzE1ODA=A13h1MjAyNl9OVFBDXzExMTE5OF8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_ITBP_921479_1",
    "slug": "2026-itbp-921479-1",
    "title": "CO Combined QG and clothing store, Ration and Misc store, GOs mess, PL Office and MI room, SOs mess, WT Station and office and tradesmen shop, Cook House and dinning hall, Jawan Barracks, Training shed ,MT Shed, Stable and Generator Room at forwar",
@@ -316768,6 +316782,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MES_760240_2",
+   "slug": "2026-mes-760240-2",
+   "title": "REPAIR TO CHAINLINK FENCING, HARDSTANDING AND COMPOUND WALL UNDER AGE (I) POKARAN",
+   "refNo": "8363/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-22T12:00:00+05:30",
+   "closingAt": "2026-09-05T18:00:00+05:30",
+   "openingAt": "2026-09-08T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzgwODI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzM4MjQ5NQ==A13h1ODM2My9FOA==A13h1MjAyNl9NRVNfNzYwMjQwXzI=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BPCL_26360",
    "slug": "2026-bpcl-26360",
    "title": "CLU CHARGES -WSA PRITHVIMANGALAM",
@@ -317538,6 +317566,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_PU_923259_1",
+   "slug": "2026-pu-923259-1",
+   "title": "Providing and fixing aluminium partitions and laying floor tiles on the ground floor of the School of Law Building in the Pondicherry University campus.",
+   "refNo": "PU/EW/SOL/2026-27",
+   "organisation": "Pondicherry University",
+   "orgSlug": "pondicherry-university",
+   "category": "construction",
+   "publishedAt": "2026-08-22T12:30:00+05:30",
+   "closingAt": "2026-09-07T15:00:00+05:30",
+   "openingAt": "2026-09-08T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzgwNjg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzM4MjQ5NQ==A13h1UFUvRVcvU09MLzIwMjYtMjc=A13h1MjAyNl9QVV85MjMyNTlfMQ==",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_AAI_286836_1",
    "slug": "2026-aai-286836-1",
    "title": "Replacement of AHU and interconnection of chilled water pipeline network of Old DTB ITB with pipeline of T2 NITB at NSCBI Airport Kolkata",
@@ -318011,6 +318053,20 @@
    "closingAt": "2026-09-07T18:00:00+05:30",
    "openingAt": "2026-09-09T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjMxMzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA1OTIwMw==A13h1SUlUIE1hbmRpIChDVykvU0UtMjA1NC8yMDI2LTI3LzE1OTQtOTYgZGF0ZWQgMTgtMDgtMjAyNg==A13h1MjAyNl9JSVRNRF85MjI2MjNfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_770065_2",
+   "slug": "2026-mes-770065-2",
+   "title": "PROVN OF OTM ACCN FOR 36 X OFFRS STUDENT OFFRS AND OFFRS MESS FOR 48 OFFRS AT HAWS GULMARG UNDER GE 969 EWS",
+   "refNo": "CA NO 969 WS-   /2026-27",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "other",
+   "publishedAt": "2026-08-22T12:00:00+05:30",
+   "closingAt": "2026-09-07T18:00:00+05:30",
+   "openingAt": "2026-09-09T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzgwNTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzM4MjQ5NQ==A13h1Q0EgTk8gOTY5IFdTLSAgIC8yMDI2LTI3A13h1MjAyNl9NRVNfNzcwMDY1XzI=",
    "hasCorrigendum": false
   },
   {
@@ -319918,6 +319974,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MES_785847_1",
+   "slug": "2026-mes-785847-1",
+   "title": "TERM CONTRACT FOR ARTIFICER WORK IN A-3 AREA OF AGE B/R-I UNDER GE (WEST) JRC",
+   "refNo": "GE/JAL(W)-63/2026-27",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "other",
+   "publishedAt": "2026-08-22T12:00:00+05:30",
+   "closingAt": "2026-09-10T18:00:00+05:30",
+   "openingAt": "2026-09-17T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzgxMTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzM4MjQ5NQ==A13h1R0UvSkFMKFcpLTYzLzIwMjYtMjc=A13h1MjAyNl9NRVNfNzg1ODQ3XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_785184_1",
    "slug": "2026-mes-785184-1",
    "title": "CWE/P-38/2026-27",
@@ -320265,6 +320335,20 @@
    "closingAt": "2026-09-11T18:00:00+05:30",
    "openingAt": "2026-09-19T12:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzM2Njc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzMxODg4NQ==A13h1Q1dFSy9ULTUwLzk2OSBFV1MvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzg0MTcwXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_785835_1",
+   "slug": "2026-mes-785835-1",
+   "title": "REPAIR/MAINT OF FLOORING ROOF SHEETS, CEILING AND OTHER CONNECTED WORKS AT BURTUK, SWASTIK AND OLD CANTT LOCATION UNDER GE GANGTOK",
+   "refNo": "C/8492/A/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-22T12:00:00+05:30",
+   "closingAt": "2026-09-11T18:00:00+05:30",
+   "openingAt": "2026-09-16T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzgxMTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzM4MjQ5NQ==A13h1Qy84NDkyL0EvRTg=A13h1MjAyNl9NRVNfNzg1ODM1XzE=",
    "hasCorrigendum": false
   },
   {
@@ -320632,6 +320716,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MES_785819_1",
+   "slug": "2026-mes-785819-1",
+   "title": "REPAIR TO JOINERY ALUMINUM DOORS VENTILATORS ,STEEL WINDOWS VENTILATORS, CUP BOARD, ROLLING SHUTTER, STEEL DOORS, PVC DOORS, WOODEN DOORS AND WINDOWS IN CERTAIN OTM ACCN AT CME UNDER GE CME KHADKI",
+   "refNo": "8740/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-22T12:00:00+05:30",
+   "closingAt": "2026-09-14T18:00:00+05:30",
+   "openingAt": "2026-09-16T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzgwODM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzM4MjQ5NQ==A13h1ODc0MC9FOA==A13h1MjAyNl9NRVNfNzg1ODE5XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_785849_1",
+   "slug": "2026-mes-785849-1",
+   "title": "PETTY REPAIRS, REPAIR TO FLOOR PLASTER PLINTH PROTECTION AND MISC ITEMS IN CERTAIN OTM ACCN AT CME UNDER GE (CME) KHADKI",
+   "refNo": "8736/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-22T12:00:00+05:30",
+   "closingAt": "2026-09-14T18:00:00+05:30",
+   "openingAt": "2026-09-16T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzgxMTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzM4MjQ5NQ==A13h1ODczNi9FOA==A13h1MjAyNl9NRVNfNzg1ODQ5XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107119242",
    "slug": "107119242",
    "title": "CAPTIVE BOLT FOR WAG-9 HC",
@@ -320741,6 +320853,20 @@
    "closingAt": "2026-09-15T11:00:00+05:30",
    "openingAt": "2026-09-15T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMzQ0ODM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjM0OTUwNA==A13h1MDkyNjMyMjY=A13h1MTA3MTQ5NzY5",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MDN_99964_1",
+   "slug": "2026-mdn-99964-1",
+   "title": "COBALT METAL UNWROUGHT",
+   "refNo": "042610129/RM/EADVT/306/26-27",
+   "organisation": "MIDHANI",
+   "orgSlug": "midhani",
+   "category": "other",
+   "publishedAt": "2026-08-22T12:00:00+05:30",
+   "closingAt": "2026-09-15T11:30:00+05:30",
+   "openingAt": "2026-09-16T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzgwOTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzM4MjQ5NQ==A13h1MDQyNjEwMTI5L1JNL0VBRFZULzMwNi8yNi0yNw==A13h1MjAyNl9NRE5fOTk5NjRfMQ==",
    "hasCorrigendum": false
   },
   {
@@ -321231,6 +321357,20 @@
    "closingAt": "2026-09-17T14:00:00+05:30",
    "openingAt": "2026-09-18T15:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMjcxMDA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjI2MDYyMw==A13h1Uzg1OSAyMDI1LTI2A13h1MjAyNl9SQklfMjg2OTQwXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MDN_99962_1",
+   "slug": "2026-mdn-99962-1",
+   "title": "PURE IRON",
+   "refNo": "04261026/RM/EADVT/305/26-27",
+   "organisation": "MIDHANI",
+   "orgSlug": "midhani",
+   "category": "other",
+   "publishedAt": "2026-08-22T12:00:00+05:30",
+   "closingAt": "2026-09-17T14:30:00+05:30",
+   "openingAt": "2026-09-18T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzgwOTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzM4MjQ5NQ==A13h1MDQyNjEwMjYvUk0vRUFEVlQvMzA1LzI2LTI3A13h1MjAyNl9NRE5fOTk5NjJfMQ==",
    "hasCorrigendum": false
   },
   {
