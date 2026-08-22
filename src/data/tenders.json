@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-22T13:10:57.952Z",
+ "generatedAt": "2026-08-22T18:56:22.770Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23047,
+ "count": 23057,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -286864,6 +286864,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_26368",
+   "slug": "2026-bpcl-26368",
+   "title": "JOB OF ARC/ AMC OF MICRO FILTRATION UNIT (MFU) OF M/S SUMESH PETROLEUM AT C-LUBES",
+   "refNo": "1000463045",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "other",
+   "publishedAt": "2026-08-22T23:38:00+05:30",
+   "closingAt": "2026-08-26T00:00:00+05:30",
+   "openingAt": "2026-08-26T00:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODIxMjg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzQyNDk3Nw==A13h1MTAwMDQ2MzA0NQ==A13h1MjAyNl9CUENMXzI2MzY4",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MGIRI_918900_1",
    "slug": "2026-mgiri-918900-1",
    "title": "Supply of Manpower for MGIRI",
@@ -299142,6 +299156,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_26367",
+   "slug": "2026-bpcl-26367",
+   "title": "JOB OF SUPPLY AND INSTALLATION OF CABLE TRAYS WITH COVERS AT TNP LOBP.",
+   "refNo": "1000463027",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "electrical",
+   "publishedAt": "2026-08-22T23:01:00+05:30",
+   "closingAt": "2026-08-29T15:00:00+05:30",
+   "openingAt": "2026-08-29T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODIxMjc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzQyNDk3Nw==A13h1MTAwMDQ2MzAyNw==A13h1MjAyNl9CUENMXzI2MzY3",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_DDA_923391_1",
+   "slug": "2026-dda-923391-1",
+   "title": "Conservation of water bodies.",
+   "refNo": "09/EE/DPD-I/DDA/2026-27(Re-in)",
+   "organisation": "Delhi Development Authority",
+   "orgSlug": "delhi-development-authority",
+   "category": "other",
+   "publishedAt": "2026-08-22T18:55:00+05:30",
+   "closingAt": "2026-08-29T15:00:00+05:30",
+   "openingAt": "2026-08-31T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODIwMjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzQyNDk3Nw==A13h1MDkvRUUvRFBELUkvRERBLzIwMjYtMjcoUmUtaW4pA13h1MjAyNl9EREFfOTIzMzkxXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_DDA_922338_1",
    "slug": "2026-dda-922338-1",
    "title": "M/o Schemes under Nazul Account-II Rohini Zone.",
@@ -303297,6 +303339,90 @@
    "closingAt": "2026-08-31T15:00:00+05:30",
    "openingAt": "2026-08-31T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzc4MzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzMxODY5Nw==A13h1NzUvQUUoRSlJSUkvTXVtYmFpLUlJLzIwMjYtMjc=A13h1MTY2ODAx",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "166875",
+   "slug": "166875",
+   "title": "23/NIQ/EESM(E)/IPED/CPWD/2026-27",
+   "refNo": "23/NIQ/EESM(E)/IPED/CPWD/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-22T20:45:00+05:30",
+   "closingAt": "2026-08-31T15:00:00+05:30",
+   "openingAt": "2026-08-31T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODIxMTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzQyNDk3Nw==A13h1MjMvTklRL0VFU00oRSkvSVBFRC9DUFdELzIwMjYtMjc=A13h1MTY2ODc1",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "166876",
+   "slug": "166876",
+   "title": "18/EE/BFD-IV/IBBZ-II/CPWD/COB/2026-27",
+   "refNo": "18/EE/BFD-IV/IBBZ-II/CPWD/COB/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-22T20:43:00+05:30",
+   "closingAt": "2026-08-31T15:00:00+05:30",
+   "openingAt": "2026-08-31T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODIxMDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzQyNDk3Nw==A13h1MTgvRUUvQkZELUlWL0lCQlotSUkvQ1BXRC9DT0IvMjAyNi0yNw==A13h1MTY2ODc2",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "166873",
+   "slug": "166873",
+   "title": "28/EE(C)-I/Vadodara/2026-27",
+   "refNo": "28/EE(C)-I/Vadodara/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-22T19:57:00+05:30",
+   "closingAt": "2026-08-31T15:00:00+05:30",
+   "openingAt": "2026-08-31T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODIwNTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzQyNDk3Nw==A13h1MjgvRUUoQyktSS9WYWRvZGFyYS8yMDI2LTI3A13h1MTY2ODcz",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "166874",
+   "slug": "166874",
+   "title": "05/EE/BFD-V/Bhuj/2026-27",
+   "refNo": "05/EE/BFD-V/Bhuj/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-22T19:49:00+05:30",
+   "closingAt": "2026-08-31T15:00:00+05:30",
+   "openingAt": "2026-08-31T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODIwMzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzQyNDk3Nw==A13h1MDUvRUUvQkZELVYvQmh1ai8yMDI2LTI3A13h1MTY2ODc0",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "166872",
+   "slug": "166872",
+   "title": "04/EE/BFD V/Bhuj/2026-27",
+   "refNo": "04/EE/BFD V/Bhuj/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-22T19:34:00+05:30",
+   "closingAt": "2026-08-31T15:00:00+05:30",
+   "openingAt": "2026-08-31T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODIwMzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzQyNDk3Nw==A13h1MDQvRUUvQkZEIFYvQmh1ai8yMDI2LTI3A13h1MTY2ODcy",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "166871",
+   "slug": "166871",
+   "title": "45/EE-Ranchi/CPWD/2026-27",
+   "refNo": "45/EE-Ranchi/CPWD/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-22T19:06:00+05:30",
+   "closingAt": "2026-08-31T15:00:00+05:30",
+   "openingAt": "2026-08-31T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODIwMzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzQyNDk3Nw==A13h1NDUvRUUtUmFuY2hpL0NQV0QvMjAyNi0yNw==A13h1MTY2ODcx",
    "hasCorrigendum": false
   },
   {
@@ -318207,6 +318333,20 @@
    "closingAt": "2026-09-08T11:00:00+05:30",
    "openingAt": "2026-09-08T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMzMwMDU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjM0OTUyMQ==A13h1UkMxLUxQLUVESC1KVURXLTI2A13h1OTEyNDc0MDQ=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_ECL_364194_1",
+   "slug": "2026-ecl-364194-1",
+   "title": "Comprehensive maintenance works of administrative building, Control room, substation building,Pump house,Silo office,interim side substation,store room,Dozer section,weigh bridge and other service building at RCHP under ROCP,for a period of two years",
+   "refNo": "ECL/RJML/AGM/AE(C)/ e-Ten/26-27/104  Dt-22.08.2026",
+   "organisation": "Eastern Coalfields Limited",
+   "orgSlug": "eastern-coalfields-limited",
+   "category": "electrical",
+   "publishedAt": "2026-08-22T18:55:00+05:30",
+   "closingAt": "2026-09-08T11:00:00+05:30",
+   "openingAt": "2026-09-09T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODIwMTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzQyNDk3Nw==A13h1RUNML1JKTUwvQUdNL0FFKEMpLyBlLVRlbi8yNi0yNy8xMDQgIER0LTIyLjA4LjIwMjY=A13h1MjAyNl9FQ0xfMzY0MTk0XzE=",
    "hasCorrigendum": false
   },
   {
