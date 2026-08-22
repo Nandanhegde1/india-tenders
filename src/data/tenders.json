@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-22T07:08:19.794Z",
+ "generatedAt": "2026-08-22T13:10:57.952Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23037,
+ "count": 23047,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -290532,6 +290532,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "166870",
+   "slug": "166870",
+   "title": "53/2026-27/ID/4-RECALL",
+   "refNo": "53/2026-27/ID/4-RECALL",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-22T18:11:00+05:30",
+   "closingAt": "2026-08-27T11:00:00+05:30",
+   "openingAt": "2026-08-27T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODA3Mjg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzQwNDI1Mg==A13h1NTMvMjAyNi0yNy9JRC80LVJFQ0FMTA==A13h1MTY2ODcw",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_AIISH_920854_1",
    "slug": "2026-aiish-920854-1",
    "title": "UG Cabling work for providing power supply to KP building and Quarters at AIISH Main Campus",
@@ -301466,6 +301480,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "166869",
+   "slug": "166869",
+   "title": "29/EE-DIB/2026-27",
+   "refNo": "29/EE-DIB/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-22T18:04:00+05:30",
+   "closingAt": "2026-08-31T10:30:00+05:30",
+   "openingAt": "2026-08-31T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzk0OTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzQwNDI1Mg==A13h1MjkvRUUtRElCLzIwMjYtMjc=A13h1MTY2ODY5",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NHAI_284132_1",
    "slug": "2026-nhai-284132-1",
    "title": "Development or construction of entry exit arrangement AT 4 Lane Greenfield Expressway SPUR from Delhi Vadodara Greenfield Expressway near Bandikui to Jaipur section of NE 4C in the state of Rajasthan on EPC Mode.",
@@ -306433,6 +306461,20 @@
    "closingAt": "2026-08-31T18:00:00+05:30",
    "openingAt": "2026-09-01T10:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjI0MzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzAzNzI0Mg==A13h1RTI1NjMwMjkgRkFCUklDQVRJT04gT0YgU1BJUkFMIENBU0lORyBBTkQgTUFOIEhPTEUgRE9PUg==A13h1MjAyNl9CSEVMXzY0MDgzXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BSNL_288564_1",
+   "slug": "2026-bsnl-288564-1",
+   "title": "Urgent repairing of damaged parapet walls of Santry hut and T.E. building including removal of Peepal tree from wall at terrace level in TE compound Mahanagar, Lucknow.",
+   "refNo": "NIT No.25/2026-27/BSNL/EE(PnA)/LKO",
+   "organisation": "Bharat Sanchar Nigam Limited (Govt of India Enterprise)",
+   "orgSlug": "bharat-sanchar-nigam-limited-govt-of-india-enterprise",
+   "category": "construction",
+   "publishedAt": "2026-08-22T18:00:00+05:30",
+   "closingAt": "2026-08-31T18:00:00+05:30",
+   "openingAt": "2026-09-03T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzgyMjY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzQwNDI1Mg==A13h1TklUIE5vLjI1LzIwMjYtMjcvQlNOTC9FRShQbkEpL0xLTw==A13h1MjAyNl9CU05MXzI4ODU2NF8x",
    "hasCorrigendum": false
   },
   {
@@ -315326,6 +315368,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_SSB_923365_1",
+   "slug": "2026-ssb-923365-1",
+   "title": "Construction of 16 Nos WCs Units, 15 Nos Bathroom Units and Providing and Installation of Borewell at 14th Bn SSB Nagam under SHQ (Spl-Ops), SSB Srinagar (JK) under SRE.",
+   "refNo": "27/ssb/14TH/nAGAM/2026-27",
+   "organisation": "DG Sashastra Seema Bal,MHA",
+   "orgSlug": "dg-sashastra-seema-bal-mha",
+   "category": "construction",
+   "publishedAt": "2026-08-22T18:00:00+05:30",
+   "closingAt": "2026-09-03T18:00:00+05:30",
+   "openingAt": "2026-09-07T18:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzgyNDU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzQwNDI1Mg==A13h1Mjcvc3NiLzE0VEgvbkFHQU0vMjAyNi0yNw==A13h1MjAyNl9TU0JfOTIzMzY1XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NAVY_783258_1",
    "slug": "2026-navy-783258-1",
    "title": "SUPPLY INSTALLATION TESTING AND COMMISSIONING OF SCREW PRESS HYDRAULIC FOR AUGMENTATION OF FACILITY AT MID MANUFACTURING INDIGENOUS DEVELOPMENT DEPARTMENT AT NDV",
@@ -320520,6 +320576,48 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MES_785909_1",
+   "slug": "2026-mes-785909-1",
+   "title": "REPAIR/ MAINTENANCE OF MAIN RISING/ DELIVERY PIPE LINES OF BLDGS OF HIGH/ LOW RISE BUILDINGS AND ASSOCIATED WORKS AT R-20 TO R-39 BLDGS AT RS COMPLEX AREA UNDER GE (NW) NAVY NAGAR, COLABA, MUMBAI",
+   "refNo": "8687/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-22T18:00:00+05:30",
+   "closingAt": "2026-09-12T18:00:00+05:30",
+   "openingAt": "2026-09-14T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzgyNTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzQwNDI1Mg==A13h1ODY4Ny9FOA==A13h1MjAyNl9NRVNfNzg1OTA5XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_785901_1",
+   "slug": "2026-mes-785901-1",
+   "title": "TENDER FOR REPAIR RESURFACING OF ROAD FURNITURE AND CONNECTED ITEMS AT KALUCHAK MIL STATION UNDER GE KALUCHAK",
+   "refNo": "CWE/T-70/2026-27",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-22T18:00:00+05:30",
+   "closingAt": "2026-09-12T18:00:00+05:30",
+   "openingAt": "2026-09-14T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzgyMzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzQwNDI1Mg==A13h1Q1dFL1QtNzAvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzg1OTAxXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_785892_1",
+   "slug": "2026-mes-785892-1",
+   "title": "MAINTENANCE AND REPAIR / REPLACEMENT OF SERVICE PIPE LINES, FLOAT VALVES, CLEANING OF SERVICE TANKS INCLUDING REPAIR / REPLACEMENT OF SERVICE TANKS AT SVN COLONY, NIRMAN PARK AND 104 AREA UNDER GE (UTILITY-II) VISAKHAPATNAM",
+   "refNo": "8207(A)",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-22T18:00:00+05:30",
+   "closingAt": "2026-09-12T18:00:00+05:30",
+   "openingAt": "2026-09-14T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzgyMzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzQwNDI1Mg==A13h1ODIwNyhBKQ==A13h1MjAyNl9NRVNfNzg1ODkyXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BPCL_26362",
    "slug": "2026-bpcl-26362",
    "title": "E-TENDER FOR FINALIZING SOR FOR BRANDING JOBS FOR UDAIPUR LUBES TERRITORY",
@@ -320618,6 +320716,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_IITR_923350_1",
+   "slug": "2026-iitr-923350-1",
+   "title": "Manpower Outsourcing Services and supply of material for Operation and Maintenance of electrical installation in Zone-1, Solar PV and Solar Heating System (ETC type) at IIT Roorkee Campus",
+   "refNo": "IWD/IE/26-27/E-41",
+   "organisation": "Indian Institute of Technology Roorkee",
+   "orgSlug": "indian-institute-of-technology-roorkee",
+   "category": "electrical",
+   "publishedAt": "2026-08-22T18:00:00+05:30",
+   "closingAt": "2026-09-14T13:00:00+05:30",
+   "openingAt": "2026-09-15T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzgyMzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzQwNDI1Mg==A13h1SVdEL0lFLzI2LTI3L0UtNDE=A13h1MjAyNl9JSVRSXzkyMzM1MF8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NHIDC_919855_1",
    "slug": "2026-nhidc-919855-1",
    "title": "NHID/WB/NH10/SP/8spots/25",
@@ -320657,6 +320769,20 @@
    "closingAt": "2026-09-14T15:00:00+05:30",
    "openingAt": "2026-09-14T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMzYyODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjQzNDI2OA==A13h1SUNFRC1EUklQLzIwMjYvMDMvUkZCLTAzA13h1MjAyNl9JSVNCXzkyMTUyM18x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_HPCLB_288603_1",
+   "slug": "2026-hpclb-288603-1",
+   "title": "DESIGN, ENGINEERING, MANUFACTURING AND SUPPLY OF PLATE HEAT EXCHANGERS AT HBL PLANT SUGAULI",
+   "refNo": "HBL/TEN/PUB/26-27/201",
+   "organisation": "HPCL Biofuels Limited",
+   "orgSlug": "hpcl-biofuels-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-08-22T18:30:00+05:30",
+   "closingAt": "2026-09-14T15:00:00+05:30",
+   "openingAt": "2026-09-15T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzg0ODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzQwNDI1Mg==A13h1SEJML1RFTi9QVUIvMjYtMjcvMjAxA13h1MjAyNl9IUENMQl8yODg2MDNfMQ==",
    "hasCorrigendum": false
   },
   {
@@ -320741,6 +320867,20 @@
    "closingAt": "2026-09-14T18:00:00+05:30",
    "openingAt": "2026-09-16T09:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzgxMTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzM4MjQ5NQ==A13h1ODczNi9FOA==A13h1MjAyNl9NRVNfNzg1ODQ5XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_785900_1",
+   "slug": "2026-mes-785900-1",
+   "title": "SCANNED COPY OF DOCUMENTS AS STIPULATED AT PARA 8 (b) (iv) OF APPX A TO NIT",
+   "refNo": "CWE/136-WE/47 OF 2026-27",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "other",
+   "publishedAt": "2026-08-22T18:00:00+05:30",
+   "closingAt": "2026-09-14T18:00:00+05:30",
+   "openingAt": "2026-09-15T18:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzgyNDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzQwNDI1Mg==A13h1Q1dFLzEzNi1XRS80NyBPRiAyMDI2LTI3A13h1MjAyNl9NRVNfNzg1OTAwXzE=",
    "hasCorrigendum": false
   },
   {
