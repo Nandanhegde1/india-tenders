@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-24T02:04:51.298Z",
+ "generatedAt": "2026-08-24T13:30:13.792Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23068,
+ "count": 23078,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -282930,6 +282930,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_NTPC_111269_1",
+   "slug": "2026-ntpc-111269-1",
+   "title": "SERVICE CONTRACT FOR BENTLY NAVADA MAKE TSI SYSTEM OF STAGE III AT NTPC",
+   "refNo": "NTPC/Vindhyachal STPS/9900332048",
+   "organisation": "NTPC Limited",
+   "orgSlug": "ntpc-limited",
+   "category": "other",
+   "publishedAt": "2026-08-24T18:55:00+05:30",
+   "closingAt": "2026-08-25T14:00:00+05:30",
+   "openingAt": "2026-08-25T17:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQzNDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzU3ODIwOQ==A13h1TlRQQy9WaW5kaHlhY2hhbCBTVFBTLzk5MDAzMzIwNDg=A13h1MjAyNl9OVFBDXzExMTI2OV8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BPCL_26253",
    "slug": "2026-bpcl-26253",
    "title": "CIVIL , MECHANICAL AND ELECTRICAL WORKS AT NRO CHANDAMARA, SOUTH WEST GARO HILLS , MEGHALAYA",
@@ -301340,6 +301354,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MCL_364247_1",
+   "slug": "2026-mcl-364247-1",
+   "title": "Telephone Wiring and Telephone Exchange Setup at MT Hostel and GM office under Orient Area",
+   "refNo": "NIT No. MCL/GM/OA/EnM/e-Ten/26-27/17\t     Dated. 24/08/2026",
+   "organisation": "Mahanadi Coalfields Limited",
+   "orgSlug": "mahanadi-coalfields-limited",
+   "category": "electrical",
+   "publishedAt": "2026-08-24T18:55:00+05:30",
+   "closingAt": "2026-08-30T17:00:00+05:30",
+   "openingAt": "2026-08-31T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQzMjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzU3ODIwOQ==A13h1TklUIE5vLiBNQ0wvR00vT0EvRW5NL2UtVGVuLzI2LTI3LzE3CSAgICAgRGF0ZWQuIDI0LzA4LzIwMjY=A13h1MjAyNl9NQ0xfMzY0MjQ3XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_PrasarBharati_28169",
    "slug": "2026-prasarbharati-28169",
    "title": "NIPP for sourcing of already procured programmes on License Fee by Prasar Bharati for DD Haryana Channel",
@@ -303524,6 +303552,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_JKRRD_149323_1",
+   "slug": "2026-jkrrd-149323-1",
+   "title": "Permanent Restoration of road from L046 Brevi to Kote Kabu Under SASCI Rajouri",
+   "refNo": "EE/PMGSY/R/28 of 2026-27 Dated 21.08.2026",
+   "organisation": "National Rural Roads Development Agency (NRRDA)",
+   "orgSlug": "national-rural-roads-development-agency-nrrda",
+   "category": "construction",
+   "publishedAt": "2026-08-24T18:55:00+05:30",
+   "closingAt": "2026-08-31T16:00:00+05:30",
+   "openingAt": "2026-09-01T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQzMjE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzU3ODIwOQ==A13h1RUUvUE1HU1kvUi8yOCBvZiAyMDI2LTI3IERhdGVkIDIxLjA4LjIwMjY=A13h1MjAyNl9KS1JSRF8xNDkzMjNfMQ==",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2000",
    "slug": "2000",
    "title": "Supply, Retrofit and Commissioning of 90 kW and above LT air contactor modules (DK21) with LT Vacuum Contactors at NTPC Telangana CHP",
@@ -304837,6 +304879,20 @@
    "closingAt": "2026-08-31T17:00:00+05:30",
    "openingAt": "2026-09-02T10:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzAxNTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzIzMjM1Mg==A13h1TUNML0dNKEpBKS9TTyhDKS9lLSBUZW5kZXIvMjYtMjcvMzUsIER0ZC0xOS8wOC8yNg==A13h1MjAyNl9NQ0xfMzYzOTg4XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_JKRRD_149322_1",
+   "slug": "2026-jkrrd-149322-1",
+   "title": "Construction of road from Gundi to Panasa for Laying WMM, BM, OGPC Block Thakrakote Package No. JK14-290 (Adv. Cost Including GST) Under Capex Budget (2181-PMGSY Roads)",
+   "refNo": "Mahore",
+   "organisation": "National Rural Roads Development Agency (NRRDA)",
+   "orgSlug": "national-rural-roads-development-agency-nrrda",
+   "category": "construction",
+   "publishedAt": "2026-08-24T18:55:00+05:30",
+   "closingAt": "2026-08-31T17:00:00+05:30",
+   "openingAt": "2026-09-02T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQzMTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzU3ODIwOQ==A13h1TWFob3JlA13h1MjAyNl9KS1JSRF8xNDkzMjJfMQ==",
    "hasCorrigendum": false
   },
   {
@@ -314066,6 +314122,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MNGL_288821_1",
+   "slug": "2026-mngl-288821-1",
+   "title": "Tender for Rate Contract for the period of 02 years for appointing an agency for sending bulk messages to customers for MNGL, Pune.",
+   "refNo": "MNGL/CP/2026-27/99",
+   "organisation": "Maharashtra Natural Gas Ltd.",
+   "orgSlug": "maharashtra-natural-gas-ltd",
+   "category": "other",
+   "publishedAt": "2026-08-24T18:55:00+05:30",
+   "closingAt": "2026-09-03T15:00:00+05:30",
+   "openingAt": "2026-09-04T16:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQzMzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzU3ODIwOQ==A13h1TU5HTC9DUC8yMDI2LTI3Lzk5A13h1MjAyNl9NTkdMXzI4ODgyMV8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MDL_99924_1",
    "slug": "2026-mdl-99924-1",
    "title": "Upgrading including Civil, Mechanical, Electrical and Furniture Works of 6th Floor, Reclamation Building P and PC, East Yard, MDL.",
@@ -315830,6 +315900,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_CCL_364228_1",
+   "slug": "2026-ccl-364228-1",
+   "title": "Renovation of Creche room at GM Office , under GM unit Dhori Area",
+   "refNo": "GM(D)/SO(C)/ E-tender/2026-27/30 dt 24.08.2026",
+   "organisation": "Central Coalfields Limited",
+   "orgSlug": "central-coalfields-limited",
+   "category": "construction",
+   "publishedAt": "2026-08-24T18:55:00+05:30",
+   "closingAt": "2026-09-04T15:00:00+05:30",
+   "openingAt": "2026-09-05T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODM1OTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzU3ODIwOQ==A13h1R00oRCkvU08oQykvIEUtdGVuZGVyLzIwMjYtMjcvMzAgZHQgMjQuMDguMjAyNg==A13h1MjAyNl9DQ0xfMzY0MjI4XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NHAI_286579_1",
    "slug": "2026-nhai-286579-1",
    "title": "Construction of Foot Over Bridges with Lift Facility at 4 Locations between Km 19.200 to Km 41.500 on Tambaram to Chengalpattu Section of NH 32 (Old NH 45) in the State of Tamil Nadu on EPC Mode",
@@ -315841,6 +315925,34 @@
    "closingAt": "2026-09-04T17:00:00+05:30",
    "openingAt": "2026-09-05T17:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMTMxNDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTkwMTMyMQ==A13h1TkhBSS9ST0MvTkgtMzIvRk9CLzI2LTI3LzI2OQ==A13h1MjAyNl9OSEFJXzI4NjU3OV8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MCL_364238_1",
+   "slug": "2026-mcl-364238-1",
+   "title": "Annual Maintenance of non residential buildings such as G.M Office, Dispensary Project office weighbridges (4 nos.), Challan Receive point, first aid room, New Time Office, Control Room of Sub Station and coal sampling room",
+   "refNo": "MCL/GM(KA)/SO(C)/26-27/310 DT. 24.08.2026",
+   "organisation": "Mahanadi Coalfields Limited",
+   "orgSlug": "mahanadi-coalfields-limited",
+   "category": "construction",
+   "publishedAt": "2026-08-24T18:55:00+05:30",
+   "closingAt": "2026-09-04T17:00:00+05:30",
+   "openingAt": "2026-09-07T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODM2NjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzU3ODIwOQ==A13h1TUNML0dNKEtBKS9TTyhDKS8yNi0yNy8zMTAgRFQuIDI0LjA4LjIwMjY=A13h1MjAyNl9NQ0xfMzY0MjM4XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MCL_364184_1",
+   "slug": "2026-mcl-364184-1",
+   "title": "Repairing of Transmission Assembly (used in LHD Machines) for Hirakhand Bundia Mine under Rampur Sub Area, OA.",
+   "refNo": "MCL/OA/RSA/HBM /EnM/e-Ten/26-27/03  Dated.24.08.2026",
+   "organisation": "Mahanadi Coalfields Limited",
+   "orgSlug": "mahanadi-coalfields-limited",
+   "category": "other",
+   "publishedAt": "2026-08-24T18:55:00+05:30",
+   "closingAt": "2026-09-04T17:00:00+05:30",
+   "openingAt": "2026-09-07T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODMyOTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzU3ODIwOQ==A13h1TUNML09BL1JTQS9IQk0gL0VuTS9lLVRlbi8yNi0yNy8wMyAgRGF0ZWQuMjQuMDguMjAyNg==A13h1MjAyNl9NQ0xfMzY0MTg0XzE=",
    "hasCorrigendum": false
   },
   {
@@ -319274,6 +319386,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MCL_364223_1",
+   "slug": "2026-mcl-364223-1",
+   "title": "Day to Day General maintenance and upkeeping and maintenance of lawn garden of Lingaraj GM Office under Lingaraj Area (for Period of Two Year)",
+   "refNo": "MCL/GM(LA)/e-Tender/ SO(C)/26-27/038 dt.24.08.2026",
+   "organisation": "Mahanadi Coalfields Limited",
+   "orgSlug": "mahanadi-coalfields-limited",
+   "category": "construction",
+   "publishedAt": "2026-08-24T18:55:00+05:30",
+   "closingAt": "2026-09-09T17:00:00+05:30",
+   "openingAt": "2026-09-11T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQzMjU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzU3ODIwOQ==A13h1TUNML0dNKExBKS9lLVRlbmRlci8gU08oQykvMjYtMjcvMDM4IGR0LjI0LjA4LjIwMjY=A13h1MjAyNl9NQ0xfMzY0MjIzXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_781396_1",
    "slug": "2026-mes-781396-1",
    "title": "DEMOLITION AND RECONSTRUCTION OF CERTAIN QMQs AT CAMERO COMPLEX AT SUBROTO PARK (AF) STATION PALAM",
@@ -321413,6 +321539,20 @@
    "closingAt": "2026-09-15T15:00:00+05:30",
    "openingAt": "2026-09-16T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMTUyNTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjA4ODk3Nw==A13h1QkFSQy9XTS9NRUNIL1BJUElORy8yMDI2LzEwNzI=A13h1MjAyNl9OUkJfOTIwNTY1XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_AAI_288809_1",
+   "slug": "2026-aai-288809-1",
+   "title": "License for operating Money Exchange Counters (3 nos.) at New Integrated Terminal Building, Goa International Airport, Dabolim",
+   "refNo": "AAI/COMML/GOA/MEC/2026",
+   "organisation": "Airports Authority of India",
+   "orgSlug": "airports-authority-of-india",
+   "category": "construction",
+   "publishedAt": "2026-08-24T18:55:00+05:30",
+   "closingAt": "2026-09-15T15:00:00+05:30",
+   "openingAt": "2026-09-16T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQzMTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzU3ODIwOQ==A13h1QUFJL0NPTU1ML0dPQS9NRUMvMjAyNg==A13h1MjAyNl9BQUlfMjg4ODA5XzE=",
    "hasCorrigendum": false
   },
   {
