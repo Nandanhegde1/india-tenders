@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-24T13:30:13.792Z",
+ "generatedAt": "2026-08-24T19:10:08.329Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23078,
+ "count": 23088,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -295936,6 +295936,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "166990",
+   "slug": "166990",
+   "title": "26/2026-27/EE/CPWD/Vijayawada",
+   "refNo": "26/2026-27/EE/CPWD/Vijayawada",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-24T20:13:00+05:30",
+   "closingAt": "2026-08-28T15:00:00+05:30",
+   "openingAt": "2026-08-28T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQ0MTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzU5ODYwNA==A13h1MjYvMjAyNi0yNy9FRS9DUFdEL1ZpamF5YXdhZGE=A13h1MTY2OTkw",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_RRCAT_920858_1",
    "slug": "2026-rrcat-920858-1",
    "title": "Design, fabrication, supply installation testing and commissioning of HVAC system for HTFIF building at ARPF complex.",
@@ -301886,6 +301900,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "28487",
+   "slug": "28487",
+   "title": "Package HR-BESS-01",
+   "refNo": "CC/T/W-BESS/DOM/A01/26/11895",
+   "organisation": "Power Grid Corporation of India Limited",
+   "orgSlug": "power-grid-corporation-of-india-limited",
+   "category": "other",
+   "publishedAt": "2026-08-24T19:02:00+05:30",
+   "closingAt": "2026-08-31T11:00:00+05:30",
+   "openingAt": "2026-08-31T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQzODA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzU5ODYwNA==A13h1Q0MvVC9XLUJFU1MvRE9NL0EwMS8yNi8xMTg5NQ==A13h1Mjg0ODc=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_UCIL_285779_1",
    "slug": "2026-ucil-285779-1",
    "title": "Super Enamelled Copper Wire",
@@ -302527,6 +302555,20 @@
    "closingAt": "2026-08-31T14:00:00+05:30",
    "openingAt": "2026-09-01T14:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDEyNDE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjU5MDQ3NA==A13h1R0FJTC9IWlIvQ05QL0ZMLTI2Qy8yNi0yNw==A13h1MjAyNl9HQUlMXzI4NzI2N18x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26380",
+   "slug": "2026-bpcl-26380",
+   "title": "PROCUREMENT OF NHC FITTINGS FOR MR TA 2026 AT BPCL MR",
+   "refNo": "1000463140",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-08-24T20:02:00+05:30",
+   "closingAt": "2026-08-31T14:00:00+05:30",
+   "openingAt": "2026-08-31T14:01:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQ0MTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzU5ODYwNA==A13h1MTAwMDQ2MzE0MA==A13h1MjAyNl9CUENMXzI2Mzgw",
    "hasCorrigendum": false
   },
   {
@@ -303563,6 +303605,20 @@
    "closingAt": "2026-08-31T16:00:00+05:30",
    "openingAt": "2026-09-01T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQzMjE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzU3ODIwOQ==A13h1RUUvUE1HU1kvUi8yOCBvZiAyMDI2LTI3IERhdGVkIDIxLjA4LjIwMjY=A13h1MjAyNl9KS1JSRF8xNDkzMjNfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26386",
+   "slug": "2026-bpcl-26386",
+   "title": "JOB OF CONSULTANCY SERVICES FOR PREPARATION, SUBMISSION, LIAISONING AND OBTAINING CONSENT TO ESTABLISH (CTE) FROM TELANGANA POLLUTION CONTROL BOARD (T",
+   "refNo": "1000463201",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "other",
+   "publishedAt": "2026-08-24T19:09:00+05:30",
+   "closingAt": "2026-08-31T16:00:00+05:30",
+   "openingAt": "2026-09-01T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQzODI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzU5ODYwNA==A13h1MTAwMDQ2MzIwMQ==A13h1MjAyNl9CUENMXzI2Mzg2",
    "hasCorrigendum": false
   },
   {
@@ -308939,6 +308995,48 @@
    "closingAt": "2026-09-01T15:00:00+05:30",
    "openingAt": "2026-09-02T15:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTUxNDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk3MjU4OA==A13h1SEJML1RFTi9QVUIvMjYtMjcvMTg1A13h1MjAyNl9IUENMQl8yODc5MDlfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "166992",
+   "slug": "166992",
+   "title": "01(Recall)NIT/EESM(E)/IPED/CPWD/2026-27",
+   "refNo": "01(Recall)NIT/EESM(E)/IPED/CPWD/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-24T21:34:00+05:30",
+   "closingAt": "2026-09-01T15:00:00+05:30",
+   "openingAt": "2026-09-01T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQ0MjU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzU5ODYwNA==A13h1MDEoUmVjYWxsKU5JVC9FRVNNKEUpL0lQRUQvQ1BXRC8yMDI2LTI3A13h1MTY2OTky",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "166988",
+   "slug": "166988",
+   "title": "16/NIT/EE/BFD-II/AGT/2026-27",
+   "refNo": "16/NIT/EE/BFD-II/AGT/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-24T19:30:00+05:30",
+   "closingAt": "2026-09-01T15:00:00+05:30",
+   "openingAt": "2026-09-01T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQzODM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzU5ODYwNA==A13h1MTYvTklUL0VFL0JGRC1JSS9BR1QvMjAyNi0yNw==A13h1MTY2OTg4",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "166985",
+   "slug": "166985",
+   "title": "05/NIT/EESM(E)/IPED/CPWD/2026-27",
+   "refNo": "05/NIT/EESM(E)/IPED/CPWD/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-24T19:06:00+05:30",
+   "closingAt": "2026-09-01T15:00:00+05:30",
+   "openingAt": "2026-09-01T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQzODE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzU5ODYwNA==A13h1MDUvTklUL0VFU00oRSkvSVBFRC9DUFdELzIwMjYtMjc=A13h1MTY2OTg1",
    "hasCorrigendum": false
   },
   {
@@ -318473,6 +318571,48 @@
    "closingAt": "2026-09-07T18:00:00+05:30",
    "openingAt": "2026-09-09T10:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzgwNTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzM4MjQ5NQ==A13h1Q0EgTk8gOTY5IFdTLSAgIC8yMDI2LTI3A13h1MjAyNl9NRVNfNzcwMDY1XzI=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26389",
+   "slug": "2026-bpcl-26389",
+   "title": "CONSTRUCTION OF NRO MAKDUMPUR , AURANGABAD",
+   "refNo": "1000463206",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "construction",
+   "publishedAt": "2026-08-24T19:45:00+05:30",
+   "closingAt": "2026-09-07T20:00:00+05:30",
+   "openingAt": "2026-09-07T21:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQzODU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzU5ODYwNA==A13h1MTAwMDQ2MzIwNg==A13h1MjAyNl9CUENMXzI2Mzg5",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26384",
+   "slug": "2026-bpcl-26384",
+   "title": "NRO AT KUND , DINARA BARWAN ROAD ROHTAS CIVIL , MECH AND ELECTRICAL JOB",
+   "refNo": "1000463186",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "electrical",
+   "publishedAt": "2026-08-24T19:30:00+05:30",
+   "closingAt": "2026-09-07T20:00:00+05:30",
+   "openingAt": "2026-09-07T21:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQzODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzU5ODYwNA==A13h1MTAwMDQ2MzE4Ng==A13h1MjAyNl9CUENMXzI2Mzg0",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26361",
+   "slug": "2026-bpcl-26361",
+   "title": "HIRING RESIDENTIAL ENGINEER FOR TERMINAL AUTOMATION SYSTEM AT BPCL GOOTY DEPOT",
+   "refNo": "1000462960",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "other",
+   "publishedAt": "2026-08-24T22:24:00+05:30",
+   "closingAt": "2026-09-07T23:01:00+05:30",
+   "openingAt": "2026-09-07T23:02:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQ0MzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzU5ODYwNA==A13h1MTAwMDQ2Mjk2MA==A13h1MjAyNl9CUENMXzI2MzYx",
    "hasCorrigendum": false
   },
   {
