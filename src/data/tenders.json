@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-25T01:59:37.753Z",
+ "generatedAt": "2026-08-25T07:18:18.838Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23088,
+ "count": 23097,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -308452,6 +308452,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_NRO_191034_1",
+   "slug": "2026-nro-191034-1",
+   "title": "NEW A SITE RO AT LOCATION BETWEEN KM STONE NO 62 AND 64 ON BEHJOI ISALMANAGAR ROAD SH 51UNDER MORADABAD DO UPSO II",
+   "refNo": "MnC/NR/UPSO-2/ENG/LT-135/26-27",
+   "organisation": "IndianOil",
+   "orgSlug": "indianoil",
+   "category": "construction",
+   "publishedAt": "2026-08-25T12:00:00+05:30",
+   "closingAt": "2026-09-01T12:00:00+05:30",
+   "openingAt": "2026-09-02T12:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQzMTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzY0MjI5NA==A13h1TW5DL05SL1VQU08tMi9FTkcvTFQtMTM1LzI2LTI3A13h1MjAyNl9OUk9fMTkxMDM0XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_780858_1",
    "slug": "2026-mes-780858-1",
    "title": "ADDN/ALTN AND SPL REPAIR OF CERTAIN MD ACCN AT DEHRADUN",
@@ -309040,6 +309054,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_NTPC_111285_1",
+   "slug": "2026-ntpc-111285-1",
+   "title": "BIENNNIAL SERVICE CONTRACT FOR CENTRALIZED AUTO GREASING SYSTEMS OF STACKER RECLAIMERS IN CHP STAGE III AT NTPC VINDHYACHAL",
+   "refNo": "NTPC/USSC-CPG3/9900332094",
+   "organisation": "NTPC Limited",
+   "orgSlug": "ntpc-limited",
+   "category": "other",
+   "publishedAt": "2026-08-25T12:30:00+05:30",
+   "closingAt": "2026-09-01T15:00:00+05:30",
+   "openingAt": "2026-09-02T16:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQ1NTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzY0MjI5NA==A13h1TlRQQy9VU1NDLUNQRzMvOTkwMDMzMjA5NA==A13h1MjAyNl9OVFBDXzExMTI4NV8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BPCL_26246",
    "slug": "2026-bpcl-26246",
    "title": "PROVISION OF 3 X 600 MT MSV AT RASAYANI LPG PLANT",
@@ -309079,6 +309107,34 @@
    "closingAt": "2026-09-01T15:30:00+05:30",
    "openingAt": "2026-09-03T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMzYwMzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjQzNDMzNQ==A13h1MTgvQ2l2aWwvRDIvMjAyNi0yNw==A13h1MjAyNl9JSVRLXzkyMTUxMF8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MCD_288833_1",
+   "slug": "2026-mcd-288833-1",
+   "title": "Improvement and Development of Culverts at various location in ward no.3 (Holambi Kalan) in EE M-I Outer North Zone",
+   "refNo": "EE/M-I/ONZ/TC/2026-27/19/6",
+   "organisation": "Municipal Corporation of Delhi",
+   "orgSlug": "municipal-corporation-of-delhi",
+   "category": "other",
+   "publishedAt": "2026-08-25T12:00:00+05:30",
+   "closingAt": "2026-09-01T15:30:00+05:30",
+   "openingAt": "2026-09-01T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQxNTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzY0MjI5NA==A13h1RUUvTS1JL09OWi9UQy8yMDI2LTI3LzE5LzY=A13h1MjAyNl9NQ0RfMjg4ODMzXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MCD_288835_1",
+   "slug": "2026-mcd-288835-1",
+   "title": "Repair of Potholes and Roads by CC Pavements at various locations in Ward No.03 (Holambi kalan) in EE M-I Outer North Zone",
+   "refNo": "EE/M-I/ONZ/TC/2026-27/19/7",
+   "organisation": "Municipal Corporation of Delhi",
+   "orgSlug": "municipal-corporation-of-delhi",
+   "category": "construction",
+   "publishedAt": "2026-08-25T12:00:00+05:30",
+   "closingAt": "2026-09-01T15:30:00+05:30",
+   "openingAt": "2026-09-01T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQzMjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzY0MjI5NA==A13h1RUUvTS1JL09OWi9UQy8yMDI2LTI3LzE5Lzc=A13h1MjAyNl9NQ0RfMjg4ODM1XzE=",
    "hasCorrigendum": false
   },
   {
@@ -311252,6 +311308,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "1",
+   "slug": "1",
+   "title": "Tender Notice",
+   "refNo": "KAPL/OTE/DP/SR/0933/2026-27",
+   "organisation": "Karnataka Antibiotics and Pharmaceuticals Limited",
+   "orgSlug": "karnataka-antibiotics-and-pharmaceuticals-limited",
+   "category": "other",
+   "publishedAt": "2026-08-25T12:40:00+05:30",
+   "closingAt": "2026-09-01T23:59:00+05:30",
+   "openingAt": "2026-09-02T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQ2MjU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzY0MjI5NA==A13h1S0FQTC9PVEUvRFAvU1IvMDkzMy8yMDI2LTI3A13h1MQ==",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_IAF_778475_1",
    "slug": "2026-iaf-778475-1",
    "title": "TE/01/26-27",
@@ -312131,6 +312201,20 @@
    "closingAt": "2026-09-02T17:00:00+05:30",
    "openingAt": "2026-09-04T11:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDMyNTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjY3Njc3Mw==A13h1MjZTUDE3MFQ=A13h1MjAyNl9JSU1UXzkyMTk2N18x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_IITK_923540_1",
+   "slug": "2026-iitk-923540-1",
+   "title": "Replacement of Unserviceable Pumps or pump Sets at Various Sump Wells and STPs and Replacement of Damaged Gear Box at STP at Sump Well No.6 and 11",
+   "refNo": "30/Civil/D3/2026-27",
+   "organisation": "Indian Institute of Technology Kanpur",
+   "orgSlug": "indian-institute-of-technology-kanpur",
+   "category": "other",
+   "publishedAt": "2026-08-25T12:30:00+05:30",
+   "closingAt": "2026-09-02T17:00:00+05:30",
+   "openingAt": "2026-09-04T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQ1NzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzY0MjI5NA==A13h1MzAvQ2l2aWwvRDMvMjAyNi0yNw==A13h1MjAyNl9JSVRLXzkyMzU0MF8x",
    "hasCorrigendum": false
   },
   {
@@ -318084,6 +318168,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_26392",
+   "slug": "2026-bpcl-26392",
+   "title": "DISCOUNT E-TENDER FOR CIVIL, ELECTRICAL, MECHANICAL WORK AT NRO KHIRASARA DIST DEVBHUMI DWARKA",
+   "refNo": "1000463204",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "electrical",
+   "publishedAt": "2026-08-25T12:09:00+05:30",
+   "closingAt": "2026-09-07T15:00:00+05:30",
+   "openingAt": "2026-09-07T16:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQ2MDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzY0MjI5NA==A13h1MTAwMDQ2MzIwNA==A13h1MjAyNl9CUENMXzI2Mzky",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_AAI_286836_1",
    "slug": "2026-aai-286836-1",
    "title": "Replacement of AHU and interconnection of chilled water pipeline network of Old DTB ITB with pipeline of T2 NITB at NSCBI Airport Kolkata",
@@ -318711,6 +318809,20 @@
    "closingAt": "2026-09-08T11:00:00+05:30",
    "openingAt": "2026-09-09T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODIwMTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzQ2OTAzMQ==A13h1RUNML1JKTUwvQUdNL0FFKEMpLyBlLVRlbi8yNi0yNy8xMDQgIER0LTIyLjA4LjIwMjY=A13h1MjAyNl9FQ0xfMzY0MTk0XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26393",
+   "slug": "2026-bpcl-26393",
+   "title": "DISCOUNT E-TENDER FOR NRO CONSTRUCTION AT VILLAGE VIRPUR ON NH-58,DISTRICT-BANASKANTHA UNDER AHMEDABAD RETAIL TERRITORY",
+   "refNo": "1000463229",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "construction",
+   "publishedAt": "2026-08-25T12:32:00+05:30",
+   "closingAt": "2026-09-08T11:00:00+05:30",
+   "openingAt": "2026-09-08T11:15:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQ2MTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzY0MjI5NA==A13h1MTAwMDQ2MzIyOQ==A13h1MjAyNl9CUENMXzI2Mzkz",
    "hasCorrigendum": false
   },
   {
@@ -320086,20 +320198,6 @@
    "hasCorrigendum": false
   },
   {
-   "id": "1",
-   "slug": "1",
-   "title": "Grant of Lease of Commercial spaces at Gomti Nagar Railway Station premises Gomti Nagar Lucknow U.P.",
-   "refNo": "RLDA/2026/RFP/CBUA/61 of 2026",
-   "organisation": "Rail Land Development Authority",
-   "orgSlug": "rail-land-development-authority",
-   "category": "other",
-   "publishedAt": "2026-08-10T19:50:00+05:30",
-   "closingAt": "2026-09-10T15:00:00+05:30",
-   "openingAt": "2026-09-10T15:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMzY1MjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjQzNDM1OA==A13h1UkxEQS8yMDI2L1JGUC9DQlVBLzYxIG9mIDIwMjY=A13h1MQ==",
-   "hasCorrigendum": false
-  },
-  {
    "id": "2026_IAF_780368_1",
    "slug": "2026-iaf-780368-1",
    "title": "PROCUREMENT OF SPARES FOR AN-32 AIRCRAFT",
@@ -320979,6 +321077,20 @@
    "closingAt": "2026-09-12T17:00:00+05:30",
    "openingAt": "2026-09-14T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzMzOTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzMxODY5Nw==A13h1MjZTUDAzOFQ=A13h1MjAyNl9JSU1UXzkyMzE3MF8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_786216_1",
+   "slug": "2026-mes-786216-1",
+   "title": "IMPROVEMENT TO WINDOWS AND FLOORING OF CERTAIN SMQS AT AF STN BHUJ",
+   "refNo": "8639/V/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-25T12:20:00+05:30",
+   "closingAt": "2026-09-12T17:00:00+05:30",
+   "openingAt": "2026-09-14T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQ2MDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzY0MjI5NA==A13h1ODYzOS9WL0U4A13h1MjAyNl9NRVNfNzg2MjE2XzE=",
    "hasCorrigendum": false
   },
   {
@@ -322757,6 +322869,20 @@
    "closingAt": "2026-09-25T12:30:00+05:30",
    "openingAt": "2026-09-25T12:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5ODU0NzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTEyNTYyNw==A13h1NjIyNTIwOTFBA13h1MTA3MTM1MTI0",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_SPMCI_288806_1",
+   "slug": "2026-spmci-288806-1",
+   "title": "CONSTRUCTION OF CEMENT CONCRETE PATROLLING ROAD IN CNP",
+   "refNo": "6000019760",
+   "organisation": "SECURITY PRINTING AND MINTING CORPORATION OF INDIA-SPMCIL",
+   "orgSlug": "security-printing-and-minting-corporation-of-india-spmcil",
+   "category": "construction",
+   "publishedAt": "2026-08-25T12:30:00+05:30",
+   "closingAt": "2026-09-25T12:30:00+05:30",
+   "openingAt": "2026-09-26T12:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQ1OTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzY0MjI5NA==A13h1NjAwMDAxOTc2MA==A13h1MjAyNl9TUE1DSV8yODg4MDZfMQ==",
    "hasCorrigendum": false
   },
   {
