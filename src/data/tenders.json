@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-26T02:07:06.044Z",
+ "generatedAt": "2026-08-26T07:17:35.009Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23107,
+ "count": 23109,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -301382,6 +301382,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "1",
+   "slug": "1",
+   "title": "Tender Notice",
+   "refNo": "PRM/CA/123/0952",
+   "organisation": "Karnataka Antibiotics and Pharmaceuticals Limited",
+   "orgSlug": "karnataka-antibiotics-and-pharmaceuticals-limited",
+   "category": "other",
+   "publishedAt": "2026-08-26T12:09:00+05:30",
+   "closingAt": "2026-08-29T23:59:00+05:30",
+   "openingAt": "2026-08-31T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODczMzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzcyODY1MA==A13h1UFJNL0NBLzEyMy8wOTUyA13h1MQ==",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MCL_364247_1",
    "slug": "2026-mcl-364247-1",
    "title": "Telephone Wiring and Telephone Exchange Setup at MT Hostel and GM office under Orient Area",
@@ -311336,20 +311350,6 @@
    "hasCorrigendum": false
   },
   {
-   "id": "1",
-   "slug": "1",
-   "title": "Tender Notice",
-   "refNo": "KAPL/OTE/DP/SR/0933/2026-27",
-   "organisation": "Karnataka Antibiotics and Pharmaceuticals Limited",
-   "orgSlug": "karnataka-antibiotics-and-pharmaceuticals-limited",
-   "category": "other",
-   "publishedAt": "2026-08-25T12:40:00+05:30",
-   "closingAt": "2026-09-01T23:59:00+05:30",
-   "openingAt": "2026-09-02T09:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQ2MjU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzY0MjI5NA==A13h1S0FQTC9PVEUvRFAvU1IvMDkzMy8yMDI2LTI3A13h1MQ==",
-   "hasCorrigendum": false
-  },
-  {
    "id": "2026_IAF_778475_1",
    "slug": "2026-iaf-778475-1",
    "title": "TE/01/26-27",
@@ -319792,6 +319792,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MoRTH_923626_1",
+   "slug": "2026-morth-923626-1",
+   "title": "One Time Improvement (OTI) of NH-133 from Km 93.00 to Km 94.00 at Hansdiha in the state of Jharkhand for the year 2026-27.",
+   "refNo": "NH/DEOGHAR/SBD/01/2026-27 (2nd Call)",
+   "organisation": "Ministry of Road Transport and Highways",
+   "orgSlug": "ministry-of-road-transport-and-highways",
+   "category": "other",
+   "publishedAt": "2026-08-26T12:30:00+05:30",
+   "closingAt": "2026-09-09T17:00:00+05:30",
+   "openingAt": "2026-09-11T12:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODUxNzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzcyODY1MA==A13h1TkgvREVPR0hBUi9TQkQvMDEvMjAyNi0yNyAoMm5kIENhbGwpA13h1MjAyNl9Nb1JUSF85MjM2MjZfMQ==",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_781396_1",
    "slug": "2026-mes-781396-1",
    "title": "DEMOLITION AND RECONSTRUCTION OF CERTAIN QMQs AT CAMERO COMPLEX AT SUBROTO PARK (AF) STATION PALAM",
@@ -320209,6 +320223,20 @@
    "closingAt": "2026-09-10T11:00:00+05:30",
    "openingAt": "2026-09-10T11:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDAzODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjUyMTQ1NQ==A13h1TkVSL05UL1ctRE1TL0RPTS9IMDMvMjYvMTA4OTY=A13h1Mjg0MjA=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_DRDO_786441_1",
+   "slug": "2026-drdo-786441-1",
+   "title": "Fire Retardant Workwear, Qty 150 Nos",
+   "refNo": "CFEES/27PCM045/LT/SB/075",
+   "organisation": "Department of Defence Research and Development",
+   "orgSlug": "department-of-defence-research-and-development",
+   "category": "other",
+   "publishedAt": "2026-08-26T12:30:00+05:30",
+   "closingAt": "2026-09-10T11:00:00+05:30",
+   "openingAt": "2026-09-11T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODczMTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzcyODY1MA==A13h1Q0ZFRVMvMjdQQ00wNDUvTFQvU0IvMDc1A13h1MjAyNl9EUkRPXzc4NjQ0MV8x",
    "hasCorrigendum": false
   },
   {
