@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-26T20:19:13.215Z",
+ "generatedAt": "2026-08-27T10:06:38.413Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23121,
+ "count": 23130,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -301382,20 +301382,6 @@
    "hasCorrigendum": false
   },
   {
-   "id": "1",
-   "slug": "1",
-   "title": "Tender Notice",
-   "refNo": "PRM/CA/123/0952",
-   "organisation": "Karnataka Antibiotics and Pharmaceuticals Limited",
-   "orgSlug": "karnataka-antibiotics-and-pharmaceuticals-limited",
-   "category": "other",
-   "publishedAt": "2026-08-26T12:09:00+05:30",
-   "closingAt": "2026-08-29T23:59:00+05:30",
-   "openingAt": "2026-08-31T09:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODczMzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzcyODY1MA==A13h1UFJNL0NBLzEyMy8wOTUyA13h1MQ==",
-   "hasCorrigendum": false
-  },
-  {
    "id": "2026_MCL_364247_1",
    "slug": "2026-mcl-364247-1",
    "title": "Telephone Wiring and Telephone Exchange Setup at MT Hostel and GM office under Orient Area",
@@ -307091,6 +307077,20 @@
    "closingAt": "2026-09-01T11:00:00+05:30",
    "openingAt": "2026-09-02T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzI5ODg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzIzMjM1Mg==A13h1RUNML1JKTUwvQUdNL0FFKEMpLyBlLVRlbi8yNi0yNy8xMDEgIER0LTIwLjA4LjIwMjY=A13h1MjAyNl9FQ0xfMzY0MDgwXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_EIL_923859_1",
+   "slug": "2026-eil-923859-1",
+   "title": "PRE TENDER MEETING FOR SECURE REMOTE ACCESS SOLUTION AT EIL",
+   "refNo": "PRE TENDER MEETING FOR SECURE REMOTE ACCESS SOLUTION AT EIL",
+   "organisation": "Engineers India Limited,MoPNG",
+   "orgSlug": "engineers-india-limited-mopng",
+   "category": "other",
+   "publishedAt": "2026-08-27T15:30:00+05:30",
+   "closingAt": "2026-09-01T11:00:00+05:30",
+   "openingAt": "2026-09-01T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTE0NDI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzgyNTE5MQ==A13h1UFJFIFRFTkRFUiBNRUVUSU5HIEZPUiBTRUNVUkUgUkVNT1RFIEFDQ0VTUyBTT0xVVElPTiBBVCBFSUw=A13h1MjAyNl9FSUxfOTIzODU5XzE=",
    "hasCorrigendum": false
   },
   {
@@ -314458,6 +314458,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "167266",
+   "slug": "167266",
+   "title": "45/EE-E/BBSR/CPWD/2026-27",
+   "refNo": "45/EE-E/BBSR/CPWD/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-27T15:29:00+05:30",
+   "closingAt": "2026-09-03T15:00:00+05:30",
+   "openingAt": "2026-09-03T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTE0NjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzgyNTE5MQ==A13h1NDUvRUUtRS9CQlNSL0NQV0QvMjAyNi0yNw==A13h1MTY3MjY2",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "167253",
+   "slug": "167253",
+   "title": "44/EE/PE/26-27/B-1/Re-Call",
+   "refNo": "44/EE/PE/26-27/B-1/Re-Call",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-27T15:23:00+05:30",
+   "closingAt": "2026-09-03T15:00:00+05:30",
+   "openingAt": "2026-09-03T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTE0NDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzgyNTE5MQ==A13h1NDQvRUUvUEUvMjYtMjcvQi0xL1JlLUNhbGw=A13h1MTY3MjUz",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MDL_99924_1",
    "slug": "2026-mdl-99924-1",
    "title": "Upgrading including Civil, Mechanical, Electrical and Furniture Works of 6th Floor, Reclamation Building P and PC, East Yard, MDL.",
@@ -314511,6 +314539,20 @@
    "closingAt": "2026-09-03T16:00:00+05:30",
    "openingAt": "2026-09-03T16:01:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDMxNDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjYwNzk3OQ==A13h1MTAwMDQ2MTA4Nw==A13h1MjAyNl9CUENMXzI2MjYx",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "167267",
+   "slug": "167267",
+   "title": "93/2026-27/DED-71/1",
+   "refNo": "93/2026-27/DED-71/1",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-27T15:35:00+05:30",
+   "closingAt": "2026-09-03T16:00:00+05:30",
+   "openingAt": "2026-09-03T16:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTE0NjU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzgyNTE5MQ==A13h1OTMvMjAyNi0yNy9ERUQtNzEvMQ==A13h1MTY3MjY3",
    "hasCorrigendum": false
   },
   {
@@ -315942,6 +315984,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "1",
+   "slug": "1",
+   "title": "Tender Notice",
+   "refNo": "KAPL/OTE/DP/SR/0984/2026-27",
+   "organisation": "Karnataka Antibiotics and Pharmaceuticals Limited",
+   "orgSlug": "karnataka-antibiotics-and-pharmaceuticals-limited",
+   "category": "other",
+   "publishedAt": "2026-08-27T15:22:00+05:30",
+   "closingAt": "2026-09-03T23:59:00+05:30",
+   "openingAt": "2026-09-04T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTE0NDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzgyNTE5MQ==A13h1S0FQTC9PVEUvRFAvU1IvMDk4NC8yMDI2LTI3A13h1MQ==",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NAVY_783258_1",
    "slug": "2026-navy-783258-1",
    "title": "SUPPLY INSTALLATION TESTING AND COMMISSIONING OF SCREW PRESS HYDRAULIC FOR AUGMENTATION OF FACILITY AT MID MANUFACTURING INDIGENOUS DEVELOPMENT DEPARTMENT AT NDV",
@@ -316233,6 +316289,20 @@
    "closingAt": "2026-09-04T15:00:00+05:30",
    "openingAt": "2026-09-05T10:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODM1OTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzU3ODIwOQ==A13h1R00oRCkvU08oQykvIEUtdGVuZGVyLzIwMjYtMjcvMzAgZHQgMjQuMDguMjAyNg==A13h1MjAyNl9DQ0xfMzY0MjI4XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "167260",
+   "slug": "167260",
+   "title": "02/2026-27/EESM (C)-I/AIIMS/ATP (JK)",
+   "refNo": "02/2026-27/EESM (C)-I/AIIMS/ATP (JK)",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-27T15:09:00+05:30",
+   "closingAt": "2026-09-04T15:00:00+05:30",
+   "openingAt": "2026-09-04T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTE0Mzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzgyNTAxMA==A13h1MDIvMjAyNi0yNy9FRVNNIChDKS1JL0FJSU1TL0FUUCAoSkspA13h1MTY3MjYw",
    "hasCorrigendum": false
   },
   {
@@ -318389,6 +318459,20 @@
    "closingAt": "2026-09-07T15:00:00+05:30",
    "openingAt": "2026-09-08T10:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODc0MDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Nzc3NTU0OA==A13h1R00oRCkvU08oQykvIEUtdGVuZGVyLzIwMjYtMjcvMzEgZHQgMjYuMDguMjAyNg==A13h1MjAyNl9DQ0xfMzY0MzI1XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "28497",
+   "slug": "28497",
+   "title": "GEM/2026/B/7910107",
+   "refNo": "SR2/NT/S-MISC/DOM/ZA1/26/11357",
+   "organisation": "Power Grid Corporation of India Limited",
+   "orgSlug": "power-grid-corporation-of-india-limited",
+   "category": "other",
+   "publishedAt": "2026-08-27T15:18:00+05:30",
+   "closingAt": "2026-09-07T15:00:00+05:30",
+   "openingAt": "2026-09-07T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTE0NDU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzgyNTE5MQ==A13h1U1IyL05UL1MtTUlTQy9ET00vWkExLzI2LzExMzU3A13h1Mjg0OTc=",
    "hasCorrigendum": false
   },
   {
@@ -320702,6 +320786,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_26429",
+   "slug": "2026-bpcl-26429",
+   "title": "PROCUREMENT OF ORIFICE PLATES FOR IREP TA SCHEMES",
+   "refNo": "1000462398",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-08-27T15:32:00+05:30",
+   "closingAt": "2026-09-10T15:00:00+05:30",
+   "openingAt": "2026-09-10T15:01:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTE0NjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzgyNTE5MQ==A13h1MTAwMDQ2MjM5OA==A13h1MjAyNl9CUENMXzI2NDI5",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26424",
+   "slug": "2026-bpcl-26424",
+   "title": "CONSTRUCTION OF NRO AT VILLAGE SAINPUR DISTRICT LAKHIMPUR",
+   "refNo": "1000463409",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "construction",
+   "publishedAt": "2026-08-27T15:16:00+05:30",
+   "closingAt": "2026-09-10T16:00:00+05:30",
+   "openingAt": "2026-09-10T16:01:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTE0NDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzgyNTE5MQ==A13h1MTAwMDQ2MzQwOQ==A13h1MjAyNl9CUENMXzI2NDI0",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_DGDE_921564_1",
    "slug": "2026-dgde-921564-1",
    "title": "DEVELOPMENT OF A COMPRESSED BIO-GAS PLANT AT SARAI BAGGA CAMPING GROUND DISTRICT SULTANPUR (ONLY FOR IOCL BPCL HPCL ONGC GAIL OIL AND NATIONAL DAIRY DEVELOPMENT BOARD)",
@@ -322743,6 +322855,20 @@
    "closingAt": "2026-09-18T18:00:00+05:30",
    "openingAt": "2026-09-25T13:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDM5ODU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjY3NjcxMQ==A13h1Q0VCWi9ERE4oSCkvVC0yMSBPRiAyMDI2LTI3A13h1MjAyNl9NRVNfNzg0Mzc1XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_786593_1",
+   "slug": "2026-mes-786593-1",
+   "title": "REPAIR TO PU JOINT FILLING WORKS OF RIGID PAVEMENTS IN TECH AREA AT AF STN ADAMPUR",
+   "refNo": "GE(AF)/ADM/T-44 OF 2026-27",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-27T15:10:00+05:30",
+   "closingAt": "2026-09-18T18:00:00+05:30",
+   "openingAt": "2026-09-21T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTE0MzU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzgyNTEyOA==A13h1R0UoQUYpL0FETS9ULTQ0IE9GIDIwMjYtMjc=A13h1MjAyNl9NRVNfNzg2NTkzXzE=",
    "hasCorrigendum": false
   },
   {
