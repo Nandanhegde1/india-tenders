@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-27T10:06:38.413Z",
+ "generatedAt": "2026-08-27T22:29:09.403Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23130,
+ "count": 23140,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -301928,6 +301928,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_26402",
+   "slug": "2026-bpcl-26402",
+   "title": "REVAMP OF VCB-1 & SOLAR 2 POLE IN BPCL 33 KV SWITCHYARD",
+   "refNo": "1000463283",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "electrical",
+   "publishedAt": "2026-08-28T01:27:00+05:30",
+   "closingAt": "2026-08-31T11:00:00+05:30",
+   "openingAt": "2026-08-31T11:10:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTQyMDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Nzg2OTc0NA==A13h1MTAwMDQ2MzI4Mw==A13h1MjAyNl9CUENMXzI2NDAy",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "167315",
+   "slug": "167315",
+   "title": "19/DDH/HDB/2026-27",
+   "refNo": "19/DDH/HDB/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-27T19:33:00+05:30",
+   "closingAt": "2026-08-31T11:00:00+05:30",
+   "openingAt": "2026-08-31T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTQxNjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Nzg2OTc0NA==A13h1MTkvRERIL0hEQi8yMDI2LTI3A13h1MTY3MzE1",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_UCIL_285779_1",
    "slug": "2026-ucil-285779-1",
    "title": "Super Enamelled Copper Wire",
@@ -303521,6 +303549,20 @@
    "closingAt": "2026-08-31T15:00:00+05:30",
    "openingAt": "2026-08-31T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODMwOTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzUzNzA4Nw==A13h1MTAwMDQ2MzA3NA==A13h1MjAyNl9CUENMXzI2Mzc0",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "167318",
+   "slug": "167318",
+   "title": "129/NIT/EE-KOL-III/CPWD/2026-2027",
+   "refNo": "129/NIT/EE-KOL-III/CPWD/2026-2027",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-27T20:27:00+05:30",
+   "closingAt": "2026-08-31T15:00:00+05:30",
+   "openingAt": "2026-08-31T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTQxODE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Nzg2OTc0NA==A13h1MTI5L05JVC9FRS1LT0wtSUlJL0NQV0QvMjAyNi0yMDI3A13h1MTY3MzE4",
    "hasCorrigendum": false
   },
   {
@@ -309107,6 +309149,20 @@
    "closingAt": "2026-09-01T15:00:00+05:30",
    "openingAt": "2026-09-02T16:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQ1NTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzY0MjI5NA==A13h1TlRQQy9VU1NDLUNQRzMvOTkwMDMzMjA5NA==A13h1MjAyNl9OVFBDXzExMTI4NV8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "167313",
+   "slug": "167313",
+   "title": "138/EE-II/SD/AE-III/2026-27 (RECALL)",
+   "refNo": "138/EE-II/SD/AE-III/2026-27 (RECALL)",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-27T19:09:00+05:30",
+   "closingAt": "2026-09-01T15:00:00+05:30",
+   "openingAt": "2026-09-01T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTMyMjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Nzg2OTc0NA==A13h1MTM4L0VFLUlJL1NEL0FFLUlJSS8yMDI2LTI3IChSRUNBTEwpA13h1MTY3MzEz",
    "hasCorrigendum": false
   },
   {
@@ -316306,6 +316362,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "167319",
+   "slug": "167319",
+   "title": "130/41/NIT/AE-II/EE-KOL-III/2026-2027",
+   "refNo": "130/41/NIT/AE-II/EE-KOL-III/2026-2027",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-27T20:27:00+05:30",
+   "closingAt": "2026-09-04T15:00:00+05:30",
+   "openingAt": "2026-09-04T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTQxODI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Nzg2OTc0NA==A13h1MTMwLzQxL05JVC9BRS1JSS9FRS1LT0wtSUlJLzIwMjYtMjAyNw==A13h1MTY3MzE5",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NHAI_286579_1",
    "slug": "2026-nhai-286579-1",
    "title": "Construction of Foot Over Bridges with Lift Facility at 4 Locations between Km 19.200 to Km 41.500 on Tambaram to Chengalpattu Section of NH 32 (Old NH 45) in the State of Tamil Nadu on EPC Mode",
@@ -316835,6 +316905,20 @@
    "closingAt": "2026-09-05T12:40:00+05:30",
    "openingAt": "2026-09-07T12:50:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMjQwNjA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjA4ODk0NQ==A13h1MjYtMjcvUFVSLTA5MC9MVEUtMDA1A13h1MjAyNl9CUFNDTF8yODU3MjNfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "167320",
+   "slug": "167320",
+   "title": "34/EE/Kanpur/2026-27",
+   "refNo": "34/EE/Kanpur/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-27T21:34:00+05:30",
+   "closingAt": "2026-09-05T15:00:00+05:30",
+   "openingAt": "2026-09-05T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTQxOTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Nzg2OTc0NA==A13h1MzQvRUUvS2FucHVyLzIwMjYtMjc=A13h1MTY3MzIw",
    "hasCorrigendum": false
   },
   {
@@ -317902,6 +317986,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "167316",
+   "slug": "167316",
+   "title": "03/EESM/LPD-I/2026-27",
+   "refNo": "03/EESM/LPD-I/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-27T19:34:00+05:30",
+   "closingAt": "2026-09-07T11:00:00+05:30",
+   "openingAt": "2026-09-07T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTQxNjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Nzg2OTc0NA==A13h1MDMvRUVTTS9MUEQtSS8yMDI2LTI3A13h1MTY3MzE2",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_AAI_282549_1",
    "slug": "2026-aai-282549-1",
    "title": "Development New Civil Enclave at Purnea, Bihar.",
@@ -318473,6 +318571,20 @@
    "closingAt": "2026-09-07T15:00:00+05:30",
    "openingAt": "2026-09-07T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTE0NDU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzgyNTE5MQ==A13h1U1IyL05UL1MtTUlTQy9ET00vWkExLzI2LzExMzU3A13h1Mjg0OTc=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "167317",
+   "slug": "167317",
+   "title": "73/2026-27/EE-1/AE-1/Shimla",
+   "refNo": "73/2026-27/EE-1/AE-1/Shimla",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-27T20:33:00+05:30",
+   "closingAt": "2026-09-07T15:00:00+05:30",
+   "openingAt": "2026-09-07T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTQxODM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Nzg2OTc0NA==A13h1NzMvMjAyNi0yNy9FRS0xL0FFLTEvU2hpbWxhA13h1MTY3MzE3",
    "hasCorrigendum": false
   },
   {
@@ -320800,6 +320912,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_26406",
+   "slug": "2026-bpcl-26406",
+   "title": "KANDLA TW GANTRY SPRINKLER PAINTING AND PROCUREMENT OF NUTS AND BOLTS",
+   "refNo": "1000463303",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "construction",
+   "publishedAt": "2026-08-27T23:36:00+05:30",
+   "closingAt": "2026-09-10T15:00:00+05:30",
+   "openingAt": "2026-09-10T15:05:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTQxOTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Nzg2OTc0NA==A13h1MTAwMDQ2MzMwMw==A13h1MjAyNl9CUENMXzI2NDA2",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BPCL_26424",
    "slug": "2026-bpcl-26424",
    "title": "CONSTRUCTION OF NRO AT VILLAGE SAINPUR DISTRICT LAKHIMPUR",
@@ -322701,6 +322827,20 @@
    "closingAt": "2026-09-17T15:00:00+05:30",
    "openingAt": "2026-09-18T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQ0Nzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk1MTc5OA==A13h1MjAyNjA1NTExMA==A13h1MjAyNl9Nb1NfOTIyMTYzXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26379",
+   "slug": "2026-bpcl-26379",
+   "title": "LUMPSUM PACKAGE FOR MOUNDED BULLETS AND ITS ASSOCIATED FACILITIES",
+   "refNo": "1000462657",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "other",
+   "publishedAt": "2026-08-27T20:57:00+05:30",
+   "closingAt": "2026-09-17T18:00:00+05:30",
+   "openingAt": "2026-09-17T18:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTQxOTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Nzg2OTc0NA==A13h1MTAwMDQ2MjY1Nw==A13h1MjAyNl9CUENMXzI2Mzc5",
    "hasCorrigendum": false
   },
   {
