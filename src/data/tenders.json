@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-27T22:29:09.403Z",
+ "generatedAt": "2026-08-28T11:37:01.227Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23140,
+ "count": 23152,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -312302,6 +312302,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "167375",
+   "slug": "167375",
+   "title": "22/EESME/Goa project/2026-27",
+   "refNo": "22/EESME/Goa project/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-28T17:06:00+05:30",
+   "closingAt": "2026-09-02T15:30:00+05:30",
+   "openingAt": "2026-09-02T15:35:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTQ3NDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzkxNzAxNQ==A13h1MjIvRUVTTUUvR29hIHByb2plY3QvMjAyNi0yNw==A13h1MTY3Mzc1",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NMPT_921590_1",
    "slug": "2026-nmpt-921590-1",
    "title": "Hiring of 1 No. Harbour Mobile Cranes (HMC) of 100 MT or above capacity on Revenue sharing basis for a period of 10 years, extendable up to 02 years at NMPA",
@@ -318588,6 +318602,90 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MCD_289180_1",
+   "slug": "2026-mcd-289180-1",
+   "title": "Engaging LMV with Labour for Removal of Malba and misc. work in Ward No.87/KBZ.",
+   "refNo": "24-06/EE(M)-II/TC/KBZ/2026-27",
+   "organisation": "Municipal Corporation of Delhi",
+   "orgSlug": "municipal-corporation-of-delhi",
+   "category": "other",
+   "publishedAt": "2026-08-28T17:00:00+05:30",
+   "closingAt": "2026-09-07T15:00:00+05:30",
+   "openingAt": "2026-09-07T15:05:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTQyNjg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzkxNjk3Ng==A13h1MjQtMDYvRUUoTSktSUkvVEMvS0JaLzIwMjYtMjc=A13h1MjAyNl9NQ0RfMjg5MTgwXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MCD_289178_1",
+   "slug": "2026-mcd-289178-1",
+   "title": "Improvement and Development of lane by pdg. RMC from H.No.T-235/A2 to T-612 and T-235/A26 and J-179 to T-30B/2 Gali in Baljeet Nagar in Ward 88 KBZ.",
+   "refNo": "24-05/EE(M)-II/TC/KBZ/2026-27",
+   "organisation": "Municipal Corporation of Delhi",
+   "orgSlug": "municipal-corporation-of-delhi",
+   "category": "construction",
+   "publishedAt": "2026-08-28T17:00:00+05:30",
+   "closingAt": "2026-09-07T15:00:00+05:30",
+   "openingAt": "2026-09-07T15:05:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTQyNjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzkxNzAxNQ==A13h1MjQtMDUvRUUoTSktSUkvVEMvS0JaLzIwMjYtMjc=A13h1MjAyNl9NQ0RfMjg5MTc4XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MCD_289176_1",
+   "slug": "2026-mcd-289176-1",
+   "title": "Improvement and Development of lane by pdg. RMC from H.No.T-235/E-2A to T-235A/E2A and T-235/83/14A to T-235/2 in Bairry Wali Gali in Baljeet Nagar in Ward 88 KBZ.",
+   "refNo": "24-03/EE(M)-II/TC/KBZ/2026-27",
+   "organisation": "Municipal Corporation of Delhi",
+   "orgSlug": "municipal-corporation-of-delhi",
+   "category": "construction",
+   "publishedAt": "2026-08-28T17:00:00+05:30",
+   "closingAt": "2026-09-07T15:00:00+05:30",
+   "openingAt": "2026-09-07T15:05:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTQyNDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzkxNzAxNQ==A13h1MjQtMDMvRUUoTSktSUkvVEMvS0JaLzIwMjYtMjc=A13h1MjAyNl9NQ0RfMjg5MTc2XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MCD_289172_1",
+   "slug": "2026-mcd-289172-1",
+   "title": "Engaging of 03 Nos. drivers for operation of Trucks/Vehicles/Water tanker Sprinkler under jurisdiction of E.E(M)-II in Karol Bagh Zone.",
+   "refNo": "24-02/EE(M)-II/TC/KBZ/2026-27",
+   "organisation": "Municipal Corporation of Delhi",
+   "orgSlug": "municipal-corporation-of-delhi",
+   "category": "other",
+   "publishedAt": "2026-08-28T17:00:00+05:30",
+   "closingAt": "2026-09-07T15:00:00+05:30",
+   "openingAt": "2026-09-07T15:05:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTQyNDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzkxNzAxNQ==A13h1MjQtMDIvRUUoTSktSUkvVEMvS0JaLzIwMjYtMjc=A13h1MjAyNl9NQ0RfMjg5MTcyXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MCD_289177_1",
+   "slug": "2026-mcd-289177-1",
+   "title": "Improvement and Development of lane by pdg. RMC from H.No. T-447 to T-634/10B in Valmiki Wali Gali in Baljeet Nagar in Ward 88 KBZ.",
+   "refNo": "24-04/EE(M)-II/TC/KBZ/2026-27",
+   "organisation": "Municipal Corporation of Delhi",
+   "orgSlug": "municipal-corporation-of-delhi",
+   "category": "construction",
+   "publishedAt": "2026-08-28T17:00:00+05:30",
+   "closingAt": "2026-09-07T15:00:00+05:30",
+   "openingAt": "2026-09-07T15:05:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTQyNTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzkxNzAxNQ==A13h1MjQtMDQvRUUoTSktSUkvVEMvS0JaLzIwMjYtMjc=A13h1MjAyNl9NQ0RfMjg5MTc3XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MCD_289170_1",
+   "slug": "2026-mcd-289170-1",
+   "title": "Improvement and development of drain by pdg. C.C. and RCC Slab infront of Gali No.1 to Gali No.4, Nehru Nagar, West Patel Nagar in Ward No.85/KBZ.",
+   "refNo": "24-01/EE(M)-II/TC/KBZ/2026-27",
+   "organisation": "Municipal Corporation of Delhi",
+   "orgSlug": "municipal-corporation-of-delhi",
+   "category": "construction",
+   "publishedAt": "2026-08-28T17:00:00+05:30",
+   "closingAt": "2026-09-07T15:00:00+05:30",
+   "openingAt": "2026-09-07T15:05:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTQzMDU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzkxNjg1Mw==A13h1MjQtMDEvRUUoTSktSUkvVEMvS0JaLzIwMjYtMjc=A13h1MjAyNl9NQ0RfMjg5MTcwXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_AAI_286836_1",
    "slug": "2026-aai-286836-1",
    "title": "Replacement of AHU and interconnection of chilled water pipeline network of Old DTB ITB with pipeline of T2 NITB at NSCBI Airport Kolkata",
@@ -321430,6 +321528,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "167364",
+   "slug": "167364",
+   "title": "11/CE-I/EE(E)-I/2026-27",
+   "refNo": "11/CE-I/EE(E)-I/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-08-28T17:04:00+05:30",
+   "closingAt": "2026-09-11T16:00:00+05:30",
+   "openingAt": "2026-09-11T16:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTQ3NDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzkxNzAxNQ==A13h1MTEvQ0UtSS9FRShFKS1JLzIwMjYtMjc=A13h1MTY3MzY0",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_DGDE_921281_1",
    "slug": "2026-dgde-921281-1",
    "title": "Setting up of CBG Plant at Village Kuarmunda, Tahasil Panposh, Distt- Sundargarh, Odisha valid for Cental OGMC and NDDB",
@@ -322029,6 +322141,48 @@
    "closingAt": "2026-09-14T17:00:00+05:30",
    "openingAt": "2026-09-17T17:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5OTY1NTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTQyMjQwNw==A13h1MzE0ODI=A13h1MjAyNl9OSVdBU185MTk5MzVfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_WBSRD_149347_3",
+   "slug": "2026-wbsrd-149347-3",
+   "title": "WB02835",
+   "refNo": "22/SRDA/N-2/2026-27/02",
+   "organisation": "National Rural Roads Development Agency (NRRDA)",
+   "orgSlug": "national-rural-roads-development-agency-nrrda",
+   "category": "other",
+   "publishedAt": "2026-08-28T17:00:00+05:30",
+   "closingAt": "2026-09-14T17:00:00+05:30",
+   "openingAt": "2026-09-15T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTQxNzU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzkxNzAxNQ==A13h1MjIvU1JEQS9OLTIvMjAyNi0yNy8wMg==A13h1MjAyNl9XQlNSRF8xNDkzNDdfMw==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_WBSRD_149347_1",
+   "slug": "2026-wbsrd-149347-1",
+   "title": "WB02805",
+   "refNo": "22/SRDA/N-2/2026-27/02",
+   "organisation": "National Rural Roads Development Agency (NRRDA)",
+   "orgSlug": "national-rural-roads-development-agency-nrrda",
+   "category": "other",
+   "publishedAt": "2026-08-28T17:00:00+05:30",
+   "closingAt": "2026-09-14T17:00:00+05:30",
+   "openingAt": "2026-09-15T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTI5NTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzkxNzAxNQ==A13h1MjIvU1JEQS9OLTIvMjAyNi0yNy8wMg==A13h1MjAyNl9XQlNSRF8xNDkzNDdfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_WBSRD_149347_2",
+   "slug": "2026-wbsrd-149347-2",
+   "title": "WB02813",
+   "refNo": "22/SRDA/N-2/2026-27/02",
+   "organisation": "National Rural Roads Development Agency (NRRDA)",
+   "orgSlug": "national-rural-roads-development-agency-nrrda",
+   "category": "other",
+   "publishedAt": "2026-08-28T17:00:00+05:30",
+   "closingAt": "2026-09-14T17:00:00+05:30",
+   "openingAt": "2026-09-15T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTQxNzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzkxNzAxNQ==A13h1MjIvU1JEQS9OLTIvMjAyNi0yNy8wMg==A13h1MjAyNl9XQlNSRF8xNDkzNDdfMg==",
    "hasCorrigendum": false
   },
   {
@@ -323009,6 +323163,20 @@
    "closingAt": "2026-09-18T18:00:00+05:30",
    "openingAt": "2026-09-21T09:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTE0MzU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzgyNTEyOA==A13h1R0UoQUYpL0FETS9ULTQ0IE9GIDIwMjYtMjc=A13h1MjAyNl9NRVNfNzg2NTkzXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_NITA_923959_1",
+   "slug": "2026-nita-923959-1",
+   "title": "Supply of Laboratorya and Scientific Equipment",
+   "refNo": "F.NITA.20(655-ECE) /2026-27/Nanolab/E-Beam /New",
+   "organisation": "National Institute of Technology Agartala",
+   "orgSlug": "national-institute-of-technology-agartala",
+   "category": "goods-supply",
+   "publishedAt": "2026-08-28T17:00:00+05:30",
+   "closingAt": "2026-09-19T15:00:00+05:30",
+   "openingAt": "2026-09-21T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTQyODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzkxNzAxNQ==A13h1Ri5OSVRBLjIwKDY1NS1FQ0UpIC8yMDI2LTI3L05hbm9sYWIvRS1CZWFtIC9OZXc=A13h1MjAyNl9OSVRBXzkyMzk1OV8x",
    "hasCorrigendum": false
   },
   {
