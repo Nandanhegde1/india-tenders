@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-28T11:37:01.227Z",
+ "generatedAt": "2026-08-29T07:14:25.744Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23152,
+ "count": 23162,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -316838,6 +316838,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_NTPC_111362_1",
+   "slug": "2026-ntpc-111362-1",
+   "title": "Construction of community centre at Sikri village.",
+   "refNo": "NTPC/Pakri Barwadih CMP/9900332430",
+   "organisation": "NTPC Limited",
+   "orgSlug": "ntpc-limited",
+   "category": "construction",
+   "publishedAt": "2026-08-29T12:00:00+05:30",
+   "closingAt": "2026-09-05T09:00:00+05:30",
+   "openingAt": "2026-09-05T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTc0NjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Nzk4NzY2MA==A13h1TlRQQy9QYWtyaSBCYXJ3YWRpaCBDTVAvOTkwMDMzMjQzMA==A13h1MjAyNl9OVFBDXzExMTM2Ml8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107149745",
    "slug": "107149745",
    "title": "SUPPORT PAD",
@@ -319372,6 +319386,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BHEL_64443_1",
+   "slug": "2026-bhel-64443-1",
+   "title": "MUFFLE FURNACE FOR QUENCHABILITY TEST SYSTEM",
+   "refNo": "772601001",
+   "organisation": "Bharat Heavy Electricals Limited",
+   "orgSlug": "bharat-heavy-electricals-limited",
+   "category": "other",
+   "publishedAt": "2026-08-29T12:00:00+05:30",
+   "closingAt": "2026-09-08T12:00:00+05:30",
+   "openingAt": "2026-09-08T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTc1MDA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Nzk4NzY2MA==A13h1NzcyNjAxMDAxA13h1MjAyNl9CSEVMXzY0NDQzXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NTPC_110672_1",
    "slug": "2026-ntpc-110672-1",
    "title": "Great Nicobar Island Gas Engine Power Project 108 MW EPC Package",
@@ -321724,6 +321752,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_AOD_191202_1",
+   "slug": "2026-aod-191202-1",
+   "title": "DRE226B076 Annual rate contract for Servicing and overhauling of Transformers at AOD Refinery, Digboi and IOCL DR Township",
+   "refNo": "DRE226B076",
+   "organisation": "IndianOil",
+   "orgSlug": "indianoil",
+   "category": "other",
+   "publishedAt": "2026-08-29T12:00:00+05:30",
+   "closingAt": "2026-09-12T12:00:00+05:30",
+   "openingAt": "2026-09-14T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTc0ODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Nzk4NzY2MA==A13h1RFJFMjI2QjA3Ng==A13h1MjAyNl9BT0RfMTkxMjAyXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_DGDE_921999_1",
    "slug": "2026-dgde-921999-1",
    "title": "SETTING UP OF A COMPRESSED BIO GAS PLANT AT GARIAJAN RIFLE RANGE DISTRICT GOLAGHAT ASSAM",
@@ -322998,6 +323040,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MES_786904_1",
+   "slug": "2026-mes-786904-1",
+   "title": "REPLACEMENT OF OLD RCC POSTS WITH METALLIC POSTS ALONGWITH CHAIN LINK FENCING AT VARIOUS LOCATIONS IN TECH AREA AT AF STN TEZPUR",
+   "refNo": "8204/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "other",
+   "publishedAt": "2026-08-29T12:00:00+05:30",
+   "closingAt": "2026-09-17T18:00:00+05:30",
+   "openingAt": "2026-09-19T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTc0Nzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Nzk4NzY2MA==A13h1ODIwNC9FOA==A13h1MjAyNl9NRVNfNzg2OTA0XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107142272",
    "slug": "107142272",
    "title": "SHUNT.TO DRG. 187/ELECT/PTS/83 SIL",
@@ -323138,6 +323194,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MES_786898_1",
+   "slug": "2026-mes-786898-1",
+   "title": "SPL REPAIR TO ATC TOWER AT AF STN GORAKHPUR UNDER GE(AF) GORAKHPUR.",
+   "refNo": "9495/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-29T12:00:00+05:30",
+   "closingAt": "2026-09-18T17:00:00+05:30",
+   "openingAt": "2026-09-21T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTc0NzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Nzk4NzY2MA==A13h1OTQ5NS9FOA==A13h1MjAyNl9NRVNfNzg2ODk4XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_784375_1",
    "slug": "2026-mes-784375-1",
    "title": "PROVN OF 200 SMB (OTM ACCN) INCL COOK HOUSE CUM DINING HALL AND COY OFFICE FOR DEPOT COY AT GRRC LANSDOWNE",
@@ -323166,6 +323236,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MES_786905_1",
+   "slug": "2026-mes-786905-1",
+   "title": "TERM CONTRACT FOR ARTIFICER WORKS IN MD/OTM ACCN IN ZONE-IIA AREA UNDER AGE B/R-II OF GE JAIPUR",
+   "refNo": "GE/J-   /2026-27",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "other",
+   "publishedAt": "2026-08-29T12:00:00+05:30",
+   "closingAt": "2026-09-18T18:00:00+05:30",
+   "openingAt": "2026-09-21T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTc0Nzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Nzk4NzY2MA==A13h1R0UvSi0gICAvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzg2OTA1XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NITA_923959_1",
    "slug": "2026-nita-923959-1",
    "title": "Supply of Laboratorya and Scientific Equipment",
@@ -323177,6 +323261,48 @@
    "closingAt": "2026-09-19T15:00:00+05:30",
    "openingAt": "2026-09-21T15:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTQyODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzkxNzAxNQ==A13h1Ri5OSVRBLjIwKDY1NS1FQ0UpIC8yMDI2LTI3L05hbm9sYWIvRS1CZWFtIC9OZXc=A13h1MjAyNl9OSVRBXzkyMzk1OV8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_AIMNP_924079_1",
+   "slug": "2026-aimnp-924079-1",
+   "title": "NIT for Construction of Open Parking Facility and Approach roads for IPD staff parking, Academic area parking near Auditorium, Students parking for hostels behind Charak and near Keshav hostel at AIIMS Nagpur",
+   "refNo": "31/AIIMS/NAG/ENGG/2026-27",
+   "organisation": "All India Institute of Medical Science-Nagpur",
+   "orgSlug": "all-india-institute-of-medical-science-nagpur",
+   "category": "construction",
+   "publishedAt": "2026-08-29T12:30:00+05:30",
+   "closingAt": "2026-09-19T15:00:00+05:30",
+   "openingAt": "2026-09-21T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTc1MDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Nzk4NzY2MA==A13h1MzEvQUlJTVMvTkFHL0VOR0cvMjAyNi0yNw==A13h1MjAyNl9BSU1OUF85MjQwNzlfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_786901_1",
+   "slug": "2026-mes-786901-1",
+   "title": "REPAIR AND POLISHING OF WOODEN FURNITURE AT AF STN JAISALMER",
+   "refNo": "8474/GE/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-29T12:00:00+05:30",
+   "closingAt": "2026-09-19T18:00:00+05:30",
+   "openingAt": "2026-09-21T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTc0OTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Nzk4NzY2MA==A13h1ODQ3NC9HRS9FOA==A13h1MjAyNl9NRVNfNzg2OTAxXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_786899_1",
+   "slug": "2026-mes-786899-1",
+   "title": "REPAIR MAINT OF LIFTS AND EOT CRANES OF VARIOUS CAPACITIES INSTALLED AT TECHNICAL, MAGAZINE AT PXE AND LC AREAS AT PXE AND ITR CHANDIPUR",
+   "refNo": "8322/A/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-29T12:00:00+05:30",
+   "closingAt": "2026-09-19T18:00:00+05:30",
+   "openingAt": "2026-09-26T18:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTc0NzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Nzk4NzY2MA==A13h1ODMyMi9BL0U4A13h1MjAyNl9NRVNfNzg2ODk5XzE=",
    "hasCorrigendum": false
   },
   {
@@ -323373,6 +323499,20 @@
    "closingAt": "2026-09-21T18:00:00+05:30",
    "openingAt": "2026-09-23T10:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzMxMTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzI5NjU2Nw==A13h1Q1dFL0pIQS9HV0wvVE9LRU4vNjMgT0YgMjAyNi0yNw==A13h1MjAyNl9NRVNfNzg1NTkyXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_786919_1",
+   "slug": "2026-mes-786919-1",
+   "title": "PROVN OF EDUCATION BLDG WITH TOILET AT AMC CC UNDER GE (EAST) LUCKNOW",
+   "refNo": "GE/E/LKO/T-77 OF 2026-27",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "other",
+   "publishedAt": "2026-08-29T12:10:00+05:30",
+   "closingAt": "2026-09-21T18:00:00+05:30",
+   "openingAt": "2026-09-23T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTc1NDI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Nzk4NzY2MA==A13h1R0UvRS9MS08vVC03NyBPRiAyMDI2LTI3A13h1MjAyNl9NRVNfNzg2OTE5XzE=",
    "hasCorrigendum": false
   },
   {
