@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-29T07:14:25.744Z",
+ "generatedAt": "2026-08-29T16:53:34.097Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23162,
+ "count": 23172,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -312302,6 +312302,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "167437",
+   "slug": "167437",
+   "title": "33/EE/Kanpur/2026-27/Recall",
+   "refNo": "33/EE/Kanpur/2026-27/Recall",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-29T19:51:00+05:30",
+   "closingAt": "2026-09-02T15:00:00+05:30",
+   "openingAt": "2026-09-02T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTg4NDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODAyMjI5NA==A13h1MzMvRUUvS2FucHVyLzIwMjYtMjcvUmVjYWxsA13h1MTY3NDM3",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "167435",
+   "slug": "167435",
+   "title": "43/ACED/2026-27",
+   "refNo": "43/ACED/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-29T19:21:00+05:30",
+   "closingAt": "2026-09-02T15:00:00+05:30",
+   "openingAt": "2026-09-02T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTg4NDE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODAyMjI5NA==A13h1NDMvQUNFRC8yMDI2LTI3A13h1MTY3NDM1",
+   "hasCorrigendum": false
+  },
+  {
    "id": "167375",
    "slug": "167375",
    "title": "22/EESME/Goa project/2026-27",
@@ -314108,6 +314136,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "167436",
+   "slug": "167436",
+   "title": "NIQ No.05/EE/C4D/2026-27/Chennai",
+   "refNo": "NIQ No.05/EE/C4D/2026-27/Chennai",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-29T19:25:00+05:30",
+   "closingAt": "2026-09-03T11:00:00+05:30",
+   "openingAt": "2026-09-03T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTg4NDI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODAyMjI5NA==A13h1TklRIE5vLjA1L0VFL0M0RC8yMDI2LTI3L0NoZW5uYWk=A13h1MTY3NDM2",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MoRTH_918169_1",
    "slug": "2026-morth-918169-1",
    "title": "RE-CONSTRUCTION OF DECK SLAB OF BRIDGE OVER RIVER NGENGPUI AT 47.500 KMP OF NH-502A",
@@ -314556,6 +314598,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_NTPC_111380_1",
+   "slug": "2026-ntpc-111380-1",
+   "title": "Portable flue gas analyzer repairing onsite calibration and issuing calibration certificate",
+   "refNo": "NTPC/USSC-CPG3/9900332095",
+   "organisation": "NTPC Limited",
+   "orgSlug": "ntpc-limited",
+   "category": "other",
+   "publishedAt": "2026-08-29T18:55:00+05:30",
+   "closingAt": "2026-09-03T15:00:00+05:30",
+   "openingAt": "2026-09-04T16:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTg4MjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODAyMjI5NA==A13h1TlRQQy9VU1NDLUNQRzMvOTkwMDMzMjA5NQ==A13h1MjAyNl9OVFBDXzExMTM4MF8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MDL_99924_1",
    "slug": "2026-mdl-99924-1",
    "title": "Upgrading including Civil, Mechanical, Electrical and Furniture Works of 6th Floor, Reclamation Building P and PC, East Yard, MDL.",
@@ -314567,6 +314623,20 @@
    "closingAt": "2026-09-03T15:30:00+05:30",
    "openingAt": "2026-09-04T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDExNTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjU0MzA5OQ==A13h1MTkwMDAwMDI2OQ==A13h1MjAyNl9NRExfOTk5MjRfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_NTPC_111381_1",
+   "slug": "2026-ntpc-111381-1",
+   "title": "BMC FOR HP BYPASS SYSTEM OF NTPC BONGAIGAON",
+   "refNo": "NTPC/USSC-CPG3/9900332395",
+   "organisation": "NTPC Limited",
+   "orgSlug": "ntpc-limited",
+   "category": "other",
+   "publishedAt": "2026-08-29T18:55:00+05:30",
+   "closingAt": "2026-09-03T15:30:00+05:30",
+   "openingAt": "2026-09-04T16:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTg4MzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODAyMjI5NA==A13h1TlRQQy9VU1NDLUNQRzMvOTkwMDMzMjM5NQ==A13h1MjAyNl9OVFBDXzExMTM4MV8x",
    "hasCorrigendum": false
   },
   {
@@ -317650,6 +317720,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_SROTN_191191_1",
+   "slug": "2026-srotn-191191-1",
+   "title": "Construction of new A site KSK Retail Outlet with facilities like Sales Building, Canopy, Paver block driveway and other allied civil electrical works at location Between Pinarayi and Mambaram Juma Masjid, District Kannur under Kozhikode DO Kerala SO",
+   "refNo": "MnC/SR/RSR/LT/101/KESO/2026-27",
+   "organisation": "IndianOil",
+   "orgSlug": "indianoil",
+   "category": "electrical",
+   "publishedAt": "2026-08-29T18:55:00+05:30",
+   "closingAt": "2026-09-05T18:55:00+05:30",
+   "openingAt": "2026-09-07T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTg4MjU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODAyMjI5NA==A13h1TW5DL1NSL1JTUi9MVC8xMDEvS0VTTy8yMDI2LTI3A13h1MjAyNl9TUk9UTl8xOTExOTFfMQ==",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BPCL_26360",
    "slug": "2026-bpcl-26360",
    "title": "CLU CHARGES -WSA PRITHVIMANGALAM",
@@ -320534,6 +320618,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_CCL_364551_1",
+   "slug": "2026-ccl-364551-1",
+   "title": "Repairing/servicing of engine, radiator,clutch system,center braking and brake sstem etc. of Tata make Fire tender bearing registration no. JH24N-2769 plying at Karma Project under Kuju Area.",
+   "refNo": "GM (K)/EnM/eTender/26-27/80",
+   "organisation": "Central Coalfields Limited",
+   "orgSlug": "central-coalfields-limited",
+   "category": "other",
+   "publishedAt": "2026-08-29T18:55:00+05:30",
+   "closingAt": "2026-09-09T18:55:00+05:30",
+   "openingAt": "2026-09-10T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTg4MzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODAyMjI5NA==A13h1R00gKEspL0VuTS9lVGVuZGVyLzI2LTI3LzgwA13h1MjAyNl9DQ0xfMzY0NTUxXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_CCL_364513_1",
+   "slug": "2026-ccl-364513-1",
+   "title": "Repairing of MLA -5 Pump make KBL along with fabrication of base plate, foundation and supply and fixing of couling bolt,gland packing etc. of 02 nos pump under Sarubera Project under Kuju Area.",
+   "refNo": "GM (K)/EnM/eTender/26-27/79",
+   "organisation": "Central Coalfields Limited",
+   "orgSlug": "central-coalfields-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-08-29T18:55:00+05:30",
+   "closingAt": "2026-09-09T18:55:00+05:30",
+   "openingAt": "2026-09-10T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTc1MDU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODAyMjI5NA==A13h1R00gKEspL0VuTS9lVGVuZGVyLzI2LTI3Lzc5A13h1MjAyNl9DQ0xfMzY0NTEzXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BPSCL_287031_1",
    "slug": "2026-bpscl-287031-1",
    "title": "Rate Contract for Retrofitting and Strengthening of Machine Foundations in the Power Plant, BPSCL",
@@ -320601,6 +320713,20 @@
    "closingAt": "2026-09-10T10:00:00+05:30",
    "openingAt": "2026-09-11T10:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDMyNDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjYwNzk0OA==A13h1MjYtMjcvQy0xMjEvTklULTMxOQ==A13h1MjAyNl9CUFNDTF8yODc0ODhfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BSF_924059_1",
+   "slug": "2026-bsf-924059-1",
+   "title": "Improvement of electrical fittings and connections in Govt building occupied as sector QM store of campus Panisagar under SHQ BSF Panisagar",
+   "refNo": "88/SHQ(/PSR/AE(E)/NIT/2026-27",
+   "organisation": "DG,BSF,MHA",
+   "orgSlug": "dg-bsf-mha",
+   "category": "electrical",
+   "publishedAt": "2026-08-29T18:55:00+05:30",
+   "closingAt": "2026-09-10T10:30:00+05:30",
+   "openingAt": "2026-09-11T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTc2NTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODAyMjI5NA==A13h1ODgvU0hRKC9QU1IvQUUoRSkvTklULzIwMjYtMjc=A13h1MjAyNl9CU0ZfOTI0MDU5XzE=",
    "hasCorrigendum": false
   },
   {
@@ -321987,6 +322113,20 @@
    "closingAt": "2026-09-12T18:00:00+05:30",
    "openingAt": "2026-09-14T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzgyMzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzQwNDI1Mg==A13h1ODIwNyhBKQ==A13h1MjAyNl9NRVNfNzg1ODkyXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26454",
+   "slug": "2026-bpcl-26454",
+   "title": "CONSTRUCTION OF NRO MANIKAPUR ON NH 730 LAKHIMPUR KHERI",
+   "refNo": "1000463673",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "construction",
+   "publishedAt": "2026-08-29T19:50:00+05:30",
+   "closingAt": "2026-09-13T00:00:00+05:30",
+   "openingAt": "2026-09-13T00:01:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTg4NDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODAyMjI5NA==A13h1MTAwMDQ2MzY3Mw==A13h1MjAyNl9CUENMXzI2NDU0",
    "hasCorrigendum": false
   },
   {
