@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-30T05:36:15.162Z",
+ "generatedAt": "2026-08-30T12:05:06.788Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23173,
+ "count": 23178,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -309320,6 +309320,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_26458",
+   "slug": "2026-bpcl-26458",
+   "title": "INAUGRATION OF DRDA BHUPATIPURAM RETAIL OUTLET",
+   "refNo": "1000463688",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "other",
+   "publishedAt": "2026-08-30T12:33:00+05:30",
+   "closingAt": "2026-09-01T16:00:00+05:30",
+   "openingAt": "2026-09-01T16:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTg4ODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODA5MTUwMQ==A13h1MTAwMDQ2MzY4OA==A13h1MjAyNl9CUENMXzI2NDU4",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_ITBP_921479_1",
    "slug": "2026-itbp-921479-1",
    "title": "CO Combined QG and clothing store, Ration and Misc store, GOs mess, PL Office and MI room, SOs mess, WT Station and office and tradesmen shop, Cook House and dinning hall, Jawan Barracks, Training shed ,MT Shed, Stable and Generator Room at forwar",
@@ -312312,7 +312326,7 @@
    "publishedAt": "2026-08-29T19:51:00+05:30",
    "closingAt": "2026-09-02T15:00:00+05:30",
    "openingAt": "2026-09-02T15:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTg4NDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODA2ODE2NA==A13h1MzMvRUUvS2FucHVyLzIwMjYtMjcvUmVjYWxsA13h1MTY3NDM3",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTg4NDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODA5MTUwMQ==A13h1MzMvRUUvS2FucHVyLzIwMjYtMjcvUmVjYWxsA13h1MTY3NDM3",
    "hasCorrigendum": false
   },
   {
@@ -312326,7 +312340,7 @@
    "publishedAt": "2026-08-29T19:21:00+05:30",
    "closingAt": "2026-09-02T15:00:00+05:30",
    "openingAt": "2026-09-02T15:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTg4NDE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODA2ODE2NA==A13h1NDMvQUNFRC8yMDI2LTI3A13h1MTY3NDM1",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTg4NDE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODA5MTUwMQ==A13h1NDMvQUNFRC8yMDI2LTI3A13h1MTY3NDM1",
    "hasCorrigendum": false
   },
   {
@@ -314146,7 +314160,7 @@
    "publishedAt": "2026-08-29T19:25:00+05:30",
    "closingAt": "2026-09-03T11:00:00+05:30",
    "openingAt": "2026-09-03T11:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTg4NDI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODA2ODE2NA==A13h1TklRIE5vLjA1L0VFL0M0RC8yMDI2LTI3L0NoZW5uYWk=A13h1MTY3NDM2",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTg4NDI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODA5MTUwMQ==A13h1TklRIE5vLjA1L0VFL0M0RC8yMDI2LTI3L0NoZW5uYWk=A13h1MTY3NDM2",
    "hasCorrigendum": false
   },
   {
@@ -314609,6 +314623,34 @@
    "closingAt": "2026-09-03T15:00:00+05:30",
    "openingAt": "2026-09-04T16:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTg4MjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODA2ODE2NA==A13h1TlRQQy9VU1NDLUNQRzMvOTkwMDMzMjA5NQ==A13h1MjAyNl9OVFBDXzExMTM4MF8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26342",
+   "slug": "2026-bpcl-26342",
+   "title": "REPALCEMENT OIL CORRUGATE GI ROOF SHEETS AND SUPPLY WITH FIXING NEW ROOF GI SHEETS JOB AT PLANT OPERATION AREA, LUBE OIL BLENDING PLANT, BUDGE BUDGE",
+   "refNo": "1000462754",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-08-30T16:27:00+05:30",
+   "closingAt": "2026-09-03T15:00:00+05:30",
+   "openingAt": "2026-09-03T15:06:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTg4OTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODA5MTUwMQ==A13h1MTAwMDQ2Mjc1NA==A13h1MjAyNl9CUENMXzI2MzQy",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26341",
+   "slug": "2026-bpcl-26341",
+   "title": "GENERAL OFFICE BUILDING ROOMS REVAMPING FOR STRUCTURAL INTEGRITY, SAFETY, WORKPLACE AESTHETICS AND FUNCTIONAL IMPROVEMENTS, LOBP BUDGE BUDGE.",
+   "refNo": "1000462749",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "construction",
+   "publishedAt": "2026-08-30T16:26:00+05:30",
+   "closingAt": "2026-09-03T15:00:00+05:30",
+   "openingAt": "2026-09-03T15:15:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTg4OTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODA5MTUwMQ==A13h1MTAwMDQ2Mjc0OQ==A13h1MjAyNl9CUENMXzI2MzQx",
    "hasCorrigendum": false
   },
   {
@@ -316121,6 +316163,20 @@
    "closingAt": "2026-09-03T18:00:00+05:30",
    "openingAt": "2026-09-07T18:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzgyNDU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzQwNDI1Mg==A13h1Mjcvc3NiLzE0VEgvbkFHQU0vMjAyNi0yNw==A13h1MjAyNl9TU0JfOTIzMzY1XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26343",
+   "slug": "2026-bpcl-26343",
+   "title": "REPAINTING AND CORROSION PROTECTION WORK FOR TANKS, PIPELINES, AND SUPPORTING STRUCTURES AT BLENDING, TANK FARM, LOBP BUDGE BUDGE",
+   "refNo": "1000462758",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "other",
+   "publishedAt": "2026-08-30T16:00:00+05:30",
+   "closingAt": "2026-09-03T18:00:00+05:30",
+   "openingAt": "2026-09-03T18:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTg4OTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODA5MTUwMQ==A13h1MTAwMDQ2Mjc1OA==A13h1MjAyNl9CUENMXzI2MzQz",
    "hasCorrigendum": false
   },
   {
@@ -319946,6 +320002,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_26459",
+   "slug": "2026-bpcl-26459",
+   "title": "E-TENDER FOR SUPPLY & INSTALLATION OF DDD GANTRY EQUIPMENT S AT RETAIL OUTLETS OF AHMEDABAD RETAIL TERRITORY",
+   "refNo": "1000463693",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-08-30T15:34:00+05:30",
+   "closingAt": "2026-09-09T11:00:00+05:30",
+   "openingAt": "2026-09-09T11:15:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTg4OTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODA5MTUwMQ==A13h1MTAwMDQ2MzY5Mw==A13h1MjAyNl9CUENMXzI2NDU5",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_DVC_286626_1",
    "slug": "2026-dvc-286626-1",
    "title": "Establishment of Centralized Transmission Asset Management Service for Remote Operation of DVC Substations.",
@@ -322126,7 +322196,7 @@
    "publishedAt": "2026-08-29T19:50:00+05:30",
    "closingAt": "2026-09-13T00:00:00+05:30",
    "openingAt": "2026-09-13T00:01:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTg4NDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODA2ODE2NA==A13h1MTAwMDQ2MzY3Mw==A13h1MjAyNl9CUENMXzI2NDU0",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTg4NDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODA5MTUwMQ==A13h1MTAwMDQ2MzY3Mw==A13h1MjAyNl9CUENMXzI2NDU0",
    "hasCorrigendum": false
   },
   {
@@ -323582,7 +323652,7 @@
    "publishedAt": "2026-08-30T00:52:00+05:30",
    "closingAt": "2026-09-21T14:15:00+05:30",
    "openingAt": "2026-09-21T14:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTg4NzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODA2ODE2NA==A13h1MTAwMDQ2MzUyMw==A13h1MjAyNl9CUENMXzI2NDMz",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTg4NzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODA5MTUwMQ==A13h1MTAwMDQ2MzUyMw==A13h1MjAyNl9CUENMXzI2NDMz",
    "hasCorrigendum": false
   },
   {
