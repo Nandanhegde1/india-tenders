@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-30T21:18:24.741Z",
+ "generatedAt": "2026-08-31T05:51:38.675Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23182,
+ "count": 23193,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -318868,6 +318868,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "167450",
+   "slug": "167450",
+   "title": "121/AE-E-1/DED-101/2026-2027",
+   "refNo": "121/AE-E-1/DED-101/2026-2027",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-31T11:01:00+05:30",
+   "closingAt": "2026-09-07T15:00:00+05:30",
+   "openingAt": "2026-09-07T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTk0ODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODE1NTQ5Mg==A13h1MTIxL0FFLUUtMS9ERUQtMTAxLzIwMjYtMjAyNw==A13h1MTY3NDUw",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_AAI_286836_1",
    "slug": "2026-aai-286836-1",
    "title": "Replacement of AHU and interconnection of chilled water pipeline network of Old DTB ITB with pipeline of T2 NITB at NSCBI Airport Kolkata",
@@ -319789,6 +319803,20 @@
    "closingAt": "2026-09-08T15:00:00+05:30",
    "openingAt": "2026-09-09T15:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzMyNzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzI5NjU2Nw==A13h1QUUvVEVOREVSLzIwMjYtMjcvUDE2IEhNA13h1MjAyNl9ER0RFXzkyMjQ0M18x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "167452",
+   "slug": "167452",
+   "title": "44/ACED/2026-27",
+   "refNo": "44/ACED/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-31T11:18:00+05:30",
+   "closingAt": "2026-09-08T15:00:00+05:30",
+   "openingAt": "2026-09-08T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTk0ODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODE1NTQ5Mg==A13h1NDQvQUNFRC8yMDI2LTI3A13h1MTY3NDUy",
    "hasCorrigendum": false
   },
   {
@@ -322816,6 +322844,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_26436",
+   "slug": "2026-bpcl-26436",
+   "title": "E-TENDER FOR DHABA AT BP EXPRESSWAY ON MUMBAL-PUNE EXPRESSWAY.PARANDWADI,DIST-PUNE",
+   "refNo": "1000463182",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "other",
+   "publishedAt": "2026-08-31T11:06:00+05:30",
+   "closingAt": "2026-09-15T15:05:00+05:30",
+   "openingAt": "2026-09-15T15:35:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTk0ODU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODE1NTQ5Mg==A13h1MTAwMDQ2MzE4Mg==A13h1MjAyNl9CUENMXzI2NDM2",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MoRTH_919865_1",
    "slug": "2026-morth-919865-1",
    "title": "Widening and Strengthening Of Existing 2 Lane to 2 lane with Paved Shoulder from Km. 205.373 to Km. 311.700 of NH-326 in the State of Odisha under EPC mode (Package-2)",
@@ -322883,6 +322925,20 @@
    "closingAt": "2026-09-15T18:00:00+05:30",
    "openingAt": "2026-09-22T09:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTUxNzU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk3MjU4OA==A13h1ODAwMjYtMzAvRTg=A13h1MjAyNl9NRVNfNzg0ODM2XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_CEMAH_149355_1",
+   "slug": "2026-cemah-149355-1",
+   "title": "EE/BUL/PMGSY/MH-0779",
+   "refNo": "CEMRRDA_SEAMR_BUL_MH0779",
+   "organisation": "National Rural Roads Development Agency (NRRDA)",
+   "orgSlug": "national-rural-roads-development-agency-nrrda",
+   "category": "other",
+   "publishedAt": "2026-08-31T11:00:00+05:30",
+   "closingAt": "2026-09-15T18:00:00+05:30",
+   "openingAt": "2026-09-16T18:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTc2OTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODE1NTQ5Mg==A13h1Q0VNUlJEQV9TRUFNUl9CVUxfTUgwNzc5A13h1MjAyNl9DRU1BSF8xNDkzNTVfMQ==",
    "hasCorrigendum": false
   },
   {
@@ -323740,6 +323796,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_NHPC_924097_1",
+   "slug": "2026-nhpc-924097-1",
+   "title": "Reconstruction of the damaged Geo Green soil stabilization structure behind the GIS. (E-Office No.- 163360)",
+   "refNo": "NH/CPS-III/PandC/ 16630/2026-27/168",
+   "organisation": "NHPC Limited",
+   "orgSlug": "nhpc-limited",
+   "category": "other",
+   "publishedAt": "2026-08-31T11:00:00+05:30",
+   "closingAt": "2026-09-21T16:00:00+05:30",
+   "openingAt": "2026-09-23T16:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTg4Mzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODE1NTQ5Mg==A13h1TkgvQ1BTLUlJSS9QYW5kQy8gMTY2MzAvMjAyNi0yNy8xNjg=A13h1MjAyNl9OSFBDXzkyNDA5N18x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MoRTH_921231_1",
    "slug": "2026-morth-921231-1",
    "title": "Construction of Cement Concrete road of 2 lane with paved shoulder configuration from Km. 168.180 Shitala Mata Mandir to Km 168.920 Railway Crossing Total Length - 740 m on Bhandara-Khat-Ghotitok Road NH-247 in the state of Maharashtra",
@@ -323779,6 +323849,76 @@
    "closingAt": "2026-09-21T18:00:00+05:30",
    "openingAt": "2026-09-23T10:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTc1NDI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Nzk4NzY2MA==A13h1R0UvRS9MS08vVC03NyBPRiAyMDI2LTI3A13h1MjAyNl9NRVNfNzg2OTE5XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_786878_1",
+   "slug": "2026-mes-786878-1",
+   "title": "SPECIAL REPAIR TO PLUMBING, JOINERY AND GALVALUME SHEET FOR MD ACCN P-41 AT SRINAGAR COLONY UNDER AGE B/R-II OF GE MINNIEBAY, SRI VIJAYA PURAM",
+   "refNo": "8869/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-31T11:00:00+05:30",
+   "closingAt": "2026-09-21T18:00:00+05:30",
+   "openingAt": "2026-09-23T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTczNTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODE1NTQ5Mg==A13h1ODg2OS9FOA==A13h1MjAyNl9NRVNfNzg2ODc4XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_786875_1",
+   "slug": "2026-mes-786875-1",
+   "title": "SPECIAL REPAIR TO PLUMBING, JOINERY AND GALVALUME SHEET FOR MD ACCN P-40 AT SRINAGAR COLONY UNDER AGE B/R-II OF GE MINNIEBAY, SRI VIJAYA PURAM",
+   "refNo": "8868/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-31T11:00:00+05:30",
+   "closingAt": "2026-09-21T18:00:00+05:30",
+   "openingAt": "2026-09-23T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTczNTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODE1NTQ5Mg==A13h1ODg2OC9FOA==A13h1MjAyNl9NRVNfNzg2ODc1XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_786931_1",
+   "slug": "2026-mes-786931-1",
+   "title": "PROVISION OF COMPOUND WALL AROUND P-86 BLDG AT NTS (SVP) TEYLERABAD UNDER GE MINNIEBAY, SRI VIJAYA PURAM",
+   "refNo": "8878/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "goods-supply",
+   "publishedAt": "2026-08-31T11:00:00+05:30",
+   "closingAt": "2026-09-21T18:00:00+05:30",
+   "openingAt": "2026-09-23T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTc1NjY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODE1NTQ5Mg==A13h1ODg3OC9FOA==A13h1MjAyNl9NRVNfNzg2OTMxXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_786880_1",
+   "slug": "2026-mes-786880-1",
+   "title": "SPECIAL REPAIR TO PLUMBING, JOINERY AND GALVALUME SHEET FOR MD ACCN P-177 AT SRINAGAR COLONY UNDER AGE B/R-II OF GE MINNIEBAY, SRI VIJAYA PURAM",
+   "refNo": "8870/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-31T11:00:00+05:30",
+   "closingAt": "2026-09-21T18:00:00+05:30",
+   "openingAt": "2026-09-23T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTczNjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODE1NTQ5Mg==A13h1ODg3MC9FOA==A13h1MjAyNl9NRVNfNzg2ODgwXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_786925_1",
+   "slug": "2026-mes-786925-1",
+   "title": "SPECIAL REPAIR TO PLUMBING, JOINERY AND GALVALUME SHEET FOR MD ACCN P-178 AND PROVN OF KITCHEN PLATE RACK IN BLDG P-294, 295, 297, 298, 299, 40, 41 AT SRINAGAR COLONY UNDER GE MINNIEBAY, SRI VIJAYA PURAM",
+   "refNo": "8871/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-08-31T11:00:00+05:30",
+   "closingAt": "2026-09-21T18:00:00+05:30",
+   "openingAt": "2026-09-23T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTc1Mzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODE1NTMyOA==A13h1ODg3MS9FOA==A13h1MjAyNl9NRVNfNzg2OTI1XzE=",
    "hasCorrigendum": false
   },
   {
@@ -324213,6 +324353,20 @@
    "closingAt": "2026-09-29T11:00:00+05:30",
    "openingAt": "2026-10-06T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMzcwOTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjUwMzgyNA==A13h1QUlSIEhRIC9EUFVSLzI2LTI3L0kyNTAwMw==A13h1MjAyNl9JQUZfNzgzNjc3XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MoRTH_923851_1",
+   "slug": "2026-morth-923851-1",
+   "title": "Strengthening work in KM 14.20 to 25.53 and 31.54 to 55.70 JAGDALPUR - SUKMA - KONTA ROAD on NH-30 in the State of Chhattisgarh on EPC mode.",
+   "refNo": "01/SE/NH/G/15-08/2026",
+   "organisation": "Ministry of Road Transport and Highways",
+   "orgSlug": "ministry-of-road-transport-and-highways",
+   "category": "construction",
+   "publishedAt": "2026-08-31T11:00:00+05:30",
+   "closingAt": "2026-09-29T11:00:00+05:30",
+   "openingAt": "2026-10-01T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTc3NDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODE1NTQ5Mg==A13h1MDEvU0UvTkgvRy8xNS0wOC8yMDI2A13h1MjAyNl9Nb1JUSF85MjM4NTFfMQ==",
    "hasCorrigendum": false
   },
   {
