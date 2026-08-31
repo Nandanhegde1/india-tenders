@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-31T05:51:38.675Z",
+ "generatedAt": "2026-08-31T22:59:18.319Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23193,
+ "count": 23203,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -318882,6 +318882,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "167553",
+   "slug": "167553",
+   "title": "15/SE/DC-7/PVMD/2026-27/Modified",
+   "refNo": "15/SE/DC-7/PVMD/2026-27/Modified",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-31T19:12:00+05:30",
+   "closingAt": "2026-09-07T15:00:00+05:30",
+   "openingAt": "2026-09-07T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDA0ODg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODIxNzE1Mg==A13h1MTUvU0UvREMtNy9QVk1ELzIwMjYtMjcvTW9kaWZpZWQ=A13h1MTY3NTUz",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "167550",
+   "slug": "167550",
+   "title": "14/SE/DC-7/PVMD/2026-27/Modified",
+   "refNo": "14/SE/DC-7/PVMD/2026-27/Modified",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-31T19:00:00+05:30",
+   "closingAt": "2026-09-07T15:00:00+05:30",
+   "openingAt": "2026-09-07T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDA0ODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODIxNzE1Mg==A13h1MTQvU0UvREMtNy9QVk1ELzIwMjYtMjcvTW9kaWZpZWQ=A13h1MTY3NTUw",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_AAI_286836_1",
    "slug": "2026-aai-286836-1",
    "title": "Replacement of AHU and interconnection of chilled water pipeline network of Old DTB ITB with pipeline of T2 NITB at NSCBI Airport Kolkata",
@@ -319820,6 +319848,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "167555",
+   "slug": "167555",
+   "title": "26/DDH/KHD/CPWD/KOL/2026-27",
+   "refNo": "26/DDH/KHD/CPWD/KOL/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-31T19:55:00+05:30",
+   "closingAt": "2026-09-08T15:00:00+05:30",
+   "openingAt": "2026-09-08T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDA0ODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODIxNzE1Mg==A13h1MjYvRERIL0tIRC9DUFdEL0tPTC8yMDI2LTI3A13h1MTY3NTU1",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "167552",
+   "slug": "167552",
+   "title": "36/EE/Kanpur/2026-27",
+   "refNo": "36/EE/Kanpur/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-08-31T18:58:00+05:30",
+   "closingAt": "2026-09-08T15:00:00+05:30",
+   "openingAt": "2026-09-08T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDA0ODU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODIxNzE1Mg==A13h1MzYvRUUvS2FucHVyLzIwMjYtMjc=A13h1MTY3NTUy",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BPCL_26408",
    "slug": "2026-bpcl-26408",
    "title": "CONSTRUCTION OF NEW RETAIL OUTLET AT LOCATION: HINDALGA JAIL, HINDALGA VILLAGE, BELGAUM TALUKA, KARNATAKA",
@@ -320223,6 +320279,34 @@
    "closingAt": "2026-09-09T15:00:00+05:30",
    "openingAt": "2026-09-10T15:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDMxNzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjYwNzk3MA==A13h1UFMtMDM=A13h1MjAyNl9ETVJDXzkyMTg3M18x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "167558",
+   "slug": "167558",
+   "title": "32/EE(E)/AGT/CPWD/2026-27",
+   "refNo": "32/EE(E)/AGT/CPWD/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-08-31T21:26:00+05:30",
+   "closingAt": "2026-09-09T15:00:00+05:30",
+   "openingAt": "2026-09-09T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDA1MjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODIxNzE1Mg==A13h1MzIvRUUoRSkvQUdUL0NQV0QvMjAyNi0yNw==A13h1MTY3NTU4",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "167557",
+   "slug": "167557",
+   "title": "22/EE(E),Vizag/2026-27/AE(E),Vizag/e-tender",
+   "refNo": "22/EE(E),Vizag/2026-27/AE(E),Vizag/e-tender",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-08-31T20:24:00+05:30",
+   "closingAt": "2026-09-09T15:00:00+05:30",
+   "openingAt": "2026-09-09T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDA1MTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODIxNzE1Mg==A13h1MjIvRUUoRSksVml6YWcvMjAyNi0yNy9BRShFKSxWaXphZy9lLXRlbmRlcg==A13h1MTY3NTU3",
    "hasCorrigendum": false
   },
   {
@@ -321780,6 +321864,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_ECL_364610_1",
+   "slug": "2026-ecl-364610-1",
+   "title": "Strengthening of RCC retaining wall at the discharge point of water at DMZ under ROCP.",
+   "refNo": "ECL/RJML/AGM/AE(C)/ e-Ten/26-27/118  Dt-31.08.2026",
+   "organisation": "Eastern Coalfields Limited",
+   "orgSlug": "eastern-coalfields-limited",
+   "category": "other",
+   "publishedAt": "2026-08-31T18:55:00+05:30",
+   "closingAt": "2026-09-11T11:00:00+05:30",
+   "openingAt": "2026-09-12T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTk4NjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODIxNzE1Mg==A13h1RUNML1JKTUwvQUdNL0FFKEMpLyBlLVRlbi8yNi0yNy8xMTggIER0LTMxLjA4LjIwMjY=A13h1MjAyNl9FQ0xfMzY0NjEwXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_ECL_364609_1",
+   "slug": "2026-ecl-364609-1",
+   "title": "Cleaning of drain from silo to ground bunker pillar no-12 under RCHP.",
+   "refNo": "ECL/RJML/AGM/AE(C)/ e-Ten/26-27/117  Dt-31.08.2026",
+   "organisation": "Eastern Coalfields Limited",
+   "orgSlug": "eastern-coalfields-limited",
+   "category": "construction",
+   "publishedAt": "2026-08-31T18:55:00+05:30",
+   "closingAt": "2026-09-11T11:00:00+05:30",
+   "openingAt": "2026-09-12T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTk4NTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODIxNzE1Mg==A13h1RUNML1JKTUwvQUdNL0FFKEMpLyBlLVRlbi8yNi0yNy8xMTcgIER0LTMxLjA4LjIwMjY=A13h1MjAyNl9FQ0xfMzY0NjA5XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BARC_920326_1",
    "slug": "2026-barc-920326-1",
    "title": "Handling, Transportation, Positioning of Air receiver tank and Allied Equipments at FRP, FFP, RUP and CSP, FRFCF, Kalpakkam.",
@@ -322354,6 +322466,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_26476",
+   "slug": "2026-bpcl-26476",
+   "title": "E-TENDER FOR KNR WORK AT DESAI AUTO SERVICE, SION, MUMBAI",
+   "refNo": "1000463777",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "other",
+   "publishedAt": "2026-08-31T21:11:00+05:30",
+   "closingAt": "2026-09-14T11:00:00+05:30",
+   "openingAt": "2026-09-14T11:01:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDA1MjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODIxNzE1Mg==A13h1MTAwMDQ2Mzc3Nw==A13h1MjAyNl9CUENMXzI2NDc2",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MoRTH_919918_1",
    "slug": "2026-morth-919918-1",
    "title": "Treatment of 30 nos of landslide locations from km 64.380 to km 186.085 on NH-09 (Old NH-125) in the State of Uttarakhand under EPC mode in NH(O) Annual Plan 2026-27",
@@ -322435,6 +322561,20 @@
    "closingAt": "2026-09-14T15:00:00+05:30",
    "openingAt": "2026-09-15T15:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzg0ODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzQwNDI1Mg==A13h1SEJML1RFTi9QVUIvMjYtMjcvMjAxA13h1MjAyNl9IUENMQl8yODg2MDNfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26475",
+   "slug": "2026-bpcl-26475",
+   "title": "E-TENDER FOR CONSTRUCTION OF NRO AT MAHADEV PARGANA TEHSIL GONDA DIST. GONDA STATE UP",
+   "refNo": "1000463679",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "construction",
+   "publishedAt": "2026-08-31T20:19:00+05:30",
+   "closingAt": "2026-09-14T15:00:00+05:30",
+   "openingAt": "2026-09-14T15:01:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDA1MDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODIxNzE1Mg==A13h1MTAwMDQ2MzY3OQ==A13h1MjAyNl9CUENMXzI2NDc1",
    "hasCorrigendum": false
   },
   {
