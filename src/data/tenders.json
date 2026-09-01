@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-09-01T05:26:56.687Z",
+ "generatedAt": "2026-09-01T11:54:02.202Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23223,
+ "count": 23235,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -320030,6 +320030,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "167668",
+   "slug": "167668",
+   "title": "77/EE(E)SCED/2026-27/SD-2",
+   "refNo": "77/EE(E)SCED/2026-27/SD-2",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-09-01T17:11:00+05:30",
+   "closingAt": "2026-09-08T15:50:00+05:30",
+   "openingAt": "2026-09-08T16:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDE4NjE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODI2MzYzNA==A13h1NzcvRUUoRSlTQ0VELzIwMjYtMjcvU0QtMg==A13h1MTY3NjY4",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NITCO_920849_1",
    "slug": "2026-nitco-920849-1",
    "title": "TENDER DOCUMENT FOR APPOINTMENT OF ARCHITECTURAL AND SALES MANAGEMENT AGENCY",
@@ -320083,6 +320097,20 @@
    "closingAt": "2026-09-08T17:00:00+05:30",
    "openingAt": "2026-09-10T11:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjMyNTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA1OTE5Mw==A13h1MjZTUDE2M1Q=A13h1MjAyNl9JSU1UXzkyMjY0OF8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "167687",
+   "slug": "167687",
+   "title": "11/EE(E)/Mussoorie/2026-27-Recall",
+   "refNo": "11/EE(E)/Mussoorie/2026-27-Recall",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-09-01T17:08:00+05:30",
+   "closingAt": "2026-09-08T17:00:00+05:30",
+   "openingAt": "2026-09-08T17:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDE4NTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODI2MzYzNA==A13h1MTEvRUUoRSkvTXVzc29vcmllLzIwMjYtMjctUmVjYWxsA13h1MTY3Njg3",
    "hasCorrigendum": false
   },
   {
@@ -320447,6 +320475,48 @@
    "closingAt": "2026-09-09T15:00:00+05:30",
    "openingAt": "2026-09-09T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDA1MTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODIxNzE1Mg==A13h1MjIvRUUoRSksVml6YWcvMjAyNi0yNy9BRShFKSxWaXphZy9lLXRlbmRlcg==A13h1MTY3NTU3",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "167688",
+   "slug": "167688",
+   "title": "32/EE/U-Divn./2026-27/2",
+   "refNo": "32/EE/U-Divn./2026-27/2",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-01T17:14:00+05:30",
+   "closingAt": "2026-09-09T15:00:00+05:30",
+   "openingAt": "2026-09-09T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDE4NjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODI2MzYzNA==A13h1MzIvRUUvVS1EaXZuLi8yMDI2LTI3LzI=A13h1MTY3Njg4",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "167682",
+   "slug": "167682",
+   "title": "55/EE(E)/BHOPAL/2026-27",
+   "refNo": "55/EE(E)/BHOPAL/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-09-01T17:07:00+05:30",
+   "closingAt": "2026-09-09T15:00:00+05:30",
+   "openingAt": "2026-09-09T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDE4Mzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODI2MzYzNA==A13h1NTUvRUUoRSkvQkhPUEFMLzIwMjYtMjc=A13h1MTY3Njgy",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "167689",
+   "slug": "167689",
+   "title": "53/EE/E/PEED/2026-2027",
+   "refNo": "53/EE/E/PEED/2026-2027",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-01T17:20:00+05:30",
+   "closingAt": "2026-09-09T15:00:00+05:30",
+   "openingAt": "2026-09-09T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDE4NjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODI2MzYzNA==A13h1NTMvRUUvRS9QRUVELzIwMjYtMjAyNw==A13h1MTY3Njg5",
    "hasCorrigendum": false
   },
   {
@@ -322060,6 +322130,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BHEL_64517_1",
+   "slug": "2026-bhel-64517-1",
+   "title": "TBSM/KURAWAR/CIVIL/GABION WALL/TENDER/26-27",
+   "refNo": "TBSM/KURAWAR/CIVIL/GABION WALL/TENDER/26-27",
+   "organisation": "Bharat Heavy Electricals Limited",
+   "orgSlug": "bharat-heavy-electricals-limited",
+   "category": "other",
+   "publishedAt": "2026-09-01T17:00:00+05:30",
+   "closingAt": "2026-09-11T11:00:00+05:30",
+   "openingAt": "2026-09-11T16:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDE1MDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODI2MzM5Mg==A13h1VEJTTS9LVVJBV0FSL0NJVklML0dBQklPTiBXQUxML1RFTkRFUi8yNi0yNw==A13h1MjAyNl9CSEVMXzY0NTE3XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BARC_920326_1",
    "slug": "2026-barc-920326-1",
    "title": "Handling, Transportation, Positioning of Air receiver tank and Allied Equipments at FRP, FFP, RUP and CSP, FRFCF, Kalpakkam.",
@@ -323068,6 +323152,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_IREL_287368_2",
+   "slug": "2026-irel-287368-2",
+   "title": "EOI for Empanelment of Event Management Vendor (EMV) for organizing all the events/celebration of IREL",
+   "refNo": "OS/HRM/Estt./Event",
+   "organisation": "IREL (INDIA) Limited",
+   "orgSlug": "irel-india-limited",
+   "category": "other",
+   "publishedAt": "2026-09-01T17:00:00+05:30",
+   "closingAt": "2026-09-15T14:00:00+05:30",
+   "openingAt": "2026-09-16T14:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDEzNTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODI2MzYzNA==A13h1T1MvSFJNL0VzdHQuL0V2ZW50A13h1MjAyNl9JUkVMXzI4NzM2OF8y",
+   "hasCorrigendum": true
+  },
+  {
    "id": "2627000115",
    "slug": "2627000115",
    "title": "Design,EPC for the extraction of Critical Metals from Lignite Fly Ash of NLCIL Neyveli",
@@ -323292,6 +323390,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MES_777151_2",
+   "slug": "2026-mes-777151-2",
+   "title": "REPAIR/MAINT OF EXTERNAL WATER SUPPLY RISING AND DISTRIBUTION PIPE LINES, INSTALLATIONS, BORE WELLS, PUMP HOUSES AND CONNECTED ALLIED WKS AT MANESAR ARMY CAMP, DUNDHERA MIL STN AND INDUBINOLA UNIVERSITY UNDER AGE E/M OF GE (SOUTH) DELHI CANTT-10",
+   "refNo": "GE/TOKEN-25/2026-27",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-09-01T17:20:00+05:30",
+   "closingAt": "2026-09-15T18:00:00+05:30",
+   "openingAt": "2026-09-17T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDE4NDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODI2MzYzNA==A13h1R0UvVE9LRU4tMjUvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzc3MTUxXzI=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_IGCAR_924303_1",
    "slug": "2026-igcar-924303-1",
    "title": "Revamping of power distribution systems periodic preventive maintenance of MCC and blower motors of ACV system at MCMFCG IGCAR",
@@ -323303,6 +323415,20 @@
    "closingAt": "2026-09-16T09:00:00+05:30",
    "openingAt": "2026-09-21T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDA5OTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODI0MDQwOA==A13h1SUdDQVIvTUNNRkNHL0NGRUQvRUNJUy9UUi0wMQ==A13h1MjAyNl9JR0NBUl85MjQzMDNfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26491",
+   "slug": "2026-bpcl-26491",
+   "title": "TOILET REPAIRING WORK UNDER DRIVE FRESH AND DRAIN REPAIRING WORK IN FRONT OF GANTRY",
+   "refNo": "1000463829",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "construction",
+   "publishedAt": "2026-09-01T17:07:00+05:30",
+   "closingAt": "2026-09-16T09:00:00+05:30",
+   "openingAt": "2026-09-16T09:10:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDE4NjA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODI2MzYzNA==A13h1MTAwMDQ2MzgyOQ==A13h1MjAyNl9CUENMXzI2NDkx",
    "hasCorrigendum": false
   },
   {
@@ -324216,6 +324342,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_AWEIL_289417_1",
+   "slug": "2026-aweil-289417-1",
+   "title": "Term Contract (TC) for artificers Electrical work outside FGK",
+   "refNo": "FGK/EO(C)/CC/692 of 2026-27",
+   "organisation": "ADVANCED WEAPONS AND EQUIPMENT INDIA LTD-AWEIL",
+   "orgSlug": "advanced-weapons-and-equipment-india-ltd-aweil",
+   "category": "electrical",
+   "publishedAt": "2026-09-01T17:00:00+05:30",
+   "closingAt": "2026-09-21T17:00:00+05:30",
+   "openingAt": "2026-09-24T12:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDEwMDA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODI2MzYzNA==A13h1RkdLL0VPKEMpL0NDLzY5MiBvZiAyMDI2LTI3A13h1MjAyNl9BV0VJTF8yODk0MTdfMQ==",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_785592_1",
    "slug": "2026-mes-785592-1",
    "title": "SPECIAL REPAIR TO ROAD INCL ROAD FURNITURE, INTERLOCKING AND CONNECTED ITEMS UNDER GE GWALIOR",
@@ -324398,6 +324538,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MES_787273_1",
+   "slug": "2026-mes-787273-1",
+   "title": "REPAIR OF CERTAIN WATER SUPPLY MAINTENANCE INCLUDING CLEANING REPAIR / REPLACEMENT OF PVC SERVICE TANKS, UNSV OLD INLET AND OUTLET PIPE OF PVC/RCC SERVICE TANKS AND PETTY REPAIR IN AREA-II UNDER GE (WEST) JABALPUR",
+   "refNo": "9064/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-09-01T17:00:00+05:30",
+   "closingAt": "2026-09-22T18:00:00+05:30",
+   "openingAt": "2026-09-29T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDE1ODg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODI2MzQxMQ==A13h1OTA2NC9FOA==A13h1MjAyNl9NRVNfNzg3MjczXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_IGCAR_921840_1",
    "slug": "2026-igcar-921840-1",
    "title": "IGC/MMG/PIED/SFMAC/TR-10/2026",
@@ -324437,6 +324591,20 @@
    "closingAt": "2026-09-23T11:00:00+05:30",
    "openingAt": "2026-09-23T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTg5NzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODEyNDY5OQ==A13h1OTIyNjU1MzY=A13h1MTA3MTY3MjIx",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_VMMC_924386_1",
+   "slug": "2026-vmmc-924386-1",
+   "title": "Selection of agency for the extension of a 6m wide C.C. (Cement Concrete) road, including the dismantling and reconstruction of the boundary wall and associated horticulture/landscaping works at Sports Injury Center of Safdarjung Hospital",
+   "refNo": "E-25337/SIC/29/2024-SIC",
+   "organisation": "VMMC and Safdarjung Hospital",
+   "orgSlug": "vmmc-and-safdarjung-hospital",
+   "category": "medical",
+   "publishedAt": "2026-09-01T17:00:00+05:30",
+   "closingAt": "2026-09-23T11:00:00+05:30",
+   "openingAt": "2026-09-24T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDE1MDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODI2MzYzNA==A13h1RS0yNTMzNy9TSUMvMjkvMjAyNC1TSUM=A13h1MjAyNl9WTU1DXzkyNDM4Nl8x",
    "hasCorrigendum": false
   },
   {
