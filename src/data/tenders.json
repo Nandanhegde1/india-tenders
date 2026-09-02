@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-09-01T21:12:31.997Z",
+ "generatedAt": "2026-09-02T04:50:18.365Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23245,
+ "count": 23255,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -323054,6 +323054,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_SECL_364593_1",
+   "slug": "2026-secl-364593-1",
+   "title": "Repairing and maintenance of Explosive Van Leyland make MP18H5435 and Mini Truck EICHER Make MP65GA1784 of Rampur Batura OC Mine and Truck EIC 10.59E EICHER Make MP65GA1755 of Khairaha UG mine of Sohagpur Area SECL",
+   "refNo": "SECL/SGP/EnM/eT/2026-27/399  Date 31.08.2026",
+   "organisation": "South Eastern Coalfields Limited",
+   "orgSlug": "south-eastern-coalfields-limited",
+   "category": "construction",
+   "publishedAt": "2026-09-02T10:00:00+05:30",
+   "closingAt": "2026-09-14T17:00:00+05:30",
+   "openingAt": "2026-09-16T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTk3MDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODMyNDYxNA==A13h1U0VDTC9TR1AvRW5NL2VULzIwMjYtMjcvMzk5ICBEYXRlIDMxLjA4LjIwMjY=A13h1MjAyNl9TRUNMXzM2NDU5M18x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_779722_1",
    "slug": "2026-mes-779722-1",
    "title": "753063A PROVN OF TRANSIT ACCOMMODATION FOR 06 X OFFRS 06 X JCOs AND 20 X OR AT MFA PIPARIYA CARE OF PACHMARI MIL STN",
@@ -323121,6 +323135,20 @@
    "closingAt": "2026-09-14T18:00:00+05:30",
    "openingAt": "2026-09-15T18:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzgyNDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzQwNDI1Mg==A13h1Q1dFLzEzNi1XRS80NyBPRiAyMDI2LTI3A13h1MjAyNl9NRVNfNzg1OTAwXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_CCL_364643_1",
+   "slug": "2026-ccl-364643-1",
+   "title": "Rep. of (A) Both side steering cylinder, Drive line assembly, tie rod assembly, Pan hard rod assembly of BH60M dumper Sl. No. 60922 and (B) Radiator core assembly, charge after cooler and both front brake assembly of BH60M dumper Sl. No. 60908",
+   "refNo": "PE(X)/Excv/e-Tender/26-27/08          Dated. 01.09.2026",
+   "organisation": "Central Coalfields Limited",
+   "orgSlug": "central-coalfields-limited",
+   "category": "other",
+   "publishedAt": "2026-09-02T10:00:00+05:30",
+   "closingAt": "2026-09-14T18:00:00+05:30",
+   "openingAt": "2026-09-15T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDA5OTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODMyNDYxNA==A13h1UEUoWCkvRXhjdi9lLVRlbmRlci8yNi0yNy8wOCAgICAgICAgICBEYXRlZC4gMDEuMDkuMjAyNg==A13h1MjAyNl9DQ0xfMzY0NjQzXzE=",
    "hasCorrigendum": false
   },
   {
@@ -324160,6 +324188,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_SSB_918484_2",
+   "slug": "2026-ssb-918484-2",
+   "title": "Installation of Deep bore well alongwith OH tank in 10 BOPs i.e Beldarwamath, West Koraiya, Ghorasahan, Chandraman, Vindhyavashini, Jhanjhra, Regania, Agarwa, Jharokhar and New Koraiya under 71 Bn Mothihari",
+   "refNo": "43/2026-27/SHQM",
+   "organisation": "DG Sashastra Seema Bal,MHA",
+   "orgSlug": "dg-sashastra-seema-bal-mha",
+   "category": "other",
+   "publishedAt": "2026-09-02T10:00:00+05:30",
+   "closingAt": "2026-09-18T16:00:00+05:30",
+   "openingAt": "2026-09-21T16:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDEzNzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODMyNDYxNA==A13h1NDMvMjAyNi0yNy9TSFFNA13h1MjAyNl9TU0JfOTE4NDg0XzI=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_786898_1",
    "slug": "2026-mes-786898-1",
    "title": "SPL REPAIR TO ATC TOWER AT AF STN GORAKHPUR UNDER GE(AF) GORAKHPUR.",
@@ -324171,6 +324213,104 @@
    "closingAt": "2026-09-18T17:00:00+05:30",
    "openingAt": "2026-09-21T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTc0NzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Nzk4NzY2MA==A13h1OTQ5NS9FOA==A13h1MjAyNl9NRVNfNzg2ODk4XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_CERWI_149362_1",
+   "slug": "2026-cerwi-149362-1",
+   "title": "Construction and Maintenance of OR-27-675 L125-PWD road to Gotiguda of PMGSY-IV Batch-I",
+   "refNo": "NCB-14/RWCRGDA/2026-27",
+   "organisation": "National Rural Roads Development Agency (NRRDA)",
+   "orgSlug": "national-rural-roads-development-agency-nrrda",
+   "category": "construction",
+   "publishedAt": "2026-09-02T10:00:00+05:30",
+   "closingAt": "2026-09-18T17:30:00+05:30",
+   "openingAt": "2026-09-19T12:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTk3OTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODMyNDYxNA==A13h1TkNCLTE0L1JXQ1JHREEvMjAyNi0yNw==A13h1MjAyNl9DRVJXSV8xNDkzNjJfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_CERWI_149362_2",
+   "slug": "2026-cerwi-149362-2",
+   "title": "Construction and Maintenance of OR-27-677 L021-RD Road to Sivarampur Adibasipada of PMGSY-IV Batch-I",
+   "refNo": "NCB-14/RWCRGDA/2026-27",
+   "organisation": "National Rural Roads Development Agency (NRRDA)",
+   "orgSlug": "national-rural-roads-development-agency-nrrda",
+   "category": "construction",
+   "publishedAt": "2026-09-02T10:00:00+05:30",
+   "closingAt": "2026-09-18T17:30:00+05:30",
+   "openingAt": "2026-09-19T12:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTk3OTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODMyNDYxNA==A13h1TkNCLTE0L1JXQ1JHREEvMjAyNi0yNw==A13h1MjAyNl9DRVJXSV8xNDkzNjJfMg==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_CERWI_149362_69",
+   "slug": "2026-cerwi-149362-69",
+   "title": "Construction and Maintenance of OR-27-815 L053-R.D. Road to Kudeipadar of PMGSY-IV Batch-I",
+   "refNo": "NCB-14/RWCRGDA/2026-27",
+   "organisation": "National Rural Roads Development Agency (NRRDA)",
+   "orgSlug": "national-rural-roads-development-agency-nrrda",
+   "category": "construction",
+   "publishedAt": "2026-09-02T10:00:00+05:30",
+   "closingAt": "2026-09-18T17:30:00+05:30",
+   "openingAt": "2026-09-19T12:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDE2NTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODMyNDYxNA==A13h1TkNCLTE0L1JXQ1JHREEvMjAyNi0yNw==A13h1MjAyNl9DRVJXSV8xNDkzNjJfNjk=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_CERWI_149362_78",
+   "slug": "2026-cerwi-149362-78",
+   "title": "Construction and Maintenance of OR-27-829 L162-Badapadu to Anandapadu of PMGSY-IV Batch-I",
+   "refNo": "NCB-14/RWCRGDA/2026-27",
+   "organisation": "National Rural Roads Development Agency (NRRDA)",
+   "orgSlug": "national-rural-roads-development-agency-nrrda",
+   "category": "construction",
+   "publishedAt": "2026-09-02T10:00:00+05:30",
+   "closingAt": "2026-09-18T17:30:00+05:30",
+   "openingAt": "2026-09-19T12:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDE2NTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODMyNDYxNA==A13h1TkNCLTE0L1JXQ1JHREEvMjAyNi0yNw==A13h1MjAyNl9DRVJXSV8xNDkzNjJfNzg=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_CERWI_149362_60",
+   "slug": "2026-cerwi-149362-60",
+   "title": "Construction and Maintenance of OR-27-797 L305-RD Road (Andrikanch) to Phulpinda of PMGSY-IV Batch-I",
+   "refNo": "NCB-14/RWCRGDA/2026-27",
+   "organisation": "National Rural Roads Development Agency (NRRDA)",
+   "orgSlug": "national-rural-roads-development-agency-nrrda",
+   "category": "construction",
+   "publishedAt": "2026-09-02T10:00:00+05:30",
+   "closingAt": "2026-09-18T17:30:00+05:30",
+   "openingAt": "2026-09-19T12:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDE2NTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODMyNDYxNA==A13h1TkNCLTE0L1JXQ1JHREEvMjAyNi0yNw==A13h1MjAyNl9DRVJXSV8xNDkzNjJfNjA=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_CERWI_149362_59",
+   "slug": "2026-cerwi-149362-59",
+   "title": "Construction and Maintenance of OR-27-793 L309-PS Road to Sinderpadar under PMGSY-IV (Batch-I) 2025-26",
+   "refNo": "NCB-14/RWCRGDA/2026-27",
+   "organisation": "National Rural Roads Development Agency (NRRDA)",
+   "orgSlug": "national-rural-roads-development-agency-nrrda",
+   "category": "construction",
+   "publishedAt": "2026-09-02T10:00:00+05:30",
+   "closingAt": "2026-09-18T17:30:00+05:30",
+   "openingAt": "2026-09-19T12:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDE2NTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODMyNDYxNA==A13h1TkNCLTE0L1JXQ1JHREEvMjAyNi0yNw==A13h1MjAyNl9DRVJXSV8xNDkzNjJfNTk=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_CERWI_149362_3",
+   "slug": "2026-cerwi-149362-3",
+   "title": "Construction and Maintenance of OR-27-678 L102-Pusuguda to Duruguda of PMGSY-IV Batch-I",
+   "refNo": "NCB-14/RWCRGDA/2026-27",
+   "organisation": "National Rural Roads Development Agency (NRRDA)",
+   "orgSlug": "national-rural-roads-development-agency-nrrda",
+   "category": "construction",
+   "publishedAt": "2026-09-02T10:00:00+05:30",
+   "closingAt": "2026-09-18T17:30:00+05:30",
+   "openingAt": "2026-09-19T12:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTk3OTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODMyNDYxNA==A13h1TkNCLTE0L1JXQ1JHREEvMjAyNi0yNw==A13h1MjAyNl9DRVJXSV8xNDkzNjJfMw==",
    "hasCorrigendum": false
   },
   {
