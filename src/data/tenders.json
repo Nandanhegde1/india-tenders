@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-09-02T04:50:18.365Z",
+ "generatedAt": "2026-09-02T11:33:34.378Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23255,
+ "count": 23275,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -318238,6 +318238,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BHEL_64522_1",
+   "slug": "2026-bhel-64522-1",
+   "title": "ELEKTROMAGNETIC BRAKE-GANTRY MCHN",
+   "refNo": "M1A1Z35515",
+   "organisation": "Bharat Heavy Electricals Limited",
+   "orgSlug": "bharat-heavy-electricals-limited",
+   "category": "other",
+   "publishedAt": "2026-09-02T16:45:00+05:30",
+   "closingAt": "2026-09-07T11:00:00+05:30",
+   "openingAt": "2026-09-07T14:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQyMTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0ODU5NQ==A13h1TTFBMVozNTUxNQ==A13h1MjAyNl9CSEVMXzY0NTIyXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_AAI_282549_1",
    "slug": "2026-aai-282549-1",
    "title": "Development New Civil Enclave at Purnea, Bihar.",
@@ -318291,6 +318305,20 @@
    "closingAt": "2026-09-07T12:00:00+05:30",
    "openingAt": "2026-09-07T14:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDA5ODI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODI0MDMyNQ==A13h1SFBCUF9NRURfIFJDMjYyN19FQ09TUFJJTg==A13h1MjAyNl9CSEVMXzY0NDk1XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_NTPC_111498_1",
+   "slug": "2026-ntpc-111498-1",
+   "title": "Replacement of PRESSURE PART And COMPLT OH OF U 4 VAM at NTPC FARAKKA",
+   "refNo": "NTPC/USSC-CPG3/9900331102",
+   "organisation": "NTPC Limited",
+   "orgSlug": "ntpc-limited",
+   "category": "other",
+   "publishedAt": "2026-09-02T16:55:00+05:30",
+   "closingAt": "2026-09-07T12:00:00+05:30",
+   "openingAt": "2026-09-07T16:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ3MTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0ODU5NQ==A13h1TlRQQy9VU1NDLUNQRzMvOTkwMDMzMTEwMg==A13h1MjAyNl9OVFBDXzExMTQ5OF8x",
    "hasCorrigendum": false
   },
   {
@@ -319596,6 +319624,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_ARMY_783663_2",
+   "slug": "2026-army-783663-2",
+   "title": "81203/LRC/RR STRONG 10/EEG/ENGR/0153",
+   "refNo": "81203/LRC/RR STRONG 10/EEG/ENGR/0153",
+   "organisation": "IHQ of MoD (Army)-(OSCC)",
+   "orgSlug": "ihq-of-mod-army-oscc",
+   "category": "other",
+   "publishedAt": "2026-09-02T16:50:00+05:30",
+   "closingAt": "2026-09-08T09:00:00+05:30",
+   "openingAt": "2026-09-08T09:05:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ3NTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0ODU5NQ==A13h1ODEyMDMvTFJDL1JSIFNUUk9ORyAxMC9FRUcvRU5HUi8wMTUzA13h1MjAyNl9BUk1ZXzc4MzY2M18y",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NHAI_284851_1",
    "slug": "2026-nhai-284851-1",
    "title": "Balance work for Const of Western Side Spur of Rampur Rudrapur sec connecting NH24 to NH 87 bypassing Rampur Town at Risk and Cost of Contractor on EPC Mode in Uttar Pradesh",
@@ -320310,6 +320352,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_AMU_924635_1",
+   "slug": "2026-amu-924635-1",
+   "title": "Renovation of one toilet Bath Block Near Canteen Unit B at Allama Iqbal Boarding House",
+   "refNo": "RIII_47/Bldg/26",
+   "organisation": "Aligarh Muslim University",
+   "orgSlug": "aligarh-muslim-university",
+   "category": "construction",
+   "publishedAt": "2026-09-02T16:45:00+05:30",
+   "closingAt": "2026-09-09T11:00:00+05:30",
+   "openingAt": "2026-09-10T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ3NTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0ODU5NQ==A13h1UklJSV80Ny9CbGRnLzI2A13h1MjAyNl9BTVVfOTI0NjM1XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_DVC_286626_1",
    "slug": "2026-dvc-286626-1",
    "title": "Establishment of Centralized Transmission Asset Management Service for Remote Operation of DVC Substations.",
@@ -320615,6 +320671,20 @@
    "closingAt": "2026-09-09T15:00:00+05:30",
    "openingAt": "2026-09-09T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDMzMzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODI5NzE0OA==A13h1MTIvTklUL0RESC9IREcvMjAyNi0yNw==A13h1MTY3NzA1",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_DOP_924627_1",
+   "slug": "2026-dop-924627-1",
+   "title": "Civil repairs for damaged ceiling at Rajpura HPO building",
+   "refNo": "10/EE/PCDA/26-27",
+   "organisation": "Department of Posts",
+   "orgSlug": "department-of-posts",
+   "category": "construction",
+   "publishedAt": "2026-09-02T16:45:00+05:30",
+   "closingAt": "2026-09-09T15:00:00+05:30",
+   "openingAt": "2026-09-10T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ3NTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0ODU5NQ==A13h1MTAvRUUvUENEQS8yNi0yNw==A13h1MjAyNl9ET1BfOTI0NjI3XzE=",
    "hasCorrigendum": false
   },
   {
@@ -322242,6 +322312,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_26479",
+   "slug": "2026-bpcl-26479",
+   "title": "RENNOVATION JOB OF ADMINISTRATIVE OFFICE",
+   "refNo": "1000463795",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "other",
+   "publishedAt": "2026-09-02T16:40:00+05:30",
+   "closingAt": "2026-09-11T14:50:00+05:30",
+   "openingAt": "2026-09-11T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ2NDE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0ODU5NQ==A13h1MTAwMDQ2Mzc5NQ==A13h1MjAyNl9CUENMXzI2NDc5",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BARC_920326_1",
    "slug": "2026-barc-920326-1",
    "title": "Handling, Transportation, Positioning of Air receiver tank and Allied Equipments at FRP, FFP, RUP and CSP, FRFCF, Kalpakkam.",
@@ -322505,6 +322589,20 @@
    "closingAt": "2026-09-12T12:00:00+05:30",
    "openingAt": "2026-09-14T15:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTc0ODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Nzk4NzY2MA==A13h1RFJFMjI2QjA3Ng==A13h1MjAyNl9BT0RfMTkxMjAyXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BHEL_64565_1",
+   "slug": "2026-bhel-64565-1",
+   "title": "X/6620/2025/1256/F/1",
+   "refNo": "X/6620/2025/1256/F/1",
+   "organisation": "Bharat Heavy Electricals Limited",
+   "orgSlug": "bharat-heavy-electricals-limited",
+   "category": "other",
+   "publishedAt": "2026-09-02T16:45:00+05:30",
+   "closingAt": "2026-09-12T13:45:00+05:30",
+   "openingAt": "2026-09-12T14:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ2NzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0ODU5NQ==A13h1WC82NjIwLzIwMjUvMTI1Ni9GLzE=A13h1MjAyNl9CSEVMXzY0NTY1XzE=",
    "hasCorrigendum": false
   },
   {
@@ -323502,6 +323600,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_IMSR_924508_1",
+   "slug": "2026-imsr-924508-1",
+   "title": "call for cbjection notice for Repair of Cold Light Fountain Xenon Nova 300 for the Department of ENT in AIIMS, Rishikesh.",
+   "refNo": "G-20017/9/2022-30",
+   "organisation": "All India Institute of Medical Sciences-Rishikesh",
+   "orgSlug": "all-india-institute-of-medical-sciences-rishikesh",
+   "category": "construction",
+   "publishedAt": "2026-09-02T17:00:00+05:30",
+   "closingAt": "2026-09-15T17:00:00+05:30",
+   "openingAt": "2026-09-16T17:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDM4MjE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0ODgwOQ==A13h1Ry0yMDAxNy85LzIwMjItMzA=A13h1MjAyNl9JTVNSXzkyNDUwOF8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BARC_921871_1",
    "slug": "2026-barc-921871-1",
    "title": "Supply Installation Testing and commissioning of clean room facility of Class 1000 Class 10000",
@@ -323642,6 +323754,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_26515",
+   "slug": "2026-bpcl-26515",
+   "title": "PROCUREMENT OF PHOTOCOPY8NG PAPER",
+   "refNo": "1000463948",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-09-02T16:48:00+05:30",
+   "closingAt": "2026-09-16T14:00:00+05:30",
+   "openingAt": "2026-09-16T14:01:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ2NDI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0ODU5NQ==A13h1MTAwMDQ2Mzk0OA==A13h1MjAyNl9CUENMXzI2NTE1",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NHPC_916820_1",
    "slug": "2026-nhpc-916820-1",
    "title": "Transmission Line Package- TL01 for Design, Engineering and Construction of Dedicated 400kV D/C Transmission Line with Twin Moose ACSR Conductor from Potheadyard of Ratle HEP to Kishtwar Pooling Station along with Associated Communication Equipment",
@@ -323765,6 +323891,20 @@
    "closingAt": "2026-09-16T18:00:00+05:30",
    "openingAt": "2026-09-23T09:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDEzMDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjYwODA5MQ==A13h1ODAxMjU3L0U4A13h1MjAyNl9NRVNfNzg0MjAzXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26512",
+   "slug": "2026-bpcl-26512",
+   "title": "PERCENTAGE E-TENDER FOR CONSTRUCTION WORKS OF NEW RETAIL OUTLET AT FROM HANUMANTHPURA TO KYATSANDRA-LHS ON NH48 TOWARDS BENGALORE, DISTRICT-TUMKUR",
+   "refNo": "1000463922",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "construction",
+   "publishedAt": "2026-09-02T16:58:00+05:30",
+   "closingAt": "2026-09-17T00:00:00+05:30",
+   "openingAt": "2026-09-17T00:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ3NzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0ODU5NQ==A13h1MTAwMDQ2MzkyMg==A13h1MjAyNl9CUENMXzI2NTEy",
    "hasCorrigendum": false
   },
   {
@@ -324213,6 +324353,48 @@
    "closingAt": "2026-09-18T17:00:00+05:30",
    "openingAt": "2026-09-21T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTc0NzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Nzk4NzY2MA==A13h1OTQ5NS9FOA==A13h1MjAyNl9NRVNfNzg2ODk4XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_WBSRD_149372_2",
+   "slug": "2026-wbsrd-149372-2",
+   "title": "WB01544",
+   "refNo": "24 /SRDA/N-2/2026-27/01",
+   "organisation": "National Rural Roads Development Agency (NRRDA)",
+   "orgSlug": "national-rural-roads-development-agency-nrrda",
+   "category": "other",
+   "publishedAt": "2026-09-02T17:00:00+05:30",
+   "closingAt": "2026-09-18T17:00:00+05:30",
+   "openingAt": "2026-09-21T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDE5NDA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0ODgwOQ==A13h1MjQgL1NSREEvTi0yLzIwMjYtMjcvMDE=A13h1MjAyNl9XQlNSRF8xNDkzNzJfMg==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_WBSRD_149372_1",
+   "slug": "2026-wbsrd-149372-1",
+   "title": "WB01537",
+   "refNo": "24 /SRDA/N-2/2026-27/01",
+   "organisation": "National Rural Roads Development Agency (NRRDA)",
+   "orgSlug": "national-rural-roads-development-agency-nrrda",
+   "category": "other",
+   "publishedAt": "2026-09-02T17:00:00+05:30",
+   "closingAt": "2026-09-18T17:00:00+05:30",
+   "openingAt": "2026-09-21T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDE5MzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0ODgwOQ==A13h1MjQgL1NSREEvTi0yLzIwMjYtMjcvMDE=A13h1MjAyNl9XQlNSRF8xNDkzNzJfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_WBSRD_149372_3",
+   "slug": "2026-wbsrd-149372-3",
+   "title": "WB01552",
+   "refNo": "24 /SRDA/N-2/2026-27/01",
+   "organisation": "National Rural Roads Development Agency (NRRDA)",
+   "orgSlug": "national-rural-roads-development-agency-nrrda",
+   "category": "other",
+   "publishedAt": "2026-09-02T17:00:00+05:30",
+   "closingAt": "2026-09-18T17:00:00+05:30",
+   "openingAt": "2026-09-21T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDE5NDI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0ODgwOQ==A13h1MjQgL1NSREEvTi0yLzIwMjYtMjcvMDE=A13h1MjAyNl9XQlNSRF8xNDkzNzJfMw==",
    "hasCorrigendum": false
   },
   {
@@ -324972,6 +325154,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_JKRRD_149377_2",
+   "slug": "2026-jkrrd-149377-2",
+   "title": "BALANCE WORK FOR CONSTRUCTION OF ROAD FROM L033- TULI TO PHAGOLI PKG NO JK14-563, JK14-564-40 MTR span through type steel bridge and JK14-645",
+   "refNo": "e-NIT No-CEJ/PMGSY/\t840 of 2026-27 Dated-31/08/2026",
+   "organisation": "National Rural Roads Development Agency (NRRDA)",
+   "orgSlug": "national-rural-roads-development-agency-nrrda",
+   "category": "construction",
+   "publishedAt": "2026-09-02T17:00:00+05:30",
+   "closingAt": "2026-09-24T17:00:00+05:30",
+   "openingAt": "2026-09-26T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDM1MzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0ODgwOQ==A13h1ZS1OSVQgTm8tQ0VKL1BNR1NZLwk4NDAgb2YgMjAyNi0yNyBEYXRlZC0zMS8wOC8yMDI2A13h1MjAyNl9KS1JSRF8xNDkzNzdfMg==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_JKRRD_149377_1",
+   "slug": "2026-jkrrd-149377-1",
+   "title": "BALANCE WORK FOR CONSTRUCTION and MAINTENANCE OF ROAD FROM NEOCH TO SHIBRAS PACKAGE- JK14-211, STAGE- IandII COMBINE, PHASE- IX, BLOCK MAHORE, DISTRICT REASI, LENGTH-15.000 KMS",
+   "refNo": "e-NIT No-CEJ/PMGSY/\t840 of 2026-27 Dated-31/08/2026",
+   "organisation": "National Rural Roads Development Agency (NRRDA)",
+   "orgSlug": "national-rural-roads-development-agency-nrrda",
+   "category": "construction",
+   "publishedAt": "2026-09-02T17:00:00+05:30",
+   "closingAt": "2026-09-24T17:00:00+05:30",
+   "openingAt": "2026-09-26T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDM1Mjk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0ODgwOQ==A13h1ZS1OSVQgTm8tQ0VKL1BNR1NZLwk4NDAgb2YgMjAyNi0yNyBEYXRlZC0zMS8wOC8yMDI2A13h1MjAyNl9KS1JSRF8xNDkzNzdfMQ==",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_785288_1",
    "slug": "2026-mes-785288-1",
    "title": "PROVISION OF NEW ADMINISTRATIVE BUILDING (G Plus FIVE STOREY) AND ALLIED FACILITIES INSIDE TECHNICAL AREA, DMSRDE, KANPUR",
@@ -325095,6 +325305,62 @@
    "closingAt": "2026-09-26T17:00:00+05:30",
    "openingAt": "2026-09-28T17:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDI4MzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjYwODA2NQ==A13h1TkhBSS9STy1IWUQvQmxhY2tzcG90cy9OSC00NCAvTmdwLUh5ZC8yMDI2LzI0A13h1MjAyNl9OSEFJXzI4NzQ1M18x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_JMI_924408_1",
+   "slug": "2026-jmi-924408-1",
+   "title": "Water of proofing Over Head Tank and miscellaneous work at University Polytechnic at Jamia Millia Islamia",
+   "refNo": "JMI/BD/E-NIT/No.15/2026-27",
+   "organisation": "Jamia Millia Islamia",
+   "orgSlug": "jamia-millia-islamia",
+   "category": "other",
+   "publishedAt": "2026-09-02T17:00:00+05:30",
+   "closingAt": "2026-09-26T17:00:00+05:30",
+   "openingAt": "2026-09-29T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDE1NTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0ODgwOQ==A13h1Sk1JL0JEL0UtTklUL05vLjE1LzIwMjYtMjc=A13h1MjAyNl9KTUlfOTI0NDA4XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_JMI_924396_1",
+   "slug": "2026-jmi-924396-1",
+   "title": "Replacement of Iron Profile sheet, repair to plaster, White washing/ painting, broken glass panes in the entire building / space occupied by the Department Physics, Jamia Millia Islamia.",
+   "refNo": "JMI/BD/E-NIT/No.13/2026-27",
+   "organisation": "Jamia Millia Islamia",
+   "orgSlug": "jamia-millia-islamia",
+   "category": "construction",
+   "publishedAt": "2026-09-02T17:00:00+05:30",
+   "closingAt": "2026-09-26T17:00:00+05:30",
+   "openingAt": "2026-09-29T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDE1NDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0ODgwOQ==A13h1Sk1JL0JEL0UtTklUL05vLjEzLzIwMjYtMjc=A13h1MjAyNl9KTUlfOTI0Mzk2XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_JMI_924402_1",
+   "slug": "2026-jmi-924402-1",
+   "title": "Water proofing at the Roof on the Department of Psychology at Jamia Millia Islamia.",
+   "refNo": "JMI/BD/E-NIT/No.14/2026-27",
+   "organisation": "Jamia Millia Islamia",
+   "orgSlug": "jamia-millia-islamia",
+   "category": "other",
+   "publishedAt": "2026-09-02T17:00:00+05:30",
+   "closingAt": "2026-09-26T17:00:00+05:30",
+   "openingAt": "2026-09-29T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDE1NTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0ODgwOQ==A13h1Sk1JL0JEL0UtTklUL05vLjE0LzIwMjYtMjc=A13h1MjAyNl9KTUlfOTI0NDAyXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_JMI_924390_1",
+   "slug": "2026-jmi-924390-1",
+   "title": "Replacement of damaged G.I. pipe line by CPVC pipe, Boosting line from Submersible pump to Over Head Tank at Dr. Z.H. Library New Building, Jamia Millia Islamia.",
+   "refNo": "JMI/BD/E-NIT/No.12/2026-27",
+   "organisation": "Jamia Millia Islamia",
+   "orgSlug": "jamia-millia-islamia",
+   "category": "construction",
+   "publishedAt": "2026-09-02T17:00:00+05:30",
+   "closingAt": "2026-09-26T17:00:00+05:30",
+   "openingAt": "2026-09-29T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDE1NDU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0ODgwOQ==A13h1Sk1JL0JEL0UtTklUL05vLjEyLzIwMjYtMjc=A13h1MjAyNl9KTUlfOTI0MzkwXzE=",
    "hasCorrigendum": false
   },
   {
@@ -325375,6 +325641,20 @@
    "closingAt": "2026-10-05T11:00:00+05:30",
    "openingAt": "2026-10-05T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMzQ1MDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjM0OTUwNA==A13h1MDkyNjIwNDI=A13h1MTA3MTQ5Nzgw",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_NHAI_289671_1",
+   "slug": "2026-nhai-289671-1",
+   "title": "Consultancy Services for Preparation of Detailed Project Report for Four Laning of Deogarh-Jharabeni section (Ch.175.545 to Ch.282.000) ( Tentative Length 106.455 Km) of NH-53 in Odisha",
+   "refNo": "ORDIV-20018/89/2026-PIU Dhenkanal/E-321698",
+   "organisation": "National Highways Authority of India",
+   "orgSlug": "national-highways-authority-of-india",
+   "category": "other",
+   "publishedAt": "2026-09-02T16:45:00+05:30",
+   "closingAt": "2026-10-05T11:00:00+05:30",
+   "openingAt": "2026-10-06T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ2ODI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0ODU5NQ==A13h1T1JESVYtMjAwMTgvODkvMjAyNi1QSVUgRGhlbmthbmFsL0UtMzIxNjk4A13h1MjAyNl9OSEFJXzI4OTY3MV8x",
    "hasCorrigendum": false
   },
   {
