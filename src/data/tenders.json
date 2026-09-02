@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-09-02T11:33:34.378Z",
+ "generatedAt": "2026-09-02T16:54:45.685Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23275,
+ "count": 23285,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -317146,6 +317146,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_26519",
+   "slug": "2026-bpcl-26519",
+   "title": "DESIGNING OF THE MAK LUBRICANTS PACKS OF 1L & 4L PACKS BASED ON THE EXISTING CONCEPT OF NXT GENERATION AND TECHNOLOGY",
+   "refNo": "1000463984",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "other",
+   "publishedAt": "2026-09-02T20:01:00+05:30",
+   "closingAt": "2026-09-05T15:00:00+05:30",
+   "openingAt": "2026-09-05T15:01:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDU1OTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM2ODA4MA==A13h1MTAwMDQ2Mzk4NA==A13h1MjAyNl9CUENMXzI2NTE5",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_GAIL_287778_1",
    "slug": "2026-gail-287778-1",
    "title": "WATERPROOFING OF BUILDINGS IN GAIL VIJAIPUR PLANT PREMISES AND TOWNSHIP",
@@ -321444,6 +321458,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "167827",
+   "slug": "167827",
+   "title": "67(1)/PCED/DB/2026-27/1339-H",
+   "refNo": "67(1)/PCED/DB/2026-27/1339-H",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-02T19:41:00+05:30",
+   "closingAt": "2026-09-10T11:00:00+05:30",
+   "openingAt": "2026-09-10T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDU1OTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM2ODA4MA==A13h1NjcoMSkvUENFRC9EQi8yMDI2LTI3LzEzMzktSA==A13h1MTY3ODI3",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_782522_1",
    "slug": "2026-mes-782522-1",
    "title": "PROVN OF OTM ACCN FOR 40 X OR OF AULI BN AT MANA UNDER GE 871 EWS",
@@ -321805,6 +321833,76 @@
    "closingAt": "2026-09-10T15:00:00+05:30",
    "openingAt": "2026-09-10T15:05:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTQxOTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Nzg2OTc0NA==A13h1MTAwMDQ2MzMwMw==A13h1MjAyNl9CUENMXzI2NDA2",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "167828",
+   "slug": "167828",
+   "title": "66/CE/EE/C-I/CPWD/D.DUN/2026-27",
+   "refNo": "66/CE/EE/C-I/CPWD/D.DUN/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-02T20:23:00+05:30",
+   "closingAt": "2026-09-10T15:00:00+05:30",
+   "openingAt": "2026-09-10T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDU1OTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM2ODA4MA==A13h1NjYvQ0UvRUUvQy1JL0NQV0QvRC5EVU4vMjAyNi0yNw==A13h1MTY3ODI4",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "167826",
+   "slug": "167826",
+   "title": "17/NIT/EE/BFD-II/AGT/2026-27",
+   "refNo": "17/NIT/EE/BFD-II/AGT/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-02T19:31:00+05:30",
+   "closingAt": "2026-09-10T15:00:00+05:30",
+   "openingAt": "2026-09-10T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDU1ODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM2ODA4MA==A13h1MTcvTklUL0VFL0JGRC1JSS9BR1QvMjAyNi0yNw==A13h1MTY3ODI2",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "167818",
+   "slug": "167818",
+   "title": "13/EE(C)/Puducherry-II/CPWD/Puducherry/2026-27",
+   "refNo": "13/EE(C)/Puducherry-II/CPWD/Puducherry/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-02T19:29:00+05:30",
+   "closingAt": "2026-09-10T15:00:00+05:30",
+   "openingAt": "2026-09-10T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDU1ODg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM2ODA4MA==A13h1MTMvRUUoQykvUHVkdWNoZXJyeS1JSS9DUFdEL1B1ZHVjaGVycnkvMjAyNi0yNw==A13h1MTY3ODE4",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "167825",
+   "slug": "167825",
+   "title": "12/NIT/EE/SD/CPWD/2026-27",
+   "refNo": "12/NIT/EE/SD/CPWD/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-02T19:27:00+05:30",
+   "closingAt": "2026-09-10T15:00:00+05:30",
+   "openingAt": "2026-09-10T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDU1ODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM2ODA4MA==A13h1MTIvTklUL0VFL1NEL0NQV0QvMjAyNi0yNw==A13h1MTY3ODI1",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "167824",
+   "slug": "167824",
+   "title": "81/EE(E)-Hyd-I/2026-27",
+   "refNo": "81/EE(E)-Hyd-I/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-09-02T19:18:00+05:30",
+   "closingAt": "2026-09-10T15:00:00+05:30",
+   "openingAt": "2026-09-10T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDU1ODU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM2ODA4MA==A13h1ODEvRUUoRSktSHlkLUkvMjAyNi0yNw==A13h1MTY3ODI0",
    "hasCorrigendum": false
   },
   {
@@ -322379,6 +322477,34 @@
    "closingAt": "2026-09-11T15:00:00+05:30",
    "openingAt": "2026-09-11T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDA5NTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODI0MDMxNw==A13h1U1NQRDExMDAwMDAyOTBQA13h1U1NQRDExMDAwMDAyOTBQ",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "167829",
+   "slug": "167829",
+   "title": "01 SEcumPD UKP 26 27",
+   "refNo": "01 SEcumPD UKP 26 27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-02T21:22:00+05:30",
+   "closingAt": "2026-09-11T15:00:00+05:30",
+   "openingAt": "2026-09-11T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDU2MTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM2ODA4MA==A13h1MDEgU0VjdW1QRCBVS1AgMjYgMjc=A13h1MTY3ODI5",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "167814",
+   "slug": "167814",
+   "title": "30/EE(E)(Puducherry)/CPWD/2026-27",
+   "refNo": "30/EE(E)(Puducherry)/CPWD/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-09-02T19:52:00+05:30",
+   "closingAt": "2026-09-11T15:00:00+05:30",
+   "openingAt": "2026-09-11T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDU1OTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM2ODA4MA==A13h1MzAvRUUoRSkoUHVkdWNoZXJyeSkvQ1BXRC8yMDI2LTI3A13h1MTY3ODE0",
    "hasCorrigendum": false
   },
   {
@@ -324563,6 +324689,20 @@
    "closingAt": "2026-09-19T15:00:00+05:30",
    "openingAt": "2026-09-21T15:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTc1MDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Nzk4NzY2MA==A13h1MzEvQUlJTVMvTkFHL0VOR0cvMjAyNi0yNw==A13h1MjAyNl9BSU1OUF85MjQwNzlfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "167820",
+   "slug": "167820",
+   "title": "13/CE-I/EE(E)-II/2026-27",
+   "refNo": "13/CE-I/EE(E)-II/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-09-02T19:26:00+05:30",
+   "closingAt": "2026-09-19T15:00:00+05:30",
+   "openingAt": "2026-09-19T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDU1ODY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM2ODA4MA==A13h1MTMvQ0UtSS9FRShFKS1JSS8yMDI2LTI3A13h1MTY3ODIw",
    "hasCorrigendum": false
   },
   {
