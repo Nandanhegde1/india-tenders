@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-09-02T21:11:47.336Z",
+ "generatedAt": "2026-09-03T04:47:12.055Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23285,
+ "count": 23295,
  "tenders": [
   {
    "id": "2026_BHEL_62859_1",
@@ -321906,6 +321906,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "167833",
+   "slug": "167833",
+   "title": "126/AE-E-1/DED-101/2026-27",
+   "refNo": "126/AE-E-1/DED-101/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-03T10:03:00+05:30",
+   "closingAt": "2026-09-10T15:00:00+05:30",
+   "openingAt": "2026-09-10T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDU2NjA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQxMDgyOA==A13h1MTI2L0FFLUUtMS9ERUQtMTAxLzIwMjYtMjc=A13h1MTY3ODMz",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BPCL_26424",
    "slug": "2026-bpcl-26424",
    "title": "CONSTRUCTION OF NRO AT VILLAGE SAINPUR DISTRICT LAKHIMPUR",
@@ -322984,6 +322998,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_DGDE_787222_1",
+   "slug": "2026-dgde-787222-1",
+   "title": "Retender Term Contract for repair and maintenance of Cantt Fund Drains for the financial year 2026-27.",
+   "refNo": "04/Drains Retender",
+   "organisation": "Directorate General Defence Estates",
+   "orgSlug": "directorate-general-defence-estates",
+   "category": "construction",
+   "publishedAt": "2026-09-03T10:00:00+05:30",
+   "closingAt": "2026-09-14T09:00:00+05:30",
+   "openingAt": "2026-09-15T16:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDE1ODE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQxMDgyOA==A13h1MDQvRHJhaW5zIFJldGVuZGVyA13h1MjAyNl9ER0RFXzc4NzIyMl8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_DGDE_787238_1",
+   "slug": "2026-dgde-787238-1",
+   "title": "Retender Term Contract for miscellaneous improvement work for the financial year 2026-27.",
+   "refNo": "02/MiscImp/2026-27 Retender",
+   "organisation": "Directorate General Defence Estates",
+   "orgSlug": "directorate-general-defence-estates",
+   "category": "other",
+   "publishedAt": "2026-09-03T10:00:00+05:30",
+   "closingAt": "2026-09-14T09:00:00+05:30",
+   "openingAt": "2026-09-15T16:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDE1NzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQxMDgyOA==A13h1MDIvTWlzY0ltcC8yMDI2LTI3IFJldGVuZGVyA13h1MjAyNl9ER0RFXzc4NzIzOF8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_RBI_286538_1",
    "slug": "2026-rbi-286538-1",
    "title": "Supply and installation of Clean Agent type fire extinguishers at the Main Office Premises of the Reserve Bank of India situated at Arera Hills, Bhopal, Madhya Pradesh",
@@ -323737,6 +323779,62 @@
    "closingAt": "2026-09-15T17:00:00+05:30",
    "openingAt": "2026-09-16T17:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDM4MjE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0ODgwOQ==A13h1Ry0yMDAxNy85LzIwMjItMzA=A13h1MjAyNl9JTVNSXzkyNDUwOF8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_SECL_364660_1",
+   "slug": "2026-secl-364660-1",
+   "title": "Painting of Transformers Switchboard Panel MOCB VCB Control Panel and 33 KV Switchyard Structures at Rajendra Colony Arjhula Colony and Khairaha UG Mine Substations of Sohagpur Area SECL",
+   "refNo": "SECL/SGP/EnM/eT/2026-27/400  Date 01.09.2026",
+   "organisation": "South Eastern Coalfields Limited",
+   "orgSlug": "south-eastern-coalfields-limited",
+   "category": "construction",
+   "publishedAt": "2026-09-03T10:00:00+05:30",
+   "closingAt": "2026-09-15T17:00:00+05:30",
+   "openingAt": "2026-09-17T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDEyNTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQxMDgyOA==A13h1U0VDTC9TR1AvRW5NL2VULzIwMjYtMjcvNDAwICBEYXRlIDAxLjA5LjIwMjY=A13h1MjAyNl9TRUNMXzM2NDY2MF8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BCCL_364744_1",
+   "slug": "2026-bccl-364744-1",
+   "title": "Painting of Pole including structure of starting feeder pole and structure of transformer including stay set fitting under Madhuban D.G. Sub-station of Block-II Area.",
+   "refNo": "GM/B-II/AM (ENM)/E-TENDER/2026-27/102  dtd 02.09.2026",
+   "organisation": "Bharat Coking Coal Limited",
+   "orgSlug": "bharat-coking-coal-limited",
+   "category": "electrical",
+   "publishedAt": "2026-09-03T10:00:00+05:30",
+   "closingAt": "2026-09-15T17:00:00+05:30",
+   "openingAt": "2026-09-16T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQyMzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQxMDgyOA==A13h1R00vQi1JSS9BTSAoRU5NKS9FLVRFTkRFUi8yMDI2LTI3LzEwMiAgZHRkIDAyLjA5LjIwMjY=A13h1MjAyNl9CQ0NMXzM2NDc0NF8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BCCL_364735_1",
+   "slug": "2026-bccl-364735-1",
+   "title": "Dismantling, Erection, Diversion of 6.6 KV Benidih feeder clear the area OB dump power supply shovel, drill Machine 4000 GPM pump ABOCP Mine,Installation of 10KVA,220V Transformer (B) Dismantling and Erection of 220V LT OH line clear the area OB dum",
+   "refNo": "GM/B-II/AM (ENM)/E-TENDER/2026-27/101  dtd 02.09.2026",
+   "organisation": "Bharat Coking Coal Limited",
+   "orgSlug": "bharat-coking-coal-limited",
+   "category": "electrical",
+   "publishedAt": "2026-09-03T10:00:00+05:30",
+   "closingAt": "2026-09-15T17:00:00+05:30",
+   "openingAt": "2026-09-16T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQyMjg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQxMDgyOA==A13h1R00vQi1JSS9BTSAoRU5NKS9FLVRFTkRFUi8yMDI2LTI3LzEwMSAgZHRkIDAyLjA5LjIwMjY=A13h1MjAyNl9CQ0NMXzM2NDczNV8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BCCL_364753_1",
+   "slug": "2026-bccl-364753-1",
+   "title": "Work at electrical repairing and maintenance of OH Line 6.6KV, SAG conductor re-tenting, damaged conductor changing and Damaged rusted pole, Cable work, Dismantling and erection pipe poles and other work in KKC Railway Siding under ABOCP mine under",
+   "refNo": "GM/B-II/AM (ENM)/E-TENDER/2026-27/103  dtd 02.09.2026",
+   "organisation": "Bharat Coking Coal Limited",
+   "orgSlug": "bharat-coking-coal-limited",
+   "category": "electrical",
+   "publishedAt": "2026-09-03T10:00:00+05:30",
+   "closingAt": "2026-09-15T17:00:00+05:30",
+   "openingAt": "2026-09-16T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQyMzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQxMDgyOA==A13h1R00vQi1JSS9BTSAoRU5NKS9FLVRFTkRFUi8yMDI2LTI3LzEwMyAgZHRkIDAyLjA5LjIwMjY=A13h1MjAyNl9CQ0NMXzM2NDc1M18x",
    "hasCorrigendum": false
   },
   {
@@ -324706,6 +324804,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_SECL_364783_1",
+   "slug": "2026-secl-364783-1",
+   "title": "Transportation of sand cartridges(Stemming materials) from UG stock yard to working faces at Baherabandh UG Mine.",
+   "refNo": "AGM/HSD /SO(M)/e-Tender/26-27/47  Date 03/09/2026",
+   "organisation": "South Eastern Coalfields Limited",
+   "orgSlug": "south-eastern-coalfields-limited",
+   "category": "other",
+   "publishedAt": "2026-09-03T10:00:00+05:30",
+   "closingAt": "2026-09-19T17:00:00+05:30",
+   "openingAt": "2026-09-21T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ2NzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQxMDgyOA==A13h1QUdNL0hTRCAvU08oTSkvZS1UZW5kZXIvMjYtMjcvNDcgIERhdGUgMDMvMDkvMjAyNg==A13h1MjAyNl9TRUNMXzM2NDc4M18x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_786901_1",
    "slug": "2026-mes-786901-1",
    "title": "REPAIR AND POLISHING OF WOODEN FURNITURE AT AF STN JAISALMER",
@@ -324955,6 +325067,20 @@
    "closingAt": "2026-09-21T17:00:00+05:30",
    "openingAt": "2026-09-24T12:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDEwMDA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODI2MzYzNA==A13h1RkdLL0VPKEMpL0NDLzY5MiBvZiAyMDI2LTI3A13h1MjAyNl9BV0VJTF8yODk0MTdfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_SECL_364743_1",
+   "slug": "2026-secl-364743-1",
+   "title": "Day to day Repairing and maintenance Residential Building officer colony of Bishrampur colony of Bishrampur Area for 2 years",
+   "refNo": "GM/BSPR/Civil/ e-tender/2026-27/42 dt 02.09.2026",
+   "organisation": "South Eastern Coalfields Limited",
+   "orgSlug": "south-eastern-coalfields-limited",
+   "category": "construction",
+   "publishedAt": "2026-09-03T10:00:00+05:30",
+   "closingAt": "2026-09-21T17:00:00+05:30",
+   "openingAt": "2026-09-22T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQyMjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQxMDgyOA==A13h1R00vQlNQUi9DaXZpbC8gZS10ZW5kZXIvMjAyNi0yNy80MiBkdCAwMi4wOS4yMDI2A13h1MjAyNl9TRUNMXzM2NDc0M18x",
    "hasCorrigendum": false
   },
   {
@@ -325417,6 +325543,20 @@
    "closingAt": "2026-09-25T12:30:00+05:30",
    "openingAt": "2026-09-26T12:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwODQ1OTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzY0MjI5NA==A13h1NjAwMDAxOTc2MA==A13h1MjAyNl9TUE1DSV8yODg4MDZfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_RRCAT_924481_1",
+   "slug": "2026-rrcat-924481-1",
+   "title": "Design, fabrication, supply, installation, testing and commissioning of HVAC system for RF Lab at RRCAT, Indore",
+   "refNo": "RRCAT/EEACS/2026/25",
+   "organisation": "Raja Ramanna Centre for Advanced Technology Indore",
+   "orgSlug": "raja-ramanna-centre-for-advanced-technology-indore",
+   "category": "goods-supply",
+   "publishedAt": "2026-09-03T10:00:00+05:30",
+   "closingAt": "2026-09-25T15:30:00+05:30",
+   "openingAt": "2026-09-28T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDIwMDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQxMDgyOA==A13h1UlJDQVQvRUVBQ1MvMjAyNi8yNQ==A13h1MjAyNl9SUkNBVF85MjQ0ODFfMQ==",
    "hasCorrigendum": false
   },
   {
