@@ -1,22 +1,8 @@
 {
- "generatedAt": "2026-09-04T11:32:46.428Z",
+ "generatedAt": "2026-09-04T16:32:16.433Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23350,
+ "count": 23359,
  "tenders": [
-  {
-   "id": "2026_HR_190469_1",
-   "slug": "2026-hr-190469-1",
-   "title": "procurement of MHOP Bearing Holder for Shaft",
-   "refNo": "9040M26F44",
-   "organisation": "IndianOil",
-   "orgSlug": "indianoil",
-   "category": "goods-supply",
-   "publishedAt": "2026-07-03T18:00:00+05:30",
-   "closingAt": "2026-07-06T18:00:00+05:30",
-   "openingAt": "2026-07-08T15:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MDk4MTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzEzOTE1Mg==A13h1OTA0ME0yNkY0NA==A13h1MjAyNl9IUl8xOTA0NjlfMQ==",
-   "hasCorrigendum": false
-  },
   {
    "id": "2026_ARMY_776564_1",
    "slug": "2026-army-776564-1",
@@ -322508,6 +322494,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_26520",
+   "slug": "2026-bpcl-26520",
+   "title": "SUPPLY OF SMALL BORE FLANGES FOR MR TA 2026",
+   "refNo": "1000464010",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-09-04T20:12:00+05:30",
+   "closingAt": "2026-09-11T14:00:00+05:30",
+   "openingAt": "2026-09-11T14:01:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk0Mjc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUzOTUzMg==A13h1MTAwMDQ2NDAxMA==A13h1MjAyNl9CUENMXzI2NTIw",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26537",
+   "slug": "2026-bpcl-26537",
+   "title": "PROCUREMENT OF ORIFICE FLANGE SET WITH ORIFICE PLATE FOR SLOP LINES IN MUMBAI REFINERY",
+   "refNo": "1000464191",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-09-04T19:55:00+05:30",
+   "closingAt": "2026-09-11T14:00:00+05:30",
+   "openingAt": "2026-09-11T14:01:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk0MjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUzOTUzMg==A13h1MTAwMDQ2NDE5MQ==A13h1MjAyNl9CUENMXzI2NTM3",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BPCL_26479",
    "slug": "2026-bpcl-26479",
    "title": "RENNOVATION JOB OF ADMINISTRATIVE OFFICE",
@@ -322911,6 +322925,20 @@
    "closingAt": "2026-09-11T18:00:00+05:30",
    "openingAt": "2026-09-16T09:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzgxMTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzM4MjQ5NQ==A13h1Qy84NDkyL0EvRTg=A13h1MjAyNl9NRVNfNzg1ODM1XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26540",
+   "slug": "2026-bpcl-26540",
+   "title": "TENDER FOR CONSTRUCTION OF NRO DRDA KARIMNAGAR",
+   "refNo": "1000464213",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "construction",
+   "publishedAt": "2026-09-04T20:02:00+05:30",
+   "closingAt": "2026-09-12T10:00:00+05:30",
+   "openingAt": "2026-09-12T10:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk0MjU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUzOTUzMg==A13h1MTAwMDQ2NDIxMw==A13h1MjAyNl9CUENMXzI2NTQw",
    "hasCorrigendum": false
   },
   {
@@ -323474,6 +323502,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "168063",
+   "slug": "168063",
+   "title": "23(46)/E-QUOTATION/DD(H)/KHD/CPWD/KOL/2026-27/541(H), Dated-04.09.2026",
+   "refNo": "23(46)/E-QUOTATION/DD(H)/KHD/CPWD/KOL/2026-27/541(H), Dated-04.09.2026",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-04T19:22:00+05:30",
+   "closingAt": "2026-09-14T15:00:00+05:30",
+   "openingAt": "2026-09-14T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk0MTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUzOTUzMg==A13h1MjMoNDYpL0UtUVVPVEFUSU9OL0REKEgpL0tIRC9DUFdEL0tPTC8yMDI2LTI3LzU0MShIKSwgRGF0ZWQtMDQuMDkuMjAyNg==A13h1MTY4MDYz",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_AIMSD_920773_1",
    "slug": "2026-aimsd-920773-1",
    "title": "Expression of Interest for Diagnostic Genomic Testing services for OPD Patients.",
@@ -323670,6 +323712,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_NCL_364914_1",
+   "slug": "2026-ncl-364914-1",
+   "title": "Erection, Testing and Commissioning of Maintenance Free Chemical Earthing for Weighbridges at Jhingurda Project",
+   "refNo": "NCL/JRD/ENM/Tender/26-27/25",
+   "organisation": "Northern Coalfields Limited",
+   "orgSlug": "northern-coalfields-limited",
+   "category": "construction",
+   "publishedAt": "2026-09-04T18:55:00+05:30",
+   "closingAt": "2026-09-14T18:55:00+05:30",
+   "openingAt": "2026-09-15T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDc4Nzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUzOTUzMg==A13h1TkNML0pSRC9FTk0vVGVuZGVyLzI2LTI3LzI1A13h1MjAyNl9OQ0xfMzY0OTE0XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BCCL_364924_1",
    "slug": "2026-bccl-364924-1",
    "title": "Repairing, denting of operator cabin and replacement of broken and cracked glass, ceiling complete making of dozer G12045 at ANT ST Lodna area BCCL",
@@ -323807,6 +323863,48 @@
    "closingAt": "2026-09-15T11:00:00+05:30",
    "openingAt": "2026-09-15T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMzQ0ODM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjM0OTUwNA==A13h1MDkyNjMyMjY=A13h1MTA3MTQ5NzY5",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_ECL_364962_1",
+   "slug": "2026-ecl-364962-1",
+   "title": "Repairing of 35 Nos. houses due to heavy blasting at Basdiha village under Rajmahal Area.",
+   "refNo": "ECL/RJML/AGM/AE(C)/ e-Ten/26-27/138  Dt-04.09.2026",
+   "organisation": "Eastern Coalfields Limited",
+   "orgSlug": "eastern-coalfields-limited",
+   "category": "other",
+   "publishedAt": "2026-09-04T18:55:00+05:30",
+   "closingAt": "2026-09-15T11:00:00+05:30",
+   "openingAt": "2026-09-16T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDgwODM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUzOTUzMg==A13h1RUNML1JKTUwvQUdNL0FFKEMpLyBlLVRlbi8yNi0yNy8xMzggIER0LTA0LjA5LjIwMjY=A13h1MjAyNl9FQ0xfMzY0OTYyXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_ECL_364961_1",
+   "slug": "2026-ecl-364961-1",
+   "title": "Strengthening of RR Masonry parapet wall with wing wall and flooring work both side of culvert near water filling point under ROCP.",
+   "refNo": "ECL/RJML/AGM/AE(C)/ e-Ten/26-27/137  Dt-04.09.2026",
+   "organisation": "Eastern Coalfields Limited",
+   "orgSlug": "eastern-coalfields-limited",
+   "category": "construction",
+   "publishedAt": "2026-09-04T18:55:00+05:30",
+   "closingAt": "2026-09-15T11:00:00+05:30",
+   "openingAt": "2026-09-16T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDgwNDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUzOTUzMg==A13h1RUNML1JKTUwvQUdNL0FFKEMpLyBlLVRlbi8yNi0yNy8xMzcgIER0LTA0LjA5LjIwMjY=A13h1MjAyNl9FQ0xfMzY0OTYxXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_ECL_364963_1",
+   "slug": "2026-ecl-364963-1",
+   "title": "Providing and filling earthen shoulder both side of newly constructed PCC road top edge of mines Harakka side under ROCP.",
+   "refNo": "ECL/RJML/AGM/AE(C)/ e-Ten/26-27/139  Dt-04.09.2026",
+   "organisation": "Eastern Coalfields Limited",
+   "orgSlug": "eastern-coalfields-limited",
+   "category": "construction",
+   "publishedAt": "2026-09-04T18:55:00+05:30",
+   "closingAt": "2026-09-15T11:00:00+05:30",
+   "openingAt": "2026-09-16T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDgxMjA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUzOTUzMg==A13h1RUNML1JKTUwvQUdNL0FFKEMpLyBlLVRlbi8yNi0yNy8xMzkgIER0LTA0LjA5LjIwMjY=A13h1MjAyNl9FQ0xfMzY0OTYzXzE=",
    "hasCorrigendum": false
   },
   {
@@ -324031,6 +324129,20 @@
    "closingAt": "2026-09-15T15:00:00+05:30",
    "openingAt": "2026-09-15T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDgxMTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUyMTM5OA==A13h1MzIvMjAyNi0yNy9FRSAoRSkgUkFOQ0hJLUk=A13h1MTY4MDUw",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "168064",
+   "slug": "168064",
+   "title": "31/EE(E)(Puducherry)/CPWD/2026-27",
+   "refNo": "31/EE(E)(Puducherry)/CPWD/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-09-04T20:09:00+05:30",
+   "closingAt": "2026-09-15T15:00:00+05:30",
+   "openingAt": "2026-09-15T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk0MjY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUzOTUzMg==A13h1MzEvRUUoRSkoUHVkdWNoZXJyeSkvQ1BXRC8yMDI2LTI3A13h1MTY4MDY0",
    "hasCorrigendum": false
   },
   {
@@ -326313,6 +326425,20 @@
    "closingAt": "2026-09-25T15:30:00+05:30",
    "openingAt": "2026-09-28T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDIwMDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQxMDgyOA==A13h1UlJDQVQvRUVBQ1MvMjAyNi8yNQ==A13h1MjAyNl9SUkNBVF85MjQ0ODFfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26502",
+   "slug": "2026-bpcl-26502",
+   "title": "PIPELINE AND ASSOCIATED CIVIL WORKS FOR ETHANOL, AOPCK & LSATF FACILITY IRIMPANAM INSTALLATION",
+   "refNo": "1000463224",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "other",
+   "publishedAt": "2026-09-04T18:55:00+05:30",
+   "closingAt": "2026-09-25T16:30:00+05:30",
+   "openingAt": "2026-09-25T16:31:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk0MTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUzOTUzMg==A13h1MTAwMDQ2MzIyNA==A13h1MjAyNl9CUENMXzI2NTAy",
    "hasCorrigendum": false
   },
   {
