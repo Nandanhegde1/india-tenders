@@ -1,22 +1,8 @@
 {
- "generatedAt": "2026-09-03T21:13:46.070Z",
+ "generatedAt": "2026-09-04T04:50:04.045Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23332,
+ "count": 23341,
  "tenders": [
-  {
-   "id": "2026_BHEL_62859_1",
-   "slug": "2026-bhel-62859-1",
-   "title": "F9AZS00101- Mc of Inter Stage Bushings and Balancing Bushings",
-   "refNo": "F9AZS00101- Mc of Inter Stage Bushings and Balancing Bushings",
-   "organisation": "Bharat Heavy Electricals Limited",
-   "orgSlug": "bharat-heavy-electricals-limited",
-   "category": "other",
-   "publishedAt": "2026-07-04T14:30:00+05:30",
-   "closingAt": "2026-07-06T09:00:00+05:30",
-   "openingAt": "2026-07-06T09:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MTM2ODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzI0MzY2MA==A13h1RjlBWlMwMDEwMS0gTWMgb2YgSW50ZXIgU3RhZ2UgQnVzaGluZ3MgYW5kIEJhbGFuY2luZyBCdXNoaW5ncw==A13h1MjAyNl9CSEVMXzYyODU5XzE=",
-   "hasCorrigendum": false
-  },
   {
    "id": "90454849",
    "slug": "90454849",
@@ -318420,6 +318406,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BHEL_64636_1",
+   "slug": "2026-bhel-64636-1",
+   "title": "B9AZS00169/COUNTER CASING",
+   "refNo": "B9AZS00169/COUNTER CASING",
+   "organisation": "Bharat Heavy Electricals Limited",
+   "orgSlug": "bharat-heavy-electricals-limited",
+   "category": "other",
+   "publishedAt": "2026-09-04T10:00:00+05:30",
+   "closingAt": "2026-09-07T14:00:00+05:30",
+   "openingAt": "2026-09-07T16:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDc3MzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQ5NzM5OQ==A13h1QjlBWlMwMDE2OS9DT1VOVEVSIENBU0lORw==A13h1MjAyNl9CSEVMXzY0NjM2XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107149738",
    "slug": "107149738",
    "title": "WELDING PIN",
@@ -322046,6 +322046,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_NFL_289874_1",
+   "slug": "2026-nfl-289874-1",
+   "title": "Contract for purchase of seed treatment chemical (Tebuconazole 2 percent DS w/w) for Seed Processing Unit, Panipat, Haryana and Bathinda, Punjab",
+   "refNo": "NFL/MKTG/CHD/ Seed Treatment /2026/370",
+   "organisation": "National Fertilizers Limited",
+   "orgSlug": "national-fertilizers-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-09-04T10:00:00+05:30",
+   "closingAt": "2026-09-10T15:30:00+05:30",
+   "openingAt": "2026-09-11T16:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDc2MzU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQ5NzM5OQ==A13h1TkZML01LVEcvQ0hELyBTZWVkIFRyZWF0bWVudCAvMjAyNi8zNzA=A13h1MjAyNl9ORkxfMjg5ODc0XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BPCL_26424",
    "slug": "2026-bpcl-26424",
    "title": "CONSTRUCTION OF NRO AT VILLAGE SAINPUR DISTRICT LAKHIMPUR",
@@ -323894,6 +323908,34 @@
    "hasCorrigendum": true
   },
   {
+   "id": "2026_BHEL_64639_1",
+   "slug": "2026-bhel-64639-1",
+   "title": "E5863065 RATE CONTRACT FOR MAIN POLE AND COMPOLE LINER TM4601/4605",
+   "refNo": "E5863065 RATE CONTRACT FOR MAIN POLE AND COMPOLE LINER TM4601/4605",
+   "organisation": "Bharat Heavy Electricals Limited",
+   "orgSlug": "bharat-heavy-electricals-limited",
+   "category": "other",
+   "publishedAt": "2026-09-04T10:00:00+05:30",
+   "closingAt": "2026-09-15T14:00:00+05:30",
+   "openingAt": "2026-09-15T14:15:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDc3MzU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQ5NzM5OQ==A13h1RTU4NjMwNjUgUkFURSBDT05UUkFDVCBGT1IgTUFJTiBQT0xFIEFORCBDT01QT0xFIExJTkVSIFRNNDYwMS80NjA1A13h1MjAyNl9CSEVMXzY0NjM5XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BHEL_64635_1",
+   "slug": "2026-bhel-64635-1",
+   "title": "E5863064 RATE CONTRACT FOR ADOPTER PLATE",
+   "refNo": "E5863064 RATE CONTRACT FOR ADOPTER PLATE",
+   "organisation": "Bharat Heavy Electricals Limited",
+   "orgSlug": "bharat-heavy-electricals-limited",
+   "category": "other",
+   "publishedAt": "2026-09-04T10:00:00+05:30",
+   "closingAt": "2026-09-15T14:00:00+05:30",
+   "openingAt": "2026-09-15T14:15:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDc3MzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQ5NzM5OQ==A13h1RTU4NjMwNjQgUkFURSBDT05UUkFDVCBGT1IgQURPUFRFUiBQTEFURQ==A13h1MjAyNl9CSEVMXzY0NjM1XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2627000115",
    "slug": "2627000115",
    "title": "Design,EPC for the extraction of Critical Metals from Lignite Fly Ash of NLCIL Neyveli",
@@ -324031,6 +324073,20 @@
    "closingAt": "2026-09-15T15:05:00+05:30",
    "openingAt": "2026-09-15T15:35:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTk0ODU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODE1NTQ5Mg==A13h1MTAwMDQ2MzE4Mg==A13h1MjAyNl9CUENMXzI2NDM2",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_CCL_364764_1",
+   "slug": "2026-ccl-364764-1",
+   "title": "AMC for cleaning and Upkeeping of MTK, GVTC, Sales Office, Coal Sampling Office and establishment within its premises under GM Unit, Amrapali-Chandragupta Area, CCL (for 02 years).",
+   "refNo": "GMAC/SOC/Tender/2026-27/18/458",
+   "organisation": "Central Coalfields Limited",
+   "orgSlug": "central-coalfields-limited",
+   "category": "other",
+   "publishedAt": "2026-09-04T10:00:00+05:30",
+   "closingAt": "2026-09-15T16:00:00+05:30",
+   "openingAt": "2026-09-16T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDYxMzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQ5NzM5OQ==A13h1R01BQy9TT0MvVGVuZGVyLzIwMjYtMjcvMTgvNDU4A13h1MjAyNl9DQ0xfMzY0NzY0XzE=",
    "hasCorrigendum": false
   },
   {
@@ -324468,6 +324524,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_CCL_364845_1",
+   "slug": "2026-ccl-364845-1",
+   "title": "(A) Repl. of complete under carriage and rep. of engine guard, both side fender etc. of BD155 Dozer Sl. No. 13604.(B) Rep. both side fender, battery box, reinforcement of blade asy., repl. of its cutting edges etc. of BD355 Dozer Sl. No. 11644.",
+   "refNo": "PE(X)/Excv/e-Tender/26-27/09           dt. 03.09.2026",
+   "organisation": "Central Coalfields Limited",
+   "orgSlug": "central-coalfields-limited",
+   "category": "transport",
+   "publishedAt": "2026-09-04T10:00:00+05:30",
+   "closingAt": "2026-09-16T18:00:00+05:30",
+   "openingAt": "2026-09-17T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDYyNzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQ5NzM5OQ==A13h1UEUoWCkvRXhjdi9lLVRlbmRlci8yNi0yNy8wOSAgICAgICAgICAgZHQuIDAzLjA5LjIwMjY=A13h1MjAyNl9DQ0xfMzY0ODQ1XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BPCL_26512",
    "slug": "2026-bpcl-26512",
    "title": "PERCENTAGE E-TENDER FOR CONSTRUCTION WORKS OF NEW RETAIL OUTLET AT FROM HANUMANTHPURA TO KYATSANDRA-LHS ON NH48 TOWARDS BENGALORE, DISTRICT-TUMKUR",
@@ -324818,6 +324888,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_HWB_924608_1",
+   "slug": "2026-hwb-924608-1",
+   "title": "Annual Maintenance contract for maintenance works of Electrical system of Main plant and SPP plant for the year 2026-27 at Heavy Water Plant, Tuticorin",
+   "refNo": "HWPT/ELEC/MP/AMC ELECTRICAL SYSTEM/2026/204",
+   "organisation": "Heavy Water Board",
+   "orgSlug": "heavy-water-board",
+   "category": "electrical",
+   "publishedAt": "2026-09-04T10:00:00+05:30",
+   "closingAt": "2026-09-17T18:00:00+05:30",
+   "openingAt": "2026-09-21T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ3NTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQ5NzM5OQ==A13h1SFdQVC9FTEVDL01QL0FNQyBFTEVDVFJJQ0FMIFNZU1RFTS8yMDI2LzIwNA==A13h1MjAyNl9IV0JfOTI0NjA4XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BPCL_26508",
    "slug": "2026-bpcl-26508",
    "title": "TENDER FOR APPOINTMENT OF SERVICE PROVIDER FOR CUSTOM CLEARING, WAREHOUSING, RE-BAGGING IN BPCL BRANDED RAFFIA BAGS OF 25 KG CAPACITY & TRANSPORTATION OF POLYMER GRADES.",
@@ -324885,6 +324969,20 @@
    "closingAt": "2026-09-18T11:00:00+05:30",
    "openingAt": "2026-09-18T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMDkyOTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTY5OTc0Mg==A13h1NTYyNjU1NzRBA13h1MTA3MTQyMjQz",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BHEL_64633_1",
+   "slug": "2026-bhel-64633-1",
+   "title": "Fabrication and supply of LINES AND LINKS (Pressure Parts Items) with BHEL Materials (OSB)",
+   "refNo": "2026OSB060",
+   "organisation": "Bharat Heavy Electricals Limited",
+   "orgSlug": "bharat-heavy-electricals-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-09-04T10:00:00+05:30",
+   "closingAt": "2026-09-18T11:00:00+05:30",
+   "openingAt": "2026-09-18T14:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDc3MzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQ5NzM5OQ==A13h1MjAyNk9TQjA2MA==A13h1MjAyNl9CSEVMXzY0NjMzXzE=",
    "hasCorrigendum": false
   },
   {
@@ -325532,6 +325630,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_SECL_364897_1",
+   "slug": "2026-secl-364897-1",
+   "title": "Construction of 15 Nos. sectionalization stoppings for sectionalized old panel near the under construction strata bunker/drift and re-organized proposed belt installation in 4A seam of Jhiria UG Mine.",
+   "refNo": "AGM/HSD /SO(M)/e-Tender/26-27/50  Date 04/09/2026",
+   "organisation": "South Eastern Coalfields Limited",
+   "orgSlug": "south-eastern-coalfields-limited",
+   "category": "construction",
+   "publishedAt": "2026-09-04T10:00:00+05:30",
+   "closingAt": "2026-09-21T17:00:00+05:30",
+   "openingAt": "2026-09-23T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDc3MDA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQ5NzM5OQ==A13h1QUdNL0hTRCAvU08oTSkvZS1UZW5kZXIvMjYtMjcvNTAgIERhdGUgMDQvMDkvMjAyNg==A13h1MjAyNl9TRUNMXzM2NDg5N18x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_785592_1",
    "slug": "2026-mes-785592-1",
    "title": "SPECIAL REPAIR TO ROAD INCL ROAD FURNITURE, INTERLOCKING AND CONNECTED ITEMS UNDER GE GWALIOR",
@@ -325935,6 +326047,20 @@
    "closingAt": "2026-09-24T18:00:00+05:30",
    "openingAt": "2026-10-02T12:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzEzODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzIzMjMwMA==A13h1Q0UgUm5EL0RMSS0yMy9LQU4vMjAyNi0yMDI3A13h1MjAyNl9NRVNfNzg1Mjg4XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_787810_1",
+   "slug": "2026-mes-787810-1",
+   "title": "ADDN/ ALTN TO BLDG NO P-14 AND P-15 AT OFFICERS MESS OF AF STN MOHANARI",
+   "refNo": "8001/842/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "other",
+   "publishedAt": "2026-09-04T10:00:00+05:30",
+   "closingAt": "2026-09-24T18:00:00+05:30",
+   "openingAt": "2026-09-25T18:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDc3MjY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQ5NzM5OQ==A13h1ODAwMS84NDIvRTg=A13h1MjAyNl9NRVNfNzg3ODEwXzE=",
    "hasCorrigendum": false
   },
   {
