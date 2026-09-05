@@ -1,78 +1,8 @@
 {
- "generatedAt": "2026-09-04T20:55:19.244Z",
+ "generatedAt": "2026-09-05T04:44:24.343Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23359,
+ "count": 23364,
  "tenders": [
-  {
-   "id": "2026_ARMY_776564_1",
-   "slug": "2026-army-776564-1",
-   "title": "PROCUREMENT OF HOSPITAL MEDICINE",
-   "refNo": "MSPC/13/LP-75/2026-27",
-   "organisation": "IHQ of MoD (Army)-(OSCC)",
-   "orgSlug": "ihq-of-mod-army-oscc",
-   "category": "medical",
-   "publishedAt": "2026-07-04T15:10:00+05:30",
-   "closingAt": "2026-07-07T09:00:00+05:30",
-   "openingAt": "2026-07-07T09:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MTM3MzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzI0MzYzNA==A13h1TVNQQy8xMy9MUC03NS8yMDI2LTI3A13h1MjAyNl9BUk1ZXzc3NjU2NF8x",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_ARMY_776559_1",
-   "slug": "2026-army-776559-1",
-   "title": "PROCUREMENT OF HOSPITAL MEDICINE",
-   "refNo": "MSPC/13/LP-73/2026-27",
-   "organisation": "IHQ of MoD (Army)-(OSCC)",
-   "orgSlug": "ihq-of-mod-army-oscc",
-   "category": "medical",
-   "publishedAt": "2026-07-04T15:00:00+05:30",
-   "closingAt": "2026-07-07T09:00:00+05:30",
-   "openingAt": "2026-07-07T09:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MTM3MTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzI0MzYzNw==A13h1TVNQQy8xMy9MUC03My8yMDI2LTI3A13h1MjAyNl9BUk1ZXzc3NjU1OV8x",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_ARMY_776561_1",
-   "slug": "2026-army-776561-1",
-   "title": "PROCUREMENT OF HOSPITAL MEDICINE",
-   "refNo": "MSPC/13/LP-74/2026-27",
-   "organisation": "IHQ of MoD (Army)-(OSCC)",
-   "orgSlug": "ihq-of-mod-army-oscc",
-   "category": "medical",
-   "publishedAt": "2026-07-04T15:00:00+05:30",
-   "closingAt": "2026-07-07T09:00:00+05:30",
-   "openingAt": "2026-07-07T09:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MTM3MTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzI0MzYzNA==A13h1TVNQQy8xMy9MUC03NC8yMDI2LTI3A13h1MjAyNl9BUk1ZXzc3NjU2MV8x",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_NTPC_109826_1",
-   "slug": "2026-ntpc-109826-1",
-   "title": "Installation of 02 nos Hand Pump at village Dumri by KDCMP",
-   "refNo": "9900328747",
-   "organisation": "NTPC Limited",
-   "orgSlug": "ntpc-limited",
-   "category": "other",
-   "publishedAt": "2026-07-06T11:00:00+05:30",
-   "closingAt": "2026-07-07T10:00:00+05:30",
-   "openingAt": "2026-07-07T11:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MTY3Mzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzMzNjI0OQ==A13h1OTkwMDMyODc0Nw==A13h1MjAyNl9OVFBDXzEwOTgyNl8x",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_BPCL_25805",
-   "slug": "2026-bpcl-25805",
-   "title": "PEOCUREMENT OF VARIOUS ITEMS CONDUCTING SWACHHATHA PAKAHWADA",
-   "refNo": "1000459331",
-   "organisation": "Bharat Petroleum Corporation Limited",
-   "orgSlug": "bharat-petroleum-corporation-limited",
-   "category": "other",
-   "publishedAt": "2026-07-04T19:10:00+05:30",
-   "closingAt": "2026-07-07T10:05:00+05:30",
-   "openingAt": "2026-07-07T10:10:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MTU2NDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzMxMzI5Mg==A13h1MTAwMDQ1OTMzMQ==A13h1MjAyNl9CUENMXzI1ODA1",
-   "hasCorrigendum": false
-  },
   {
    "id": "160414",
    "slug": "160414",
@@ -323628,6 +323558,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BCCL_364843_1",
+   "slug": "2026-bccl-364843-1",
+   "title": "Renovation of 2 (Two) rooms, portico area and ramp area near Conference Hall for RO water dispensing stations and other miscellaneous civil works for installation of RO Plant at CHD",
+   "refNo": "BCCL/CHD/Civil /2026-27/eNIT-03/1418 dt 03.09.2026",
+   "organisation": "Bharat Coking Coal Limited",
+   "orgSlug": "bharat-coking-coal-limited",
+   "category": "construction",
+   "publishedAt": "2026-09-05T10:00:00+05:30",
+   "closingAt": "2026-09-14T17:00:00+05:30",
+   "openingAt": "2026-09-16T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDc3NDI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODU4MzQ1OQ==A13h1QkNDTC9DSEQvQ2l2aWwgLzIwMjYtMjcvZU5JVC0wMy8xNDE4IGR0IDAzLjA5LjIwMjY=A13h1MjAyNl9CQ0NMXzM2NDg0M18x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BCCL_364913_1",
+   "slug": "2026-bccl-364913-1",
+   "title": "Repairing of 04 nos. printers at GM Secretariat, EnM Office, EnT Office and Regional Store (Receive Section) under Govindpur Area.",
+   "refNo": "BCCL/GA-III/AM (EnM) E-TENDER/2026-27/112\t\t Date- 01.09.2026",
+   "organisation": "Bharat Coking Coal Limited",
+   "orgSlug": "bharat-coking-coal-limited",
+   "category": "other",
+   "publishedAt": "2026-09-05T10:00:00+05:30",
+   "closingAt": "2026-09-14T17:00:00+05:30",
+   "openingAt": "2026-09-16T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDc4MTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODU4MzQ1OQ==A13h1QkNDTC9HQS1JSUkvQU0gKEVuTSkgRS1URU5ERVIvMjAyNi0yNy8xMTIJCSBEYXRlLSAwMS4wOS4yMDI2A13h1MjAyNl9CQ0NMXzM2NDkxM18x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_779722_1",
    "slug": "2026-mes-779722-1",
    "title": "753063A PROVN OF TRANSIT ACCOMMODATION FOR 06 X OFFRS 06 X JCOs AND 20 X OR AT MFA PIPARIYA CARE OF PACHMARI MIL STN",
@@ -324608,6 +324566,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_ECL_364964_1",
+   "slug": "2026-ecl-364964-1",
+   "title": "REPAIR OF COWLING DAMAGED RAILING AND GUARDS OF LnT SHOVEL CK 300 SL NO 790 DEPLOYED AT BARMURI OCP MUGMA AREA",
+   "refNo": "ECL/MA/EXCV/E-TENDER/26-27/12",
+   "organisation": "Eastern Coalfields Limited",
+   "orgSlug": "eastern-coalfields-limited",
+   "category": "construction",
+   "publishedAt": "2026-09-05T10:00:00+05:30",
+   "closingAt": "2026-09-16T17:00:00+05:30",
+   "openingAt": "2026-09-17T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDgxMzU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODU4MzQ1OQ==A13h1RUNML01BL0VYQ1YvRS1URU5ERVIvMjYtMjcvMTI=A13h1MjAyNl9FQ0xfMzY0OTY0XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_784030_1",
    "slug": "2026-mes-784030-1",
    "title": "SPL REPAIRS TO OR ACCN BLDG NO. P-120, P-121 AND P-125 AT MASIMPUR MIL STN UNDER GE SILCHAR",
@@ -325462,6 +325434,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_CCL_364945_1",
+   "slug": "2026-ccl-364945-1",
+   "title": "Rep. of 02 nos. steering cyl., 02 nos. hoist/extension cyl. etc. and fabrication work of optr. cabin, structural members etc. in ACE Crane 12XW Sl. No. 6131223526. Rep of 02 nos. steering cyl, 02 nos. hoist cyl. etc. in Shakti Crane Sl. No. 1588.",
+   "refNo": "PE(X)/Excv/e-Tender/26-27/10       Dtd. 04.09.2026",
+   "organisation": "Central Coalfields Limited",
+   "orgSlug": "central-coalfields-limited",
+   "category": "other",
+   "publishedAt": "2026-09-05T10:00:00+05:30",
+   "closingAt": "2026-09-18T18:00:00+05:30",
+   "openingAt": "2026-09-19T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDc5MzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODU4MzQ1OQ==A13h1UEUoWCkvRXhjdi9lLVRlbmRlci8yNi0yNy8xMCAgICAgICBEdGQuIDA0LjA5LjIwMjY=A13h1MjAyNl9DQ0xfMzY0OTQ1XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NAVY_787885_1",
    "slug": "2026-navy-787885-1",
    "title": "MO(V)/CPRO/N1/26VBLC008 FOR PROCUREMENT OF SDR NC SINGLE SYSTEM",
@@ -325532,6 +325518,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_SECL_364829_1",
+   "slug": "2026-secl-364829-1",
+   "title": "Supply, Installation and commissioning of 02 Nos 6.6kV Neutral Grounding Resistor and 02 Nos 3.3kV Neutral Grounding Resistor along with routine test of Transformer at 33/6.6/3.3kV Main Substation under Power Supply of Gevra Project",
+   "refNo": "SECL/GA/SO ENM/26-27/E-TENDER/61  dt. 03/09/2026",
+   "organisation": "South Eastern Coalfields Limited",
+   "orgSlug": "south-eastern-coalfields-limited",
+   "category": "electrical",
+   "publishedAt": "2026-09-05T10:00:00+05:30",
+   "closingAt": "2026-09-19T17:00:00+05:30",
+   "openingAt": "2026-09-21T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDc5MjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODU4MzQ1OQ==A13h1U0VDTC9HQS9TTyBFTk0vMjYtMjcvRS1URU5ERVIvNjEgIGR0LiAwMy8wOS8yMDI2A13h1MjAyNl9TRUNMXzM2NDgyOV8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_SECL_364827_1",
+   "slug": "2026-secl-364827-1",
+   "title": "Supply, Installation, and commissioning of 03 Nos 6.6 kV Neutral Grounding Resistor along with routine test of Transformer at 33/6.6/3.3kV Main Substation and Dipka unit Substation under Power Supply of Gevra Project.",
+   "refNo": "SECL/GA/SO ENM/26-27/E-TENDER/59  dt. 03/09/2026",
+   "organisation": "South Eastern Coalfields Limited",
+   "orgSlug": "south-eastern-coalfields-limited",
+   "category": "electrical",
+   "publishedAt": "2026-09-05T10:00:00+05:30",
+   "closingAt": "2026-09-19T17:00:00+05:30",
+   "openingAt": "2026-09-21T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDc5MDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODU4MzQ1OQ==A13h1U0VDTC9HQS9TTyBFTk0vMjYtMjcvRS1URU5ERVIvNTkgIGR0LiAwMy8wOS8yMDI2A13h1MjAyNl9TRUNMXzM2NDgyN18x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_786901_1",
    "slug": "2026-mes-786901-1",
    "title": "REPAIR AND POLISHING OF WOODEN FURNITURE AT AF STN JAISALMER",
@@ -325557,6 +325571,34 @@
    "closingAt": "2026-09-19T18:00:00+05:30",
    "openingAt": "2026-09-26T18:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTc0NzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Nzk4NzY2MA==A13h1ODMyMi9BL0U4A13h1MjAyNl9NRVNfNzg2ODk5XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_ASI_924950_1",
+   "slug": "2026-asi-924950-1",
+   "title": "MC and EW (Development and Repair of Buildings) Guwahati Circle Office at Guwahati (2026-27) as specified in the BOQ .",
+   "refNo": "2/90-W/2026-27-I/24762/2026",
+   "organisation": "Archaeological Survey of India",
+   "orgSlug": "archaeological-survey-of-india",
+   "category": "construction",
+   "publishedAt": "2026-09-05T10:00:00+05:30",
+   "closingAt": "2026-09-19T18:00:00+05:30",
+   "openingAt": "2026-09-21T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDgwNjA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODU4MzQ1OQ==A13h1Mi85MC1XLzIwMjYtMjctSS8yNDc2Mi8yMDI2A13h1MjAyNl9BU0lfOTI0OTUwXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_ASI_924957_1",
+   "slug": "2026-asi-924957-1",
+   "title": "MC and EW (Development and Repair of Buildings) Construction of Publication Counter and Public Amenities at Archeological Museum Complex at Sri Suryapahar, Goalpara (2026-27) as specified in the BOQ .",
+   "refNo": "2/239-W/2026-27-I/24761",
+   "organisation": "Archaeological Survey of India",
+   "orgSlug": "archaeological-survey-of-india",
+   "category": "construction",
+   "publishedAt": "2026-09-05T10:00:00+05:30",
+   "closingAt": "2026-09-19T18:00:00+05:30",
+   "openingAt": "2026-09-21T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDgwNjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODU4MzQ1OQ==A13h1Mi8yMzktVy8yMDI2LTI3LUkvMjQ3NjE=A13h1MjAyNl9BU0lfOTI0OTU3XzE=",
    "hasCorrigendum": false
   },
   {
@@ -326439,6 +326481,34 @@
    "closingAt": "2026-09-25T16:30:00+05:30",
    "openingAt": "2026-09-25T16:31:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk0MTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODU1NTMxNA==A13h1MTAwMDQ2MzIyNA==A13h1MjAyNl9CUENMXzI2NTAy",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_NPCIL_288955_1",
+   "slug": "2026-npcil-288955-1",
+   "title": "Handling, lifting, unloading of four numbers of steam generators and accessories from trailer using heavy duty cranes in tandem operation and providing associated services, tools and tackles at Kaiga 5 and 6 site.",
+   "refNo": "CPPP/2026/127",
+   "organisation": "Nuclear Power Corporation Of India Limited",
+   "orgSlug": "nuclear-power-corporation-of-india-limited",
+   "category": "other",
+   "publishedAt": "2026-09-05T10:00:00+05:30",
+   "closingAt": "2026-09-25T17:00:00+05:30",
+   "openingAt": "2026-09-28T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDc4NjE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODU4MzQ1OQ==A13h1Q1BQUC8yMDI2LzEyNw==A13h1MjAyNl9OUENJTF8yODg5NTVfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BSNL_289922_1",
+   "slug": "2026-bsnl-289922-1",
+   "title": "OFC CONSTRUCTION WORK",
+   "refNo": "CNTSEK-21/12/6/2024-ADMN -TECH CNTX-S-ENK/90(1) Dated at ENK the 01-08-2026",
+   "organisation": "Bharat Sanchar Nigam Limited (Govt of India Enterprise)",
+   "orgSlug": "bharat-sanchar-nigam-limited-govt-of-india-enterprise",
+   "category": "construction",
+   "publishedAt": "2026-09-05T10:00:00+05:30",
+   "closingAt": "2026-09-26T14:00:00+05:30",
+   "openingAt": "2026-09-28T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDgwMzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODU4MzQ1OQ==A13h1Q05UU0VLLTIxLzEyLzYvMjAyNC1BRE1OIC1URUNIIENOVFgtUy1FTksvOTAoMSkgRGF0ZWQgYXQgRU5LIHRoZSAwMS0wOC0yMDI2A13h1MjAyNl9CU05MXzI4OTkyMl8x",
    "hasCorrigendum": false
   },
   {
