@@ -1,50 +1,8 @@
 {
- "generatedAt": "2026-09-05T10:49:27.143Z",
+ "generatedAt": "2026-09-05T15:24:16.695Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23356,
+ "count": 23363,
  "tenders": [
-  {
-   "id": "160455",
-   "slug": "160455",
-   "title": "13(2)/EE/BFD-V/CPWD/TURA/2026-27/208",
-   "refNo": "13(2)/EE/BFD-V/CPWD/TURA/2026-27/208",
-   "organisation": "Central Public Works Department (CPWD)",
-   "orgSlug": "central-public-works-department-cpwd",
-   "category": "other",
-   "publishedAt": "2026-07-04T16:31:00+05:30",
-   "closingAt": "2026-07-07T17:00:00+05:30",
-   "openingAt": "2026-07-07T17:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MTM3OTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzI4MTAwNg==A13h1MTMoMikvRUUvQkZELVYvQ1BXRC9UVVJBLzIwMjYtMjcvMjA4A13h1MTYwNDU1",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_MCL_361670_1",
-   "slug": "2026-mcl-361670-1",
-   "title": "Development of approach road and adjacent walls from Jagannath dispensary chhak to Kalyan mandap main gate under Jagannath Area",
-   "refNo": "MCL/GM(JA)/SO(C)/e- Tender/26-27/26, Dtd-04/07/26",
-   "organisation": "Mahanadi Coalfields Limited",
-   "orgSlug": "mahanadi-coalfields-limited",
-   "category": "construction",
-   "publishedAt": "2026-07-04T16:00:00+05:30",
-   "closingAt": "2026-07-07T17:00:00+05:30",
-   "openingAt": "2026-07-08T10:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MTM2NzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzI0MzYxOA==A13h1TUNML0dNKEpBKS9TTyhDKS9lLSBUZW5kZXIvMjYtMjcvMjYsIER0ZC0wNC8wNy8yNg==A13h1MjAyNl9NQ0xfMzYxNjcwXzE=",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_TCIL_282973_1",
-   "slug": "2026-tcil-282973-1",
-   "title": "Selection of Backend Implementation Partner for Selection of Agency for Supply, Installation and Commissioning of Computer Cum Language Lab for PM SHRI Schools",
-   "refNo": "TCIL/DT/2026-27/PMSHRI",
-   "organisation": "Telecommunications Consultants India Limited",
-   "orgSlug": "telecommunications-consultants-india-limited",
-   "category": "it-software",
-   "publishedAt": "2026-07-03T18:50:00+05:30",
-   "closingAt": "2026-07-07T18:00:00+05:30",
-   "openingAt": "2026-07-07T18:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MTMyNDE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzE1NTk2NA==A13h1VENJTC9EVC8yMDI2LTI3L1BNU0hSSQ==A13h1MjAyNl9UQ0lMXzI4Mjk3M18x",
-   "hasCorrigendum": false
-  },
   {
    "id": "2026_BHEL_62876_1",
    "slug": "2026-bhel-62876-1",
@@ -320282,6 +320240,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "168125",
+   "slug": "168125",
+   "title": "54(1)/LESD-I/2026-27/240 Dated: 05-09-2026",
+   "refNo": "54(1)/LESD-I/2026-27/240 Dated: 05-09-2026",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-05T20:36:00+05:30",
+   "closingAt": "2026-09-09T15:00:00+05:30",
+   "openingAt": "2026-09-09T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTExMDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYyMTg1Mg==A13h1NTQoMSkvTEVTRC1JLzIwMjYtMjcvMjQwIERhdGVkOiAwNS0wOS0yMDI2A13h1MTY4MTI1",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BARC_921151_1",
    "slug": "2026-barc-921151-1",
    "title": "Removal of existing DG set and Supply, installation, testing and commissioning of 160 kVA DG Sets along with AMF panel at RG facility",
@@ -321528,6 +321500,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "168123",
+   "slug": "168123",
+   "title": "10(6)/LESD-II/2026-27 dated 05-09-2026",
+   "refNo": "10(6)/LESD-II/2026-27 dated 05-09-2026",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-05T19:06:00+05:30",
+   "closingAt": "2026-09-10T15:00:00+05:30",
+   "openingAt": "2026-09-10T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTEwOTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYyMTg1Mg==A13h1MTAoNikvTEVTRC1JSS8yMDI2LTI3IGRhdGVkIDA1LTA5LTIwMjY=A13h1MTY4MTIz",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NFL_289874_1",
    "slug": "2026-nfl-289874-1",
    "title": "Contract for purchase of seed treatment chemical (Tebuconazole 2 percent DS w/w) for Seed Processing Unit, Panipat, Haryana and Bathinda, Punjab",
@@ -322130,6 +322116,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_EIL_924503_1",
+   "slug": "2026-eil-924503-1",
+   "title": "MKK/B903-000-QY-MR-9380/31",
+   "refNo": "MKK/B903-000-QY-MR-9380/31",
+   "organisation": "Engineers India Limited,MoPNG",
+   "orgSlug": "engineers-india-limited-mopng",
+   "category": "other",
+   "publishedAt": "2026-09-05T18:55:00+05:30",
+   "closingAt": "2026-09-11T12:00:00+05:30",
+   "openingAt": "2026-09-14T14:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk4ODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYyMTg1Mg==A13h1TUtLL0I5MDMtMDAwLVFZLU1SLTkzODAvMzE=A13h1MjAyNl9FSUxfOTI0NTAzXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BPCL_26520",
    "slug": "2026-bpcl-26520",
    "title": "SUPPLY OF SMALL BORE FLANGES FOR MR TA 2026",
@@ -322435,6 +322435,20 @@
    "closingAt": "2026-09-11T17:00:00+05:30",
    "openingAt": "2026-09-11T17:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDgxMTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUyMTM5OA==A13h1MDgvQUUoRSktSS9FRVNNKEUpLzIwMjYtMjcgKFJlY2FsbCk=A13h1MTY4MDUx",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MCL_365016_1",
+   "slug": "2026-mcl-365016-1",
+   "title": "Repairing of Durga /Cultural Mandap at Deulbera colony of LOCP Under Lingaraj Area",
+   "refNo": "MCL/GM(LA)/e-Tender/ SO(C)/26-27/047 dt.05.09.2026",
+   "organisation": "Mahanadi Coalfields Limited",
+   "orgSlug": "mahanadi-coalfields-limited",
+   "category": "other",
+   "publishedAt": "2026-09-05T18:55:00+05:30",
+   "closingAt": "2026-09-11T17:00:00+05:30",
+   "openingAt": "2026-09-12T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTEwODM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYyMTg1Mg==A13h1TUNML0dNKExBKS9lLVRlbmRlci8gU08oQykvMjYtMjcvMDQ3IGR0LjA1LjA5LjIwMjY=A13h1MjAyNl9NQ0xfMzY1MDE2XzE=",
    "hasCorrigendum": false
   },
   {
@@ -323205,6 +323219,20 @@
    "closingAt": "2026-09-14T15:00:00+05:30",
    "openingAt": "2026-09-14T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk4Mzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYwNTM2Mg==A13h1ODYvRUVFL1NoQ0VEL0NQV0QvMjAyNi0yNw==A13h1MTY4MTAx",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "168124",
+   "slug": "168124",
+   "title": "64/EE(E)/GNR-I/2026-27",
+   "refNo": "64/EE(E)/GNR-I/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-09-05T19:16:00+05:30",
+   "closingAt": "2026-09-14T15:00:00+05:30",
+   "openingAt": "2026-09-14T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTExMDA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYyMTg1Mg==A13h1NjQvRUUoRSkvR05SLUkvMjAyNi0yNw==A13h1MTY4MTI0",
    "hasCorrigendum": false
   },
   {
@@ -324370,6 +324398,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_WCL_365014_1",
+   "slug": "2026-wcl-365014-1",
+   "title": "DGPS Survey of the Proposed Deep Side Expansion Boundary at Neeljay OCM, Wani Area.",
+   "refNo": "WCL wa4350-civ-e027-2026-27/622",
+   "organisation": "Western Coalfields Limited",
+   "orgSlug": "western-coalfields-limited",
+   "category": "consultancy",
+   "publishedAt": "2026-09-05T18:55:00+05:30",
+   "closingAt": "2026-09-16T17:00:00+05:30",
+   "openingAt": "2026-09-17T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTEwODI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYyMTg1Mg==A13h1V0NMIHdhNDM1MC1jaXYtZTAyNy0yMDI2LTI3LzYyMg==A13h1MjAyNl9XQ0xfMzY1MDE0XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_784030_1",
    "slug": "2026-mes-784030-1",
    "title": "SPL REPAIRS TO OR ACCN BLDG NO. P-120, P-121 AND P-125 AT MASIMPUR MIL STN UNDER GE SILCHAR",
@@ -325263,6 +325305,20 @@
    "closingAt": "2026-09-18T18:00:00+05:30",
    "openingAt": "2026-09-19T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDc5MzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODU4MzQ1OQ==A13h1UEUoWCkvRXhjdi9lLVRlbmRlci8yNi0yNy8xMCAgICAgICBEdGQuIDA0LjA5LjIwMjY=A13h1MjAyNl9DQ0xfMzY0OTQ1XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_NCL_364986_1",
+   "slug": "2026-ncl-364986-1",
+   "title": "Repair and Maintenance of Vehicle Nos. TA3558 and KA01AD9782 Mobile Service Vans Deployed in Hydraulic Shovels Section, Khadia Project.",
+   "refNo": "KHD/G.M. (Excv)/E-Tender/26-27/471",
+   "organisation": "Northern Coalfields Limited",
+   "orgSlug": "northern-coalfields-limited",
+   "category": "construction",
+   "publishedAt": "2026-09-05T18:55:00+05:30",
+   "closingAt": "2026-09-19T11:00:00+05:30",
+   "openingAt": "2026-09-21T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk2MDI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYyMTg1Mg==A13h1S0hEL0cuTS4gKEV4Y3YpL0UtVGVuZGVyLzI2LTI3LzQ3MQ==A13h1MjAyNl9OQ0xfMzY0OTg2XzE=",
    "hasCorrigendum": false
   },
   {
@@ -326526,6 +326582,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_CSL_289985_1",
+   "slug": "2026-csl-289985-1",
+   "title": "Design, Fabrication and Supply of Hose Adaptors and hose clamps for Gas/Compressed Air Supply",
+   "refNo": "UandM/SER/QTN/1125/26-27",
+   "organisation": "Cochin Shipyard Limited",
+   "orgSlug": "cochin-shipyard-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-09-05T18:55:00+05:30",
+   "closingAt": "2026-09-28T14:00:00+05:30",
+   "openingAt": "2026-09-29T14:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk3OTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYyMTg1Mg==A13h1VWFuZE0vU0VSL1FUTi8xMTI1LzI2LTI3A13h1MjAyNl9DU0xfMjg5OTg1XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_AIMSD_919725_1",
    "slug": "2026-aimsd-919725-1",
    "title": "Tender for setting up of Hybrid OT consisting of Robotic DSA, Intra-Operative Imaging with Navigation System and other equipment at JPNATC, AIIMS, New Delhi",
@@ -326789,6 +326859,34 @@
    "closingAt": "2026-10-05T11:00:00+05:30",
    "openingAt": "2026-10-06T11:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ2ODI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0ODU5NQ==A13h1T1JESVYtMjAwMTgvODkvMjAyNi1QSVUgRGhlbmthbmFsL0UtMzIxNjk4A13h1MjAyNl9OSEFJXzI4OTY3MV8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MIL_289952_1",
+   "slug": "2026-mil-289952-1",
+   "title": "Renovation/repair to gents and ladies change/rest room, toilets of U- 01, 02, 03, 04, 06 and 17 inside factory.",
+   "refNo": "3012/OFBL/RD2619/TE-20-2026-27",
+   "organisation": "Munitions India Limited",
+   "orgSlug": "munitions-india-limited",
+   "category": "construction",
+   "publishedAt": "2026-09-05T18:55:00+05:30",
+   "closingAt": "2026-10-05T14:00:00+05:30",
+   "openingAt": "2026-10-08T14:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk4NjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYyMTg1Mg==A13h1MzAxMi9PRkJML1JEMjYxOS9URS0yMC0yMDI2LTI3A13h1MjAyNl9NSUxfMjg5OTUyXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MIL_289951_1",
+   "slug": "2026-mil-289951-1",
+   "title": "Renovation/repair to gents and ladies change/rest room, toilets of U- 05,10 and 4 storage shed inside factory.",
+   "refNo": "3012/OFBL/RD2620/TE-21-2026-27",
+   "organisation": "Munitions India Limited",
+   "orgSlug": "munitions-india-limited",
+   "category": "construction",
+   "publishedAt": "2026-09-05T18:55:00+05:30",
+   "closingAt": "2026-10-05T14:00:00+05:30",
+   "openingAt": "2026-10-08T14:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk4NjY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYyMTg1Mg==A13h1MzAxMi9PRkJML1JEMjYyMC9URS0yMS0yMDI2LTI3A13h1MjAyNl9NSUxfMjg5OTUxXzE=",
    "hasCorrigendum": false
   },
   {
