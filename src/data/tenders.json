@@ -1,22 +1,8 @@
 {
- "generatedAt": "2026-09-06T11:10:46.286Z",
+ "generatedAt": "2026-09-06T15:40:46.380Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23339,
+ "count": 23348,
  "tenders": [
-  {
-   "id": "2026_BCCL_361610_1",
-   "slug": "2026-bccl-361610-1",
-   "title": "Urgent of dumri jorea to prevent water recirculation to C2 patch pumping and diversion of 11KV O/H line at ABNS Colliery.",
-   "refNo": "BCCL/EJA/EnM/2026-27/47",
-   "organisation": "Bharat Coking Coal Limited",
-   "orgSlug": "bharat-coking-coal-limited",
-   "category": "other",
-   "publishedAt": "2026-07-03T18:00:00+05:30",
-   "closingAt": "2026-07-08T18:00:00+05:30",
-   "openingAt": "2026-07-09T18:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MDkxMTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzEzOTA3NQ==A13h1QkNDTC9FSkEvRW5NLzIwMjYtMjcvNDc=A13h1MjAyNl9CQ0NMXzM2MTYxMF8x",
-   "hasCorrigendum": false
-  },
   {
    "id": "2026_BPCL_25811",
    "slug": "2026-bpcl-25811",
@@ -323866,6 +323852,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "107176569",
+   "slug": "107176569",
+   "title": "Wiper Relay",
+   "refNo": "03263689",
+   "organisation": "Ministry of Railways",
+   "orgSlug": "ministry-of-railways",
+   "category": "other",
+   "publishedAt": "2026-09-05T23:46:00+05:30",
+   "closingAt": "2026-09-16T10:30:00+05:30",
+   "openingAt": "2026-09-16T10:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTE4NTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcwOTE1MQ==A13h1MDMyNjM2ODk=A13h1MTA3MTc2NTY5",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_DAREA_920526_1",
    "slug": "2026-darea-920526-1",
    "title": "Procurement of Design and Build containment facility for grapes CPC 1 Pune",
@@ -325574,6 +325574,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "107176565",
+   "slug": "107176565",
+   "title": "Tertiary pin arrangement",
+   "refNo": "03263714",
+   "organisation": "Ministry of Railways",
+   "orgSlug": "ministry-of-railways",
+   "category": "other",
+   "publishedAt": "2026-09-05T23:25:00+05:30",
+   "closingAt": "2026-09-22T10:30:00+05:30",
+   "openingAt": "2026-09-22T10:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTE4NTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcwOTE1MQ==A13h1MDMyNjM3MTQ=A13h1MTA3MTc2NTY1",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107142252",
    "slug": "107142252",
    "title": "STEP ARRANGEMENT FOR WAP-5 LOCOMOTIVE AS PER ABB DRG. NO. IA011-00321",
@@ -325627,6 +325641,20 @@
    "closingAt": "2026-09-22T14:00:00+05:30",
    "openingAt": "2026-09-23T14:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMTU4MTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTk4ODE0MA==A13h1U1NQTC9NTUcvRFBQL0VPSS8yNi0yNy8wMDM=A13h1MjAyNl9EUkRPXzc4MjgxN18x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "107176560",
+   "slug": "107176560",
+   "title": "Ethernet Switch to EMD Pt.No.40192722",
+   "refNo": "68265038B",
+   "organisation": "Ministry of Railways",
+   "orgSlug": "ministry-of-railways",
+   "category": "other",
+   "publishedAt": "2026-09-05T23:06:00+05:30",
+   "closingAt": "2026-09-22T14:30:00+05:30",
+   "openingAt": "2026-09-22T14:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTE4NDU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcwOTE1MQ==A13h1NjgyNjUwMzhCA13h1MTA3MTc2NTYw",
    "hasCorrigendum": false
   },
   {
@@ -326036,6 +326064,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "107176567",
+   "slug": "107176567",
+   "title": "MS SQUARE TUBE",
+   "refNo": "52266364",
+   "organisation": "Ministry of Railways",
+   "orgSlug": "ministry-of-railways",
+   "category": "other",
+   "publishedAt": "2026-09-05T23:36:00+05:30",
+   "closingAt": "2026-09-25T14:30:00+05:30",
+   "openingAt": "2026-09-25T14:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTE4NTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcwOTE1MQ==A13h1NTIyNjYzNjQ=A13h1MTA3MTc2NTY3",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_RRCAT_924481_1",
    "slug": "2026-rrcat-924481-1",
    "title": "Design, fabrication, supply, installation, testing and commissioning of HVAC system for RF Lab at RRCAT, Indore",
@@ -326260,6 +326302,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "107176561",
+   "slug": "107176561",
+   "title": "SPRING PAD PRIMARY TO DLW DRG NO. 11276435",
+   "refNo": "68265716",
+   "organisation": "Ministry of Railways",
+   "orgSlug": "ministry-of-railways",
+   "category": "other",
+   "publishedAt": "2026-09-05T23:10:00+05:30",
+   "closingAt": "2026-09-28T14:30:00+05:30",
+   "openingAt": "2026-09-28T14:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTE4NDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcwOTE1MQ==A13h1NjgyNjU3MTY=A13h1MTA3MTc2NTYx",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_AIMSD_919725_1",
    "slug": "2026-aimsd-919725-1",
    "title": "Tender for setting up of Hybrid OT consisting of Robotic DSA, Intra-Operative Imaging with Navigation System and other equipment at JPNATC, AIIMS, New Delhi",
@@ -326372,6 +326428,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "107176564",
+   "slug": "107176564",
+   "title": "Radiator fan assembly",
+   "refNo": "68265690",
+   "organisation": "Ministry of Railways",
+   "orgSlug": "ministry-of-railways",
+   "category": "other",
+   "publishedAt": "2026-09-05T23:21:00+05:30",
+   "closingAt": "2026-09-29T14:30:00+05:30",
+   "openingAt": "2026-09-29T14:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTE4NDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcwOTE1MQ==A13h1NjgyNjU2OTA=A13h1MTA3MTc2NTY0",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "107176562",
+   "slug": "107176562",
+   "title": "CYLINDER. Brake - 8 x 8 to EMD Part No. 40080262",
+   "refNo": "68265713",
+   "organisation": "Ministry of Railways",
+   "orgSlug": "ministry-of-railways",
+   "category": "other",
+   "publishedAt": "2026-09-05T23:12:00+05:30",
+   "closingAt": "2026-09-29T14:30:00+05:30",
+   "openingAt": "2026-09-29T14:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTE4NDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcwOTE1MQ==A13h1NjgyNjU3MTM=A13h1MTA3MTc2NTYy",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NHAI_287467_1",
    "slug": "2026-nhai-287467-1",
    "title": "Rehabilitation and Upgradation of exist 2L to 4L of NH146 from Km 0.000 Km 158.600 near Berkheri vill to Km 23.423 Km 181.800 near Lehdara vill in the State of Madhya Pradesh on EPC Mode TL 23.423 km",
@@ -326397,6 +326481,34 @@
    "closingAt": "2026-09-30T14:00:00+05:30",
    "openingAt": "2026-09-30T14:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MTM2ODI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzMxMzMzOQ==A13h1RVhQUkVTU0lPTiBPRiBJTlRFUkVTVCAoRU9JKSBGUk9NIEFHR1JFR0FUT1IgQUdFTkNJRVMgRk9SIFNVUFBMWSBPRiBQUkVTU01VRA==A13h1MjAyNl9FSUxfOTE1OTM4XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "107176568",
+   "slug": "107176568",
+   "title": "FIBA TEST BENCH",
+   "refNo": "52255976B",
+   "organisation": "Ministry of Railways",
+   "orgSlug": "ministry-of-railways",
+   "category": "other",
+   "publishedAt": "2026-09-05T23:39:00+05:30",
+   "closingAt": "2026-09-30T14:30:00+05:30",
+   "openingAt": "2026-09-30T14:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTE4NTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcwOTE1MQ==A13h1NTIyNTU5NzZCA13h1MTA3MTc2NTY4",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "107176563",
+   "slug": "107176563",
+   "title": "INERTIAL FILTER ASSEMBLY FOR HHP LOCO",
+   "refNo": "68265705",
+   "organisation": "Ministry of Railways",
+   "orgSlug": "ministry-of-railways",
+   "category": "other",
+   "publishedAt": "2026-09-05T23:15:00+05:30",
+   "closingAt": "2026-09-30T14:30:00+05:30",
+   "openingAt": "2026-09-30T14:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTE4NDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcwOTE1MQ==A13h1NjgyNjU3MDU=A13h1MTA3MTc2NTYz",
    "hasCorrigendum": false
   },
   {
@@ -326523,6 +326635,20 @@
    "closingAt": "2026-10-05T11:00:00+05:30",
    "openingAt": "2026-10-06T11:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ2ODI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0ODU5NQ==A13h1T1JESVYtMjAwMTgvODkvMjAyNi1QSVUgRGhlbmthbmFsL0UtMzIxNjk4A13h1MjAyNl9OSEFJXzI4OTY3MV8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "107176566",
+   "slug": "107176566",
+   "title": "Procurement of Draw Gear Pin etc.",
+   "refNo": "11261172",
+   "organisation": "Ministry of Railways",
+   "orgSlug": "ministry-of-railways",
+   "category": "goods-supply",
+   "publishedAt": "2026-09-05T23:32:00+05:30",
+   "closingAt": "2026-10-05T13:30:00+05:30",
+   "openingAt": "2026-10-05T13:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTE4NTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcwOTE1MQ==A13h1MTEyNjExNzI=A13h1MTA3MTc2NTY2",
    "hasCorrigendum": false
   },
   {
