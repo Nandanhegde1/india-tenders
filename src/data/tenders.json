@@ -1,50 +1,8 @@
 {
- "generatedAt": "2026-09-06T20:35:52.844Z",
+ "generatedAt": "2026-09-07T04:59:57.644Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23346,
+ "count": 23353,
  "tenders": [
-  {
-   "id": "2026_ARMY_776373_1",
-   "slug": "2026-army-776373-1",
-   "title": "81203/OBM MARINER/ENGR/0109",
-   "refNo": "81203/OBM MARINER /ENGR/0109",
-   "organisation": "IHQ of MoD (Army)-(OSCC)",
-   "orgSlug": "ihq-of-mod-army-oscc",
-   "category": "other",
-   "publishedAt": "2026-07-03T18:05:00+05:30",
-   "closingAt": "2026-07-09T09:00:00+05:30",
-   "openingAt": "2026-07-09T09:05:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MTAxMzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzEzOTA3MQ==A13h1ODEyMDMvT0JNIE1BUklORVIgL0VOR1IvMDEwOQ==A13h1MjAyNl9BUk1ZXzc3NjM3M18x",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_IIAP_915856_1",
-   "slug": "2026-iiap-915856-1",
-   "title": "Construction of foundation for flag post at Koramangala campus, Bengaluru.",
-   "refNo": "LT/IIA/CIVIL/FLAG POST/02/2025-26 Dated 03.07.2026",
-   "organisation": "Indian Institute of Astrophysics",
-   "orgSlug": "indian-institute-of-astrophysics",
-   "category": "construction",
-   "publishedAt": "2026-07-03T18:55:00+05:30",
-   "closingAt": "2026-07-09T09:00:00+05:30",
-   "openingAt": "2026-07-10T09:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MTMyNjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzE1NTk0MA==A13h1TFQvSUlBL0NJVklML0ZMQUcgUE9TVC8wMi8yMDI1LTI2IERhdGVkIDAzLjA3LjIwMjY=A13h1MjAyNl9JSUFQXzkxNTg1Nl8x",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_BHEL_62925_1",
-   "slug": "2026-bhel-62925-1",
-   "title": "F9AZS00103-MC OF LOWER SHAFT 144 RND",
-   "refNo": "F9AZS00103-MC OF LOWER SHAFT 144 RND",
-   "organisation": "Bharat Heavy Electricals Limited",
-   "orgSlug": "bharat-heavy-electricals-limited",
-   "category": "other",
-   "publishedAt": "2026-07-07T10:10:00+05:30",
-   "closingAt": "2026-07-09T10:00:00+05:30",
-   "openingAt": "2026-07-09T11:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MTgxMjc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzQxODgxNQ==A13h1RjlBWlMwMDEwMy1NQyBPRiBMT1dFUiBTSEFGVCAxNDQgUk5EA13h1MjAyNl9CSEVMXzYyOTI1XzE=",
-   "hasCorrigendum": false
-  },
   {
    "id": "90457729",
    "slug": "90457729",
@@ -324118,6 +324076,48 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_ECL_364952_1",
+   "slug": "2026-ecl-364952-1",
+   "title": "Haulage road cleaning in RVIIA seam at Chora Block Incline Colliery under Kenda Area ECL",
+   "refNo": "ECL/Knd/Sur/e-Ten/26-27/16 date 04.09.2026",
+   "organisation": "Eastern Coalfields Limited",
+   "orgSlug": "eastern-coalfields-limited",
+   "category": "construction",
+   "publishedAt": "2026-09-07T10:00:00+05:30",
+   "closingAt": "2026-09-17T10:00:00+05:30",
+   "openingAt": "2026-09-18T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDgwMDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODc1NzE5Mg==A13h1RUNML0tuZC9TdXIvZS1UZW4vMjYtMjcvMTYgZGF0ZSAwNC4wOS4yMDI2A13h1MjAyNl9FQ0xfMzY0OTUyXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_ECL_364953_1",
+   "slug": "2026-ecl-364953-1",
+   "title": "Construction of 1 no of additional isolation stopping for panel-37 at no 7 pit working in Dobrana RV seam of Lower Kenda Colliery under Kenda Area ECL",
+   "refNo": "ECL/Knd/Sur/e-Ten/26-27/17 date 04.09.2026",
+   "organisation": "Eastern Coalfields Limited",
+   "orgSlug": "eastern-coalfields-limited",
+   "category": "construction",
+   "publishedAt": "2026-09-07T10:00:00+05:30",
+   "closingAt": "2026-09-17T10:00:00+05:30",
+   "openingAt": "2026-09-18T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDc5OTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODc1NzE5Mg==A13h1RUNML0tuZC9TdXIvZS1UZW4vMjYtMjcvMTcgZGF0ZSAwNC4wOS4yMDI2A13h1MjAyNl9FQ0xfMzY0OTUzXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_ECL_364950_1",
+   "slug": "2026-ecl-364950-1",
+   "title": "Reorganization of Bypass Gallery of Pit No 3 NJ Unit, Bahula Colliery under Kenda Area ECL",
+   "refNo": "ECL/Knd/Sur/e-Ten/26-27/15 date 04.09.2026",
+   "organisation": "Eastern Coalfields Limited",
+   "orgSlug": "eastern-coalfields-limited",
+   "category": "other",
+   "publishedAt": "2026-09-07T10:00:00+05:30",
+   "closingAt": "2026-09-17T10:00:00+05:30",
+   "openingAt": "2026-09-18T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDgwMDA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODc1NzE5Mg==A13h1RUNML0tuZC9TdXIvZS1UZW4vMjYtMjcvMTUgZGF0ZSAwNC4wOS4yMDI2A13h1MjAyNl9FQ0xfMzY0OTUwXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107149742",
    "slug": "107149742",
    "title": "SET OF HIGH PRESSURE RUBBER HOSE",
@@ -324524,6 +324524,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_ARMY_787957_1",
+   "slug": "2026-army-787957-1",
+   "title": "Construction of Grazier Cum trekking Hut at Pakte Longpuk",
+   "refNo": "A/SAD/56ID/22IB/06/2026-27",
+   "organisation": "IHQ of MoD (Army)-(OSCC)",
+   "orgSlug": "ihq-of-mod-army-oscc",
+   "category": "construction",
+   "publishedAt": "2026-09-07T10:00:00+05:30",
+   "closingAt": "2026-09-17T18:00:00+05:30",
+   "openingAt": "2026-09-18T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk1NjA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODc1NzE5Mg==A13h1QS9TQUQvNTZJRC8yMklCLzA2LzIwMjYtMjc=A13h1MjAyNl9BUk1ZXzc4Nzk1N18x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BPCL_26508",
    "slug": "2026-bpcl-26508",
    "title": "TENDER FOR APPOINTMENT OF SERVICE PROVIDER FOR CUSTOM CLEARING, WAREHOUSING, RE-BAGGING IN BPCL BRANDED RAFFIA BAGS OF 25 KG CAPACITY & TRANSPORTATION OF POLYMER GRADES.",
@@ -324773,6 +324787,34 @@
    "closingAt": "2026-09-18T17:00:00+05:30",
    "openingAt": "2026-09-19T17:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDc3NDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUyMTU2MQ==A13h1OTA3MEMyNkM2OA==A13h1MjAyNl9QRFJfMTkxMjkzXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_SECL_365009_1",
+   "slug": "2026-secl-365009-1",
+   "title": "Repairing and cleaning of radiator assy. Of Rhino ACE Crane Sl no-MC 684,MC685,MC-686,MC 706 of Gevra Project as per Scope of work.",
+   "refNo": "SECL/GA/GM X/e-tender/26-27/12 Dtd 05.09.2026",
+   "organisation": "South Eastern Coalfields Limited",
+   "orgSlug": "south-eastern-coalfields-limited",
+   "category": "other",
+   "publishedAt": "2026-09-07T10:00:00+05:30",
+   "closingAt": "2026-09-18T17:00:00+05:30",
+   "openingAt": "2026-09-19T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTExMDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODc1NzE5Mg==A13h1U0VDTC9HQS9HTSBYL2UtdGVuZGVyLzI2LTI3LzEyIER0ZCAwNS4wOS4yMDI2A13h1MjAyNl9TRUNMXzM2NTAwOV8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_SECL_365012_1",
+   "slug": "2026-secl-365012-1",
+   "title": "Repairing of field switch of 42 CuM ER Shovel sl. no. 701531 working at Gevra Project as per Scope of work.",
+   "refNo": "SECL/GA/GM X/e-tender/26-27/13  Dtd 05.09.2026",
+   "organisation": "South Eastern Coalfields Limited",
+   "orgSlug": "south-eastern-coalfields-limited",
+   "category": "other",
+   "publishedAt": "2026-09-07T10:00:00+05:30",
+   "closingAt": "2026-09-18T17:00:00+05:30",
+   "openingAt": "2026-09-19T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTExMDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODc1NzE5Mg==A13h1U0VDTC9HQS9HTSBYL2UtdGVuZGVyLzI2LTI3LzEzICBEdGQgMDUuMDkuMjAyNg==A13h1MjAyNl9TRUNMXzM2NTAxMl8x",
    "hasCorrigendum": false
   },
   {
@@ -325137,6 +325179,20 @@
    "closingAt": "2026-09-21T09:00:00+05:30",
    "openingAt": "2026-09-22T09:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNjQ5NzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzA1OTIwMw==A13h1MTFCUkQvNjIwMS8zNS9JU0MvVHlCTS0yMTc=A13h1MjAyNl9JQUZfNzg1MDU3XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_ALHW_924998_1",
+   "slug": "2026-alhw-924998-1",
+   "title": "Conveying and Placing of Tetrapods from the Casting Yard to Breakwater in Car Nicobar.",
+   "refNo": "ALHW/EEC/CB/DB/e-Qtn-02-2nd Call /2026-27",
+   "organisation": "Andaman Lakshadweep Harbour Works",
+   "orgSlug": "andaman-lakshadweep-harbour-works",
+   "category": "other",
+   "publishedAt": "2026-09-07T10:00:00+05:30",
+   "closingAt": "2026-09-21T10:00:00+05:30",
+   "openingAt": "2026-09-22T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk1OTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODc1NzE5Mg==A13h1QUxIVy9FRUMvQ0IvREIvZS1RdG4tMDItMm5kIENhbGwgLzIwMjYtMjc=A13h1MjAyNl9BTEhXXzkyNDk5OF8x",
    "hasCorrigendum": false
   },
   {
@@ -326288,6 +326344,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_AMSPA_912574_2",
+   "slug": "2026-amspa-912574-2",
+   "title": "Rate contract for replacement of damaged insulation of HVAC System at AIIMS Patna",
+   "refNo": "AIIMS/Pat/SE/250/205226",
+   "organisation": "All India Institute of Medical Sciences-Patna",
+   "orgSlug": "all-india-institute-of-medical-sciences-patna",
+   "category": "other",
+   "publishedAt": "2026-09-07T10:00:00+05:30",
+   "closingAt": "2026-09-28T15:00:00+05:30",
+   "openingAt": "2026-09-29T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk1ODU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODc1NzE5Mg==A13h1QUlJTVMvUGF0L1NFLzI1MC8yMDUyMjY=A13h1MjAyNl9BTVNQQV85MTI1NzRfMg==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_AMSPA_924996_1",
+   "slug": "2026-amspa-924996-1",
+   "title": "Supply installation testing and commissioning of Oxygen gas pipeline in OBG ICU at AIIMS Patna",
+   "refNo": "AIIMS/Pat/SE/266/205296",
+   "organisation": "All India Institute of Medical Sciences-Patna",
+   "orgSlug": "all-india-institute-of-medical-sciences-patna",
+   "category": "goods-supply",
+   "publishedAt": "2026-09-07T10:00:00+05:30",
+   "closingAt": "2026-09-28T15:00:00+05:30",
+   "openingAt": "2026-09-29T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk1NDI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODc1NzE5Mg==A13h1QUlJTVMvUGF0L1NFLzI2Ni8yMDUyOTY=A13h1MjAyNl9BTVNQQV85MjQ5OTZfMQ==",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_AIMSD_919725_1",
    "slug": "2026-aimsd-919725-1",
    "title": "Tender for setting up of Hybrid OT consisting of Robotic DSA, Intra-Operative Imaging with Navigation System and other equipment at JPNATC, AIIMS, New Delhi",
@@ -326425,6 +326509,20 @@
    "closingAt": "2026-09-29T14:30:00+05:30",
    "openingAt": "2026-09-29T14:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTE4NDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcyNjk0Nw==A13h1NjgyNjU3MTM=A13h1MTA3MTc2NTYy",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_SECL_365019_1",
+   "slug": "2026-secl-365019-1",
+   "title": "Cleaning and removal of malma/loose coal for tail ends and discharge points of T-1, T-2, T-3 belt conveyor and 40 Ist, 40 IInd, 40 IIIrd, 40 IVth, 80 Ist belt on day to day basis in V-Top Seam at Baherabandh UG Mine of Hasdeo Area.",
+   "refNo": "AGM/HSD /SO(M)/e-Tender/26-27/51  Date 07/09/2026",
+   "organisation": "South Eastern Coalfields Limited",
+   "orgSlug": "south-eastern-coalfields-limited",
+   "category": "other",
+   "publishedAt": "2026-09-07T10:00:00+05:30",
+   "closingAt": "2026-09-29T17:00:00+05:30",
+   "openingAt": "2026-10-01T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTExMDE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODc1NzE5Mg==A13h1QUdNL0hTRCAvU08oTSkvZS1UZW5kZXIvMjYtMjcvNTEgIERhdGUgMDcvMDkvMjAyNg==A13h1MjAyNl9TRUNMXzM2NTAxOV8x",
    "hasCorrigendum": false
   },
   {
