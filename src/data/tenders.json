@@ -1,22 +1,8 @@
 {
- "generatedAt": "2026-09-08T16:47:09.711Z",
+ "generatedAt": "2026-09-08T21:19:21.820Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23173,
+ "count": 23172,
  "tenders": [
-  {
-   "id": "2026_BPCL_25812",
-   "slug": "2026-bpcl-25812",
-   "title": "ARRANGEMENT FOR MEMENTO DISTRIBUTION EVENT UNDER SWACHHTA PAKHWADA 2026.",
-   "refNo": "1000459347",
-   "organisation": "Bharat Petroleum Corporation Limited",
-   "orgSlug": "bharat-petroleum-corporation-limited",
-   "category": "other",
-   "publishedAt": "2026-07-04T20:13:00+05:30",
-   "closingAt": "2026-07-11T00:00:00+05:30",
-   "openingAt": "2026-07-11T00:01:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MTU2NTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzMxMzI4MA==A13h1MTAwMDQ1OTM0Nw==A13h1MjAyNl9CUENMXzI1ODEy",
-   "hasCorrigendum": false
-  },
   {
    "id": "2026_ARMY_776436_1",
    "slug": "2026-army-776436-1",
@@ -319592,7 +319578,7 @@
    "publishedAt": "2026-09-08T20:45:00+05:30",
    "closingAt": "2026-09-14T15:00:00+05:30",
    "openingAt": "2026-09-14T15:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU1MDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODg4NjAyNA==A13h1MTMvU0UvREMtOC9VLURpdm4uLzIwMjYtMjc=A13h1MTY4NDAy",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU1MDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODkwMjM1Ng==A13h1MTMvU0UvREMtOC9VLURpdm4uLzIwMjYtMjc=A13h1MTY4NDAy",
    "hasCorrigendum": false
   },
   {
@@ -320460,7 +320446,7 @@
    "publishedAt": "2026-09-08T21:56:00+05:30",
    "closingAt": "2026-09-15T15:00:00+05:30",
    "openingAt": "2026-09-15T15:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU1MjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODg4NjAyNA==A13h1MzIvRUUvQUUvVENTRC1JSUkvVENELUkvQ1BXRC8yMDI2LTI3A13h1MTY4NDA0",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU1MjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODkwMjM1Ng==A13h1MzIvRUUvQUUvVENTRC1JSUkvVENELUkvQ1BXRC8yMDI2LTI3A13h1MTY4NDA0",
    "hasCorrigendum": false
   },
   {
@@ -320474,7 +320460,7 @@
    "publishedAt": "2026-09-08T19:28:00+05:30",
    "closingAt": "2026-09-15T15:00:00+05:30",
    "openingAt": "2026-09-15T15:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU0ODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODg4NjAyNA==A13h1MDIvRUVTTSAoRSkvSUlNIGFuZCBJSVQvSlBFRC8yMDI2LTI3A13h1MTY4Mzk2",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU0ODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODkwMjM1Ng==A13h1MDIvRUVTTSAoRSkvSUlNIGFuZCBJSVQvSlBFRC8yMDI2LTI3A13h1MTY4Mzk2",
    "hasCorrigendum": false
   },
   {
@@ -320964,7 +320950,7 @@
    "publishedAt": "2026-09-08T19:39:00+05:30",
    "closingAt": "2026-09-16T15:00:00+05:30",
    "openingAt": "2026-09-16T15:01:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU0ODg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODg4NjAyNA==A13h1MTAwMDQ2NDQxNg==A13h1MjAyNl9CUENMXzI2NTY3",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU0ODg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODkwMjM1Ng==A13h1MTAwMDQ2NDQxNg==A13h1MjAyNl9CUENMXzI2NTY3",
    "hasCorrigendum": false
   },
   {
@@ -320978,7 +320964,7 @@
    "publishedAt": "2026-09-08T19:18:00+05:30",
    "closingAt": "2026-09-16T15:00:00+05:30",
    "openingAt": "2026-09-16T15:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU0ODY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODg4NjAyNA==A13h1MzcvRUUoRSkvS0VELzIwMjYtMjcvS2FybmFsA13h1MTY4Mzk1",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU0ODY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODkwMjM1Ng==A13h1MzcvRUUoRSkvS0VELzIwMjYtMjcvS2FybmFsA13h1MTY4Mzk1",
    "hasCorrigendum": false
   },
   {
@@ -320992,7 +320978,7 @@
    "publishedAt": "2026-09-08T19:03:00+05:30",
    "closingAt": "2026-09-16T15:00:00+05:30",
    "openingAt": "2026-09-16T15:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU0ODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODg4NjAyNA==A13h1MTAyLzIwMjYtMjcvSFlELUlJSS9IWUQ=A13h1MTY4MzU0",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU0ODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODkwMjM1Ng==A13h1MTAyLzIwMjYtMjcvSFlELUlJSS9IWUQ=A13h1MTY4MzU0",
    "hasCorrigendum": false
   },
   {
@@ -321006,7 +320992,7 @@
    "publishedAt": "2026-09-08T19:02:00+05:30",
    "closingAt": "2026-09-16T15:00:00+05:30",
    "openingAt": "2026-09-16T15:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU0ODM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODg4NjAyNA==A13h1OTAvMjAyNi0yNy9IWUQtSUlJL0hZRCAoUkVDQUxMKQ==A13h1MTY4MzMz",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU0ODM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODkwMjM1Ng==A13h1OTAvMjAyNi0yNy9IWUQtSUlJL0hZRCAoUkVDQUxMKQ==A13h1MTY4MzMz",
    "hasCorrigendum": false
   },
   {
@@ -321020,7 +321006,7 @@
    "publishedAt": "2026-09-08T19:01:00+05:30",
    "closingAt": "2026-09-16T15:00:00+05:30",
    "openingAt": "2026-09-16T15:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU0ODI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODg4NjAyNA==A13h1ODEvMjAyNi0yNy9IWUQtSUlJL0hZRCAoUkVDQUxMKQ==A13h1MTY4Mzg3",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU0ODI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODkwMjM1Ng==A13h1ODEvMjAyNi0yNy9IWUQtSUlJL0hZRCAoUkVDQUxMKQ==A13h1MTY4Mzg3",
    "hasCorrigendum": false
   },
   {
@@ -322252,7 +322238,7 @@
    "publishedAt": "2026-09-08T19:14:00+05:30",
    "closingAt": "2026-09-19T15:00:00+05:30",
    "openingAt": "2026-09-19T15:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU0ODU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODg4NjAyNA==A13h1MzAvRUUoRSkvQUdUL0NQV0QvMjAyNi0yNyAtIFJlY2FsbCAyA13h1MTY4Mzkw",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU0ODU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODkwMjM1Ng==A13h1MzAvRUUoRSkvQUdUL0NQV0QvMjAyNi0yNyAtIFJlY2FsbCAyA13h1MTY4Mzkw",
    "hasCorrigendum": false
   },
   {
@@ -323092,7 +323078,7 @@
    "publishedAt": "2026-09-08T20:38:00+05:30",
    "closingAt": "2026-09-23T15:00:00+05:30",
    "openingAt": "2026-09-23T15:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU1MDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODg4NjAyNA==A13h1NTQvRUUvTHVja25vdy1JLzIwMjYtMjc=A13h1MTY4NDAw",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU1MDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODkwMjM1Ng==A13h1NTQvRUUvTHVja25vdy1JLzIwMjYtMjc=A13h1MTY4NDAw",
    "hasCorrigendum": false
   },
   {
