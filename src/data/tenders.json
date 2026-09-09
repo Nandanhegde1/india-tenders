@@ -1,78 +1,8 @@
 {
- "generatedAt": "2026-09-08T21:19:21.820Z",
+ "generatedAt": "2026-09-09T04:57:13.550Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23172,
+ "count": 23177,
  "tenders": [
-  {
-   "id": "2026_ARMY_776436_1",
-   "slug": "2026-army-776436-1",
-   "title": "494/Meat/Fzn/16/SDS/2026-27",
-   "refNo": "494/Meat/Fzn/16/SDS/2026-27",
-   "organisation": "IHQ of MoD (Army)-(OSCC)",
-   "orgSlug": "ihq-of-mod-army-oscc",
-   "category": "other",
-   "publishedAt": "2026-07-04T18:00:00+05:30",
-   "closingAt": "2026-07-11T09:30:00+05:30",
-   "openingAt": "2026-07-11T09:45:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MTM5Mzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzMxMzM0Nw==A13h1NDk0L01lYXQvRnpuLzE2L1NEUy8yMDI2LTI3A13h1MjAyNl9BUk1ZXzc3NjQzNl8x",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_NRO_190464_1",
-   "slug": "2026-nro-190464-1",
-   "title": "Development of A Site RO at WITHIN 3 KMS FROM RAO INDRAJEET SINGH STATUE (GARHI BUSSTAND) TOWARDS ARTHUNIA ON SH-10 A, VILLAGE-GARHI, TEHSIL-GARHI, DISTRICT-BANSWARA under Udaipur DO of Rajasthan State Office.",
-   "refNo": "MnC/NR/RSO/ENG/LT-66/26-27",
-   "organisation": "IndianOil",
-   "orgSlug": "indianoil",
-   "category": "other",
-   "publishedAt": "2026-07-04T10:00:00+05:30",
-   "closingAt": "2026-07-11T10:00:00+05:30",
-   "openingAt": "2026-07-13T10:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MTMxNzU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzE1NTg5NA==A13h1TW5DL05SL1JTTy9FTkcvTFQtNjYvMjYtMjc=A13h1MjAyNl9OUk9fMTkwNDY0XzE=",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_ARMHA_915542_2",
-   "slug": "2026-armha-915542-2",
-   "title": "28028/ARTCS/NIT/2026-27/12",
-   "refNo": "28028/ARTCandS/NIT/2026-27/12",
-   "organisation": "Assam Rifles - MHA",
-   "orgSlug": "assam-rifles-mha",
-   "category": "other",
-   "publishedAt": "2026-07-04T16:05:00+05:30",
-   "closingAt": "2026-07-11T10:00:00+05:30",
-   "openingAt": "2026-07-13T11:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MTM2NzU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzI4MTAxNw==A13h1MjgwMjgvQVJUQ2FuZFMvTklULzIwMjYtMjcvMTI=A13h1MjAyNl9BUk1IQV85MTU1NDJfMg==",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_BPCL_25820",
-   "slug": "2026-bpcl-25820",
-   "title": "SWATCHAT PAKHWARA EVENTS ACTIVITIES",
-   "refNo": "1000459400",
-   "organisation": "Bharat Petroleum Corporation Limited",
-   "orgSlug": "bharat-petroleum-corporation-limited",
-   "category": "other",
-   "publishedAt": "2026-07-06T12:39:00+05:30",
-   "closingAt": "2026-07-11T10:00:00+05:30",
-   "openingAt": "2026-07-11T11:02:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MTY5NzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzMzNjIyNQ==A13h1MTAwMDQ1OTQwMA==A13h1MjAyNl9CUENMXzI1ODIw",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_BPCL_25816",
-   "slug": "2026-bpcl-25816",
-   "title": "FLOATING LIMITED TENDERS FOR IMPLEMENTATION OF SWACHHATA PAKHWADA 2026 ACTIVITIES AT BPCL THANJAVUR LPG PLANT",
-   "refNo": "1000459362",
-   "organisation": "Bharat Petroleum Corporation Limited",
-   "orgSlug": "bharat-petroleum-corporation-limited",
-   "category": "other",
-   "publishedAt": "2026-07-07T10:07:00+05:30",
-   "closingAt": "2026-07-11T10:15:00+05:30",
-   "openingAt": "2026-07-11T10:20:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MTgwODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzQxODgxNQ==A13h1MTAwMDQ1OTM2Mg==A13h1MjAyNl9CUENMXzI1ODE2",
-   "hasCorrigendum": false
-  },
   {
    "id": "160409",
    "slug": "160409",
@@ -319302,6 +319232,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_CSL_290252_1",
+   "slug": "2026-csl-290252-1",
+   "title": "HIRING OF CHERRYPICKERS FOR THE VESSEL RW.0443 (ISRF)",
+   "refNo": "1080050004",
+   "organisation": "Cochin Shipyard Limited",
+   "orgSlug": "cochin-shipyard-limited",
+   "category": "other",
+   "publishedAt": "2026-09-09T10:15:00+05:30",
+   "closingAt": "2026-09-14T10:15:00+05:30",
+   "openingAt": "2026-09-15T10:15:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU2NjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODkyOTgyNw==A13h1MTA4MDA1MDAwNA==A13h1MjAyNl9DU0xfMjkwMjUyXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107149757",
    "slug": "107149757",
    "title": "IRON SKID FOR USE OF INDIAN RAILWAYS",
@@ -319593,6 +319537,20 @@
    "closingAt": "2026-09-14T16:00:00+05:30",
    "openingAt": "2026-09-15T16:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDEwOTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjU2MzMxOA==A13h1WFgtNjMvU08oRE8pL0VPSS9QZWFkcy4vMjYtMjc=A13h1MjAyNl9BSU1TRF85MjA3NzNfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_CRPF_925287_1",
+   "slug": "2026-crpf-925287-1",
+   "title": "Repair and maintenance of ORs Mess Kitchen and MT Barrack 01 No. at HQ 93 Bn CRPF, Ashiyana, Lucknow (U.P.)",
+   "refNo": "B.V(93 Bn)/2026-27-Minor Works-CS(NIT-4)",
+   "organisation": "DG,CRPF,MHA",
+   "orgSlug": "dg-crpf-mha",
+   "category": "construction",
+   "publishedAt": "2026-09-09T10:00:00+05:30",
+   "closingAt": "2026-09-14T16:00:00+05:30",
+   "openingAt": "2026-09-15T17:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU0OTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODkyOTgyNw==A13h1Qi5WKDkzIEJuKS8yMDI2LTI3LU1pbm9yIFdvcmtzLUNTKE5JVC00KQ==A13h1MjAyNl9DUlBGXzkyNTI4N18x",
    "hasCorrigendum": false
   },
   {
@@ -320800,6 +320758,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BSF_925377_1",
+   "slug": "2026-bsf-925377-1",
+   "title": "Repair and maintenance of over head tank and base of RO Plant including replacement of water supply pipe line at BSF Campus Garia TX under FTR HQ BSF South Bengal",
+   "refNo": "54/AE/FTR HQ SB/2026-27",
+   "organisation": "DG,BSF,MHA",
+   "orgSlug": "dg-bsf-mha",
+   "category": "construction",
+   "publishedAt": "2026-09-09T10:00:00+05:30",
+   "closingAt": "2026-09-16T12:00:00+05:30",
+   "openingAt": "2026-09-17T16:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU0NTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODkyOTgyNw==A13h1NTQvQUUvRlRSIEhRIFNCLzIwMjYtMjc=A13h1MjAyNl9CU0ZfOTI1Mzc3XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107142265",
    "slug": "107142265",
    "title": "SEALING WIRE OF SOFT MILD STEEL WIRE GALVD. OF 0.9 MM DIA (20 SWG) HAVING SOFT MILD STEEL WIRE OF 0.45 MM DIA (26 SWG) WRAPED AROUND IT WITH 4 TO 5 TURNS PER CENTIMETRE LENGTH OF THE 0.9 MM DIA WIRE THE FINISHED SEALING WIRE TO BE SUPPLIED IN COILS OF 10 CMS DIA OF 1 KG WEIGHT EACH IS: 280/2006 (Reaffirmed in 2021) Warranty Period : 30 months from the date of delivery.",
@@ -321763,6 +321735,20 @@
    "closingAt": "2026-09-18T12:00:00+05:30",
    "openingAt": "2026-09-21T14:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNzM5MjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NzMxODg4NQ==A13h1U1MvQzA1MC0wMDAtQ0YtVC04MTA1LzEwMTc=A13h1MjAyNl9FSUxfOTIzMTQ2XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MCD_290248_1",
+   "slug": "2026-mcd-290248-1",
+   "title": "PROCUREMENT OF PENTAHEAD AND DIGITAL MICROSCOPE FOR PATHOLOGY DEPTT. OF SDN HOSPITAL",
+   "refNo": "SDNH/2026-24/32",
+   "organisation": "Municipal Corporation of Delhi",
+   "orgSlug": "municipal-corporation-of-delhi",
+   "category": "medical",
+   "publishedAt": "2026-09-09T10:00:00+05:30",
+   "closingAt": "2026-09-18T12:00:00+05:30",
+   "openingAt": "2026-09-19T12:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU1Mjc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODkyOTgyNw==A13h1U0ROSC8yMDI2LTI0LzMyA13h1MjAyNl9NQ0RfMjkwMjQ4XzE=",
    "hasCorrigendum": false
   },
   {
@@ -322956,6 +322942,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_SECL_365168_1",
+   "slug": "2026-secl-365168-1",
+   "title": "Testing, calibration and rectification of 1000 Kg standard CI test weights through Chhattisgarh state government licence holder as per the scope of work provided in the bid document.",
+   "refNo": "SECL/GA/SO ENM/26-27/E-TENDER/63  dt. 08/09/2026",
+   "organisation": "South Eastern Coalfields Limited",
+   "orgSlug": "south-eastern-coalfields-limited",
+   "category": "other",
+   "publishedAt": "2026-09-09T10:00:00+05:30",
+   "closingAt": "2026-09-22T17:00:00+05:30",
+   "openingAt": "2026-09-24T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU0Nzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODkyOTgyNw==A13h1U0VDTC9HQS9TTyBFTk0vMjYtMjcvRS1URU5ERVIvNjMgIGR0LiAwOC8wOS8yMDI2A13h1MjAyNl9TRUNMXzM2NTE2OF8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_ARMHA_925371_1",
+   "slug": "2026-armha-925371-1",
+   "title": "Procurement of 9x19mm Machine Pistol ASMI QTY 4790 NOS",
+   "refNo": "18318/Provn/26-27/AA/9X19MM MACHINE PISTOL ASMI",
+   "organisation": "Assam Rifles - MHA",
+   "orgSlug": "assam-rifles-mha",
+   "category": "goods-supply",
+   "publishedAt": "2026-09-09T10:00:00+05:30",
+   "closingAt": "2026-09-22T17:00:00+05:30",
+   "openingAt": "2026-09-23T17:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU0NDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODkyOTgyNw==A13h1MTgzMTgvUHJvdm4vMjYtMjcvQUEvOVgxOU1NIE1BQ0hJTkUgUElTVE9MIEFTTUk=A13h1MjAyNl9BUk1IQV85MjUzNzFfMQ==",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_757093_3",
    "slug": "2026-mes-757093-3",
    "title": "138WE/L-211/2025-26",
@@ -323586,6 +323600,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MES_788465_1",
+   "slug": "2026-mes-788465-1",
+   "title": "SPL REPAIR TO TOILET/BATHROOM BLDG NO T-7 AND P-103 AT SAA UNDER GE (S) TEZPUR",
+   "refNo": "9190",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-09-09T10:00:00+05:30",
+   "closingAt": "2026-09-26T18:00:00+05:30",
+   "openingAt": "2026-09-29T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU1MDE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODkyOTgyNw==A13h1OTE5MA==A13h1MjAyNl9NRVNfNzg4NDY1XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107142264",
    "slug": "107142264",
    "title": "CONTACT JAW FOR PANTOGRAPH (LH) TO CLW SPEC IFICATION NO. CLW/ES/C-49 ALT-C & DRG. NO. CLW/ES/SK-2/C-49/C",
@@ -323835,6 +323863,34 @@
    "closingAt": "2026-09-29T11:00:00+05:30",
    "openingAt": "2026-10-01T11:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwOTc3NDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODE1NTQ5Mg==A13h1MDEvU0UvTkgvRy8xNS0wOC8yMDI2A13h1MjAyNl9Nb1JUSF85MjM4NTFfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_NFSU_918662_1",
+   "slug": "2026-nfsu-918662-1",
+   "title": "Interior Painting work at Girls Hostel Block No. 5, 6 and 7 and Boys Hostel Block No. 10, 11 and 12 at NFSU Dharwad Campus",
+   "refNo": "NFSU/Dwd/T/CPPP/Civil/2026/03",
+   "organisation": "National Forensic Sciences University",
+   "orgSlug": "national-forensic-sciences-university",
+   "category": "construction",
+   "publishedAt": "2026-09-09T10:00:00+05:30",
+   "closingAt": "2026-09-29T11:00:00+05:30",
+   "openingAt": "2026-09-30T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU0OTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODkyOTgyNw==A13h1TkZTVS9Ed2QvVC9DUFBQL0NpdmlsLzIwMjYvMDM=A13h1MjAyNl9ORlNVXzkxODY2Ml8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_DRDO_787406_1",
+   "slug": "2026-drdo-787406-1",
+   "title": "Micro - reactor Based Turnkey Continuous Flow Pilot Plant for Nitrate Esters.",
+   "refNo": "HEMRL/27EOI001/LP",
+   "organisation": "Department of Defence Research and Development",
+   "orgSlug": "department-of-defence-research-and-development",
+   "category": "other",
+   "publishedAt": "2026-09-09T10:00:00+05:30",
+   "closingAt": "2026-09-29T11:00:00+05:30",
+   "openingAt": "2026-09-30T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQwNzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODkyOTgyNw==A13h1SEVNUkwvMjdFT0kwMDEvTFA=A13h1MjAyNl9EUkRPXzc4NzQwNl8x",
    "hasCorrigendum": false
   },
   {
@@ -324101,6 +324157,20 @@
    "closingAt": "2026-10-01T17:00:00+05:30",
    "openingAt": "2026-10-05T17:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNTQ0Nzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njk1MTg3MQ==A13h1Uk8vVUsvRFBSL05ILTM0LyBHYW5nb3RyaSB0byBIZWVuYSAvMjAyNg==A13h1MjAyNl9Nb1JUSF85MjIzNjNfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_SECL_365202_1",
+   "slug": "2026-secl-365202-1",
+   "title": "Stacking and levelling/dozing of received coal from other unit at CHP/surface bunker by mechanical means (by JCB) at Rajnagar RO Colliery of Hasdeo Area.",
+   "refNo": "AGM/HSD /SO(M)/e-Tender/26-27/54  Date 09/09/2026",
+   "organisation": "South Eastern Coalfields Limited",
+   "orgSlug": "south-eastern-coalfields-limited",
+   "category": "transport",
+   "publishedAt": "2026-09-09T10:00:00+05:30",
+   "closingAt": "2026-10-01T17:00:00+05:30",
+   "openingAt": "2026-10-03T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU1MTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODkyOTgyNw==A13h1QUdNL0hTRCAvU08oTSkvZS1UZW5kZXIvMjYtMjcvNTQgIERhdGUgMDkvMDkvMjAyNg==A13h1MjAyNl9TRUNMXzM2NTIwMl8x",
    "hasCorrigendum": false
   },
   {
