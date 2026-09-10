@@ -1,64 +1,8 @@
 {
- "generatedAt": "2026-09-10T05:00:59.308Z",
+ "generatedAt": "2026-09-10T11:36:03.973Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23141,
+ "count": 23148,
  "tenders": [
-  {
-   "id": "2026_BPCL_25894",
-   "slug": "2026-bpcl-25894",
-   "title": "TENDER FOR ARRANGEMENT OF SWACHHTA ACTIVITIES UNDER SWACHHTA PAKHWADA 2026-27 AT BAREILLY LPG TERRITORY",
-   "refNo": "1000459705",
-   "organisation": "Bharat Petroleum Corporation Limited",
-   "orgSlug": "bharat-petroleum-corporation-limited",
-   "category": "other",
-   "publishedAt": "2026-07-10T18:20:00+05:30",
-   "closingAt": "2026-07-12T14:30:00+05:30",
-   "openingAt": "2026-07-12T14:33:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MzU1NzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Mzc1Nzk1OQ==A13h1MTAwMDQ1OTcwNQ==A13h1MjAyNl9CUENMXzI1ODk0",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_BPCL_25863",
-   "slug": "2026-bpcl-25863",
-   "title": "STAR MAKE AT SOUTHERN REGIONAL OFFICE, AS PER THE SCOPE OF WORK.",
-   "refNo": "1000459526",
-   "organisation": "Bharat Petroleum Corporation Limited",
-   "orgSlug": "bharat-petroleum-corporation-limited",
-   "category": "other",
-   "publishedAt": "2026-07-09T14:57:00+05:30",
-   "closingAt": "2026-07-12T15:00:00+05:30",
-   "openingAt": "2026-07-12T15:05:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5Mjc4OTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzU5MTQ4NQ==A13h1MTAwMDQ1OTUyNg==A13h1MjAyNl9CUENMXzI1ODYz",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_BPCL_25838",
-   "slug": "2026-bpcl-25838",
-   "title": "LIMITED TENDER FOR SUPPLY OF SWACHHTA PAKHWADA 2026 ITEMS FOR KARUR RETAIL TERRITORY",
-   "refNo": "1000459473",
-   "organisation": "Bharat Petroleum Corporation Limited",
-   "orgSlug": "bharat-petroleum-corporation-limited",
-   "category": "goods-supply",
-   "publishedAt": "2026-07-07T13:56:00+05:30",
-   "closingAt": "2026-07-12T16:00:00+05:30",
-   "openingAt": "2026-07-12T16:05:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MTg1NDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzQxODcxNA==A13h1MTAwMDQ1OTQ3Mw==A13h1MjAyNl9CUENMXzI1ODM4",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "160446",
-   "slug": "160446",
-   "title": "35/AEE/EEE/CCED/2026-27/MCESD/Madurai",
-   "refNo": "35/AEE/EEE/CCED/2026-27/MCESD/Madurai",
-   "organisation": "Central Public Works Department (CPWD)",
-   "orgSlug": "central-public-works-department-cpwd",
-   "category": "other",
-   "publishedAt": "2026-07-04T15:12:00+05:30",
-   "closingAt": "2026-07-12T17:00:00+05:30",
-   "openingAt": "2026-07-13T11:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MTM3MzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzI0MzYzMA==A13h1MzUvQUVFL0VFRS9DQ0VELzIwMjYtMjcvTUNFU0QvTWFkdXJhaQ==A13h1MTYwNDQ2",
-   "hasCorrigendum": false
-  },
   {
    "id": "160442",
    "slug": "160442",
@@ -318238,6 +318182,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_26570",
+   "slug": "2026-bpcl-26570",
+   "title": "REPAIR OF 33 KV VCB PANEL & PREVENTIVE MAINTENANCE OF TRANSFORMER FOR RESTORATION OF SOLAR POWER PLANT.",
+   "refNo": "1000464444",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "electrical",
+   "publishedAt": "2026-09-10T17:02:00+05:30",
+   "closingAt": "2026-09-14T00:00:00+05:30",
+   "openingAt": "2026-09-14T00:10:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTgyODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA0MDE1Nw==A13h1MTAwMDQ2NDQ0NA==A13h1MjAyNl9CUENMXzI2NTcw",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_DGDE_787222_1",
    "slug": "2026-dgde-787222-1",
    "title": "Retender Term Contract for repair and maintenance of Cantt Fund Drains for the financial year 2026-27.",
@@ -320786,6 +320744,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "168675",
+   "slug": "168675",
+   "title": "121/2026-27/DED-102/DELHI/2",
+   "refNo": "121/2026-27/DED-102/DELHI/2",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-10T17:01:00+05:30",
+   "closingAt": "2026-09-17T17:00:00+05:30",
+   "openingAt": "2026-09-17T17:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTgyODU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA0MDE1Nw==A13h1MTIxLzIwMjYtMjcvREVELTEwMi9ERUxISS8yA13h1MTY4Njc1",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "168676",
+   "slug": "168676",
+   "title": "48/EE(E)/DED-31/AE(E)-2/2026-27",
+   "refNo": "48/EE(E)/DED-31/AE(E)-2/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-09-10T17:01:00+05:30",
+   "closingAt": "2026-09-17T17:00:00+05:30",
+   "openingAt": "2026-09-17T17:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTgyODY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA0MDE1Nw==A13h1NDgvRUUoRSkvREVELTMxL0FFKEUpLTIvMjAyNi0yNw==A13h1MTY4Njc2",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BPCL_26379",
    "slug": "2026-bpcl-26379",
    "title": "LUMPSUM PACKAGE FOR MOUNDED BULLETS AND ITS ASSOCIATED FACILITIES",
@@ -322032,6 +322018,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_CCL_365264_1",
+   "slug": "2026-ccl-365264-1",
+   "title": "Annual Maintenance contract for maintenance of the installed piezometers at Rajrappa area for two years under Rajrappa Project",
+   "refNo": "CCL/Rajrappa/GM Unit/Civil/NIT/26-27/15",
+   "organisation": "Central Coalfields Limited",
+   "orgSlug": "central-coalfields-limited",
+   "category": "construction",
+   "publishedAt": "2026-09-10T17:00:00+05:30",
+   "closingAt": "2026-09-21T17:00:00+05:30",
+   "openingAt": "2026-09-23T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc2MTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA0MDE1Nw==A13h1Q0NML1JhanJhcHBhL0dNIFVuaXQvQ2l2aWwvTklULzI2LTI3LzE1A13h1MjAyNl9DQ0xfMzY1MjY0XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_785592_1",
    "slug": "2026-mes-785592-1",
    "title": "SPECIAL REPAIR TO ROAD INCL ROAD FURNITURE, INTERLOCKING AND CONNECTED ITEMS UNDER GE GWALIOR",
@@ -322382,6 +322382,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_ARMY_788683_1",
+   "slug": "2026-army-788683-1",
+   "title": "Supply of Fruit Fresh at Delhi Stations",
+   "refNo": "58801/FRUIT/DELHI/01/RT/26-27",
+   "organisation": "IHQ of MoD (Army)-(OSCC)",
+   "orgSlug": "ihq-of-mod-army-oscc",
+   "category": "goods-supply",
+   "publishedAt": "2026-09-10T17:00:00+05:30",
+   "closingAt": "2026-09-23T12:00:00+05:30",
+   "openingAt": "2026-09-23T12:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc2NTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA0MDE1Nw==A13h1NTg4MDEvRlJVSVQvREVMSEkvMDEvUlQvMjYtMjc=A13h1MjAyNl9BUk1ZXzc4ODY4M18x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107119254",
    "slug": "107119254",
    "title": "BOLTS",
@@ -322589,6 +322603,20 @@
    "closingAt": "2026-09-24T14:30:00+05:30",
    "openingAt": "2026-10-03T15:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk3NDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAxNjMzOA==A13h1SFdQSy9DSVZJTC8yMDI2LzEwOA==A13h1MjAyNl9IV0JfOTI0NzEyXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_PR_191357_1",
+   "slug": "2026-pr-191357-1",
+   "title": "Contract for hiring Expert Services of OEM Ms CHART LIFE CYCLE INC USA for inspection and supervision in cleaning and repair of cold box exchanger of NCU at IOCL Panipat Naphtha Cracker Panipat",
+   "refNo": "RPNC264033",
+   "organisation": "IndianOil",
+   "orgSlug": "indianoil",
+   "category": "construction",
+   "publishedAt": "2026-09-10T17:00:00+05:30",
+   "closingAt": "2026-09-24T14:30:00+05:30",
+   "openingAt": "2026-09-25T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc1Mzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA0MDE1Nw==A13h1UlBOQzI2NDAzMw==A13h1MjAyNl9QUl8xOTEzNTdfMQ==",
    "hasCorrigendum": false
   },
   {
@@ -323656,6 +323684,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MES_788681_1",
+   "slug": "2026-mes-788681-1",
+   "title": "COMPREHENSIVE MAINTENANCE REPLACEMENT OF DG SET WITH ALLIED ITEMS, AMF PANELS AND ETC AT RCI TECHNICAL AREA ZONE-II EETF ELSEC CPDC UNDER GEI RND RCI HYDERABAD",
+   "refNo": "8497",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "electrical",
+   "publishedAt": "2026-09-10T17:00:00+05:30",
+   "closingAt": "2026-10-01T18:00:00+05:30",
+   "openingAt": "2026-10-03T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc1OTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA0MDA0OQ==A13h1ODQ5Nw==A13h1MjAyNl9NRVNfNzg4NjgxXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_788658_1",
    "slug": "2026-mes-788658-1",
    "title": "SPECIAL REPAIR TO BLDG NO S-95 AND CERTAIN REVENUE AND MINOR WORKS AT MASIMPUR MILITARY STATION",
@@ -323667,6 +323709,34 @@
    "closingAt": "2026-10-02T18:00:00+05:30",
    "openingAt": "2026-10-05T10:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc0MDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAxNjMzOA==A13h1ODE1NkEvRTg=A13h1MjAyNl9NRVNfNzg4NjU4XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_ITBP_925431_1",
+   "slug": "2026-itbp-925431-1",
+   "title": "Construction of Toilet Block at Tato Staging Camp of 57 BN ITBP",
+   "refNo": "ITBP/SHQ (LKB)/ENGR/T-(57 BN) /2026-254 DTD 09.09.26",
+   "organisation": "DG, Indo-Tibetan Border Police Force",
+   "orgSlug": "dg-indo-tibetan-border-police-force",
+   "category": "construction",
+   "publishedAt": "2026-09-10T17:00:00+05:30",
+   "closingAt": "2026-10-03T17:00:00+05:30",
+   "openingAt": "2026-10-05T17:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc0MzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA0MDE1Nw==A13h1SVRCUC9TSFEgKExLQikvRU5HUi9ULSg1NyBCTikgLzIwMjYtMjU0IERURCAwOS4wOS4yNg==A13h1MjAyNl9JVEJQXzkyNTQzMV8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_ITBP_925434_1",
+   "slug": "2026-itbp-925434-1",
+   "title": "Construction of Toilet Block at Kaying Staging Camp of 57 BN ITBP",
+   "refNo": "ITBP/SHQ (LKB)/ENGR/T-(57 BN) /2026-255 DTD 09.09.26",
+   "organisation": "DG, Indo-Tibetan Border Police Force",
+   "orgSlug": "dg-indo-tibetan-border-police-force",
+   "category": "construction",
+   "publishedAt": "2026-09-10T17:00:00+05:30",
+   "closingAt": "2026-10-03T17:00:00+05:30",
+   "openingAt": "2026-10-05T17:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc0MzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA0MDE1Nw==A13h1SVRCUC9TSFEgKExLQikvRU5HUi9ULSg1NyBCTikgLzIwMjYtMjU1IERURCAwOS4wOS4yNg==A13h1MjAyNl9JVEJQXzkyNTQzNF8x",
    "hasCorrigendum": false
   },
   {
@@ -323712,6 +323782,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BBMB_290366_1",
+   "slug": "2026-bbmb-290366-1",
+   "title": "Renovation of 16 Nos. A-type quarters (C-Block) and 24 Nos. B-type quarters (A-Block) at Power House Colony at Ganguwal.",
+   "refNo": "NIT-946",
+   "organisation": "Bhakra Beas Management Board",
+   "orgSlug": "bhakra-beas-management-board",
+   "category": "construction",
+   "publishedAt": "2026-09-10T17:00:00+05:30",
+   "closingAt": "2026-10-05T12:30:00+05:30",
+   "openingAt": "2026-10-06T12:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc2MTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA0MDE1Nw==A13h1TklULTk0Ng==A13h1MjAyNl9CQk1CXzI5MDM2Nl8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107176566",
    "slug": "107176566",
    "title": "Procurement of Draw Gear Pin etc.",
@@ -323751,6 +323835,20 @@
    "closingAt": "2026-10-05T14:00:00+05:30",
    "openingAt": "2026-10-08T14:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk4NjY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODY5MzA0MQ==A13h1MzAxMi9PRkJML1JEMjYyMC9URS0yMS0yMDI2LTI3A13h1MjAyNl9NSUxfMjg5OTUxXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_NITC_925613_1",
+   "slug": "2026-nitc-925613-1",
+   "title": "Providing Mosquito Window Nets to D and E Hostels",
+   "refNo": "NITC/Hostels/29/26- 27/Mosquito Net",
+   "organisation": "National Institute of Technology Calicut",
+   "orgSlug": "national-institute-of-technology-calicut",
+   "category": "other",
+   "publishedAt": "2026-09-10T17:00:00+05:30",
+   "closingAt": "2026-10-05T17:00:00+05:30",
+   "openingAt": "2026-10-07T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc1NTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA0MDE1Nw==A13h1TklUQy9Ib3N0ZWxzLzI5LzI2LSAyNy9Nb3NxdWl0byBOZXQ=A13h1MjAyNl9OSVRDXzkyNTYxM18x",
    "hasCorrigendum": false
   },
   {
