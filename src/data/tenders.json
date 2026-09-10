@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-09-09T21:04:02.446Z",
+ "generatedAt": "2026-09-10T05:00:59.308Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23131,
+ "count": 23141,
  "tenders": [
   {
    "id": "2026_BPCL_25894",
@@ -319820,6 +319820,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_HSL_100098_1",
+   "slug": "2026-hsl-100098-1",
+   "title": "WORKS ON STP TANK FOR ORV SAMUDRA RATNAKAR",
+   "refNo": "SR COMPLEX/PRODUCTION/OUT SOURCE REQUISITION/2026/387",
+   "organisation": "Hindustan Shipyard Limited",
+   "orgSlug": "hindustan-shipyard-limited",
+   "category": "other",
+   "publishedAt": "2026-09-10T10:00:00+05:30",
+   "closingAt": "2026-09-16T11:00:00+05:30",
+   "openingAt": "2026-09-16T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc0MjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAxNjMzOA==A13h1U1IgQ09NUExFWC9QUk9EVUNUSU9OL09VVCBTT1VSQ0UgUkVRVUlTSVRJT04vMjAyNi8zODc=A13h1MjAyNl9IU0xfMTAwMDk4XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107102397",
    "slug": "107102397",
    "title": "Articulated Spheroelostic Rubber Bearing for CBC to SANROK Drg. No. 1ED-1023 confirming to RDSO Specn. No. RDSO/2011/CG-03(Rev. 1).",
@@ -320111,6 +320125,20 @@
    "closingAt": "2026-09-16T15:00:00+05:30",
    "openingAt": "2026-09-16T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTczMzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODk4NzgzNg==A13h1MjgvRUUvSFlERVJBQkFELUlWLzIwMjYtMjc=A13h1MTY4NTMy",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_NTPC_111734_1",
+   "slug": "2026-ntpc-111734-1",
+   "title": "monobloc pump set KDS 844 and coupled pump set SP 2H and SP 1H for",
+   "refNo": "NTPC/USSC-CPG3/9900333147",
+   "organisation": "NTPC Limited",
+   "orgSlug": "ntpc-limited",
+   "category": "other",
+   "publishedAt": "2026-09-10T10:00:00+05:30",
+   "closingAt": "2026-09-16T15:00:00+05:30",
+   "openingAt": "2026-09-16T16:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc0MjU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAxNjMzOA==A13h1TlRQQy9VU1NDLUNQRzMvOTkwMDMzMzE0Nw==A13h1MjAyNl9OVFBDXzExMTczNF8x",
    "hasCorrigendum": false
   },
   {
@@ -320713,6 +320741,20 @@
    "closingAt": "2026-09-17T15:00:00+05:30",
    "openingAt": "2026-09-17T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTczMzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODk4NzgzNg==A13h1MDYvRUUoRSkvSFVCQkFMTEkvQ1BXRC8yMDI2LTI3A13h1MTY4NTMz",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "168540",
+   "slug": "168540",
+   "title": "07/NIT/EE/ACSD-II/2026-27",
+   "refNo": "07/NIT/EE/ACSD-II/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-10T10:20:00+05:30",
+   "closingAt": "2026-09-17T15:00:00+05:30",
+   "openingAt": "2026-09-17T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc0MzU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAxNjMzOA==A13h1MDcvTklUL0VFL0FDU0QtSUkvMjAyNi0yNw==A13h1MTY4NTQw",
    "hasCorrigendum": false
   },
   {
@@ -321752,6 +321794,48 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BHEL_64806_1",
+   "slug": "2026-bhel-64806-1",
+   "title": "BKSE000384",
+   "refNo": "BKSE000384",
+   "organisation": "Bharat Heavy Electricals Limited",
+   "orgSlug": "bharat-heavy-electricals-limited",
+   "category": "other",
+   "publishedAt": "2026-09-10T10:15:00+05:30",
+   "closingAt": "2026-09-21T13:00:00+05:30",
+   "openingAt": "2026-09-21T14:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc0Mjc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAxNjMzOA==A13h1QktTRTAwMDM4NA==A13h1MjAyNl9CSEVMXzY0ODA2XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BHEL_64838_1",
+   "slug": "2026-bhel-64838-1",
+   "title": "BKSE000386",
+   "refNo": "BKSE000386",
+   "organisation": "Bharat Heavy Electricals Limited",
+   "orgSlug": "bharat-heavy-electricals-limited",
+   "category": "other",
+   "publishedAt": "2026-09-10T10:00:00+05:30",
+   "closingAt": "2026-09-21T13:00:00+05:30",
+   "openingAt": "2026-09-21T14:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc0MjY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAxNjMzOA==A13h1QktTRTAwMDM4Ng==A13h1MjAyNl9CSEVMXzY0ODM4XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_CMPDI_364546_1",
+   "slug": "2026-cmpdi-364546-1",
+   "title": "Supply, Installation, Testing n Commissioning of 02 CCTV 4MP IP Cameras Inside the Lift of the Office Building",
+   "refNo": "CMPDI/ RI-6/EnM/2026-27/231",
+   "organisation": "Central Mine Planning and Design Institute Limited",
+   "orgSlug": "central-mine-planning-and-design-institute-limited",
+   "category": "construction",
+   "publishedAt": "2026-09-10T10:00:00+05:30",
+   "closingAt": "2026-09-21T13:00:00+05:30",
+   "openingAt": "2026-09-22T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU4MDU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAxNjMzOA==A13h1Q01QREkvIFJJLTYvRW5NLzIwMjYtMjcvMjMxA13h1MjAyNl9DTVBESV8zNjQ1NDZfMQ==",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BPCL_26556",
    "slug": "2026-bpcl-26556",
    "title": "TWO YEARS ARC FOR THE PROCUREMENT OF SS FITTINGS FOR EXECUTION OF NPCB JOBS AT BPCL MUMBAI REFINERY",
@@ -322410,6 +322494,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BEL_100097_1",
+   "slug": "2026-bel-100097-1",
+   "title": "Expression of Interest for Vendor Empanelment in BEL Development of DPDPA Compliance Platform/Framework",
+   "refNo": "BEL/Software/800016188",
+   "organisation": "Bharat Electronics Limited",
+   "orgSlug": "bharat-electronics-limited",
+   "category": "other",
+   "publishedAt": "2026-09-10T10:00:00+05:30",
+   "closingAt": "2026-09-24T10:00:00+05:30",
+   "openingAt": "2026-09-24T12:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc0MjE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAxNjMzOA==A13h1QkVML1NvZnR3YXJlLzgwMDAxNjE4OA==A13h1MjAyNl9CRUxfMTAwMDk3XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MoRTH_919062_1",
    "slug": "2026-morth-919062-1",
    "title": "Upgradation of existing two- lane with paved shoulders carriageway of Nagaur-Bikaner Section of NH-62 from design km 161/000 to km 270/245 to Four Lane with paved shoulder in state of Rajasthan on BOT (Toll) Mode",
@@ -322463,6 +322561,34 @@
    "closingAt": "2026-09-24T14:00:00+05:30",
    "openingAt": "2026-09-25T15:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU4ODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODk1Mzk3NA==A13h1UklURVMvSFcvR1NSREMvTFBTLzIwMjY=A13h1MjAyNl9SSVRFU18yOTAyNzhfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_HWB_924733_1",
+   "slug": "2026-hwb-924733-1",
+   "title": "Painting of various Plant Buildings at Heavy water Plant ( Kota)",
+   "refNo": "HWPK/CIVIL/2026/110",
+   "organisation": "Heavy Water Board",
+   "orgSlug": "heavy-water-board",
+   "category": "construction",
+   "publishedAt": "2026-09-10T10:00:00+05:30",
+   "closingAt": "2026-09-24T14:30:00+05:30",
+   "openingAt": "2026-10-03T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk3NDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAxNjMzOA==A13h1SFdQSy9DSVZJTC8yMDI2LzExMA==A13h1MjAyNl9IV0JfOTI0NzMzXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_HWB_924712_1",
+   "slug": "2026-hwb-924712-1",
+   "title": "Upgradation work for Industrial pathways and flooring at HWP (Kota).",
+   "refNo": "HWPK/CIVIL/2026/108",
+   "organisation": "Heavy Water Board",
+   "orgSlug": "heavy-water-board",
+   "category": "construction",
+   "publishedAt": "2026-09-10T10:00:00+05:30",
+   "closingAt": "2026-09-24T14:30:00+05:30",
+   "openingAt": "2026-10-03T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk3NDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAxNjMzOA==A13h1SFdQSy9DSVZJTC8yMDI2LzEwOA==A13h1MjAyNl9IV0JfOTI0NzEyXzE=",
    "hasCorrigendum": false
   },
   {
@@ -323527,6 +323653,20 @@
    "closingAt": "2026-10-01T17:00:00+05:30",
    "openingAt": "2026-10-03T10:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTU1MTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODkyOTgyNw==A13h1QUdNL0hTRCAvU08oTSkvZS1UZW5kZXIvMjYtMjcvNTQgIERhdGUgMDkvMDkvMjAyNg==A13h1MjAyNl9TRUNMXzM2NTIwMl8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_788658_1",
+   "slug": "2026-mes-788658-1",
+   "title": "SPECIAL REPAIR TO BLDG NO S-95 AND CERTAIN REVENUE AND MINOR WORKS AT MASIMPUR MILITARY STATION",
+   "refNo": "8156A/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-09-10T10:00:00+05:30",
+   "closingAt": "2026-10-02T18:00:00+05:30",
+   "openingAt": "2026-10-05T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc0MDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAxNjMzOA==A13h1ODE1NkEvRTg=A13h1MjAyNl9NRVNfNzg4NjU4XzE=",
    "hasCorrigendum": false
   },
   {
