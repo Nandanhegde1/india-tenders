@@ -1,106 +1,8 @@
 {
- "generatedAt": "2026-09-10T21:02:09.287Z",
+ "generatedAt": "2026-09-11T04:59:54.788Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 23152,
+ "count": 23155,
  "tenders": [
-  {
-   "id": "2026_MZPWD_148566_1",
-   "slug": "2026-mzpwd-148566-1",
-   "title": "Construction and Maintenance of Sachan to Sumasumi Road (MZ 05 1010)",
-   "refNo": "2/RET/MiRRDA/2026",
-   "organisation": "National Rural Roads Development Agency (NRRDA)",
-   "orgSlug": "national-rural-roads-development-agency-nrrda",
-   "category": "construction",
-   "publishedAt": "2026-07-03T18:00:00+05:30",
-   "closingAt": "2026-07-13T09:00:00+05:30",
-   "openingAt": "2026-07-13T13:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MDk5OTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzEzOTExMw==A13h1Mi9SRVQvTWlSUkRBLzIwMjY=A13h1MjAyNl9NWlBXRF8xNDg1NjZfMQ==",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_MCD_283497_1",
-   "slug": "2026-mcd-283497-1",
-   "title": "Engagement of temporary casual labour on contract for operation/maintenance of Electric/Diesel portable pump sets at vulnerable water logging points under jurisdiction of Division M-III Central Zone during Monsoon Emergency-2026.",
-   "refNo": "EE(M)-III/CNZ/TC/2026-27/11-01",
-   "organisation": "Municipal Corporation of Delhi",
-   "orgSlug": "municipal-corporation-of-delhi",
-   "category": "construction",
-   "publishedAt": "2026-07-09T13:20:00+05:30",
-   "closingAt": "2026-07-13T09:00:00+05:30",
-   "openingAt": "2026-07-13T09:05:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5Mjc3NTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzU5MTU1OQ==A13h1RUUoTSktSUlJL0NOWi9UQy8yMDI2LTI3LzExLTAxA13h1MjAyNl9NQ0RfMjgzNDk3XzE=",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_CRPF_916129_1",
-   "slug": "2026-crpf-916129-1",
-   "title": "Combied work Cleaning of under Ground Sump and Terrace loft water storage tank and Repair and Painting of Dog Kennel and Repair of Floor Tiles of 480 Mens Barrack",
-   "refNo": "Combied work Cleaning of under Ground Sump and Terrace loft water storage tank and Repair and Painti",
-   "organisation": "DG,CRPF,MHA",
-   "orgSlug": "dg-crpf-mha",
-   "category": "construction",
-   "publishedAt": "2026-07-07T09:30:00+05:30",
-   "closingAt": "2026-07-13T09:30:00+05:30",
-   "openingAt": "2026-07-14T09:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MTc3MDA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzQxODgyNQ==A13h1Q29tYmllZCB3b3JrIENsZWFuaW5nIG9mIHVuZGVyIEdyb3VuZCBTdW1wIGFuZCBUZXJyYWNlIGxvZnQgd2F0ZXIgc3RvcmFnZSB0YW5rIGFuZCBSZXBhaXIgYW5kIFBhaW50aQ==A13h1MjAyNl9DUlBGXzkxNjEyOV8x",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_BCCL_361668_1",
-   "slug": "2026-bccl-361668-1",
-   "title": "REPAIRING OF GEAR (PT. NO.- 452-WA-51936) BG-825 MOTOR GRADER, SL. NO.- 25009 OF AMP COLLIERY BARORA AREA.",
-   "refNo": "BCCL/BA/EXC/E-TENDER/26-27/ 034\tDATE-04.07.2026",
-   "organisation": "Bharat Coking Coal Limited",
-   "orgSlug": "bharat-coking-coal-limited",
-   "category": "other",
-   "publishedAt": "2026-07-04T15:00:00+05:30",
-   "closingAt": "2026-07-13T10:00:00+05:30",
-   "openingAt": "2026-07-14T10:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MTM2MDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzI0MzY1Mw==A13h1QkNDTC9CQS9FWEMvRS1URU5ERVIvMjYtMjcvIDAzNAlEQVRFLTA0LjA3LjIwMjY=A13h1MjAyNl9CQ0NMXzM2MTY2OF8x",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_MMRCL_283306_1",
-   "slug": "2026-mmrcl-283306-1",
-   "title": "Appointment of Agency for Designing, Conceptualization, Installation and Maintenance of Stall for 7th Rail MetroTech Expo India 2026 at Bharat Mandapam, New Delhi from 22nd to 24th July 2026.",
-   "refNo": "MMRC/PR/Exhibition Stall/02",
-   "organisation": "Mumbai Metro Rail Corporation Limited",
-   "orgSlug": "mumbai-metro-rail-corporation-limited",
-   "category": "construction",
-   "publishedAt": "2026-07-08T09:00:00+05:30",
-   "closingAt": "2026-07-13T10:00:00+05:30",
-   "openingAt": "2026-07-14T11:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MjI1MDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzQ4MjcxNg==A13h1TU1SQy9QUi9FeGhpYml0aW9uIFN0YWxsLzAyA13h1MjAyNl9NTVJDTF8yODMzMDZfMQ==",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_BPCL_25896",
-   "slug": "2026-bpcl-25896",
-   "title": "DOOR TO DOOR AWARENESS ON SWATCHATA CAMPAIGN",
-   "refNo": "1000459794",
-   "organisation": "Bharat Petroleum Corporation Limited",
-   "orgSlug": "bharat-petroleum-corporation-limited",
-   "category": "other",
-   "publishedAt": "2026-07-10T18:25:00+05:30",
-   "closingAt": "2026-07-13T10:00:00+05:30",
-   "openingAt": "2026-07-13T10:05:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MzU2MDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Mzc1Nzk1OQ==A13h1MTAwMDQ1OTc5NA==A13h1MjAyNl9CUENMXzI1ODk2",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_BPCL_25864",
-   "slug": "2026-bpcl-25864",
-   "title": "PROVIDING SERVICES AND SUPPLY OF ITEMS FOR CONDUCTING SWACHHATA PAKHWADA 2026 AROUND COIMBATORE LPG PLANT",
-   "refNo": "1000459621",
-   "organisation": "Bharat Petroleum Corporation Limited",
-   "orgSlug": "bharat-petroleum-corporation-limited",
-   "category": "goods-supply",
-   "publishedAt": "2026-07-09T12:21:00+05:30",
-   "closingAt": "2026-07-13T10:10:00+05:30",
-   "openingAt": "2026-07-13T10:15:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5Mjc2MTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzU5MTU5Mw==A13h1MTAwMDQ1OTYyMQ==A13h1MjAyNl9CUENMXzI1ODY0",
-   "hasCorrigendum": true
-  },
   {
    "id": "160449",
    "slug": "160449",
@@ -320198,6 +320100,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_ARMY_788882_1",
+   "slug": "2026-army-788882-1",
+   "title": "81203/BD 80 A12 CH/ENGR/0154",
+   "refNo": "81203/BD 80 A12 CH/ENGR/0154",
+   "organisation": "IHQ of MoD (Army)-(OSCC)",
+   "orgSlug": "ihq-of-mod-army-oscc",
+   "category": "other",
+   "publishedAt": "2026-09-11T10:05:00+05:30",
+   "closingAt": "2026-09-17T09:00:00+05:30",
+   "openingAt": "2026-09-17T09:05:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE0OTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEwMjc4MA==A13h1ODEyMDMvQkQgODAgQTEyIENIL0VOR1IvMDE1NA==A13h1MjAyNl9BUk1ZXzc4ODg4Ml8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NALCO_922835_1",
    "slug": "2026-nalco-922835-1",
    "title": "SHOP AND FIELD PAINTING OF STEEL STRUCTURES / PIPERAKES / PIPE LINES AND EQUIMPMENT STRUCTURE INSIDE ALUMINA PLANT",
@@ -320912,6 +320828,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_DOP_925804_1",
+   "slug": "2026-dop-925804-1",
+   "title": "SITC off grid solar system",
+   "refNo": "77/EE/PED/KOL/NIT/26-27",
+   "organisation": "Department of Posts",
+   "orgSlug": "department-of-posts",
+   "category": "electrical",
+   "publishedAt": "2026-09-11T10:15:00+05:30",
+   "closingAt": "2026-09-18T11:00:00+05:30",
+   "openingAt": "2026-09-19T12:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE0OTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEwMjc4MA==A13h1NzcvRUUvUEVEL0tPTC9OSVQvMjYtMjc=A13h1MjAyNl9ET1BfOTI1ODA0XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_EIL_923146_1",
    "slug": "2026-eil-923146-1",
    "title": "SS/C050-000-CF-T-8105/1017 - RCC WORKS FOR UNIT AND OFFSITE FOR POLYPROPYLENE PROJECT OF M/S NUMALIGARH REFINERY LIMITED",
@@ -321077,6 +321007,48 @@
    "closingAt": "2026-09-18T15:00:00+05:30",
    "openingAt": "2026-09-18T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjEzOTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA1ODEyOQ==A13h1MTQ5LzUxL05JVC9BRS1JSS9FRS1LT0wtSUlJL0NQV0QvMjAyNi0yMDI3A13h1MTY4NzE5",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "168733",
+   "slug": "168733",
+   "title": "33/EE/MUSSOORIE/2026-27",
+   "refNo": "33/EE/MUSSOORIE/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-11T10:10:00+05:30",
+   "closingAt": "2026-09-18T15:00:00+05:30",
+   "openingAt": "2026-09-18T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE1MDA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEwMjc4MA==A13h1MzMvRUUvTVVTU09PUklFLzIwMjYtMjc=A13h1MTY4NzMz",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "168731",
+   "slug": "168731",
+   "title": "43/2026-27/CCED/CHD/Div./SD-II/3rd Call",
+   "refNo": "43/2026-27/CCED/CHD/Div./SD-II/3rd Call",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-11T10:02:00+05:30",
+   "closingAt": "2026-09-18T15:00:00+05:30",
+   "openingAt": "2026-09-18T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE0OTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEwMjc4MA==A13h1NDMvMjAyNi0yNy9DQ0VEL0NIRC9EaXYuL1NELUlJLzNyZCBDYWxsA13h1MTY4NzMx",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "168732",
+   "slug": "168732",
+   "title": "32/EE/MUSSOORIE/2026-27",
+   "refNo": "32/EE/MUSSOORIE/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-11T10:02:00+05:30",
+   "closingAt": "2026-09-18T15:00:00+05:30",
+   "openingAt": "2026-09-18T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE0OTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEwMjc4MA==A13h1MzIvRUUvTVVTU09PUklFLzIwMjYtMjc=A13h1MTY4NzMy",
    "hasCorrigendum": false
   },
   {
@@ -323628,6 +323600,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_NMPT_925766_1",
+   "slug": "2026-nmpt-925766-1",
+   "title": "DETAILED STRUCTURAL ANALYSIS ADEQUACY VERIFICATION AND CERTIFICATION FOR INSTALLATION OF NEW QRMH UNITS ADJACENT TO THE EXISTING QRMH UNITS AT BERTH NO 10",
+   "refNo": "CME-11/2026-27  dated 11/09/2026",
+   "organisation": "New Mangalore Port Trust",
+   "orgSlug": "new-mangalore-port-trust",
+   "category": "other",
+   "publishedAt": "2026-09-11T10:00:00+05:30",
+   "closingAt": "2026-10-01T10:00:00+05:30",
+   "openingAt": "2026-10-05T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTg0Mzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEwMjc4MA==A13h1Q01FLTExLzIwMjYtMjcgIGRhdGVkIDExLzA5LzIwMjY=A13h1MjAyNl9OTVBUXzkyNTc2Nl8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_EIL_915857_1",
    "slug": "2026-eil-915857-1",
    "title": "EXPRESSION OF INTEREST FOR ENLISTMENT OF SUPPLIERS FOR AUTOMATIC STORAGE AND RETRIEVAL SYSTEM ASRS",
@@ -323726,6 +323712,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_DGDE_788706_1",
+   "slug": "2026-dgde-788706-1",
+   "title": "TC for repairing and re-carpeting of CF roads with 40 mm thick SDBC 60-70 grade bitumen over existing road surface (based on M.O.R.T and H.Specification)",
+   "refNo": "13490/CE/Tender/2026/1139 dated 09 Sept 2026",
+   "organisation": "Directorate General Defence Estates",
+   "orgSlug": "directorate-general-defence-estates",
+   "category": "construction",
+   "publishedAt": "2026-09-11T10:00:00+05:30",
+   "closingAt": "2026-10-01T17:00:00+05:30",
+   "openingAt": "2026-10-05T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc3Mzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEwMjc4MA==A13h1MTM0OTAvQ0UvVGVuZGVyLzIwMjYvMTEzOSBkYXRlZCAwOSBTZXB0IDIwMjY=A13h1MjAyNl9ER0RFXzc4ODcwNl8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_DGDE_788710_1",
+   "slug": "2026-dgde-788710-1",
+   "title": "TC for Rain Water Harvesting System for Cantt. Fund Buildings and Assets",
+   "refNo": "13490/CE/Tender/2026/1139 dated 09 Sept 2026",
+   "organisation": "Directorate General Defence Estates",
+   "orgSlug": "directorate-general-defence-estates",
+   "category": "other",
+   "publishedAt": "2026-09-11T10:00:00+05:30",
+   "closingAt": "2026-10-01T17:00:00+05:30",
+   "openingAt": "2026-10-05T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc3NDA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEwMjc4MA==A13h1MTM0OTAvQ0UvVGVuZGVyLzIwMjYvMTEzOSBkYXRlZCAwOSBTZXB0IDIwMjY=A13h1MjAyNl9ER0RFXzc4ODcxMF8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_788681_1",
    "slug": "2026-mes-788681-1",
    "title": "COMPREHENSIVE MAINTENANCE REPLACEMENT OF DG SET WITH ALLIED ITEMS, AMF PANELS AND ETC AT RCI TECHNICAL AREA ZONE-II EETF ELSEC CPDC UNDER GEI RND RCI HYDERABAD",
@@ -323751,6 +323765,20 @@
    "closingAt": "2026-10-02T18:00:00+05:30",
    "openingAt": "2026-10-05T10:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc0MDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAxNjMzOA==A13h1ODE1NkEvRTg=A13h1MjAyNl9NRVNfNzg4NjU4XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_NHPC_925751_1",
+   "slug": "2026-nhpc-925751-1",
+   "title": "Establishing three more EWS-PA System sites in the downstream of BSPS",
+   "refNo": "NH/BSPS/CC/IT/17/2026-27/269 dated 10/09/2026",
+   "organisation": "NHPC Limited",
+   "orgSlug": "nhpc-limited",
+   "category": "other",
+   "publishedAt": "2026-09-11T10:00:00+05:30",
+   "closingAt": "2026-10-03T15:00:00+05:30",
+   "openingAt": "2026-10-07T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTg0NTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEwMjc4MA==A13h1TkgvQlNQUy9DQy9JVC8xNy8yMDI2LTI3LzI2OSBkYXRlZCAxMC8wOS8yMDI2A13h1MjAyNl9OSFBDXzkyNTc1MV8x",
    "hasCorrigendum": false
   },
   {
@@ -323821,6 +323849,20 @@
    "closingAt": "2026-10-05T11:00:00+05:30",
    "openingAt": "2026-10-06T11:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ2ODI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0ODU5NQ==A13h1T1JESVYtMjAwMTgvODkvMjAyNi1QSVUgRGhlbmthbmFsL0UtMzIxNjk4A13h1MjAyNl9OSEFJXzI4OTY3MV8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_AAI_290465_1",
+   "slug": "2026-aai-290465-1",
+   "title": "Design, Supply, Installation, Testing and Commissioning (DSITC) of Clean Agent-based Fire Suppression System for Various NAVAIDS System at NSCBI Airport, Kolkata.",
+   "refNo": "AAI/ER/KOL/EE/NIT-09/2026-27",
+   "organisation": "Airports Authority of India",
+   "orgSlug": "airports-authority-of-india",
+   "category": "goods-supply",
+   "publishedAt": "2026-09-11T10:00:00+05:30",
+   "closingAt": "2026-10-05T11:00:00+05:30",
+   "openingAt": "2026-10-06T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc5Mjk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEwMjc4MA==A13h1QUFJL0VSL0tPTC9FRS9OSVQtMDkvMjAyNi0yNw==A13h1MjAyNl9BQUlfMjkwNDY1XzE=",
    "hasCorrigendum": false
   },
   {
