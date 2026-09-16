@@ -1,120 +1,8 @@
 {
- "generatedAt": "2026-09-15T21:34:29.630Z",
+ "generatedAt": "2026-09-16T05:03:26.653Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 21646,
+ "count": 21651,
  "tenders": [
-  {
-   "id": "2026_ARMY_776121_1",
-   "slug": "2026-army-776121-1",
-   "title": "UPGRADATION OF SPROTS FACILITY IN YOL MIL STN FOR CONSTRUCTION OF 01 X PICKLE BALL COURT OUT OF UCSF FOR FY 2026-27",
-   "refNo": "702/PICKLEBALL/RFP/26-27",
-   "organisation": "IHQ of MoD (Army)-(OSCC)",
-   "orgSlug": "ihq-of-mod-army-oscc",
-   "category": "construction",
-   "publishedAt": "2026-07-08T10:00:00+05:30",
-   "closingAt": "2026-07-18T09:00:00+05:30",
-   "openingAt": "2026-07-18T09:05:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MjI2MzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzUwMTUyMQ==A13h1NzAyL1BJQ0tMRUJBTEwvUkZQLzI2LTI3A13h1MjAyNl9BUk1ZXzc3NjEyMV8x",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_BPCL_25800",
-   "slug": "2026-bpcl-25800",
-   "title": "VCB ROOM MODIFICATION, ACB SERVICING, HIGH MAST MAINTENANCE, AND MISCELLANEOUS ELECTRICAL WORKS AT PARADEEP INSTALLATION",
-   "refNo": "1000459296",
-   "organisation": "Bharat Petroleum Corporation Limited",
-   "orgSlug": "bharat-petroleum-corporation-limited",
-   "category": "electrical",
-   "publishedAt": "2026-07-04T16:54:00+05:30",
-   "closingAt": "2026-07-18T10:00:00+05:30",
-   "openingAt": "2026-07-18T11:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MTM4MDA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzI4MDk5OQ==A13h1MTAwMDQ1OTI5Ng==A13h1MjAyNl9CUENMXzI1ODAw",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_CRPF_916798_1",
-   "slug": "2026-crpf-916798-1",
-   "title": "Repair and maintenance of Roof Water Proofing Work of Non-Residential Building at GC CRPF Pinjore",
-   "refNo": "B.V-7/2026-27-JKZ-C-CELL-(GC PINJORE)/NIT/11",
-   "organisation": "DG,CRPF,MHA",
-   "orgSlug": "dg-crpf-mha",
-   "category": "construction",
-   "publishedAt": "2026-07-11T09:00:00+05:30",
-   "closingAt": "2026-07-18T10:00:00+05:30",
-   "openingAt": "2026-07-20T11:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MzAxOTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Mzc0MTc1Mw==A13h1Qi5WLTcvMjAyNi0yNy1KS1otQy1DRUxMLShHQyBQSU5KT1JFKS9OSVQvMTE=A13h1MjAyNl9DUlBGXzkxNjc5OF8x",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_CRPF_916976_1",
-   "slug": "2026-crpf-916976-1",
-   "title": "Repair and maintenance and painting of Heritage Club SP Barrack size 85.5 x 21.5 with 7.5 at NS staff camp, sector 07, R.K. Puram, New Delhi",
-   "refNo": "B.V-7/2026-27-JKZ- CC(NS)MW/NIT06",
-   "organisation": "DG,CRPF,MHA",
-   "orgSlug": "dg-crpf-mha",
-   "category": "construction",
-   "publishedAt": "2026-07-11T09:00:00+05:30",
-   "closingAt": "2026-07-18T10:00:00+05:30",
-   "openingAt": "2026-07-20T11:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MzU3Njk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Mzc1NzkwOA==A13h1Qi5WLTcvMjAyNi0yNy1KS1otIENDKE5TKU1XL05JVDA2A13h1MjAyNl9DUlBGXzkxNjk3Nl8x",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_CRPF_916977_1",
-   "slug": "2026-crpf-916977-1",
-   "title": "Repair Maintenance of wooden wall panel in Sardar Patel hall and Repairing of windows in Vivekanand hall at ISA CRPF, Mount Abu",
-   "refNo": "B.V-7/2026-27-JKZ- CC-ISA(SP- HALL)NIT/12",
-   "organisation": "DG,CRPF,MHA",
-   "orgSlug": "dg-crpf-mha",
-   "category": "construction",
-   "publishedAt": "2026-07-11T09:00:00+05:30",
-   "closingAt": "2026-07-18T10:00:00+05:30",
-   "openingAt": "2026-07-20T11:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MzU3NzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Mzc1NzkwNA==A13h1Qi5WLTcvMjAyNi0yNy1KS1otIENDLUlTQShTUC0gSEFMTClOSVQvMTI=A13h1MjAyNl9DUlBGXzkxNjk3N18x",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_CRPF_916973_1",
-   "slug": "2026-crpf-916973-1",
-   "title": "Repairing of SOs mess kitchen at GC CRPF Sonipat HR",
-   "refNo": "B.V-7/2026-27-JKZ- CC(GCSPT)MW/NIT07",
-   "organisation": "DG,CRPF,MHA",
-   "orgSlug": "dg-crpf-mha",
-   "category": "other",
-   "publishedAt": "2026-07-11T09:00:00+05:30",
-   "closingAt": "2026-07-18T10:00:00+05:30",
-   "openingAt": "2026-07-20T11:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MzU3NjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Mzc1Nzg5Ng==A13h1Qi5WLTcvMjAyNi0yNy1KS1otIENDKEdDU1BUKU1XL05JVDA3A13h1MjAyNl9DUlBGXzkxNjk3M18x",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "107119264",
-   "slug": "107119264",
-   "title": "RESERVOIR FOR WAP-7 Loco",
-   "refNo": "03261561",
-   "organisation": "Ministry of Railways",
-   "orgSlug": "ministry-of-railways",
-   "category": "other",
-   "publishedAt": "2026-07-11T21:06:00+05:30",
-   "closingAt": "2026-07-18T10:30:00+05:30",
-   "openingAt": "2026-07-18T10:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5NDA1Nzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzkzNjQwMg==A13h1MDMyNjE1NjE=A13h1MTA3MTE5MjY0",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "107119251",
-   "slug": "107119251",
-   "title": "Door Assembly Kit",
-   "refNo": "03261573",
-   "organisation": "Ministry of Railways",
-   "orgSlug": "ministry-of-railways",
-   "category": "other",
-   "publishedAt": "2026-07-11T19:28:00+05:30",
-   "closingAt": "2026-07-18T10:30:00+05:30",
-   "openingAt": "2026-07-18T10:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5NDA1NjU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzkzNjQwMg==A13h1MDMyNjE1NzM=A13h1MTA3MTE5MjUx",
-   "hasCorrigendum": false
-  },
   {
    "id": "2026_DGMMC_10321_1",
    "slug": "2026-dgmmc-10321-1",
@@ -299184,6 +299072,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BSF_926231_1",
+   "slug": "2026-bsf-926231-1",
+   "title": "Providing and fixing of cable joint box and UG cable in defective and open patch of UG cable at Dhubulia campus of 67 Bn BSF Under SHQ BSF Krishnanagar",
+   "refNo": "29/SHQ KNR/AE(E)/NIT/2026-27",
+   "organisation": "DG,BSF,MHA",
+   "orgSlug": "dg-bsf-mha",
+   "category": "electrical",
+   "publishedAt": "2026-09-16T10:20:00+05:30",
+   "closingAt": "2026-09-21T10:30:00+05:30",
+   "openingAt": "2026-09-22T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjc4MTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTUzNDk5OA==A13h1MjkvU0hRIEtOUi9BRShFKS9OSVQvMjAyNi0yNw==A13h1MjAyNl9CU0ZfOTI2MjMxXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107142251",
    "slug": "107142251",
    "title": "MU-2B VALVE OF ELECTRIC LOCO AS PER RDSO DRG. NO. SK.DP-2420 SPECN. MP.0.01.00.37, REV-01, JUNE 2024.",
@@ -300472,6 +300374,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "169093",
+   "slug": "169093",
+   "title": "33/NIT/EE(E)/MgCED/MgCESD-II/2026-27",
+   "refNo": "33/NIT/EE(E)/MgCED/MgCESD-II/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-09-16T10:25:00+05:30",
+   "closingAt": "2026-09-23T15:00:00+05:30",
+   "openingAt": "2026-09-23T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjk1ODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTUzNDk5OA==A13h1MzMvTklUL0VFKEUpL01nQ0VEL01nQ0VTRC1JSS8yMDI2LTI3A13h1MTY5MDkz",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_AWEIL_289577_1",
    "slug": "2026-aweil-289577-1",
    "title": "Term Contract water supply and sewerage system inside factory at FGK",
@@ -301200,6 +301116,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MCL_365486_1",
+   "slug": "2026-mcl-365486-1",
+   "title": "Extension of LAN connection for road Sale weighbridges of Siarmal OCP, Mahalaxmi Area",
+   "refNo": "MCL/PO/SOCP/EM /e-Proc/2026-27/03 Date-14.09.2026",
+   "organisation": "Mahanadi Coalfields Limited",
+   "orgSlug": "mahanadi-coalfields-limited",
+   "category": "construction",
+   "publishedAt": "2026-09-16T10:00:00+05:30",
+   "closingAt": "2026-09-25T17:00:00+05:30",
+   "openingAt": "2026-09-28T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjY5Mjc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTUzNDc5NQ==A13h1TUNML1BPL1NPQ1AvRU0gL2UtUHJvYy8yMDI2LTI3LzAzIERhdGUtMTQuMDkuMjAyNg==A13h1MjAyNl9NQ0xfMzY1NDg2XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BPCL_26636",
    "slug": "2026-bpcl-26636",
    "title": "LIMITED TENDER FOR JOB OF MISCELLANEOUS CYLINDERS MAINTENANCE WORK - NTW STENCILING, VALVE CHANGING IN ADDITIONAL HOUR AND HIPPO PAINTING",
@@ -301211,6 +301141,20 @@
    "closingAt": "2026-09-25T21:00:00+05:30",
    "openingAt": "2026-09-25T21:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjMxNzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTE2MDg0OA==A13h1MTAwMDQ2NDc5MQ==A13h1MjAyNl9CUENMXzI2NjM2",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_ECL_365559_1",
+   "slug": "2026-ecl-365559-1",
+   "title": "Repairing/Replacement of Damaged Telephone Cables from Radio Shop to NE Yard Office,Main Store,and accessories of Telephones and Exchange.",
+   "refNo": "ECL/RJM/AE/(EandT)/27/Re-Tn/09 Dt 15.9 26",
+   "organisation": "Eastern Coalfields Limited",
+   "orgSlug": "eastern-coalfields-limited",
+   "category": "other",
+   "publishedAt": "2026-09-16T10:00:00+05:30",
+   "closingAt": "2026-09-26T10:00:00+05:30",
+   "openingAt": "2026-09-28T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjk0Mjg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTUzNDk5OA==A13h1RUNML1JKTS9BRS8oRWFuZFQpLzI3L1JlLVRuLzA5IER0IDE1LjkgMjY=A13h1MjAyNl9FQ0xfMzY1NTU5XzE=",
    "hasCorrigendum": false
   },
   {
@@ -301309,6 +301253,34 @@
    "closingAt": "2026-09-26T17:00:00+05:30",
    "openingAt": "2026-09-29T15:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDE1NDU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0ODgwOQ==A13h1Sk1JL0JEL0UtTklUL05vLjEyLzIwMjYtMjc=A13h1MjAyNl9KTUlfOTI0MzkwXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_CMPDI_365504_1",
+   "slug": "2026-cmpdi-365504-1",
+   "title": "Construction of platform with shed for cultural programmes at Barhu Village, Block-Kanke(Ranchi) under CSR.",
+   "refNo": "CMPDI/RI-3/CIVIL /E-tender/2026-27/40  DT.15.09.2026",
+   "organisation": "Central Mine Planning and Design Institute Limited",
+   "orgSlug": "central-mine-planning-and-design-institute-limited",
+   "category": "construction",
+   "publishedAt": "2026-09-16T10:00:00+05:30",
+   "closingAt": "2026-09-26T17:00:00+05:30",
+   "openingAt": "2026-09-28T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjcyNTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTUzNDk5OA==A13h1Q01QREkvUkktMy9DSVZJTCAvRS10ZW5kZXIvMjAyNi0yNy80MCAgRFQuMTUuMDkuMjAyNg==A13h1MjAyNl9DTVBESV8zNjU1MDRfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MCL_365523_1",
+   "slug": "2026-mcl-365523-1",
+   "title": "Renovation and Modernization of Kitchen at Basundhara Bhawan under Basundhara Area.",
+   "refNo": "MCL/GM/BA/C/e-Tender/26-27/19 dt.15.09.2026",
+   "organisation": "Mahanadi Coalfields Limited",
+   "orgSlug": "mahanadi-coalfields-limited",
+   "category": "construction",
+   "publishedAt": "2026-09-16T10:00:00+05:30",
+   "closingAt": "2026-09-26T17:00:00+05:30",
+   "openingAt": "2026-09-28T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjc3ODY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTUzNDc5NQ==A13h1TUNML0dNL0JBL0MvZS1UZW5kZXIvMjYtMjcvMTkgZHQuMTUuMDkuMjAyNg==A13h1MjAyNl9NQ0xfMzY1NTIzXzE=",
    "hasCorrigendum": false
   },
   {
@@ -301998,6 +301970,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_26572",
+   "slug": "2026-bpcl-26572",
+   "title": "CONSTRUCTION OF BOUNDARY WALL FROM EXISTING SIDING GATE AROUND OWNED LAND OF RADHAGAON DEPOT.",
+   "refNo": "1000464436",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "construction",
+   "publishedAt": "2026-09-16T10:14:00+05:30",
+   "closingAt": "2026-09-30T11:30:00+05:30",
+   "openingAt": "2026-09-30T00:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjk1ODY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTUzNDk5OA==A13h1MTAwMDQ2NDQzNg==A13h1MjAyNl9CUENMXzI2NTcy",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BHEL_65036_1",
+   "slug": "2026-bhel-65036-1",
+   "title": "Civil Repair Refurbishment and Asset Preservation Works in Building No12 and allied civil works inside BHEL EDN Factory Premises",
+   "refNo": "BHEL/EDN/FS/315/26 27/2848/14, Date 15.09.2026",
+   "organisation": "Bharat Heavy Electricals Limited",
+   "orgSlug": "bharat-heavy-electricals-limited",
+   "category": "construction",
+   "publishedAt": "2026-09-16T10:30:00+05:30",
+   "closingAt": "2026-09-30T13:00:00+05:30",
+   "openingAt": "2026-09-30T13:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjk1Njg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTUzNDk5OA==A13h1QkhFTC9FRE4vRlMvMzE1LzI2IDI3LzI4NDgvMTQsIERhdGUgMTUuMDkuMjAyNg==A13h1MjAyNl9CSEVMXzY1MDM2XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_EIL_915938_1",
    "slug": "2026-eil-915938-1",
    "title": "EXPRESSION OF INTEREST (EOI) FROM AGGREGATOR AGENCIES FOR SUPPLY OF PRESSMUD",
@@ -302051,6 +302051,20 @@
    "closingAt": "2026-09-30T15:00:00+05:30",
    "openingAt": "2026-09-30T15:05:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDY2Njk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQzNDk5Mg==A13h1RC9FRSAoUGFya2luZykvVEMvMjYtMjcvMDI=A13h1MjAyNl9NQ0RfMjg5ODMwXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_IWAI_925765_1",
+   "slug": "2026-iwai-925765-1",
+   "title": "Monthly Longitudinal Thalweg Surveys (MLTS) in the National Waterways of Goa",
+   "refNo": "IWAI-15/7/2025-HY",
+   "organisation": "Inland Waterways Authority of India,MoS",
+   "orgSlug": "inland-waterways-authority-of-india-mos",
+   "category": "other",
+   "publishedAt": "2026-09-16T10:00:00+05:30",
+   "closingAt": "2026-09-30T15:00:00+05:30",
+   "openingAt": "2026-10-01T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjU5MTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTUzNDc5NQ==A13h1SVdBSS0xNS83LzIwMjUtSFk=A13h1MjAyNl9JV0FJXzkyNTc2NV8x",
    "hasCorrigendum": false
   },
   {
@@ -302474,6 +302488,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MES_772239_2",
+   "slug": "2026-mes-772239-2",
+   "title": "REPAIR / REPLACEMENT OF EARTHING INFRASTRUCTURE INCLUDING LIGHTENING PROTECTION SYSTEM AT AIR FORCE STATION ADAMPUR",
+   "refNo": "GE(AF)/ADM/T-20 OF 2026-27",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-09-16T10:15:00+05:30",
+   "closingAt": "2026-10-03T18:00:00+05:30",
+   "openingAt": "2026-10-05T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjk1NjY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTUzNDk5OA==A13h1R0UoQUYpL0FETS9ULTIwIE9GIDIwMjYtMjc=A13h1MjAyNl9NRVNfNzcyMjM5XzI=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_IGCAR_926273_1",
+   "slug": "2026-igcar-926273-1",
+   "title": "Miscellaneous fabrication works of various SS and MS components and AC Supply Duct cleaning work at MCMFCG.",
+   "refNo": "IGCAR/MCMFCG/CFED/RPN/FAB0626",
+   "organisation": "Indira Gandhi Centre for Atomic Research",
+   "orgSlug": "indira-gandhi-centre-for-atomic-research",
+   "category": "goods-supply",
+   "publishedAt": "2026-09-16T10:30:00+05:30",
+   "closingAt": "2026-10-05T10:00:00+05:30",
+   "openingAt": "2026-10-12T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjk0MzU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTUzNDk5OA==A13h1SUdDQVIvTUNNRkNHL0NGRUQvUlBOL0ZBQjA2MjY=A13h1MjAyNl9JR0NBUl85MjYyNzNfMQ==",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NHIDC_921000_1",
    "slug": "2026-nhidc-921000-1",
    "title": "NHIDCL/Assam/2025 /BaihataChariali to MissionChariali /260456",
@@ -302768,6 +302810,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MES_789540_1",
+   "slug": "2026-mes-789540-1",
+   "title": "REPAIR/ REPLACEMENT OF FLOORING KOTA STONE, TILING JOINERY, SANITARY FITTINGS ROOF SHEET AND OTHER CONNECTED WORK AT DEPOT/ ADM AREA OF 41 VEH COY IN THE AOR OF THE AGE B/R I UNDER GE NARANGI.",
+   "refNo": "8238/B/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-09-16T10:30:00+05:30",
+   "closingAt": "2026-10-06T18:00:00+05:30",
+   "openingAt": "2026-10-08T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjk1NjU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTUzNDk5OA==A13h1ODIzOC9CL0U4A13h1MjAyNl9NRVNfNzg5NTQwXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "28575",
    "slug": "28575",
    "title": "STATCOM Package ST23T",
@@ -302905,6 +302961,20 @@
    "closingAt": "2026-10-19T15:00:00+05:30",
    "openingAt": "2026-10-21T15:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTM0Mzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODg2NzE3Nw==A13h1UkJJL011bWJhaSBSZWdpb25hbCBPZmZpY2UvRXN0YXRlIEJLQy8yNi0yNy81A13h1MjAyNl9SQklfMjkwMTI3XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BARC_925919_1",
+   "slug": "2026-barc-925919-1",
+   "title": "Injection grouting, repairs and waterproofing to RCC roof of RLG Extension, BARC, Trombay, Mumbai 400085",
+   "refNo": "BARC/HLUD/ET/13/2026-27",
+   "organisation": "Bhabha Atomic Research Centre",
+   "orgSlug": "bhabha-atomic-research-centre",
+   "category": "other",
+   "publishedAt": "2026-09-16T10:00:00+05:30",
+   "closingAt": "2026-10-21T18:00:00+05:30",
+   "openingAt": "2026-10-26T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjc1MTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTUzNDk5OA==A13h1QkFSQy9ITFVEL0VULzEzLzIwMjYtMjc=A13h1MjAyNl9CQVJDXzkyNTkxOV8x",
    "hasCorrigendum": false
   },
   {
