@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-09-17T05:04:29.853Z",
+ "generatedAt": "2026-09-17T12:06:17.236Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 21460,
+ "count": 21480,
  "tenders": [
   {
    "id": "2026_BPCL_25980",
@@ -296300,6 +296300,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "169385",
+   "slug": "169385",
+   "title": "177/EE/NDN/2026-27 (SHORT NOTICE)",
+   "refNo": "177/EE/NDN/2026-27 (SHORT NOTICE)",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-17T17:17:00+05:30",
+   "closingAt": "2026-09-21T15:00:00+05:30",
+   "openingAt": "2026-09-21T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzMwNTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY0NjM4OA==A13h1MTc3L0VFL05ETi8yMDI2LTI3IChTSE9SVCBOT1RJQ0UpA13h1MTY5Mzg1",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "169386",
+   "slug": "169386",
+   "title": "178/EE/NDN/2026-27 (SHORT NOTICE)",
+   "refNo": "178/EE/NDN/2026-27 (SHORT NOTICE)",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-17T17:17:00+05:30",
+   "closingAt": "2026-09-21T15:00:00+05:30",
+   "openingAt": "2026-09-21T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzMwNTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY0NjM4OA==A13h1MTc4L0VFL05ETi8yMDI2LTI3IChTSE9SVCBOT1RJQ0UpA13h1MTY5Mzg2",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NTPC_111979_1",
    "slug": "2026-ntpc-111979-1",
    "title": "Bi annual Maintenance Service Contract for BARCO LVS Mouda Stage II",
@@ -296846,6 +296874,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "169353",
+   "slug": "169353",
+   "title": "NIT56/EE/PE/2026-27",
+   "refNo": "NIT56/EE/PE/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-17T17:16:00+05:30",
+   "closingAt": "2026-09-22T15:00:00+05:30",
+   "openingAt": "2026-09-22T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzMwNTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY0NjIyMA==A13h1TklUNTYvRUUvUEUvMjAyNi0yNw==A13h1MTY5MzUz",
+   "hasCorrigendum": false
+  },
+  {
    "id": "169047",
    "slug": "169047",
    "title": "40/AE-E/BCESD-IV/BCED/CPWD/2026-27",
@@ -297336,6 +297378,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_26684",
+   "slug": "2026-bpcl-26684",
+   "title": "TENDER FOR NRVI WORK AT DSD RHS SAHARANPUR WSA",
+   "refNo": "1000465102",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "other",
+   "publishedAt": "2026-09-17T17:34:00+05:30",
+   "closingAt": "2026-09-23T15:00:00+05:30",
+   "openingAt": "2026-09-23T15:10:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzMwNjg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY0Njc2Mw==A13h1MTAwMDQ2NTEwMg==A13h1MjAyNl9CUENMXzI2Njg0",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MKTHO_191365_1",
    "slug": "2026-mktho-191365-1",
    "title": "Extension of Pipelines and Allied Works for 1 Ltr Rotary Filling Machine and Bucket Filling Machine at LBP Mumbai",
@@ -297728,6 +297784,48 @@
    "hasCorrigendum": false
   },
   {
+   "id": "169329",
+   "slug": "169329",
+   "title": "37-EEE-SJHED-2026-27-Re-invite",
+   "refNo": "37-EEE-SJHED-2026-27-Re-invite",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-17T17:26:00+05:30",
+   "closingAt": "2026-09-24T15:00:00+05:30",
+   "openingAt": "2026-09-24T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzMwNjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY0Njc2Mw==A13h1MzctRUVFLVNKSEVELTIwMjYtMjctUmUtaW52aXRlA13h1MTY5MzI5",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MCD_291185_1",
+   "slug": "2026-mcd-291185-1",
+   "title": "Imp. Dev. Of lane by pdg. CC from H.No.100 to H.No.78 H.No.78 to H.No.73 and adjoining lane Gadariya wali gali in Malka Ganj Ward No.12.",
+   "refNo": "EE(M-I)CLZ/2026-27/ 20-19",
+   "organisation": "Municipal Corporation of Delhi",
+   "orgSlug": "municipal-corporation-of-delhi",
+   "category": "construction",
+   "publishedAt": "2026-09-17T17:30:00+05:30",
+   "closingAt": "2026-09-24T15:00:00+05:30",
+   "openingAt": "2026-09-24T15:05:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzMwMzU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY0Njc2Mw==A13h1RUUoTS1JKUNMWi8yMDI2LTI3LyAyMC0xOQ==A13h1MjAyNl9NQ0RfMjkxMTg1XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "169297",
+   "slug": "169297",
+   "title": "41/AE-E/BCESD-IV/BCED/CPWD/2026-27",
+   "refNo": "41/AE-E/BCESD-IV/BCED/CPWD/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-17T17:31:00+05:30",
+   "closingAt": "2026-09-24T15:00:00+05:30",
+   "openingAt": "2026-09-24T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzMwNjY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY0Njc2Mw==A13h1NDEvQUUtRS9CQ0VTRC1JVi9CQ0VEL0NQV0QvMjAyNi0yNw==A13h1MTY5Mjk3",
+   "hasCorrigendum": false
+  },
+  {
    "id": "169250",
    "slug": "169250",
    "title": "29/NIQ/EE SM (E)/IPED/CPWD/2026-27",
@@ -297781,6 +297879,34 @@
    "closingAt": "2026-09-24T16:00:00+05:30",
    "openingAt": "2026-09-25T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjQ5ODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTI0NTg1MA==A13h1RUUvUE1HU1kvUi8zMiBvZiAyMDI2LTI3IERhdGVkIDExLjA5LjIwMjY=A13h1MjAyNl9KS1JSRF8xNDk0ODNfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "169270",
+   "slug": "169270",
+   "title": "106/EE/KCD-IV/CPWD/2026-27",
+   "refNo": "106/EE/KCD-IV/CPWD/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-17T17:20:00+05:30",
+   "closingAt": "2026-09-24T16:00:00+05:30",
+   "openingAt": "2026-09-24T16:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzMwNjA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY0NjQ2OQ==A13h1MTA2L0VFL0tDRC1JVi9DUFdELzIwMjYtMjc=A13h1MTY5Mjcw",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "169348",
+   "slug": "169348",
+   "title": "107/EE/KCD-IV/CPWD/2026-27",
+   "refNo": "107/EE/KCD-IV/CPWD/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-17T17:30:00+05:30",
+   "closingAt": "2026-09-24T16:00:00+05:30",
+   "openingAt": "2026-09-24T16:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzMwNjU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY0Njc2Mw==A13h1MTA3L0VFL0tDRC1JVi9DUFdELzIwMjYtMjc=A13h1MTY5MzQ4",
    "hasCorrigendum": false
   },
   {
@@ -297865,6 +297991,20 @@
    "closingAt": "2026-09-24T17:00:00+05:30",
    "openingAt": "2026-09-24T17:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzIwMDA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTU5NDIyOQ==A13h1MTMvTklUL0VFL1NEL0NQV0QvMjAyNi0yMDI3A13h1MTY5MjUx",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "169389",
+   "slug": "169389",
+   "title": "49/EE(E)/DED-31/2026-27",
+   "refNo": "49/EE(E)/DED-31/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-09-17T17:17:00+05:30",
+   "closingAt": "2026-09-24T17:15:00+05:30",
+   "openingAt": "2026-09-24T17:16:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzMwNTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY0NjM4OA==A13h1NDkvRUUoRSkvREVELTMxLzIwMjYtMjc=A13h1MTY5Mzg5",
    "hasCorrigendum": false
   },
   {
@@ -298120,6 +298260,48 @@
    "hasCorrigendum": false
   },
   {
+   "id": "169376",
+   "slug": "169376",
+   "title": "163/EE (E)/DED-21/2026-27",
+   "refNo": "163/EE (E)/DED-21/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-09-17T17:22:00+05:30",
+   "closingAt": "2026-09-25T14:59:00+05:30",
+   "openingAt": "2026-09-25T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzMwNjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY0Njc0NA==A13h1MTYzL0VFIChFKS9ERUQtMjEvMjAyNi0yNw==A13h1MTY5Mzc2",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "169374",
+   "slug": "169374",
+   "title": "162/EE (E)/DED-21/2026-27",
+   "refNo": "162/EE (E)/DED-21/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-09-17T17:20:00+05:30",
+   "closingAt": "2026-09-25T14:59:00+05:30",
+   "openingAt": "2026-09-25T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzMwNjE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY0NjQ4Nw==A13h1MTYyL0VFIChFKS9ERUQtMjEvMjAyNi0yNw==A13h1MTY5Mzc0",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "169372",
+   "slug": "169372",
+   "title": "161/EE (E)/DED-21/2026-27",
+   "refNo": "161/EE (E)/DED-21/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-09-17T17:17:00+05:30",
+   "closingAt": "2026-09-25T14:59:00+05:30",
+   "openingAt": "2026-09-25T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzMwNTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY0NjM4OA==A13h1MTYxL0VFIChFKS9ERUQtMjEvMjAyNi0yNw==A13h1MTY5Mzcy",
+   "hasCorrigendum": false
+  },
+  {
    "id": "168726",
    "slug": "168726",
    "title": "04/NIT/CE/GHY/2026-27",
@@ -298159,6 +298341,34 @@
    "closingAt": "2026-09-25T15:00:00+05:30",
    "openingAt": "2026-09-26T15:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjIzNTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTE4ODUwNg==A13h1TlBDQy9OWi1KL1BIUS1Xb3JrcyAoSkspLyAyMDI2LTI3LzE5NA==A13h1MjAyNl9OUENDXzI5MDY3NF8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "169390",
+   "slug": "169390",
+   "title": "55/EE/VBD/2026-27",
+   "refNo": "55/EE/VBD/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-17T17:21:00+05:30",
+   "closingAt": "2026-09-25T15:00:00+05:30",
+   "openingAt": "2026-09-25T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzMwNjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY0NjUwNg==A13h1NTUvRUUvVkJELzIwMjYtMjc=A13h1MTY5Mzkw",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "169387",
+   "slug": "169387",
+   "title": "158/NIT/EE-KOL-III/CPWD/2026-27",
+   "refNo": "158/NIT/EE-KOL-III/CPWD/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-17T17:17:00+05:30",
+   "closingAt": "2026-09-25T15:00:00+05:30",
+   "openingAt": "2026-09-25T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzMwNTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY0NjM4OA==A13h1MTU4L05JVC9FRS1LT0wtSUlJL0NQV0QvMjAyNi0yNw==A13h1MTY5Mzg3",
    "hasCorrigendum": false
   },
   {
@@ -298495,6 +298705,20 @@
    "closingAt": "2026-09-28T11:00:00+05:30",
    "openingAt": "2026-09-29T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzIwNDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTYyMTMyMA==A13h1MTIvRUUvRW5nZy9TSFEgQlNGIEpTTVItTi8yMDI2LTI3A13h1MjAyNl9CU0ZfOTI2NTI3XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_RBI_290975_1",
+   "slug": "2026-rbi-290975-1",
+   "title": "Renov of 8 class III flats at BNQ",
+   "refNo": "Renov of 8 class III flats at BNQ",
+   "organisation": "Reserve Bank Of India",
+   "orgSlug": "reserve-bank-of-india",
+   "category": "other",
+   "publishedAt": "2026-09-17T17:30:00+05:30",
+   "closingAt": "2026-09-28T11:00:00+05:30",
+   "openingAt": "2026-09-29T11:05:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzI1NTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY0Njc2Mw==A13h1UmVub3Ygb2YgOCBjbGFzcyBJSUkgZmxhdHMgYXQgQk5RA13h1MjAyNl9SQklfMjkwOTc1XzE=",
    "hasCorrigendum": false
   },
   {
@@ -299646,6 +299870,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "169375",
+   "slug": "169375",
+   "title": "03/SEPD/KPC/2026-27",
+   "refNo": "03/SEPD/KPC/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-17T17:31:00+05:30",
+   "closingAt": "2026-10-03T15:00:00+05:30",
+   "openingAt": "2026-10-03T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzMwNjc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY0Njc2Mw==A13h1MDMvU0VQRC9LUEMvMjAyNi0yNw==A13h1MTY5Mzc1",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NHIDC_925969_1",
    "slug": "2026-nhidc-925969-1",
    "title": "Supply, Installation, Testing, Commissioning, Operation and Maintenance of Centralized Control and Monitoring System (CCMS) for Street Lighting on National Highways under NHIDCL, RO Gangtok on five (05) Year Contract Basis. 2nd call",
@@ -300108,6 +300346,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_APCPL_291263_1",
+   "slug": "2026-apcpl-291263-1",
+   "title": "Modification and Renovation work of Existing B 19 block from B type to D type Block at IGSTPP Jharli Haryana",
+   "refNo": "IGSTPP/CS/26-27/CRN-4699",
+   "organisation": "Aravali Power Company Pvt. Ltd - IGSTPP",
+   "orgSlug": "aravali-power-company-pvt-ltd-igstpp",
+   "category": "construction",
+   "publishedAt": "2026-09-17T17:30:00+05:30",
+   "closingAt": "2026-10-07T15:00:00+05:30",
+   "openingAt": "2026-10-08T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzMwMzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY0Njc2Mw==A13h1SUdTVFBQL0NTLzI2LTI3L0NSTi00Njk5A13h1MjAyNl9BUENQTF8yOTEyNjNfMQ==",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_IIMS_926274_1",
    "slug": "2026-iims-926274-1",
    "title": "Supply, Installation, Testing and Commissioning Of Audio-Visual (AV) Equipment, Desktop Computers and O and M for the Classrooms in the Institute Campus",
@@ -300150,6 +300402,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_NCB_926631_1",
+   "slug": "2026-ncb-926631-1",
+   "title": "Tender notice for hiring of office accommodation on rent basis for NCB, Agartala",
+   "refNo": "I/NCB/Agartala/Tender/2026",
+   "organisation": "Narcotics Control Bureau (HQ)",
+   "orgSlug": "narcotics-control-bureau-hq",
+   "category": "other",
+   "publishedAt": "2026-09-17T17:30:00+05:30",
+   "closingAt": "2026-10-08T11:00:00+05:30",
+   "openingAt": "2026-10-09T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzMwMTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY0Njc2Mw==A13h1SS9OQ0IvQWdhcnRhbGEvVGVuZGVyLzIwMjY=A13h1MjAyNl9OQ0JfOTI2NjMxXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BARC_925501_1",
    "slug": "2026-barc-925501-1",
    "title": "Fabrication, Inspection, Testing and Erection of SS304L piping spool and their sub-assemblies used for transfer of acid and alkali chemicals from KARP to WIPK and transfer of Technetium (Tc-99) by pipe in pipe technique from WIP-K to CWMF",
@@ -300161,6 +300427,20 @@
    "closingAt": "2026-10-08T15:00:00+05:30",
    "openingAt": "2026-10-16T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjIwMDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTQ0ODc1NQ==A13h1QkFSQ0YvSU4tTUEvV00vVFIvNTgvMjAyNi9SVA==A13h1MjAyNl9CQVJDXzkyNTUwMV8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_ONGC_291143_1",
+   "slug": "2026-ongc-291143-1",
+   "title": "Procurement of Sun Hydraulics make hydraulic valves for Drilling Services,Mehsana Asset",
+   "refNo": "ED1WS26002",
+   "organisation": "Oil and Natural Gas Corporation Limited",
+   "orgSlug": "oil-and-natural-gas-corporation-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-09-17T17:30:00+05:30",
+   "closingAt": "2026-10-08T15:00:00+05:30",
+   "openingAt": "2026-10-09T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzIzNDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY0Njc2Mw==A13h1RUQxV1MyNjAwMg==A13h1MjAyNl9PTkdDXzI5MTE0M18x",
    "hasCorrigendum": false
   },
   {
