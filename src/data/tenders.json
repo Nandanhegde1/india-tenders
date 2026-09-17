@@ -1,22 +1,8 @@
 {
- "generatedAt": "2026-09-17T12:06:17.236Z",
+ "generatedAt": "2026-09-17T17:16:19.529Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 21480,
+ "count": 21489,
  "tenders": [
-  {
-   "id": "2026_BPCL_25980",
-   "slug": "2026-bpcl-25980",
-   "title": "MAINTENANCE JOBS IN SHORT SHUTDOWN OF SRU TRAIN D AT BPCL MR",
-   "refNo": "1000460332",
-   "organisation": "Bharat Petroleum Corporation Limited",
-   "orgSlug": "bharat-petroleum-corporation-limited",
-   "category": "other",
-   "publishedAt": "2026-07-18T16:58:00+05:30",
-   "closingAt": "2026-07-19T18:00:00+05:30",
-   "openingAt": "2026-07-19T18:01:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5NTc0Njk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NDQ1MDQyOA==A13h1MTAwMDQ2MDMzMg==A13h1MjAyNl9CUENMXzI1OTgw",
-   "hasCorrigendum": false
-  },
   {
    "id": "2026_IAF_776380_1",
    "slug": "2026-iaf-776380-1",
@@ -296132,6 +296118,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_26685",
+   "slug": "2026-bpcl-26685",
+   "title": "CONTRACT FOR OPENING, CLEANING AND BOX UP OF VHV 38 VESSEL IN VGOHDS UNIT OF BPCL KR DURING SHUTDOWN",
+   "refNo": "1000465104",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "other",
+   "publishedAt": "2026-09-17T21:31:00+05:30",
+   "closingAt": "2026-09-21T14:00:00+05:30",
+   "openingAt": "2026-09-21T14:01:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzY3MTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY2NTM2OA==A13h1MTAwMDQ2NTEwNA==A13h1MjAyNl9CUENMXzI2Njg1",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BPCL_26433",
    "slug": "2026-bpcl-26433",
    "title": "CIVIL & UG WORKS FOR PETRO RESID FLUIDIZED CATALYTIC CRACKING (PRFCC) UNIT AT BPCL MUMBAI REFINERY, MAHUL",
@@ -296325,6 +296325,20 @@
    "closingAt": "2026-09-21T15:00:00+05:30",
    "openingAt": "2026-09-21T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzMwNTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY0NjM4OA==A13h1MTc4L0VFL05ETi8yMDI2LTI3IChTSE9SVCBOT1RJQ0UpA13h1MTY5Mzg2",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "169412",
+   "slug": "169412",
+   "title": "144/49/NIT/AE-II/EE-KOL-III/CPWD/2026-2027(2nd Call)",
+   "refNo": "144/49/NIT/AE-II/EE-KOL-III/CPWD/2026-2027(2nd Call)",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-17T20:01:00+05:30",
+   "closingAt": "2026-09-21T15:00:00+05:30",
+   "openingAt": "2026-09-21T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzY3MTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY2NTM2OA==A13h1MTQ0LzQ5L05JVC9BRS1JSS9FRS1LT0wtSUlJL0NQV0QvMjAyNi0yMDI3KDJuZCBDYWxsKQ==A13h1MTY5NDEy",
    "hasCorrigendum": false
   },
   {
@@ -296930,6 +296944,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_NTPC_112017_1",
+   "slug": "2026-ntpc-112017-1",
+   "title": "Renewal of Firewall License for 03 Years for Internet Leased Line ILL At NTPC Kahalgaon",
+   "refNo": "NTPC/USSC-CPG3/9900333409",
+   "organisation": "NTPC Limited",
+   "orgSlug": "ntpc-limited",
+   "category": "other",
+   "publishedAt": "2026-09-17T18:55:00+05:30",
+   "closingAt": "2026-09-22T15:30:00+05:30",
+   "openingAt": "2026-09-23T16:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzY2Mjk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY2NTM2OA==A13h1TlRQQy9VU1NDLUNQRzMvOTkwMDMzMzQwOQ==A13h1MjAyNl9OVFBDXzExMjAxN18x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NAVY_788758_1",
    "slug": "2026-navy-788758-1",
    "title": "CAMC FOR REPAIR MAINTENANCE OF AVLF AND CFGS FITTED ONBOARD IN SHIPS SUBMARINES AND SHORE UNITS OF WNC",
@@ -297392,6 +297420,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_CSIR_291282_1",
+   "slug": "2026-csir-291282-1",
+   "title": "Repair/replacement of damaged water proofing sheet at roof top on near ENVIS/Auditorium area in main building and paper machine room in garden and other allied works at NBRI Lucknow.",
+   "refNo": "1/WKS/04/26-Gl",
+   "organisation": "Council of Scientific and Industrial Research",
+   "orgSlug": "council-of-scientific-and-industrial-research",
+   "category": "construction",
+   "publishedAt": "2026-09-17T18:55:00+05:30",
+   "closingAt": "2026-09-23T15:00:00+05:30",
+   "openingAt": "2026-09-24T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzY2NjY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY2NTM2OA==A13h1MS9XS1MvMDQvMjYtR2w=A13h1MjAyNl9DU0lSXzI5MTI4Ml8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MKTHO_191365_1",
    "slug": "2026-mktho-191365-1",
    "title": "Extension of Pipelines and Allied Works for 1 Ltr Rotary Filling Machine and Bucket Filling Machine at LBP Mumbai",
@@ -297529,6 +297571,20 @@
    "closingAt": "2026-09-23T17:00:00+05:30",
    "openingAt": "2026-09-23T17:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzAyNzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTU1OTY0Mg==A13h1ODEvRUUvQ1NELzIwMjYtMjc=A13h1MTY5MjE1",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "169214",
+   "slug": "169214",
+   "title": "21/2026-27/EE/CPWD/Vijayawada (3rd call)",
+   "refNo": "21/2026-27/EE/CPWD/Vijayawada (3rd call)",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-17T20:06:00+05:30",
+   "closingAt": "2026-09-23T17:00:00+05:30",
+   "openingAt": "2026-09-23T17:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzY3MTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY2NTM2OA==A13h1MjEvMjAyNi0yNy9FRS9DUFdEL1ZpamF5YXdhZGEgKDNyZCBjYWxsKQ==A13h1MTY5MjE0",
    "hasCorrigendum": false
   },
   {
@@ -298372,6 +298428,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "169410",
+   "slug": "169410",
+   "title": "15/NIT/EE/SD/CPWD/2026-2027",
+   "refNo": "15/NIT/EE/SD/CPWD/2026-2027",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-17T19:15:00+05:30",
+   "closingAt": "2026-09-25T15:00:00+05:30",
+   "openingAt": "2026-09-25T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzY2OTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY2NTM2OA==A13h1MTUvTklUL0VFL1NEL0NQV0QvMjAyNi0yMDI3A13h1MTY5NDEw",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_RRCAT_924481_1",
    "slug": "2026-rrcat-924481-1",
    "title": "Design, fabrication, supply, installation, testing and commissioning of HVAC system for RF Lab at RRCAT, Indore",
@@ -298719,6 +298789,20 @@
    "closingAt": "2026-09-28T11:00:00+05:30",
    "openingAt": "2026-09-29T11:05:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzI1NTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY0Njc2Mw==A13h1UmVub3Ygb2YgOCBjbGFzcyBJSUkgZmxhdHMgYXQgQk5RA13h1MjAyNl9SQklfMjkwOTc1XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "28612",
+   "slug": "28612",
+   "title": "Transmission Line Package TL01 for LILO of 765 kV D/C Vemagiri Srikakulam line at Kakinada substation",
+   "refNo": "CC/T/W-TW/DOM/A06/26/13026",
+   "organisation": "Power Grid Corporation of India Limited",
+   "orgSlug": "power-grid-corporation-of-india-limited",
+   "category": "electrical",
+   "publishedAt": "2026-09-17T19:10:00+05:30",
+   "closingAt": "2026-09-28T11:00:00+05:30",
+   "openingAt": "2026-09-28T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzY2OTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY2NTM2OA==A13h1Q0MvVC9XLVRXL0RPTS9BMDYvMjYvMTMwMjY=A13h1Mjg2MTI=",
    "hasCorrigendum": false
   },
   {
@@ -299856,6 +299940,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_NCL_365560_1",
+   "slug": "2026-ncl-365560-1",
+   "title": "External repair and painting of Miners quarters and A-type quarters at Jhingurda Project.",
+   "refNo": "NCL/JRD/C/26-27/ETN-05 dated 17.09.2026",
+   "organisation": "Northern Coalfields Limited",
+   "orgSlug": "northern-coalfields-limited",
+   "category": "construction",
+   "publishedAt": "2026-09-17T18:55:00+05:30",
+   "closingAt": "2026-10-03T11:00:00+05:30",
+   "openingAt": "2026-10-05T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzIwMDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY2NTM2OA==A13h1TkNML0pSRC9DLzI2LTI3L0VUTi0wNSBkYXRlZCAxNy4wOS4yMDI2A13h1MjAyNl9OQ0xfMzY1NTYwXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NHPC_925751_1",
    "slug": "2026-nhpc-925751-1",
    "title": "Establishing three more EWS-PA System sites in the downstream of BSPS",
@@ -300514,6 +300612,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "28613",
+   "slug": "28613",
+   "title": "400kV AIS Extn. Substation Package SS 186T (including GIS Extn)",
+   "refNo": "CC/T/W-AIS/DOM/A01/26/12658",
+   "organisation": "Power Grid Corporation of India Limited",
+   "orgSlug": "power-grid-corporation-of-india-limited",
+   "category": "electrical",
+   "publishedAt": "2026-09-17T20:05:00+05:30",
+   "closingAt": "2026-10-15T11:00:00+05:30",
+   "openingAt": "2026-10-15T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzY3MTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY2NTM2OA==A13h1Q0MvVC9XLUFJUy9ET00vQTAxLzI2LzEyNjU4A13h1Mjg2MTM=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107119202",
    "slug": "107119202",
    "title": "ATTACHMENT WALL FOR LAV. ACCESSORY OF LHB TYPE COACHES as per Drg. No. LS63124 ALT b. Packing Instruction - PI042. The color code of attachment wall for Lav. as per ISC-177(satin Blue)",
@@ -300553,6 +300665,20 @@
    "closingAt": "2026-10-19T15:00:00+05:30",
    "openingAt": "2026-10-21T15:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTM0Mzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODg2NzE3Nw==A13h1UkJJL011bWJhaSBSZWdpb25hbCBPZmZpY2UvRXN0YXRlIEJLQy8yNi0yNy81A13h1MjAyNl9SQklfMjkwMTI3XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "169411",
+   "slug": "169411",
+   "title": "09/CE-cum-ED/DPZ-I/2026-27",
+   "refNo": "09/CE-cum-ED/DPZ-I/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-17T19:38:00+05:30",
+   "closingAt": "2026-10-19T15:00:00+05:30",
+   "openingAt": "2026-10-19T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzY2OTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTY2NTM2OA==A13h1MDkvQ0UtY3VtLUVEL0RQWi1JLzIwMjYtMjc=A13h1MTY5NDEx",
    "hasCorrigendum": false
   },
   {
