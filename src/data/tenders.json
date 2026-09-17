@@ -1,64 +1,8 @@
 {
- "generatedAt": "2026-09-16T21:30:37.652Z",
+ "generatedAt": "2026-09-17T05:04:29.853Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 21453,
+ "count": 21460,
  "tenders": [
-  {
-   "id": "2026_BPCL_25797",
-   "slug": "2026-bpcl-25797",
-   "title": "NRO PAMURU POLICE",
-   "refNo": "1000459293",
-   "organisation": "Bharat Petroleum Corporation Limited",
-   "orgSlug": "bharat-petroleum-corporation-limited",
-   "category": "other",
-   "publishedAt": "2026-07-04T18:44:00+05:30",
-   "closingAt": "2026-07-19T10:00:00+05:30",
-   "openingAt": "2026-07-19T10:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MTU1Nzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzMxMzMwNQ==A13h1MTAwMDQ1OTI5Mw==A13h1MjAyNl9CUENMXzI1Nzk3",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_BPCL_25866",
-   "slug": "2026-bpcl-25866",
-   "title": "ELECTRICAL WORK RELATED TO NEW CCTV INSTALLATION INCLUDING SUPPLY LAYING OF ELECTRICAL CABLES & OTHER ELECTRICAL APPLIANCES",
-   "refNo": "1000459646",
-   "organisation": "Bharat Petroleum Corporation Limited",
-   "orgSlug": "bharat-petroleum-corporation-limited",
-   "category": "electrical",
-   "publishedAt": "2026-07-09T11:07:00+05:30",
-   "closingAt": "2026-07-19T10:00:00+05:30",
-   "openingAt": "2026-07-19T10:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5Mjc1NDA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzU5MTYyNA==A13h1MTAwMDQ1OTY0Ng==A13h1MjAyNl9CUENMXzI1ODY2",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_BPCL_25867",
-   "slug": "2026-bpcl-25867",
-   "title": "PARKING DRAIN REVAMP & PROVIDING BOULDER GROUTING FOR NEW FIRE WATER PIPELINE",
-   "refNo": "1000459642",
-   "organisation": "Bharat Petroleum Corporation Limited",
-   "orgSlug": "bharat-petroleum-corporation-limited",
-   "category": "construction",
-   "publishedAt": "2026-07-09T11:07:00+05:30",
-   "closingAt": "2026-07-19T10:00:00+05:30",
-   "openingAt": "2026-07-19T10:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5Mjc1Mzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzU5MTYzMA==A13h1MTAwMDQ1OTY0Mg==A13h1MjAyNl9CUENMXzI1ODY3",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_BPCL_25868",
-   "slug": "2026-bpcl-25868",
-   "title": "WORK CONTRACT FOR CONSTRUCTION OF U/G TANK(5MX3MX2.5M) FOR CALIBRATION TOWER WATER RECYLCE AND PIPELINE CONNECTION WITH CALIBRATION TOWER",
-   "refNo": "1000459643",
-   "organisation": "Bharat Petroleum Corporation Limited",
-   "orgSlug": "bharat-petroleum-corporation-limited",
-   "category": "construction",
-   "publishedAt": "2026-07-09T11:05:00+05:30",
-   "closingAt": "2026-07-19T10:00:00+05:30",
-   "openingAt": "2026-07-19T10:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5Mjc1Mzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzU5MTYzMA==A13h1MTAwMDQ1OTY0Mw==A13h1MjAyNl9CUENMXzI1ODY4",
-   "hasCorrigendum": false
-  },
   {
    "id": "2026_BPCL_25980",
    "slug": "2026-bpcl-25980",
@@ -296076,6 +296020,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "28600",
+   "slug": "28600",
+   "title": "Dark Fiber Lease from PNQ26 to PNQ27 for the period of three years.",
+   "refNo": "WR1/NT/S-MISC/DOM/ZA3/26/13049",
+   "organisation": "Power Grid Corporation of India Limited",
+   "orgSlug": "power-grid-corporation-of-india-limited",
+   "category": "other",
+   "publishedAt": "2026-09-17T10:15:00+05:30",
+   "closingAt": "2026-09-21T11:00:00+05:30",
+   "openingAt": "2026-09-22T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzIxMjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTYyMTQ2MQ==A13h1V1IxL05UL1MtTUlTQy9ET00vWkEzLzI2LzEzMDQ5A13h1Mjg2MDA=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MoRTH_920868_1",
    "slug": "2026-morth-920868-1",
    "title": "Construction of Mahendra Tanaya Bridge at Km 92.250 Design Chainage 1.230 km on NH 326A in the State of Odisha on EPC mode",
@@ -296339,6 +296297,20 @@
    "closingAt": "2026-09-21T15:00:00+05:30",
    "openingAt": "2026-09-21T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzE5OTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTU5NDIyOQ==A13h1NjkoMikvQUUtMy9JSS8yMDI2LzE2OA==A13h1MTY5MjQ2",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_NTPC_111979_1",
+   "slug": "2026-ntpc-111979-1",
+   "title": "Bi annual Maintenance Service Contract for BARCO LVS Mouda Stage II",
+   "refNo": "NTPC/USSC-CPG3/9900333554",
+   "organisation": "NTPC Limited",
+   "orgSlug": "ntpc-limited",
+   "category": "other",
+   "publishedAt": "2026-09-17T10:30:00+05:30",
+   "closingAt": "2026-09-21T15:30:00+05:30",
+   "openingAt": "2026-09-22T16:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzIxMTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTYyMTQ2MQ==A13h1TlRQQy9VU1NDLUNQRzMvOTkwMDMzMzU1NA==A13h1MjAyNl9OVFBDXzExMTk3OV8x",
    "hasCorrigendum": false
   },
   {
@@ -296731,6 +296703,20 @@
    "closingAt": "2026-09-22T11:00:00+05:30",
    "openingAt": "2026-09-22T11:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjY4ODM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTQyMzA0Nw==A13h1NTIvRUUvVkJELzIwMjYtMjc=A13h1MTY4OTQy",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BCCL_365650_1",
+   "slug": "2026-bccl-365650-1",
+   "title": "Complete dismantling, transportation, re-fitting/assembling and recommissioning of TATA make EX1200V Hydraulic Shovel, Sl. No. OABY-002059, BCCL No. S-462 from Lodna Area to Sijua Area.",
+   "refNo": "BCCL/SA/EXCV/ETENDER/26-27/62",
+   "organisation": "Bharat Coking Coal Limited",
+   "orgSlug": "bharat-coking-coal-limited",
+   "category": "other",
+   "publishedAt": "2026-09-17T10:00:00+05:30",
+   "closingAt": "2026-09-22T11:00:00+05:30",
+   "openingAt": "2026-09-23T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzIwODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTYyMTQ2MQ==A13h1QkNDTC9TQS9FWENWL0VURU5ERVIvMjYtMjcvNjI=A13h1MjAyNl9CQ0NMXzM2NTY1MF8x",
    "hasCorrigendum": false
   },
   {
@@ -297179,6 +297165,20 @@
    "closingAt": "2026-09-23T12:30:00+05:30",
    "openingAt": "2026-09-23T12:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5NDA1Njg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzkzNjQwNw==A13h1NjEyNjE4NjA=A13h1MTA3MTE5MjU0",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BHEL_65050_1",
+   "slug": "2026-bhel-65050-1",
+   "title": "MVME000778",
+   "refNo": "MVME000778",
+   "organisation": "Bharat Heavy Electricals Limited",
+   "orgSlug": "bharat-heavy-electricals-limited",
+   "category": "other",
+   "publishedAt": "2026-09-17T10:30:00+05:30",
+   "closingAt": "2026-09-23T13:00:00+05:30",
+   "openingAt": "2026-09-23T14:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzIwOTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTYyMTQ2MQ==A13h1TVZNRTAwMDc3OA==A13h1MjAyNl9CSEVMXzY1MDUwXzE=",
    "hasCorrigendum": false
   },
   {
@@ -297711,6 +297711,20 @@
    "closingAt": "2026-09-24T15:00:00+05:30",
    "openingAt": "2026-09-24T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzE5OTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTU5NDIyOQ==A13h1NTMvRUUtRS9CQlNSL0FFLUUtSUkvQ1BXRC8yMDI2LTI3A13h1MTY5MjQ5",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "169254",
+   "slug": "169254",
+   "title": "70/EE(E)/DED-301/2026-27",
+   "refNo": "70/EE(E)/DED-301/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-09-17T10:32:00+05:30",
+   "closingAt": "2026-09-24T15:00:00+05:30",
+   "openingAt": "2026-09-24T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzIxMjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTYyMTQ2MQ==A13h1NzAvRUUoRSkvREVELTMwMS8yMDI2LTI3A13h1MTY5MjU0",
    "hasCorrigendum": false
   },
   {
@@ -298470,6 +298484,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BSF_926527_1",
+   "slug": "2026-bsf-926527-1",
+   "title": "Replacement of filtration media 02 Nos slow sand filter SH Replacement of filter media at 26 Bn BSF under SHQ BSF JSMR North",
+   "refNo": "12/EE/Engg/SHQ BSF JSMR-N/2026-27",
+   "organisation": "DG,BSF,MHA",
+   "orgSlug": "dg-bsf-mha",
+   "category": "other",
+   "publishedAt": "2026-09-17T10:00:00+05:30",
+   "closingAt": "2026-09-28T11:00:00+05:30",
+   "openingAt": "2026-09-29T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzIwNDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTYyMTMyMA==A13h1MTIvRUUvRW5nZy9TSFEgQlNGIEpTTVItTi8yMDI2LTI3A13h1MjAyNl9CU0ZfOTI2NTI3XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107111129",
    "slug": "107111129",
    "title": "ANTI ROLL BAR FORK FOR FIAT BOGIE",
@@ -298932,6 +298960,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BHEL_65016_1",
+   "slug": "2026-bhel-65016-1",
+   "title": "SAME001845",
+   "refNo": "SAME001845",
+   "organisation": "Bharat Heavy Electricals Limited",
+   "orgSlug": "bharat-heavy-electricals-limited",
+   "category": "other",
+   "publishedAt": "2026-09-17T10:00:00+05:30",
+   "closingAt": "2026-09-29T13:00:00+05:30",
+   "openingAt": "2026-09-29T14:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzIwOTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTYyMTQ2MQ==A13h1U0FNRTAwMTg0NQ==A13h1MjAyNl9CSEVMXzY1MDE2XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_CSL_289980_1",
    "slug": "2026-csl-289980-1",
    "title": "Print and Supply of Safety Signage",
@@ -299100,6 +299142,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_ARMHA_926508_1",
+   "slug": "2026-armha-926508-1",
+   "title": "Repair/Maint and periodical services in Bldg No. AR/CPWD/T-I/25, 26, 27, 28 and 29 (Type-I Quarters Transit Area) and Building No AR/CPWD/T-I/18, 19, 20, 21 and 22 (Type-I Quarters of JCOs Club Area) of No 4 MGAR (S) at Maram",
+   "refNo": "14064/18/Engr-4MGAR/2026/684",
+   "organisation": "Assam Rifles - MHA",
+   "orgSlug": "assam-rifles-mha",
+   "category": "construction",
+   "publishedAt": "2026-09-17T10:00:00+05:30",
+   "closingAt": "2026-09-30T11:00:00+05:30",
+   "openingAt": "2026-10-01T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzIwOTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTYyMTQ2MQ==A13h1MTQwNjQvMTgvRW5nci00TUdBUi8yMDI2LzY4NA==A13h1MjAyNl9BUk1IQV85MjY1MDhfMQ==",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BPCL_26572",
    "slug": "2026-bpcl-26572",
    "title": "CONSTRUCTION OF BOUNDARY WALL FROM EXISTING SIDING GATE AROUND OWNED LAND OF RADHAGAON DEPOT.",
@@ -299209,6 +299265,20 @@
    "closingAt": "2026-09-30T15:00:00+05:30",
    "openingAt": "2026-10-01T15:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjU5MTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTUzNDc5NQ==A13h1SVdBSS0xNS83LzIwMjUtSFk=A13h1MjAyNl9JV0FJXzkyNTc2NV8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_PDR_191442_1",
+   "slug": "2026-pdr-191442-1",
+   "title": "Procurement of TEL-B for IOCL Paradip Refinery",
+   "refNo": "9070M26G69",
+   "organisation": "IndianOil",
+   "orgSlug": "indianoil",
+   "category": "goods-supply",
+   "publishedAt": "2026-09-17T10:00:00+05:30",
+   "closingAt": "2026-09-30T15:00:00+05:30",
+   "openingAt": "2026-10-01T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzIwNTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTYyMTQ2MQ==A13h1OTA3ME0yNkc2OQ==A13h1MjAyNl9QRFJfMTkxNDQyXzE=",
    "hasCorrigendum": false
   },
   {
@@ -300052,6 +300122,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MES_789742_1",
+   "slug": "2026-mes-789742-1",
+   "title": "REPAIR MAINT REPLACEMENT OF INTERNAL ELECTRIFICATION, LIGHTS, FAN, GEYSER, DESERT COOLER AND OTHER CONNECTED WORK OF OTM/MD ACCN AT POCKET A AT JASAI MIL STN UNDER GE (A) BARMER",
+   "refNo": "8941/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-09-17T10:00:00+05:30",
+   "closingAt": "2026-10-07T18:00:00+05:30",
+   "openingAt": "2026-10-09T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzIxMDA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTYyMTQ2MQ==A13h1ODk0MS9FOA==A13h1MjAyNl9NRVNfNzg5NzQyXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "28575",
    "slug": "28575",
    "title": "STATCOM Package ST23T",
@@ -300189,6 +300273,20 @@
    "closingAt": "2026-10-19T15:00:00+05:30",
    "openingAt": "2026-10-21T15:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTM0Mzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODg2NzE3Nw==A13h1UkJJL011bWJhaSBSZWdpb25hbCBPZmZpY2UvRXN0YXRlIEJLQy8yNi0yNy81A13h1MjAyNl9SQklfMjkwMTI3XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_IAF_789743_1",
+   "slug": "2026-iaf-789743-1",
+   "title": "REQUEST FOR PROPOSAL FOR DEVELOPMENT/ INDIGENISATION OF ISDA2 MODULE INT SIGMA DELTA OF LLTR",
+   "refNo": "13BRD/8301/271/ISC",
+   "organisation": "Indian Air Force",
+   "orgSlug": "indian-air-force",
+   "category": "other",
+   "publishedAt": "2026-09-17T10:15:00+05:30",
+   "closingAt": "2026-10-21T10:00:00+05:30",
+   "openingAt": "2026-10-22T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzIxMjE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTYyMTQ2MQ==A13h1MTNCUkQvODMwMS8yNzEvSVNDA13h1MjAyNl9JQUZfNzg5NzQzXzE=",
    "hasCorrigendum": false
   },
   {
