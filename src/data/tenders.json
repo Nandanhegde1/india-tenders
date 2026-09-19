@@ -1,22 +1,8 @@
 {
- "generatedAt": "2026-09-19T16:00:51.816Z",
+ "generatedAt": "2026-09-19T20:54:06.744Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 20609,
+ "count": 20612,
  "tenders": [
-  {
-   "id": "2026_BPCL_25848",
-   "slug": "2026-bpcl-25848",
-   "title": "CIVIL,MECHANICAL & ELECTRICAL WORK FOR NRO AIZAWL TOWN,MIZORAM",
-   "refNo": "1000459554",
-   "organisation": "Bharat Petroleum Corporation Limited",
-   "orgSlug": "bharat-petroleum-corporation-limited",
-   "category": "electrical",
-   "publishedAt": "2026-07-07T22:26:00+05:30",
-   "closingAt": "2026-07-21T23:30:00+05:30",
-   "openingAt": "2026-07-21T23:45:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MjI1Mzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzUwMTU2MA==A13h1MTAwMDQ1OTU1NA==A13h1MjAyNl9CUENMXzI1ODQ4",
-   "hasCorrigendum": false
-  },
   {
    "id": "2026_ARMY_764587_1",
    "slug": "2026-army-764587-1",
@@ -283850,7 +283836,7 @@
    "publishedAt": "2026-09-19T19:45:00+05:30",
    "closingAt": "2026-09-22T20:00:00+05:30",
    "openingAt": "2026-09-22T20:15:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDEyNTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTgzMzY0Mg==A13h1MTAwMDQ2NTI1MA==A13h1MjAyNl9CUENMXzI2NzEx",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDEyNTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTg1MTIzNw==A13h1MTAwMDQ2NTI1MA==A13h1MjAyNl9CUENMXzI2NzEx",
    "hasCorrigendum": false
   },
   {
@@ -284634,7 +284620,7 @@
    "publishedAt": "2026-09-19T19:50:00+05:30",
    "closingAt": "2026-09-24T15:00:00+05:30",
    "openingAt": "2026-09-24T15:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDEyNjA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTgzMzY0Mg==A13h1MTgvRUUvUEhDV0QvQ1BXRC8yMDI2LTI3A13h1MTY5NjE4",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDEyNjA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTg1MTIzNw==A13h1MTgvRUUvUEhDV0QvQ1BXRC8yMDI2LTI3A13h1MTY5NjE4",
    "hasCorrigendum": false
   },
   {
@@ -284648,7 +284634,7 @@
    "publishedAt": "2026-09-19T19:39:00+05:30",
    "closingAt": "2026-09-24T15:00:00+05:30",
    "openingAt": "2026-09-24T15:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDEyNTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTgzMzY0Mg==A13h1MTcvRUUvUEhDV0QvQ1BXRC8yMDI2LTI3A13h1MTY5NjE2",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDEyNTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTg1MTIzNw==A13h1MTcvRUUvUEhDV0QvQ1BXRC8yMDI2LTI3A13h1MTY5NjE2",
    "hasCorrigendum": false
   },
   {
@@ -285618,6 +285604,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_26712",
+   "slug": "2026-bpcl-26712",
+   "title": "DISCOUNT TENDER FOR CONSTRUCTION OF NEW RETAIL OUTLET NRO DIVE-ANJUR ON NH3, DISTRICT THANE, MAHARASHTRA STATE.",
+   "refNo": "1000465264",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "construction",
+   "publishedAt": "2026-09-19T22:19:00+05:30",
+   "closingAt": "2026-09-26T15:00:00+05:30",
+   "openingAt": "2026-09-26T15:01:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDEyNzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTg1MTIzNw==A13h1MTAwMDQ2NTI2NA==A13h1MjAyNl9CUENMXzI2NzEy",
+   "hasCorrigendum": false
+  },
+  {
    "id": "169513",
    "slug": "169513",
    "title": "32/EE(E)-PDY/AE(E)-II/2026-27/CPWD/Puducherry",
@@ -286076,7 +286076,7 @@
    "publishedAt": "2026-09-19T20:01:00+05:30",
    "closingAt": "2026-09-28T15:00:00+05:30",
    "openingAt": "2026-09-28T15:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDEyNzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTgzMzY0Mg==A13h1NDUvRUUvS2FucHVyLzIwMjYtMjc=A13h1MTY5NjE0",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDEyNzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTg1MTIzNw==A13h1NDUvRUUvS2FucHVyLzIwMjYtMjc=A13h1MTY5NjE0",
    "hasCorrigendum": false
   },
   {
@@ -286090,7 +286090,7 @@
    "publishedAt": "2026-09-19T19:42:00+05:30",
    "closingAt": "2026-09-28T15:00:00+05:30",
    "openingAt": "2026-09-28T15:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDEyNTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTgzMzY0Mg==A13h1NTYvRUUvTHVja25vdy1JLzIwMjYtMjc=A13h1MTY5NjE3",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDEyNTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTg1MTIzNw==A13h1NTYvRUUvTHVja25vdy1JLzIwMjYtMjc=A13h1MTY5NjE3",
    "hasCorrigendum": false
   },
   {
@@ -286118,7 +286118,7 @@
    "publishedAt": "2026-09-19T19:40:00+05:30",
    "closingAt": "2026-09-28T15:30:00+05:30",
    "openingAt": "2026-09-28T17:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDEyNTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTgzMzY0Mg==A13h1MjgoUmVjYWxsKS9OSVEvRUUgIFNNIChFKS9JUEVEL0NQV0QvMjAyNi0yNw==A13h1MTY5NjE1",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDEyNTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTg1MTIzNw==A13h1MjgoUmVjYWxsKS9OSVEvRUUgIFNNIChFKS9JUEVEL0NQV0QvMjAyNi0yNw==A13h1MTY5NjE1",
    "hasCorrigendum": false
   },
   {
@@ -286917,6 +286917,48 @@
    "closingAt": "2026-09-30T15:00:00+05:30",
    "openingAt": "2026-10-01T15:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzIwNTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTYyMTQ2MQ==A13h1OTA3ME0yNkc2OQ==A13h1MjAyNl9QRFJfMTkxNDQyXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26714",
+   "slug": "2026-bpcl-26714",
+   "title": "DISCOUNT E-TENDER FOR CIVIL, MECHANICAL AND ELECTRICAL WORK AT BHUTAN PHUENTSHOLING CLUSTER",
+   "refNo": "1000465237",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "electrical",
+   "publishedAt": "2026-09-20T00:42:00+05:30",
+   "closingAt": "2026-09-30T16:00:00+05:30",
+   "openingAt": "2026-09-30T17:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDEzMjU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTg1MTIzNw==A13h1MTAwMDQ2NTIzNw==A13h1MjAyNl9CUENMXzI2NzE0",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26715",
+   "slug": "2026-bpcl-26715",
+   "title": "DISCOUNT E-TENDER FOR CIVIL, MECHANICAL AND ELECTRICAL WORK AT BHUTAN THIMPU CLUSTER",
+   "refNo": "1000465254",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "electrical",
+   "publishedAt": "2026-09-20T00:41:00+05:30",
+   "closingAt": "2026-09-30T16:00:00+05:30",
+   "openingAt": "2026-09-30T17:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDEzMjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTg1MTIzNw==A13h1MTAwMDQ2NTI1NA==A13h1MjAyNl9CUENMXzI2NzE1",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26716",
+   "slug": "2026-bpcl-26716",
+   "title": "DISCOUNT E-TENDER FOR CIVIL, MECHANICAL AND ELECTRICAL WORK AT BHUTAN GELEPHU CLUSTER",
+   "refNo": "1000465252",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "electrical",
+   "publishedAt": "2026-09-20T00:41:00+05:30",
+   "closingAt": "2026-09-30T16:00:00+05:30",
+   "openingAt": "2026-09-30T17:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDEzMjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTg1MTIzNw==A13h1MTAwMDQ2NTI1Mg==A13h1MjAyNl9CUENMXzI2NzE2",
    "hasCorrigendum": false
   },
   {
