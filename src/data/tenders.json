@@ -1,64 +1,8 @@
 {
- "generatedAt": "2026-09-23T17:19:05.955Z",
+ "generatedAt": "2026-09-24T12:00:05.070Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 19069,
+ "count": 19075,
  "tenders": [
-  {
-   "id": "2026_MCL_362426_1",
-   "slug": "2026-mcl-362426-1",
-   "title": "Kutcha earthen drain cutting for diversion of rainwater (surface run-off) around Mallibandha Forest land at Hingula OCP Under Hingula Area.",
-   "refNo": "MCL/GM(HA)/Civil/e-Tender/ 26-27/40 Dt.22.07.2026",
-   "organisation": "Mahanadi Coalfields Limited",
-   "orgSlug": "mahanadi-coalfields-limited",
-   "category": "construction",
-   "publishedAt": "2026-07-23T10:00:00+05:30",
-   "closingAt": "2026-07-26T10:00:00+05:30",
-   "openingAt": "2026-07-26T10:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5NzEyMTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NDc5NzU3OQ==A13h1TUNML0dNKEhBKS9DaXZpbC9lLVRlbmRlci8gMjYtMjcvNDAgRHQuMjIuMDcuMjAyNg==A13h1MjAyNl9NQ0xfMzYyNDI2XzE=",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_NRB_918180_1",
-   "slug": "2026-nrb-918180-1",
-   "title": "Fabrication and Supply of Special Purpose Tools in Connection with the Decommissioning of HL Cell at RWM, Tarapur.",
-   "refNo": "BARC(T)/NRB/INRPO /HL/2026/1041",
-   "organisation": "Nuclear Recycle Board",
-   "orgSlug": "nuclear-recycle-board",
-   "category": "goods-supply",
-   "publishedAt": "2026-07-20T17:00:00+05:30",
-   "closingAt": "2026-07-26T12:00:00+05:30",
-   "openingAt": "2026-07-27T15:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5NjE4NDE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NDU3NzgwMA==A13h1QkFSQyhUKS9OUkIvSU5SUE8gL0hMLzIwMjYvMTA0MQ==A13h1MjAyNl9OUkJfOTE4MTgwXzE=",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_NRB_918204_1",
-   "slug": "2026-nrb-918204-1",
-   "title": "Installation of cabin and renovation of Documentation Cell in LWTP, NRB, BARC (T).",
-   "refNo": "BARC (T)/NRB/WM/2026/OPA-903",
-   "organisation": "Nuclear Recycle Board",
-   "orgSlug": "nuclear-recycle-board",
-   "category": "construction",
-   "publishedAt": "2026-07-20T18:00:00+05:30",
-   "closingAt": "2026-07-26T12:00:00+05:30",
-   "openingAt": "2026-07-27T15:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5NjIxNjc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NDYwNjAyMQ==A13h1QkFSQyAoVCkvTlJCL1dNLzIwMjYvT1BBLTkwMw==A13h1MjAyNl9OUkJfOTE4MjA0XzE=",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_NRB_917573_1",
-   "slug": "2026-nrb-917573-1",
-   "title": "Fabrication supply installation testing and commissioning of an acoustic/soundproof cabin for the boiler house control room.",
-   "refNo": "BARCT/NRB/RWM/Mech /U/2026/OPA-10006",
-   "organisation": "Nuclear Recycle Board",
-   "orgSlug": "nuclear-recycle-board",
-   "category": "goods-supply",
-   "publishedAt": "2026-07-16T12:00:00+05:30",
-   "closingAt": "2026-07-26T15:00:00+05:30",
-   "openingAt": "2026-07-27T15:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5NDczOTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NDE5MTA5Nw==A13h1QkFSQ1QvTlJCL1JXTS9NZWNoIC9VLzIwMjYvT1BBLTEwMDA2A13h1MjAyNl9OUkJfOTE3NTczXzE=",
-   "hasCorrigendum": false
-  },
   {
    "id": "2026_BPCL_25928",
    "slug": "2026-bpcl-25928",
@@ -264492,6 +264436,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "170141",
+   "slug": "170141",
+   "title": "55/2026-27/EE(E)/PHEWD/III - Recall 2",
+   "refNo": "55/2026-27/EE(E)/PHEWD/III - Recall 2",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-09-24T17:05:00+05:30",
+   "closingAt": "2026-09-30T16:00:00+05:30",
+   "openingAt": "2026-09-30T16:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDk3MDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDI1MTE3Ng==A13h1NTUvMjAyNi0yNy9FRShFKS9QSEVXRC9JSUkgLSBSZWNhbGwgMg==A13h1MTcwMTQx",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BPCL_26334",
    "slug": "2026-bpcl-26334",
    "title": "CONSTRUCTION OF ROAD, IMPERVIOUS DYKE, DRAIN, CULVERT, OWS AND OTHER CIVIL WORKS FOR ATF AND ETHANOL FACILITY ENNORE COASTAL INSTALLATION",
@@ -264842,6 +264800,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "170139",
+   "slug": "170139",
+   "title": "99/EEE/DED-11/26-27(RECALL)",
+   "refNo": "99/EEE/DED-11/26-27(RECALL)",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-24T17:29:00+05:30",
+   "closingAt": "2026-10-01T17:25:00+05:30",
+   "openingAt": "2026-10-01T17:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDk3MTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDI1MTE3Ng==A13h1OTkvRUVFL0RFRC0xMS8yNi0yNyhSRUNBTEwpA13h1MTcwMTM5",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_788681_1",
    "slug": "2026-mes-788681-1",
    "title": "COMPREHENSIVE MAINTENANCE REPLACEMENT OF DG SET WITH ALLIED ITEMS, AMF PANELS AND ETC AT RCI TECHNICAL AREA ZONE-II EETF ELSEC CPDC UNDER GEI RND RCI HYDERABAD",
@@ -265136,6 +265108,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_NTPC_112157_1",
+   "slug": "2026-ntpc-112157-1",
+   "title": "BIANNIAL CONTRACT FOR ELECTRICAL DECORATION OF PUBLIC BUILDINGS AT NTPC KAWAS",
+   "refNo": "NTPC/Kawas GPS/9900333952",
+   "organisation": "NTPC Limited",
+   "orgSlug": "ntpc-limited",
+   "category": "electrical",
+   "publishedAt": "2026-09-24T17:05:00+05:30",
+   "closingAt": "2026-10-03T16:00:00+05:30",
+   "openingAt": "2026-10-05T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDkzMjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDI1MTE3Ng==A13h1TlRQQy9LYXdhcyBHUFMvOTkwMDMzMzk1Mg==A13h1MjAyNl9OVFBDXzExMjE1N18x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_ITBP_925431_1",
    "slug": "2026-itbp-925431-1",
    "title": "Construction of Toilet Block at Tato Staging Camp of 57 BN ITBP",
@@ -265388,6 +265374,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BSF_927612_1",
+   "slug": "2026-bsf-927612-1",
+   "title": "Repairing and Relaying of UG Cable at BSF Campus Jodhpur under FTR HQ BSF Rajasthan.",
+   "refNo": "29/AC(E)/FTR-RAJ/2026-27",
+   "organisation": "DG,BSF,MHA",
+   "orgSlug": "dg-bsf-mha",
+   "category": "electrical",
+   "publishedAt": "2026-09-24T17:20:00+05:30",
+   "closingAt": "2026-10-05T11:00:00+05:30",
+   "openingAt": "2026-10-06T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDk2NDI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDI1MTE3Ng==A13h1MjkvQUMoRSkvRlRSLVJBSi8yMDI2LTI3A13h1MjAyNl9CU0ZfOTI3NjEyXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BBMB_290366_1",
    "slug": "2026-bbmb-290366-1",
    "title": "Renovation of 16 Nos. A-type quarters (C-Block) and 24 Nos. B-type quarters (A-Block) at Power House Colony at Ganguwal.",
@@ -265584,6 +265584,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BHEL_65417_1",
+   "slug": "2026-bhel-65417-1",
+   "title": "E5163150-RATE CONTRACT FOR SUPPLY OF TM4601- SET OF HARDWARES",
+   "refNo": "E5163150-RATE CONTRACT FOR SUPPLY OF TM4601- SET OF HARDWARES",
+   "organisation": "Bharat Heavy Electricals Limited",
+   "orgSlug": "bharat-heavy-electricals-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-09-24T17:15:00+05:30",
+   "closingAt": "2026-10-05T15:00:00+05:30",
+   "openingAt": "2026-10-05T18:55:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDk1Mzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDI1MTE3Ng==A13h1RTUxNjMxNTAtUkFURSBDT05UUkFDVCBGT1IgU1VQUExZIE9GIFRNNDYwMS0gU0VUIE9GIEhBUkRXQVJFUw==A13h1MjAyNl9CSEVMXzY1NDE3XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NEHHD_290782_1",
    "slug": "2026-nehhd-290782-1",
    "title": "NEHHDC PURVI/NIO/PATNA/305/7514",
@@ -265637,6 +265651,20 @@
    "closingAt": "2026-10-05T16:00:00+05:30",
    "openingAt": "2026-10-05T16:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzk2MDA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTgxNjU2Mg==A13h1MTAwMDQ2NTI0MQ==A13h1MjAyNl9CUENMXzI2NzA3",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BSF_927610_1",
+   "slug": "2026-bsf-927610-1",
+   "title": "Repair and Maintenance of Septic Tank of BOPs of 102 Bn BSF under SHQ BSF Kolkata",
+   "refNo": "69/EE/HQ-SB-FTR/2026-27",
+   "organisation": "DG,BSF,MHA",
+   "orgSlug": "dg-bsf-mha",
+   "category": "construction",
+   "publishedAt": "2026-09-24T17:15:00+05:30",
+   "closingAt": "2026-10-05T16:00:00+05:30",
+   "openingAt": "2026-10-06T16:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDk2OTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDI1MTE3Ng==A13h1NjkvRUUvSFEtU0ItRlRSLzIwMjYtMjc=A13h1MjAyNl9CU0ZfOTI3NjEwXzE=",
    "hasCorrigendum": false
   },
   {
@@ -265738,6 +265766,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BSF_927542_1",
+   "slug": "2026-bsf-927542-1",
+   "title": "Repair and maintenance of assault course under STC BSF Hazaribag",
+   "refNo": "08/NIT/STC/ENGG/2026-27",
+   "organisation": "DG,BSF,MHA",
+   "orgSlug": "dg-bsf-mha",
+   "category": "construction",
+   "publishedAt": "2026-09-24T17:20:00+05:30",
+   "closingAt": "2026-10-06T11:00:00+05:30",
+   "openingAt": "2026-10-07T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDk1NTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDI1MTE3Ng==A13h1MDgvTklUL1NUQy9FTkdHLzIwMjYtMjc=A13h1MjAyNl9CU0ZfOTI3NTQyXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107149711",
    "slug": "107149711",
    "title": "Lavatory Air Exhauster",
@@ -265819,6 +265861,20 @@
    "closingAt": "2026-10-06T15:00:00+05:30",
    "openingAt": "2026-10-06T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDI5NzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTk5NTkxOA==A13h1MjAyNjI3MDM3Mi9NTS00L0NFLzM1Nw==A13h1MjAyNl9JSVRSXzkyNzA2Nl8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "170147",
+   "slug": "170147",
+   "title": "33/EE/CCD/2026-27",
+   "refNo": "33/EE/CCD/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-24T17:07:00+05:30",
+   "closingAt": "2026-10-06T15:00:00+05:30",
+   "openingAt": "2026-10-06T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDk3MDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDI1MTE3Ng==A13h1MzMvRUUvQ0NELzIwMjYtMjc=A13h1MTcwMTQ3",
    "hasCorrigendum": false
   },
   {
@@ -266228,6 +266284,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BCCL_366101_1",
+   "slug": "2026-bccl-366101-1",
+   "title": "Maintenance of 11KV double feeder overhead line which is approx. 9KM long under Kusunda Area",
+   "refNo": "BCCL/KA-VI/AM (EnM)/E-TENDER/26-27/77",
+   "organisation": "Bharat Coking Coal Limited",
+   "orgSlug": "bharat-coking-coal-limited",
+   "category": "construction",
+   "publishedAt": "2026-09-24T17:10:00+05:30",
+   "closingAt": "2026-10-10T11:00:00+05:30",
+   "openingAt": "2026-10-12T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDk2OTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDI1MTE3Ng==A13h1QkNDTC9LQS1WSS9BTSAoRW5NKS9FLVRFTkRFUi8yNi0yNy83Nw==A13h1MjAyNl9CQ0NMXzM2NjEwMV8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BSNL_291200_6",
    "slug": "2026-bsnl-291200-6",
    "title": "SECTION NO.DE/OFC/MA/2026-27/05",
@@ -266477,6 +266547,20 @@
    "closingAt": "2026-10-13T18:00:00+05:30",
    "openingAt": "2026-10-21T10:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDQwOTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDA3ODA0Nw==A13h1OTA5MC9FOA==A13h1MjAyNl9NRVNfNzkwNTE4XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_790995_1",
+   "slug": "2026-mes-790995-1",
+   "title": "REPAIR/ MAINTENANCE OF LT DISTRIBUTION NETWORK AND ALLIED WORKS OF SOUTH OF RUNWAY IN TECH AREA AT AF STN JODHPUR",
+   "refNo": "8515/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "it-software",
+   "publishedAt": "2026-09-24T17:10:00+05:30",
+   "closingAt": "2026-10-13T18:00:00+05:30",
+   "openingAt": "2026-10-15T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDk3MDU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDI1MTE3Ng==A13h1ODUxNS9FOA==A13h1MjAyNl9NRVNfNzkwOTk1XzE=",
    "hasCorrigendum": false
   },
   {
