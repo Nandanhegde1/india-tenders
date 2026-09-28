@@ -1,22 +1,8 @@
 {
- "generatedAt": "2026-09-28T14:15:57.192Z",
+ "generatedAt": "2026-09-28T23:26:36.332Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 16585,
+ "count": 16591,
  "tenders": [
-  {
-   "id": "163022",
-   "slug": "163022",
-   "title": "43/EE/AD/2026-27/4A",
-   "refNo": "43/EE/AD/2026-27/4A",
-   "organisation": "Central Public Works Department (CPWD)",
-   "orgSlug": "central-public-works-department-cpwd",
-   "category": "other",
-   "publishedAt": "2026-07-27T19:36:00+05:30",
-   "closingAt": "2026-07-31T00:00:00+05:30",
-   "openingAt": "2026-07-31T00:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5ODY5Mjg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTIzMDA4Mw==A13h1NDMvRUUvQUQvMjAyNi0yNy80QQ==A13h1MTYzMDIy",
-   "hasCorrigendum": false
-  },
   {
    "id": "2026_NECBD_916786_1",
    "slug": "2026-necbd-916786-1",
@@ -229478,6 +229464,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "170486",
+   "slug": "170486",
+   "title": "62/2026-27/EE(E)/PHEWD",
+   "refNo": "62/2026-27/EE(E)/PHEWD",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-09-28T21:32:00+05:30",
+   "closingAt": "2026-10-05T11:00:00+05:30",
+   "openingAt": "2026-10-05T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTg3MjE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDYzNzk5MQ==A13h1NjIvMjAyNi0yNy9FRShFKS9QSEVXRA==A13h1MTcwNDg2",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BBMB_290366_1",
    "slug": "2026-bbmb-290366-1",
    "title": "Renovation of 16 Nos. A-type quarters (C-Block) and 24 Nos. B-type quarters (A-Block) at Power House Colony at Ganguwal.",
@@ -229838,7 +229838,7 @@
    "publishedAt": "2026-09-28T19:34:00+05:30",
    "closingAt": "2026-10-05T15:30:00+05:30",
    "openingAt": "2026-10-05T15:40:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTg2ODM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDYwNDk1Mg==A13h1NjktRUVFLVNKSEVELTIwMjYtMjc=A13h1MTcwNDMw",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTg2ODM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDYzNzk5MQ==A13h1NjktRUVFLVNKSEVELTIwMjYtMjc=A13h1MTcwNDMw",
    "hasCorrigendum": false
   },
   {
@@ -230104,7 +230104,7 @@
    "publishedAt": "2026-09-28T19:33:00+05:30",
    "closingAt": "2026-10-06T11:00:00+05:30",
    "openingAt": "2026-10-06T11:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTg2ODI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDYwNDk1Mg==A13h1MTE1L0FFKEUpL0hpbmRhbi9HRUQvMjAyNi0yNyAtIFJlY2FsbCAxA13h1MTcwNDc3",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTg2ODI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDYzNzk5MQ==A13h1MTE1L0FFKEUpL0hpbmRhbi9HRUQvMjAyNi0yNyAtIFJlY2FsbCAxA13h1MTcwNDc3",
    "hasCorrigendum": false
   },
   {
@@ -230230,7 +230230,7 @@
    "publishedAt": "2026-09-28T19:35:00+05:30",
    "closingAt": "2026-10-06T15:00:00+05:30",
    "openingAt": "2026-10-06T15:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTg2ODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDYwNDk1Mg==A13h1MDkvRUUoRSkvSFVCQkFMTEkvQ1BXRC8yMDI2LTI3A13h1MTcwNDc4",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTg2ODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDYzNzk5MQ==A13h1MDkvRUUoRSkvSFVCQkFMTEkvQ1BXRC8yMDI2LTI3A13h1MTcwNDc4",
    "hasCorrigendum": false
   },
   {
@@ -230329,6 +230329,20 @@
    "closingAt": "2026-10-06T17:00:00+05:30",
    "openingAt": "2026-10-07T10:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTMzMDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDQyMjY5OQ==A13h1R00vS0EtSVYvQ2l2aWwvZU5JVC8yMDI2LTI3LzIwA13h1MjAyNl9CQ0NMXzM2NjIwMV8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "170479",
+   "slug": "170479",
+   "title": "63/CESD 2/I/CED-I/2026-2027/CPWD/CHENNAI-34/AE (E )",
+   "refNo": "63/CESD 2/I/CED-I/2026-2027/CPWD/CHENNAI-34/AE (E )",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-09-28T19:59:00+05:30",
+   "closingAt": "2026-10-06T17:00:00+05:30",
+   "openingAt": "2026-10-06T17:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTg3MDU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDYzNzk5MQ==A13h1NjMvQ0VTRCAyL0kvQ0VELUkvMjAyNi0yMDI3L0NQV0QvQ0hFTk5BSS0zNC9BRSAoRSApA13h1MTcwNDc5",
    "hasCorrigendum": false
   },
   {
@@ -230987,6 +231001,20 @@
    "closingAt": "2026-10-12T11:00:00+05:30",
    "openingAt": "2026-10-13T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTMyNDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDU3NDAyMQ==A13h1SVYuMTcwMTgvRW5nci9IUSAxMCBTZWN0IEFSL00tV2svMjAyNi80NA==A13h1MjAyNl9BUk1IQV85Mjc4NTlfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "28687",
+   "slug": "28687",
+   "title": "Transmission Line Package TL05 for LILO of both ckts of 400kV Varanasi-Biharsharif D/c Line at Asana S/s associated with Transmission scheme for evacuation of power as part of Rajasthan REZ Ph-IV (Part-6: 6GW) (Bikaner Complex) (Bikaner V: 6GW)- Part D through (TBCB) route",
+   "refNo": "CC/T/W-TW/DOM/A06/26/13509",
+   "organisation": "Power Grid Corporation of India Limited",
+   "orgSlug": "power-grid-corporation-of-india-limited",
+   "category": "other",
+   "publishedAt": "2026-09-28T21:25:00+05:30",
+   "closingAt": "2026-10-12T11:00:00+05:30",
+   "openingAt": "2026-10-12T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTg3Mjg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDYzNzk5MQ==A13h1Q0MvVC9XLVRXL0RPTS9BMDYvMjYvMTM1MDk=A13h1Mjg2ODc=",
    "hasCorrigendum": false
   },
   {
@@ -231858,6 +231886,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "170461",
+   "slug": "170461",
+   "title": "44/MyCD/SE/e-tender/2026-27",
+   "refNo": "44/MyCD/SE/e-tender/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-28T19:51:00+05:30",
+   "closingAt": "2026-10-21T15:00:00+05:30",
+   "openingAt": "2026-10-21T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTg2ODU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDYzNzk5MQ==A13h1NDQvTXlDRC9TRS9lLXRlbmRlci8yMDI2LTI3A13h1MTcwNDYx",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BARC_925919_1",
    "slug": "2026-barc-925919-1",
    "title": "Injection grouting, repairs and waterproofing to RCC roof of RLG Extension, BARC, Trombay, Mumbai 400085",
@@ -231911,6 +231953,20 @@
    "closingAt": "2026-10-22T15:00:00+05:30",
    "openingAt": "2026-10-27T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTA3Mzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDMzNzgxMA==A13h1QkFSQ0YvSU5SUEstT1AvS0EvVFIvMjgvMjAyNg==A13h1MjAyNl9CQVJDXzkyNzU4NF8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "170483",
+   "slug": "170483",
+   "title": "09/CE-cum-ED/DPZ-I/2026-27",
+   "refNo": "09/CE-cum-ED/DPZ-I/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-28T20:40:00+05:30",
+   "closingAt": "2026-10-22T15:00:00+05:30",
+   "openingAt": "2026-10-22T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTg3MDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDYzNzk5MQ==A13h1MDkvQ0UtY3VtLUVEL0RQWi1JLzIwMjYtMjc=A13h1MTcwNDgz",
    "hasCorrigendum": false
   },
   {
@@ -231984,6 +232040,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "28685",
+   "slug": "28685",
+   "title": "STATCOM PACKAGE ST24T FOR 400 MVAR STATCOM AT MANDSAUR PS (EXCLUDING CIVIL WORKS) ASSOCIATED WITH PART-A UNDER COMMON TRANSMISSION SYSTEM AUGMENTATION FOR EVACUATION OF POWER FROM 2X800 MW GADARWARA-II TPS AND AN ADDITIONAL 1500 MW RE POWER AT MANDSAUR PS (PART-A & PART-B) THROUGH TBCB ROUTE",
+   "refNo": "CC/T/W-STAT/DOM/A06/26/12666",
+   "organisation": "Power Grid Corporation of India Limited",
+   "orgSlug": "power-grid-corporation-of-india-limited",
+   "category": "other",
+   "publishedAt": "2026-09-28T20:34:00+05:30",
+   "closingAt": "2026-10-26T11:00:00+05:30",
+   "openingAt": "2026-10-26T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTg3MDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDYzNzk5MQ==A13h1Q0MvVC9XLVNUQVQvRE9NL0EwNi8yNi8xMjY2Ng==A13h1Mjg2ODU=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107135063",
    "slug": "107135063",
    "title": "Copper Flat Size 4 mm X 30 mm with a Unit Length of 2133 mm (7 Ft.) long as per CLW s Spec. No. - CLW/ES/C-36 (Alt. - E) for RPS. Material Electrolite Anilled Copper as per IS: 1897 GR. - ETP.",
@@ -232023,6 +232093,20 @@
    "closingAt": "2026-10-27T15:00:00+05:30",
    "openingAt": "2026-10-28T15:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDI3OTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTk5NTkxOA==A13h1Q0NFKFJuRClOL05TQi9XMzIyLTMyNS8yMDI2LTI3A13h1MjAyNl9EUkRPXzkyNzAzOV8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "28686",
+   "slug": "28686",
+   "title": "Package-C1: DWDM Equipment Package under Augmentation of Telecom Backbone Network and associated infrastructure Project.",
+   "refNo": "CC/NT/W-TELE/DOM/A01/26/12493",
+   "organisation": "Power Grid Corporation of India Limited",
+   "orgSlug": "power-grid-corporation-of-india-limited",
+   "category": "it-software",
+   "publishedAt": "2026-09-28T20:34:00+05:30",
+   "closingAt": "2026-10-28T11:00:00+05:30",
+   "openingAt": "2026-10-28T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTg3MTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDYzNzk5MQ==A13h1Q0MvTlQvVy1URUxFL0RPTS9BMDEvMjYvMTI0OTM=A13h1Mjg2ODY=",
    "hasCorrigendum": false
   },
   {
