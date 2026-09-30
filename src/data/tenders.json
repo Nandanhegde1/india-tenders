@@ -1,78 +1,8 @@
 {
- "generatedAt": "2026-09-30T12:56:25.902Z",
+ "generatedAt": "2026-09-30T22:27:09.337Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 15703,
+ "count": 15708,
  "tenders": [
-  {
-   "id": "2026_SROTN_190737_1",
-   "slug": "2026-srotn-190737-1",
-   "title": "DEVELOPMENT OF A SITE RO SIRUGALAPPUR TO THAPPAI on MDR - SURVEY NO 613/1 THAPPAI VILLAGE, LALGUDI TALUK, THIRUCHIRAPALLI DISTRICT UNDER TRICHY DIVISIONAL OFFICE OF TAMIL NADU STATE OFFICE",
-   "refNo": "MnC/SR/RSR/LT/051/TNSO/2026-27",
-   "organisation": "IndianOil",
-   "orgSlug": "indianoil",
-   "category": "consultancy",
-   "publishedAt": "2026-07-25T18:30:00+05:30",
-   "closingAt": "2026-08-01T18:30:00+05:30",
-   "openingAt": "2026-08-03T09:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5ODQ1OTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTEyNTY5Mg==A13h1TW5DL1NSL1JTUi9MVC8wNTEvVE5TTy8yMDI2LTI3A13h1MjAyNl9TUk9UTl8xOTA3MzdfMQ==",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_ECL_362364_1",
-   "slug": "2026-ecl-362364-1",
-   "title": "ECL/RJML/GM/(EandT)/26-27/05 Dt 21.07.2026",
-   "refNo": "ECL/RJML/GM/(EandT)/26-27//05 Dt 21.07.2026",
-   "organisation": "Eastern Coalfields Limited",
-   "orgSlug": "eastern-coalfields-limited",
-   "category": "other",
-   "publishedAt": "2026-07-21T18:50:00+05:30",
-   "closingAt": "2026-08-01T18:50:00+05:30",
-   "openingAt": "2026-08-03T11:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5NjYzOTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NDcxMTI1Mg==A13h1RUNML1JKTUwvR00vKEVhbmRUKS8yNi0yNy8vMDUgRHQgMjEuMDcuMjAyNg==A13h1MjAyNl9FQ0xfMzYyMzY0XzE=",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_MES_777976_1",
-   "slug": "2026-mes-777976-1",
-   "title": "REPAIRS/MAINT REPLACEMENT OF STREET LIGHTS/FLOOD LIGHTS, LT POLES AND CONNECTED WORKS UNDER GE CHENNAI",
-   "refNo": "8968/E8",
-   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-   "orgSlug": "e-in-c-branch-military-engineer-services",
-   "category": "other",
-   "publishedAt": "2026-07-11T13:30:00+05:30",
-   "closingAt": "2026-08-01T18:55:00+05:30",
-   "openingAt": "2026-08-03T10:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MzYwNzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Mzc1NzgxOA==A13h1ODk2OC9FOA==A13h1MjAyNl9NRVNfNzc3OTc2XzE=",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_MES_777963_1",
-   "slug": "2026-mes-777963-1",
-   "title": "REPAIR/MAINT OF VARIOUS ARTICLES FOR STEEL FURNITURE AND TRADE PATTERN FURNITURE OF OTM AND OFFICER MESS UNDER GE (EAST) AGRA",
-   "refNo": "9921/E8",
-   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-   "orgSlug": "e-in-c-branch-military-engineer-services",
-   "category": "construction",
-   "publishedAt": "2026-07-11T15:00:00+05:30",
-   "closingAt": "2026-08-01T18:55:00+05:30",
-   "openingAt": "2026-08-10T10:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MzYxMTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Mzg0NTM4Nw==A13h1OTkyMS9FOA==A13h1MjAyNl9NRVNfNzc3OTYzXzE=",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_MES_777958_1",
-   "slug": "2026-mes-777958-1",
-   "title": "REPAIR/MAINT OF SECURITY LIGHTS, STREET LIGHTS, HIGH MAST LIGHT FITTINGS AND PERIMETER LIGHTS IN DOMESTIC AND TECHNICAL AREA AT 3 BRD AF CHANDIGARH UNDER GE (AF) MC CHANDIGARH",
-   "refNo": "GE (AF) MC/CHD/T-43/2026-27",
-   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-   "orgSlug": "e-in-c-branch-military-engineer-services",
-   "category": "construction",
-   "publishedAt": "2026-07-11T14:00:00+05:30",
-   "closingAt": "2026-08-01T18:55:00+05:30",
-   "openingAt": "2026-08-03T09:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5MzYwNDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Mzg0NTQyMA==A13h1R0UgKEFGKSBNQy9DSEQvVC00My8yMDI2LTI3A13h1MjAyNl9NRVNfNzc3OTU4XzE=",
-   "hasCorrigendum": false
-  },
   {
    "id": "2026_BPCL_25982",
    "slug": "2026-bpcl-25982",
@@ -216962,6 +216892,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "170820",
+   "slug": "170820",
+   "title": "65/2026-27/EE(E)/PHEWD",
+   "refNo": "65/2026-27/EE(E)/PHEWD",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-09-30T21:13:00+05:30",
+   "closingAt": "2026-10-06T11:00:00+05:30",
+   "openingAt": "2026-10-06T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjQ4MjU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDgwNzIyNA==A13h1NjUvMjAyNi0yNy9FRShFKS9QSEVXRA==A13h1MTcwODIw",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107149711",
    "slug": "107149711",
    "title": "Lavatory Air Exhauster",
@@ -217564,6 +217508,76 @@
    "hasCorrigendum": false
   },
   {
+   "id": "170771",
+   "slug": "170771",
+   "title": "35/EE/VJA/2026-27",
+   "refNo": "35/EE/VJA/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-30T20:13:00+05:30",
+   "closingAt": "2026-10-07T17:00:00+05:30",
+   "openingAt": "2026-10-07T17:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjQ4MTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDgwNzIyNA==A13h1MzUvRUUvVkpBLzIwMjYtMjc=A13h1MTcwNzcx",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "170769",
+   "slug": "170769",
+   "title": "34/EE/VJA/2026-27",
+   "refNo": "34/EE/VJA/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-30T20:07:00+05:30",
+   "closingAt": "2026-10-07T17:00:00+05:30",
+   "openingAt": "2026-10-07T17:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjQ4MTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDgwNzIyNA==A13h1MzQvRUUvVkpBLzIwMjYtMjc=A13h1MTcwNzY5",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "170766",
+   "slug": "170766",
+   "title": "33/EE/VJA/2026-27",
+   "refNo": "33/EE/VJA/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-30T19:54:00+05:30",
+   "closingAt": "2026-10-07T17:00:00+05:30",
+   "openingAt": "2026-10-07T17:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjQ3ODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDgwNzIyNA==A13h1MzMvRUUvVkpBLzIwMjYtMjc=A13h1MTcwNzY2",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "170761",
+   "slug": "170761",
+   "title": "32/EE/VJA/2026-27",
+   "refNo": "32/EE/VJA/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-30T19:47:00+05:30",
+   "closingAt": "2026-10-07T17:00:00+05:30",
+   "openingAt": "2026-10-07T17:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjQ3ODg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDgwNzIyNA==A13h1MzIvRUUvVkpBLzIwMjYtMjc=A13h1MTcwNzYx",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "170757",
+   "slug": "170757",
+   "title": "30-EE-VJA-2026-27",
+   "refNo": "30-EE-VJA-2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-30T19:35:00+05:30",
+   "closingAt": "2026-10-07T17:00:00+05:30",
+   "openingAt": "2026-10-07T17:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjQ3ODU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDgwNzIyNA==A13h1MzAtRUUtVkpBLTIwMjYtMjc=A13h1MTcwNzU3",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_789742_1",
    "slug": "2026-mes-789742-1",
    "title": "REPAIR MAINT REPLACEMENT OF INTERNAL ELECTRIFICATION, LIGHTS, FAN, GEYSER, DESERT COOLER AND OTHER CONNECTED WORK OF OTM/MD ACCN AT POCKET A AT JASAI MIL STN UNDER GE (A) BARMER",
@@ -217715,6 +217729,20 @@
    "closingAt": "2026-10-08T15:00:00+05:30",
    "openingAt": "2026-10-08T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjE4Mzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDc3Mjk3Nw==A13h1MTYvTklUL0RESC9IREcvMjAyNi0yNw==A13h1MTcwODA0",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "170819",
+   "slug": "170819",
+   "title": "101/EE(E)-Hyd-I/2026-27",
+   "refNo": "101/EE(E)-Hyd-I/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-09-30T19:34:00+05:30",
+   "closingAt": "2026-10-08T15:00:00+05:30",
+   "openingAt": "2026-10-08T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjQ3ODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDgwNzIyNA==A13h1MTAxL0VFKEUpLUh5ZC1JLzIwMjYtMjc=A13h1MTcwODE5",
    "hasCorrigendum": false
   },
   {
@@ -218208,6 +218236,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "28710",
+   "slug": "28710",
+   "title": "400kV GIS New Substation Package SS196T",
+   "refNo": "CC/T/W-GIS/DOM/A04/26/13444",
+   "organisation": "Power Grid Corporation of India Limited",
+   "orgSlug": "power-grid-corporation-of-india-limited",
+   "category": "electrical",
+   "publishedAt": "2026-09-30T22:42:00+05:30",
+   "closingAt": "2026-10-12T11:00:00+05:30",
+   "openingAt": "2026-10-12T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjQ4MzU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDgwNzIyNA==A13h1Q0MvVC9XLUdJUy9ET00vQTA0LzI2LzEzNDQ0A13h1Mjg3MTA=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107189987",
    "slug": "107189987",
    "title": "Knuckle of CBC for LHB COACHES",
@@ -218572,6 +218614,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "170814",
+   "slug": "170814",
+   "title": "110/EE(E)-II-HYD/2026-27",
+   "refNo": "110/EE(E)-II-HYD/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-09-30T19:47:00+05:30",
+   "closingAt": "2026-10-14T15:00:00+05:30",
+   "openingAt": "2026-10-14T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjQ3ODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDgwNzIyNA==A13h1MTEwL0VFKEUpLUlJLUhZRC8yMDI2LTI3A13h1MTcwODE0",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_790599_1",
    "slug": "2026-mes-790599-1",
    "title": "Repair and refurbishment of roofing system and appurtenant component including treatment sheeting ceiling work and periodicals in AMBC at INA Ezhimala",
@@ -218793,6 +218849,20 @@
    "closingAt": "2026-10-15T15:00:00+05:30",
    "openingAt": "2026-10-15T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDk4Nzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDI3MDYxMg==A13h1MDQvU0VQRC9EUEMtMS9DUFdELzIwMjYtMjc=A13h1MTcwMTYy",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "170817",
+   "slug": "170817",
+   "title": "25/EE/NAGPUR-II/2026-27",
+   "refNo": "25/EE/NAGPUR-II/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-09-30T19:40:00+05:30",
+   "closingAt": "2026-10-15T15:00:00+05:30",
+   "openingAt": "2026-10-15T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjQ3ODY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDgwNzIyNA==A13h1MjUvRUUvTkFHUFVSLUlJLzIwMjYtMjc=A13h1MTcwODE3",
    "hasCorrigendum": false
   },
   {
