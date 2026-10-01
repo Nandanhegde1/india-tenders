@@ -1,22 +1,8 @@
 {
- "generatedAt": "2026-09-30T22:27:09.337Z",
+ "generatedAt": "2026-10-01T06:14:46.117Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 15708,
+ "count": 15720,
  "tenders": [
-  {
-   "id": "2026_BPCL_25982",
-   "slug": "2026-bpcl-25982",
-   "title": "TENDER FOR UPGRADATION OF STAFF ROOM AND TOILETS IN PLANNING OFFICE FOR NON-MANAGEMENT STAFF, CAR/BIKE PARKING & SEATING ARRANGEMENT AT BANGALORE LPG",
-   "refNo": "1000460341",
-   "organisation": "Bharat Petroleum Corporation Limited",
-   "orgSlug": "bharat-petroleum-corporation-limited",
-   "category": "other",
-   "publishedAt": "2026-07-18T22:14:00+05:30",
-   "closingAt": "2026-08-02T10:00:00+05:30",
-   "openingAt": "2026-08-02T11:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5NjA1MjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NDU0MDU1OQ==A13h1MTAwMDQ2MDM0MQ==A13h1MjAyNl9CUENMXzI1OTgy",
-   "hasCorrigendum": false
-  },
   {
    "id": "2026_NRB_918982_1",
    "slug": "2026-nrb-918982-1",
@@ -216570,6 +216556,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "170840",
+   "slug": "170840",
+   "title": "09/AE(E)-Mussoorie/2026-27/121",
+   "refNo": "09/AE(E)-Mussoorie/2026-27/121",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-10-01T11:29:00+05:30",
+   "closingAt": "2026-10-05T15:00:00+05:30",
+   "openingAt": "2026-10-05T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjUwODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDgzNTI4MA==A13h1MDkvQUUoRSktTXVzc29vcmllLzIwMjYtMjcvMTIxA13h1MTcwODQw",
+   "hasCorrigendum": false
+  },
+  {
    "id": "170425",
    "slug": "170425",
    "title": "67-EEE-SJHED-2026-27",
@@ -217141,6 +217141,20 @@
    "closingAt": "2026-10-06T16:00:00+05:30",
    "openingAt": "2026-10-06T16:01:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjc3NTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTQ3MzQ1MA==A13h1MTAwMDQ2NDY5OA==A13h1MjAyNl9CUENMXzI2NjY1",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_NTPC_112292_1",
+   "slug": "2026-ntpc-112292-1",
+   "title": "Procurement of DV spares for MMD OFS at NTPC TSTPS",
+   "refNo": "NTPC/USSC-CPG3/9900334315",
+   "organisation": "NTPC Limited",
+   "orgSlug": "ntpc-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-10-01T11:30:00+05:30",
+   "closingAt": "2026-10-06T16:00:00+05:30",
+   "openingAt": "2026-10-07T16:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjQ5ODA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDgzNTI4MA==A13h1TlRQQy9VU1NDLUNQRzMvOTkwMDMzNDMxNQ==A13h1MjAyNl9OVFBDXzExMjI5Ml8x",
    "hasCorrigendum": false
   },
   {
@@ -217746,6 +217760,76 @@
    "hasCorrigendum": false
   },
   {
+   "id": "170838",
+   "slug": "170838",
+   "title": "40/AE-E/BCESD-IV/BCED/CPWD/2026-27-1st Recall",
+   "refNo": "40/AE-E/BCESD-IV/BCED/CPWD/2026-27-1st Recall",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-10-01T11:38:00+05:30",
+   "closingAt": "2026-10-08T15:00:00+05:30",
+   "openingAt": "2026-10-08T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjUxMzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDgzNTI4MA==A13h1NDAvQUUtRS9CQ0VTRC1JVi9CQ0VEL0NQV0QvMjAyNi0yNy0xc3QgUmVjYWxsA13h1MTcwODM4",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "170837",
+   "slug": "170837",
+   "title": "44(EE)(E)/DED-302/2026-27/Delhi/AE(E)-IV",
+   "refNo": "44(EE)(E)/DED-302/2026-27/Delhi/AE(E)-IV",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-10-01T11:31:00+05:30",
+   "closingAt": "2026-10-08T15:00:00+05:30",
+   "openingAt": "2026-10-08T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjUwODg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDgzNTI4MA==A13h1NDQoRUUpKEUpL0RFRC0zMDIvMjAyNi0yNy9EZWxoaS9BRShFKS1JVg==A13h1MTcwODM3",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "170830",
+   "slug": "170830",
+   "title": "63/NIT/MGCD/SH/2026-27",
+   "refNo": "63/NIT/MGCD/SH/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-10-01T11:10:00+05:30",
+   "closingAt": "2026-10-08T15:00:00+05:30",
+   "openingAt": "2026-10-08T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjUwODM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDgzNTA4Ng==A13h1NjMvTklUL01HQ0QvU0gvMjAyNi0yNw==A13h1MTcwODMw",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "170816",
+   "slug": "170816",
+   "title": "48/EE/C3D/2026-27/CHENNAI",
+   "refNo": "48/EE/C3D/2026-27/CHENNAI",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-10-01T11:10:00+05:30",
+   "closingAt": "2026-10-08T15:00:00+05:30",
+   "openingAt": "2026-10-08T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjUwODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDgzNTE4Nw==A13h1NDgvRUUvQzNELzIwMjYtMjcvQ0hFTk5BSQ==A13h1MTcwODE2",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "170842",
+   "slug": "170842",
+   "title": "56/EE/AE-II/VBD/2026-27",
+   "refNo": "56/EE/AE-II/VBD/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-10-01T11:43:00+05:30",
+   "closingAt": "2026-10-08T15:00:00+05:30",
+   "openingAt": "2026-10-08T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjUxODg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDgzNTI4MA==A13h1NTYvRUUvQUUtSUkvVkJELzIwMjYtMjc=A13h1MTcwODQy",
+   "hasCorrigendum": false
+  },
+  {
    "id": "170807",
    "slug": "170807",
    "title": "113/AE(E)/ESD-Nasik/2026-27 (Recall-1)",
@@ -217869,6 +217953,20 @@
    "closingAt": "2026-10-09T15:00:00+05:30",
    "openingAt": "2026-10-09T15:01:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzc0NzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTczMTMxOA==A13h1MTAwMDQ2NDYzNw==A13h1MjAyNl9CUENMXzI2NjA2",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "170834",
+   "slug": "170834",
+   "title": "122/AE(E)/NESD-II/2026-27",
+   "refNo": "122/AE(E)/NESD-II/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-10-01T11:20:00+05:30",
+   "closingAt": "2026-10-09T15:01:00+05:30",
+   "openingAt": "2026-10-09T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjUwODU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDgzNTI4MA==A13h1MTIyL0FFKEUpL05FU0QtSUkvMjAyNi0yNw==A13h1MTcwODM0",
    "hasCorrigendum": false
   },
   {
@@ -218261,6 +218359,20 @@
    "closingAt": "2026-10-12T13:30:00+05:30",
    "openingAt": "2026-10-12T13:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDIwMjA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTkzNzkyNA==A13h1MTEyNjI3MDA=A13h1MTA3MTg5OTg3",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BHEL_65649_1",
+   "slug": "2026-bhel-65649-1",
+   "title": "Supply of Electrical Lab Items for North Chennai (1X800 MW) Project",
+   "refNo": "ATLNIC0040",
+   "organisation": "Bharat Heavy Electricals Limited",
+   "orgSlug": "bharat-heavy-electricals-limited",
+   "category": "electrical",
+   "publishedAt": "2026-10-01T11:30:00+05:30",
+   "closingAt": "2026-10-12T14:00:00+05:30",
+   "openingAt": "2026-10-12T16:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjQ5OTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDgzNTI4MA==A13h1QVRMTklDMDA0MA==A13h1MjAyNl9CSEVMXzY1NjQ5XzE=",
    "hasCorrigendum": false
   },
   {
@@ -218866,6 +218978,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "170833",
+   "slug": "170833",
+   "title": "104/EEE/VBED/2026-27",
+   "refNo": "104/EEE/VBED/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-10-01T11:20:00+05:30",
+   "closingAt": "2026-10-15T15:00:00+05:30",
+   "openingAt": "2026-10-15T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjUwODY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDgzNTI4MA==A13h1MTA0L0VFRS9WQkVELzIwMjYtMjc=A13h1MTcwODMz",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_PrasarBharati_28413",
+   "slug": "2026-prasarbharati-28413",
+   "title": "REQUEST FOR PROPOSAL HIRING OF VEHICLES (YELLOW BOARD ONLY) FOR DOORDARSHAN KENDRA, VIJAYAWADA",
+   "refNo": "DDK/VJA/HIRING CABS/2026",
+   "organisation": "Prasar Bharati, Broadcasting Corporation of India",
+   "orgSlug": "prasar-bharati-broadcasting-corporation-of-india",
+   "category": "other",
+   "publishedAt": "2026-10-01T11:19:00+05:30",
+   "closingAt": "2026-10-15T15:00:00+05:30",
+   "openingAt": "2026-10-15T16:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjUxMzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDgzNTI0OA==A13h1RERLL1ZKQS9ISVJJTkcgQ0FCUy8yMDI2A13h1MjAyNl9QcmFzYXJCaGFyYXRpXzI4NDEz",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_790582_1",
    "slug": "2026-mes-790582-1",
    "title": "SOIL INVESTIGATION FOR PROVISION OF LOW SECURITY WALL AT SMA AND HIGH SECURITY WALL AROUND DEFENCE LAND NEAR MALABAR GATE AT NAVAL BASE, KOCHI",
@@ -219398,6 +219538,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_IITG_928200_1",
+   "slug": "2026-iitg-928200-1",
+   "title": "Comprehensive Annual Operation and Maintenance services of Telephone System in the Entire IITG Campus",
+   "refNo": "IITG/IPM/NIT/R/2026-27/23",
+   "organisation": "Indian Institute of Technology Guwahati",
+   "orgSlug": "indian-institute-of-technology-guwahati",
+   "category": "other",
+   "publishedAt": "2026-10-01T11:30:00+05:30",
+   "closingAt": "2026-10-21T14:00:00+05:30",
+   "openingAt": "2026-10-22T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjQ5NDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDgzNTI4MA==A13h1SUlURy9JUE0vTklUL1IvMjAyNi0yNy8yMw==A13h1MjAyNl9JSVRHXzkyODIwMF8x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "170461",
    "slug": "170461",
    "title": "44/MyCD/SE/e-tender/2026-27",
@@ -219451,6 +219605,20 @@
    "closingAt": "2026-10-21T18:00:00+05:30",
    "openingAt": "2026-10-23T09:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjA3NTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDc3MjUzOQ==A13h1ODc2NiBTUEVDSUFMIFJFUEFJUi9SRU5FV0FMIE9GIFZBUklBQkxFIFJFRlJJR0VSQU5UIEZMT1cgKFZSRikgQUNTIElOIFJFUExBQ0VNRU5UIE9GIEJFUiBBQyBQTEFOVFMgQQ==A13h1MjAyNl9NRVNfNzkxNzUzXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "28716",
+   "slug": "28716",
+   "title": "Supply and AMC of Self-propelled Articulating Boom Lift at Various Site of WR-II and NR-I of POWERGRID (Specification No.:NCN0396)",
+   "refNo": "NR3/NT/G-MISC/DOM/CP1/26/13733",
+   "organisation": "Power Grid Corporation of India Limited",
+   "orgSlug": "power-grid-corporation-of-india-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-10-01T11:41:00+05:30",
+   "closingAt": "2026-10-22T11:00:00+05:30",
+   "openingAt": "2026-10-23T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjUxODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDgzNTI4MA==A13h1TlIzL05UL0ctTUlTQy9ET00vQ1AxLzI2LzEzNzMzA13h1Mjg3MTY=",
    "hasCorrigendum": false
   },
   {
