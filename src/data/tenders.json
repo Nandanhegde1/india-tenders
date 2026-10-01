@@ -1,64 +1,8 @@
 {
- "generatedAt": "2026-10-01T06:14:46.117Z",
+ "generatedAt": "2026-10-01T13:37:25.824Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 15720,
+ "count": 15728,
  "tenders": [
-  {
-   "id": "2026_NRB_918982_1",
-   "slug": "2026-nrb-918982-1",
-   "title": "Manufacturing and Installation of working station in workshop building at FFF, INRPC, NRB, BARC Tarapur",
-   "refNo": "NRB/FF/GEN/07/Mnt/C/2026-27/15",
-   "organisation": "Nuclear Recycle Board",
-   "orgSlug": "nuclear-recycle-board",
-   "category": "construction",
-   "publishedAt": "2026-07-24T18:00:00+05:30",
-   "closingAt": "2026-08-02T14:00:00+05:30",
-   "openingAt": "2026-08-03T15:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5NzY1MjA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NDk1MTIxNg==A13h1TlJCL0ZGL0dFTi8wNy9NbnQvQy8yMDI2LTI3LzE1A13h1MjAyNl9OUkJfOTE4OTgyXzE=",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_PrasarBharati_28119",
-   "slug": "2026-prasarbharati-28119",
-   "title": "Providing VR Video production of IDC 2026 for streaming on Waves,OTT platform of Prasar Bharati",
-   "refNo": "DDK/DLH/ES(130)/2026-27",
-   "organisation": "Prasar Bharati, Broadcasting Corporation of India",
-   "orgSlug": "prasar-bharati-broadcasting-corporation-of-india",
-   "category": "other",
-   "publishedAt": "2026-07-27T17:34:00+05:30",
-   "closingAt": "2026-08-02T15:00:00+05:30",
-   "openingAt": "2026-08-02T15:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5ODY3MzU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTIxMDM4OA==A13h1RERLL0RMSC9FUygxMzApLzIwMjYtMjc=A13h1MjAyNl9QcmFzYXJCaGFyYXRpXzI4MTE5",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_BPCL_26121",
-   "slug": "2026-bpcl-26121",
-   "title": "E-TENDER FOR EVENT MANAGEMENT FOR SPEED100 LAUCH RALLY IN AHMEDABAD CITY UNDER AHMEDABAD RETAIL TERRITORY",
-   "refNo": "1000461123",
-   "organisation": "Bharat Petroleum Corporation Limited",
-   "orgSlug": "bharat-petroleum-corporation-limited",
-   "category": "other",
-   "publishedAt": "2026-07-30T12:13:00+05:30",
-   "closingAt": "2026-08-02T15:00:00+05:30",
-   "openingAt": "2026-08-02T15:01:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5OTU2MjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTQwMjU2MA==A13h1MTAwMDQ2MTEyMw==A13h1MjAyNl9CUENMXzI2MTIx",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_MCL_362416_1",
-   "slug": "2026-mcl-362416-1",
-   "title": "Repairing of Fire Tender Regn. No. OD-23-7360 deployed at Rampur Sub Area of Orient Area",
-   "refNo": "NIT No.MCL/OA/RSA-OSA /EnM/e-Ten/26-27/10 Dated. 22.07.2026",
-   "organisation": "Mahanadi Coalfields Limited",
-   "orgSlug": "mahanadi-coalfields-limited",
-   "category": "other",
-   "publishedAt": "2026-07-22T18:55:00+05:30",
-   "closingAt": "2026-08-02T17:00:00+05:30",
-   "openingAt": "2026-08-03T11:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5Njc1NTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NDc3ODcwMQ==A13h1TklUIE5vLk1DTC9PQS9SU0EtT1NBIC9Fbk0vZS1UZW4vMjYtMjcvMTAgRGF0ZWQuIDIyLjA3LjIwMjY=A13h1MjAyNl9NQ0xfMzYyNDE2XzE=",
-   "hasCorrigendum": false
-  },
   {
    "id": "2026_BPCL_26135",
    "slug": "2026-bpcl-26135",
@@ -217830,6 +217774,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "171046",
+   "slug": "171046",
+   "title": "67(3)/EE-Manipur/2026-27/529(H)",
+   "refNo": "67(3)/EE-Manipur/2026-27/529(H)",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-10-01T19:03:00+05:30",
+   "closingAt": "2026-10-08T15:00:00+05:30",
+   "openingAt": "2026-10-08T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjg5OTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDg2MTg0MA==A13h1NjcoMykvRUUtTWFuaXB1ci8yMDI2LTI3LzUyOShIKQ==A13h1MTcxMDQ2",
+   "hasCorrigendum": false
+  },
+  {
    "id": "170807",
    "slug": "170807",
    "title": "113/AE(E)/ESD-Nasik/2026-27 (Recall-1)",
@@ -217841,6 +217799,20 @@
    "closingAt": "2026-10-08T17:00:00+05:30",
    "openingAt": "2026-10-08T17:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjMwNTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDc3Mjk3Nw==A13h1MTEzL0FFKEUpL0VTRC1OYXNpay8yMDI2LTI3IChSZWNhbGwtMSk=A13h1MTcwODA3",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "170973",
+   "slug": "170973",
+   "title": "111/EEE/DED-11/26-27",
+   "refNo": "111/EEE/DED-11/26-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-10-01T19:00:00+05:30",
+   "closingAt": "2026-10-08T17:25:00+05:30",
+   "openingAt": "2026-10-08T17:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjg5OTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDg2MTg0MA==A13h1MTExL0VFRS9ERUQtMTEvMjYtMjc=A13h1MTcwOTcz",
    "hasCorrigendum": false
   },
   {
@@ -217953,6 +217925,20 @@
    "closingAt": "2026-10-09T15:00:00+05:30",
    "openingAt": "2026-10-09T15:01:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzc0NzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTczMTMxOA==A13h1MTAwMDQ2NDYzNw==A13h1MjAyNl9CUENMXzI2NjA2",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "171045",
+   "slug": "171045",
+   "title": "67/EEE/DED-203/2026-27/2nd Recall",
+   "refNo": "67/EEE/DED-203/2026-27/2nd Recall",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-10-01T19:06:00+05:30",
+   "closingAt": "2026-10-09T15:00:00+05:30",
+   "openingAt": "2026-10-09T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjkwMDA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDg2MTg0MA==A13h1NjcvRUVFL0RFRC0yMDMvMjAyNi0yNy8ybmQgUmVjYWxsA13h1MTcxMDQ1",
    "hasCorrigendum": false
   },
   {
@@ -218348,6 +218334,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_ECL_366470_1",
+   "slug": "2026-ecl-366470-1",
+   "title": "Construction of motor cycle stand at Area office under Rajmahal Area.",
+   "refNo": "ECL/RJML/AGM/AE(C)/ e-Ten/26-27/186  Dt-01.10.2026",
+   "organisation": "Eastern Coalfields Limited",
+   "orgSlug": "eastern-coalfields-limited",
+   "category": "construction",
+   "publishedAt": "2026-10-01T18:55:00+05:30",
+   "closingAt": "2026-10-12T11:00:00+05:30",
+   "openingAt": "2026-10-13T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjU4NTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDg2MTg0MA==A13h1RUNML1JKTUwvQUdNL0FFKEMpLyBlLVRlbi8yNi0yNy8xODYgIER0LTAxLjEwLjIwMjY=A13h1MjAyNl9FQ0xfMzY2NDcwXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_ECL_366461_1",
+   "slug": "2026-ecl-366461-1",
+   "title": "Repairing and strengthening of PCC road from Lalmatia dispensary to CISF quarter end at Lalmatia township under Rajmahal Area.",
+   "refNo": "ECL/RJML/AGM/AE(C)/ e-Ten/26-27/185  Dt-01.10.2026",
+   "organisation": "Eastern Coalfields Limited",
+   "orgSlug": "eastern-coalfields-limited",
+   "category": "construction",
+   "publishedAt": "2026-10-01T18:55:00+05:30",
+   "closingAt": "2026-10-12T11:00:00+05:30",
+   "openingAt": "2026-10-13T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjU4MzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDg2MTg0MA==A13h1RUNML1JKTUwvQUdNL0FFKEMpLyBlLVRlbi8yNi0yNy8xODUgIER0LTAxLjEwLjIwMjY=A13h1MjAyNl9FQ0xfMzY2NDYxXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107189987",
    "slug": "107189987",
    "title": "Knuckle of CBC for LHB COACHES",
@@ -218443,6 +218457,20 @@
    "closingAt": "2026-10-12T15:30:00+05:30",
    "openingAt": "2026-10-13T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDk4NTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDMxMjk5Mg==A13h1NTcvRUUvRWxlY3QvMjAyNi0yNw==A13h1MjAyNl9JSVRLXzkyNzY1MF8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "170978",
+   "slug": "170978",
+   "title": "112/EEE/DED-11/26-27",
+   "refNo": "112/EEE/DED-11/26-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-10-01T19:06:00+05:30",
+   "closingAt": "2026-10-12T16:25:00+05:30",
+   "openingAt": "2026-10-12T16:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjg5OTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDg2MTg0MA==A13h1MTEyL0VFRS9ERUQtMTEvMjYtMjc=A13h1MTcwOTc4",
    "hasCorrigendum": false
   },
   {
@@ -218625,6 +218653,20 @@
    "closingAt": "2026-10-13T15:00:00+05:30",
    "openingAt": "2026-10-14T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDI5OTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTk5NTkxOA==A13h1QUFJL1BVTkUvQ0lWSUwvT1BTL1BBSU5USU5HLzI2A13h1MjAyNl9BQUlfMjkxNTI3XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MCL_366377_1",
+   "slug": "2026-mcl-366377-1",
+   "title": "Providing Conrete blocks at TLS and Cautionary sign board for boom barriers of BBSRI OCPunder BBSRI Area.",
+   "refNo": "MCL/GM(JA)/SO(C)/e- Tender/26-27/51, Dtd-30/09/26",
+   "organisation": "Mahanadi Coalfields Limited",
+   "orgSlug": "mahanadi-coalfields-limited",
+   "category": "other",
+   "publishedAt": "2026-10-01T18:55:00+05:30",
+   "closingAt": "2026-10-13T17:00:00+05:30",
+   "openingAt": "2026-10-15T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjU4NDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDg2MTg0MA==A13h1TUNML0dNKEpBKS9TTyhDKS9lLSBUZW5kZXIvMjYtMjcvNTEsIER0ZC0zMC8wOS8yNg==A13h1MjAyNl9NQ0xfMzY2Mzc3XzE=",
    "hasCorrigendum": false
   },
   {
@@ -219003,6 +219045,20 @@
    "closingAt": "2026-10-15T15:00:00+05:30",
    "openingAt": "2026-10-15T16:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjUxMzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDgzNTI0OA==A13h1RERLL1ZKQS9ISVJJTkcgQ0FCUy8yMDI2A13h1MjAyNl9QcmFzYXJCaGFyYXRpXzI4NDEz",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MCL_366444_1",
+   "slug": "2026-mcl-366444-1",
+   "title": "Providing and fixing of 200 Nos. of informative safety boards of size 6ft by 3ft in belowground of Orient Colliery Mine No. 1 and 2, Orient Area",
+   "refNo": "MCL/GM/OA/ASO/2026-27/568 Dated.01.10.2026",
+   "organisation": "Mahanadi Coalfields Limited",
+   "orgSlug": "mahanadi-coalfields-limited",
+   "category": "other",
+   "publishedAt": "2026-10-01T18:55:00+05:30",
+   "closingAt": "2026-10-15T17:00:00+05:30",
+   "openingAt": "2026-10-16T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjU0MDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDg2MTg0MA==A13h1TUNML0dNL09BL0FTTy8yMDI2LTI3LzU2OCBEYXRlZC4wMS4xMC4yMDI2A13h1MjAyNl9NQ0xfMzY2NDQ0XzE=",
    "hasCorrigendum": false
   },
   {
@@ -219622,6 +219678,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_EIL_926082_1",
+   "slug": "2026-eil-926082-1",
+   "title": "SS/C050-1P39A-PA-MR-5190/63 - PUMP-ROTARY SCREW (Catalyst Suspension Metering Pump) for Polypropylene Unit (PPU) Project at Numaligarh Refinery, Assam - NRL",
+   "refNo": "SS/C050-1P39A-PA-MR-5190/63",
+   "organisation": "Engineers India Limited,MoPNG",
+   "orgSlug": "engineers-india-limited-mopng",
+   "category": "other",
+   "publishedAt": "2026-10-01T18:55:00+05:30",
+   "closingAt": "2026-10-22T12:00:00+05:30",
+   "openingAt": "2026-10-23T14:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjU1NTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDg2MTg0MA==A13h1U1MvQzA1MC0xUDM5QS1QQS1NUi01MTkwLzYzA13h1MjAyNl9FSUxfOTI2MDgyXzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107197739",
    "slug": "107197739",
    "title": "SET OF BRACKETS ON UNDER FRAME FOR MOUNTING OF IR-DRDO BIO-TOILET TANK AS PER RDSO DRG. NO. CG-15036, ITEM NOS.3,5,7&9, ALT.5",
@@ -219661,6 +219731,34 @@
    "closingAt": "2026-10-22T15:00:00+05:30",
    "openingAt": "2026-10-22T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTg3MDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDYzNzk5MQ==A13h1MDkvQ0UtY3VtLUVEL0RQWi1JLzIwMjYtMjc=A13h1MTcwNDgz",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_FCI_928625_1",
+   "slug": "2026-fci-928625-1",
+   "title": "Construction of godown on Food Corporation of Indias land on Build Finance and Maintain basis submission of Price Bid at FSD Morinda under DO Chandigarh",
+   "refNo": "RO-PB-33.0011.0/3/2026-CE-1 -RO PB",
+   "organisation": "Food Corporation of India",
+   "orgSlug": "food-corporation-of-india",
+   "category": "construction",
+   "publishedAt": "2026-10-01T18:55:00+05:30",
+   "closingAt": "2026-10-22T15:00:00+05:30",
+   "openingAt": "2026-10-23T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjU5Mjg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDg2MTc5OA==A13h1Uk8tUEItMzMuMDAxMS4wLzMvMjAyNi1DRS0xIC1STyBQQg==A13h1MjAyNl9GQ0lfOTI4NjI1XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_FCI_928583_1",
+   "slug": "2026-fci-928583-1",
+   "title": "Construction of godown on Food Corporation of India land on Build Finance and Maintain basis submission of Price Bid at FSD Tarn Taran under District Tarn Taran",
+   "refNo": "RO-PB-33.0011.0/3/2026-CE-1 -RO PB",
+   "organisation": "Food Corporation of India",
+   "orgSlug": "food-corporation-of-india",
+   "category": "construction",
+   "publishedAt": "2026-10-01T18:55:00+05:30",
+   "closingAt": "2026-10-22T15:00:00+05:30",
+   "openingAt": "2026-10-23T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjU5Mjk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDg2MTc3OA==A13h1Uk8tUEItMzMuMDAxMS4wLzMvMjAyNi1DRS0xIC1STyBQQg==A13h1MjAyNl9GQ0lfOTI4NTgzXzE=",
    "hasCorrigendum": false
   },
   {
@@ -219745,6 +219843,20 @@
    "closingAt": "2026-10-26T11:00:00+05:30",
    "openingAt": "2026-10-26T11:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTg3MDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDYzNzk5MQ==A13h1Q0MvVC9XLVNUQVQvRE9NL0EwNi8yNi8xMjY2Ng==A13h1Mjg2ODU=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "28723",
+   "slug": "28723",
+   "title": "Package FOTE 09 Communication Equipment SDH Supply and Installation Package for Communication Scheme approved in 42nd NCT in NR Region",
+   "refNo": "CC/NT/W-COMM/DOM/A01/26/13177",
+   "organisation": "Power Grid Corporation of India Limited",
+   "orgSlug": "power-grid-corporation-of-india-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-10-01T18:55:00+05:30",
+   "closingAt": "2026-10-26T11:00:00+05:30",
+   "openingAt": "2026-10-26T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjg5OTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDg2MTg0MA==A13h1Q0MvTlQvVy1DT01NL0RPTS9BMDEvMjYvMTMxNzc=A13h1Mjg3MjM=",
    "hasCorrigendum": false
   },
   {
