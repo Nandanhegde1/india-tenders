@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-10-07T13:41:39.556Z",
+ "generatedAt": "2026-10-07T23:16:08.830Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 11945,
+ "count": 11954,
  "tenders": [
   {
    "id": "163707",
@@ -163594,6 +163594,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "171530",
+   "slug": "171530",
+   "title": "60/EE/VBD/2026-27",
+   "refNo": "60/EE/VBD/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-10-07T19:13:00+05:30",
+   "closingAt": "2026-10-12T10:30:00+05:30",
+   "openingAt": "2026-10-12T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODE3ODI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQxNDk2MQ==A13h1NjAvRUUvVkJELzIwMjYtMjc=A13h1MTcxNTMw",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_ARMHA_927859_1",
    "slug": "2026-armha-927859-1",
    "title": "Term contract for periodical to cook houses at HQ 10 Sect AR at Somsai",
@@ -164654,7 +164668,7 @@
    "publishedAt": "2026-10-07T19:08:00+05:30",
    "closingAt": "2026-10-14T14:00:00+05:30",
    "openingAt": "2026-10-14T14:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODE3ODE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTM4MDQ5Mg==A13h1NjIvRUUvSm9kaHB1ci8yMDI2LTI3A13h1MTcxNDM0",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODE3ODE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQxNDk2MQ==A13h1NjIvRUUvSm9kaHB1ci8yMDI2LTI3A13h1MTcxNDM0",
    "hasCorrigendum": false
   },
   {
@@ -165204,6 +165218,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "171531",
+   "slug": "171531",
+   "title": "95/EE(E)/Mumbai-II(Erstwhile MCED-IV)/2026-27",
+   "refNo": "95/EE(E)/Mumbai-II(Erstwhile MCED-IV)/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-10-07T19:47:00+05:30",
+   "closingAt": "2026-10-15T15:00:00+05:30",
+   "openingAt": "2026-10-15T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODE3ODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQxNDk2MQ==A13h1OTUvRUUoRSkvTXVtYmFpLUlJKEVyc3R3aGlsZSBNQ0VELUlWKS8yMDI2LTI3A13h1MTcxNTMx",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "171532",
+   "slug": "171532",
+   "title": "22/2026-27/EE/Visakhapatnam",
+   "refNo": "22/2026-27/EE/Visakhapatnam",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-10-07T19:54:00+05:30",
+   "closingAt": "2026-10-15T15:30:00+05:30",
+   "openingAt": "2026-10-15T16:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODE3ODU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQxNDk2MQ==A13h1MjIvMjAyNi0yNy9FRS9WaXNha2hhcGF0bmFtA13h1MTcxNTMy",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BPCL_26810",
    "slug": "2026-bpcl-26810",
    "title": "PROVISION OF TWD MS UNLOADING PIPELINE WORKS AT NAJIBABAD DEPOT",
@@ -165442,6 +165484,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_26895",
+   "slug": "2026-bpcl-26895",
+   "title": "RENOVATION OF CANTEEN AT BPCL IRUGUR TOP INSTALLATION",
+   "refNo": "1000466370",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "construction",
+   "publishedAt": "2026-10-07T20:21:00+05:30",
+   "closingAt": "2026-10-17T00:00:00+05:30",
+   "openingAt": "2026-10-17T00:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODE4MDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQxNDk2MQ==A13h1MTAwMDQ2NjM3MA==A13h1MjAyNl9CUENMXzI2ODk1",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_IPRCL_292317_1",
    "slug": "2026-iprcl-292317-1",
    "title": "Engagement of S and T maintenance of Manikpur SILO Siding block cabin of Korba Area of SECL for S and T assets for a period of One year",
@@ -165593,6 +165649,20 @@
    "closingAt": "2026-10-19T10:00:00+05:30",
    "openingAt": "2026-10-20T10:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg3NTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTM4MDMzMQ==A13h1QmluYS9TTyhFeGN2KS9UZW5kZXIvMjYtMjcvMzEgZHQgNy4xMC4yMDI2A13h1MjAyNl9OQ0xfMzY2Njc5XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "28756",
+   "slug": "28756",
+   "title": "Transmission Line Package TL06 for 400 kV Panipat S/s Mohali D/c (Quad Moose) line associated with Transmission scheme for evacuation of power as part of Rajasthan REZ Ph IV (Part-6: 6GW) (Bikaner Complex) (Bikaner V: 6GW) Part B through Tariff Based Competitive Bidding (TBCB) route. Specification No.: CC/T/W TW/DOM/A06/26/13841",
+   "refNo": "CC/T/W-TW/DOM/A06/26/13841",
+   "organisation": "Power Grid Corporation of India Limited",
+   "orgSlug": "power-grid-corporation-of-india-limited",
+   "category": "other",
+   "publishedAt": "2026-10-07T20:33:00+05:30",
+   "closingAt": "2026-10-19T11:00:00+05:30",
+   "openingAt": "2026-10-19T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODE4MDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQxNDk2MQ==A13h1Q0MvVC9XLVRXL0RPTS9BMDYvMjYvMTM4NDE=A13h1Mjg3NTY=",
    "hasCorrigendum": false
   },
   {
@@ -166016,6 +166086,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_26907",
+   "slug": "2026-bpcl-26907",
+   "title": "NRO CONSTRUCTION @ MANCHENAHALLI",
+   "refNo": "1000466503",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "construction",
+   "publishedAt": "2026-10-07T20:15:00+05:30",
+   "closingAt": "2026-10-21T13:00:00+05:30",
+   "openingAt": "2026-10-21T13:01:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODE4MDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQxNDk2MQ==A13h1MTAwMDQ2NjUwMw==A13h1MjAyNl9CUENMXzI2OTA3",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_IITG_928200_1",
    "slug": "2026-iitg-928200-1",
    "title": "Comprehensive Annual Operation and Maintenance services of Telephone System in the Entire IITG Campus",
@@ -166265,6 +166349,20 @@
    "closingAt": "2026-10-21T18:00:00+05:30",
    "openingAt": "2026-10-22T18:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjkxMjU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDk3OTk0OQ==A13h1ODA0MC9DV0UoTlcpTVVNQkFJL0U4A13h1MjAyNl9NRVNfNzkyMTY3XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26908",
+   "slug": "2026-bpcl-26908",
+   "title": "LIASONING AND CONSULTANCY FOR CTE APPROVAL FOR NEW MS TANK",
+   "refNo": "1000466504",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "other",
+   "publishedAt": "2026-10-07T21:39:00+05:30",
+   "closingAt": "2026-10-21T23:00:00+05:30",
+   "openingAt": "2026-10-21T23:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODE4Mjk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQxNDk2MQ==A13h1MTAwMDQ2NjUwNA==A13h1MjAyNl9CUENMXzI2OTA4",
    "hasCorrigendum": false
   },
   {
@@ -166797,6 +166895,34 @@
    "closingAt": "2026-10-28T15:00:00+05:30",
    "openingAt": "2026-10-28T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzUyOTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTI0NTYyOA==A13h1MTcvU0UvSkMvMjAyNi0yNw==A13h1MTcxMjM0",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26725",
+   "slug": "2026-bpcl-26725",
+   "title": "CONSTRUCTION OF LUBE WAREHOUSE SHED AND ASSOCIATED WORKS AT BPCL SANGANER LUBE DEPOT, JAIPUR (RAJASTHAN)",
+   "refNo": "1000465311",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "construction",
+   "publishedAt": "2026-10-07T22:12:00+05:30",
+   "closingAt": "2026-10-28T15:00:00+05:30",
+   "openingAt": "2026-10-28T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODE4MzU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQxNDk2MQ==A13h1MTAwMDQ2NTMxMQ==A13h1MjAyNl9CUENMXzI2NzI1",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2627000150",
+   "slug": "2627000150",
+   "title": "Miscellaneous Civil maintenance works in other than Main Plant area of NNTPS",
+   "refNo": "2627000150",
+   "organisation": "Neyveli Lignite Corporation Limited",
+   "orgSlug": "neyveli-lignite-corporation-limited",
+   "category": "other",
+   "publishedAt": "2026-10-07T19:30:00+05:30",
+   "closingAt": "2026-10-28T15:00:00+05:30",
+   "openingAt": "2026-10-29T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg2OTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQxNDk2MQ==A13h1MjYyNzAwMDE1MA==A13h1MjYyNzAwMDE1MA==",
    "hasCorrigendum": false
   },
   {
