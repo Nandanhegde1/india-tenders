@@ -1,78 +1,8 @@
 {
- "generatedAt": "2026-10-08T06:24:33.076Z",
+ "generatedAt": "2026-10-08T13:49:04.951Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 11962,
+ "count": 11967,
  "tenders": [
-  {
-   "id": "2026_BPCL_26144",
-   "slug": "2026-bpcl-26144",
-   "title": "PROCUREMENT OF PIPE FITTINGS AT BPCL MR",
-   "refNo": "1000461314",
-   "organisation": "Bharat Petroleum Corporation Limited",
-   "orgSlug": "bharat-petroleum-corporation-limited",
-   "category": "goods-supply",
-   "publishedAt": "2026-08-01T22:04:00+05:30",
-   "closingAt": "2026-08-09T14:00:00+05:30",
-   "openingAt": "2026-08-09T14:01:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMDgzOTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTcyOTgzNg==A13h1MTAwMDQ2MTMxNA==A13h1MjAyNl9CUENMXzI2MTQ0",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_MCL_362746_1",
-   "slug": "2026-mcl-362746-1",
-   "title": "Repairing of APE make 11 kV VCBs of VCB Panel at the secondary side of T3 Transformer at Regional Substation, Kalinagar under Orient Area.",
-   "refNo": "NIT No. MCL/GM/OA/EnM/e-Ten/26-27/13\t   Dated. 29/07/2026",
-   "organisation": "Mahanadi Coalfields Limited",
-   "orgSlug": "mahanadi-coalfields-limited",
-   "category": "electrical",
-   "publishedAt": "2026-07-29T18:55:00+05:30",
-   "closingAt": "2026-08-09T17:00:00+05:30",
-   "openingAt": "2026-08-11T11:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5OTI1MDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTQwMjY2MQ==A13h1TklUIE5vLiBNQ0wvR00vT0EvRW5NL2UtVGVuLzI2LTI3LzEzCSAgIERhdGVkLiAyOS8wNy8yMDI2A13h1MjAyNl9NQ0xfMzYyNzQ2XzE=",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_MCL_362752_1",
-   "slug": "2026-mcl-362752-1",
-   "title": "Repairing with Providing and fixing of transformer bush and oil cork sheet for Alfa make 550KVA 3.3 Kv/440V and Alfa make 500KVA 3.3 Kv/440V transformers installed at 11 Pit Substation, B- Type colony, MQ Type Colony and Rampur Colony of RSA, OA",
-   "refNo": "NIT No. MCL/GM/OA/EnM/e-Ten/26-27/14   Dated. 29/07/2026",
-   "organisation": "Mahanadi Coalfields Limited",
-   "orgSlug": "mahanadi-coalfields-limited",
-   "category": "electrical",
-   "publishedAt": "2026-07-29T18:55:00+05:30",
-   "closingAt": "2026-08-09T17:00:00+05:30",
-   "openingAt": "2026-08-11T11:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5OTUyNzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTQwMjY2MQ==A13h1TklUIE5vLiBNQ0wvR00vT0EvRW5NL2UtVGVuLzI2LTI3LzE0ICAgRGF0ZWQuIDI5LzA3LzIwMjY=A13h1MjAyNl9NQ0xfMzYyNzUyXzE=",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_BPCL_26165",
-   "slug": "2026-bpcl-26165",
-   "title": "PROCUREMENT OF DOUBLE FILTERED RAPESEEP OIL (DFRO)",
-   "refNo": "1000461420",
-   "organisation": "Bharat Petroleum Corporation Limited",
-   "orgSlug": "bharat-petroleum-corporation-limited",
-   "category": "goods-supply",
-   "publishedAt": "2026-08-04T11:38:00+05:30",
-   "closingAt": "2026-08-09T17:00:00+05:30",
-   "openingAt": "2026-08-09T17:10:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMTE2MDI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTgzNTExNQ==A13h1MTAwMDQ2MTQyMA==A13h1MjAyNl9CUENMXzI2MTY1",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_BPCL_26216",
-   "slug": "2026-bpcl-26216",
-   "title": "E-TENDER FOR SHIFTING OF 5 KG CYLINDER FROM PLANTS FROM NR PLANTS TO RASAYANI LPG",
-   "refNo": "1000461708",
-   "organisation": "Bharat Petroleum Corporation Limited",
-   "orgSlug": "bharat-petroleum-corporation-limited",
-   "category": "other",
-   "publishedAt": "2026-08-06T20:27:00+05:30",
-   "closingAt": "2026-08-09T17:00:00+05:30",
-   "openingAt": "2026-08-09T17:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMjIwMDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjA4OTA2Nw==A13h1MTAwMDQ2MTcwOA==A13h1MjAyNl9CUENMXzI2MjE2",
-   "hasCorrigendum": false
-  },
   {
    "id": "2026_BPCL_26166",
    "slug": "2026-bpcl-26166",
@@ -165302,6 +165232,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_KSRRD_149776_2",
+   "slug": "2026-ksrrd-149776-2",
+   "title": "Repair and Maintenance of Rural Roads/CDs/Bridges of Kujjer Tengbal to Gandbal, Package No JK01-75, Length2.5 Km under PMGSY Division Kulgam for incentive fund scheme FY2026-27",
+   "refNo": "18/PMGSY/KUL/2026-27  DATED 07/10/2026",
+   "organisation": "National Rural Roads Development Agency (NRRDA)",
+   "orgSlug": "national-rural-roads-development-agency-nrrda",
+   "category": "construction",
+   "publishedAt": "2026-10-08T18:55:00+05:30",
+   "closingAt": "2026-10-15T16:30:00+05:30",
+   "openingAt": "2026-10-16T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODIwNzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQ2NzM0MA==A13h1MTgvUE1HU1kvS1VMLzIwMjYtMjcgIERBVEVEIDA3LzEwLzIwMjY=A13h1MjAyNl9LU1JSRF8xNDk3NzZfMg==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_KSRRD_149776_1",
+   "slug": "2026-ksrrd-149776-1",
+   "title": "Repair and Maintenance of Rural Roads/CDs/Bridges of Arreh Awahatta to Padderpora, Package No JK01-65, Length2.62 Km under PMGSY Division Kulgam for incentive fund scheme FY2026-27",
+   "refNo": "18/PMGSY/KUL/2026-27  DATED 07/10/2026",
+   "organisation": "National Rural Roads Development Agency (NRRDA)",
+   "orgSlug": "national-rural-roads-development-agency-nrrda",
+   "category": "construction",
+   "publishedAt": "2026-10-08T18:55:00+05:30",
+   "closingAt": "2026-10-15T16:30:00+05:30",
+   "openingAt": "2026-10-16T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODIwNjk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQ2NzM0MA==A13h1MTgvUE1HU1kvS1VMLzIwMjYtMjcgIERBVEVEIDA3LzEwLzIwMjY=A13h1MjAyNl9LU1JSRF8xNDk3NzZfMQ==",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MCL_366444_1",
    "slug": "2026-mcl-366444-1",
    "title": "Providing and fixing of 200 Nos. of informative safety boards of size 6ft by 3ft in belowground of Orient Colliery Mine No. 1 and 2, Orient Area",
@@ -165453,6 +165411,48 @@
    "closingAt": "2026-10-16T15:00:00+05:30",
    "openingAt": "2026-10-16T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODIwNTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQ0MDY2NQ==A13h1TklUMjhFRVJBSktPVDIwMjYyNw==A13h1MTcxNTMz",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "171713",
+   "slug": "171713",
+   "title": "176/NIT/EE-KOL-III/CPWD/2026-27",
+   "refNo": "176/NIT/EE-KOL-III/CPWD/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-10-08T19:08:00+05:30",
+   "closingAt": "2026-10-16T15:00:00+05:30",
+   "openingAt": "2026-10-16T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODYwNjE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQ2NzM0MA==A13h1MTc2L05JVC9FRS1LT0wtSUlJL0NQV0QvMjAyNi0yNw==A13h1MTcxNzEz",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "171712",
+   "slug": "171712",
+   "title": "30/2026-27/EE/Visakhapatnanm",
+   "refNo": "30/2026-27/EE/Visakhapatnanm",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-10-08T19:05:00+05:30",
+   "closingAt": "2026-10-16T15:00:00+05:30",
+   "openingAt": "2026-10-16T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODYwNjA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQ2NzM0MA==A13h1MzAvMjAyNi0yNy9FRS9WaXNha2hhcGF0bmFubQ==A13h1MTcxNzEy",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "171641",
+   "slug": "171641",
+   "title": "52/EE/Kanpur/2026-27",
+   "refNo": "52/EE/Kanpur/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-10-08T19:01:00+05:30",
+   "closingAt": "2026-10-16T15:00:00+05:30",
+   "openingAt": "2026-10-16T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODYwNTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQ2NzM0MA==A13h1NTIvRUUvS2FucHVyLzIwMjYtMjc=A13h1MTcxNjQx",
    "hasCorrigendum": false
   },
   {
@@ -165876,6 +165876,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_CCL_366816_1",
+   "slug": "2026-ccl-366816-1",
+   "title": "Providing barbed wire fencing Rest shelter at coal stock No 46 and providing guard wall near mine edge of Section II under Rajrappa OCP",
+   "refNo": "CCL/Rajrappa/GM Unit/Civil/NIT/26-27/20",
+   "organisation": "Central Coalfields Limited",
+   "orgSlug": "central-coalfields-limited",
+   "category": "security-manpower",
+   "publishedAt": "2026-10-08T18:55:00+05:30",
+   "closingAt": "2026-10-19T17:00:00+05:30",
+   "openingAt": "2026-10-21T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODYwMDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQ2NzM0MA==A13h1Q0NML1JhanJhcHBhL0dNIFVuaXQvQ2l2aWwvTklULzI2LTI3LzIwA13h1MjAyNl9DQ0xfMzY2ODE2XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_791750_1",
    "slug": "2026-mes-791750-1",
    "title": "SPL REPAIR TO BLDG NO P-664 (01 TO 04) OF PEERU SINGH ENCLAVE AND ADDN/ALTN TO BLDG NO P-1/1 AT OLD AMRITSAR CANTT",
@@ -165985,6 +165999,20 @@
    "closingAt": "2026-10-20T11:00:00+05:30",
    "openingAt": "2026-10-21T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg0MTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTM4MDQ5Mg==A13h1S0hEL0cuTS4gKEV4Y3YpL0UtVGVuZGVyLzI2LTI3LzU4Mw==A13h1MjAyNl9OQ0xfMzY2NzIxXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_WCL_366737_1",
+   "slug": "2026-wcl-366737-1",
+   "title": "Providing necessary arrangement viz zebra crossing, cautionary boards, speed limit board, T- Junction board and blinking signal etc. to crossing vehicles from quarry side across state highway 346 at Singhori OCM under BSSA.",
+   "refNo": "na3250-civ-e-tender 47-2026-27",
+   "organisation": "Western Coalfields Limited",
+   "orgSlug": "western-coalfields-limited",
+   "category": "other",
+   "publishedAt": "2026-10-08T18:55:00+05:30",
+   "closingAt": "2026-10-20T11:30:00+05:30",
+   "openingAt": "2026-10-21T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODYwMDE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQ2NzM0MA==A13h1bmEzMjUwLWNpdi1lLXRlbmRlciA0Ny0yMDI2LTI3A13h1MjAyNl9XQ0xfMzY2NzM3XzE=",
    "hasCorrigendum": false
   },
   {
@@ -166688,6 +166716,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_WCL_366209_1",
+   "slug": "2026-wcl-366209-1",
+   "title": "Miscellaneous balance development work such as construction of compound wall for z.p. school internal c.c road and Rcc drain, including providing and fixing 1 no.hand pump at virur village under Penganga Sub Area.",
+   "refNo": "WCL wa4350-Civ-e035-2026-27/736",
+   "organisation": "Western Coalfields Limited",
+   "orgSlug": "western-coalfields-limited",
+   "category": "construction",
+   "publishedAt": "2026-10-08T18:55:00+05:30",
+   "closingAt": "2026-10-24T17:00:00+05:30",
+   "openingAt": "2026-10-26T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODU5OTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQ2NzM0MA==A13h1V0NMIHdhNDM1MC1DaXYtZTAzNS0yMDI2LTI3LzczNg==A13h1MjAyNl9XQ0xfMzY2MjA5XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "28636",
    "slug": "28636",
    "title": "Providing Permanent Protection at Loc. No. 02 DD6 of 400kV DC LSS-BNC TL I Hilly Terrain under North Lakhimpur TLM Jurisdiction",
@@ -166825,6 +166867,20 @@
    "closingAt": "2026-10-27T11:00:00+05:30",
    "openingAt": "2026-10-27T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzM4Njg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTE1MDI1NA==A13h1MjIyNjUwNjQ=A13h1MTA3MjAzNzU5",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_NCL_366608_1",
+   "slug": "2026-ncl-366608-1",
+   "title": "Provision of Box Culvert in North side near Weigh Bridge at Bina Project",
+   "refNo": "B/Civil/2026-27/ETN-08 dtd 08.10.2026",
+   "organisation": "Northern Coalfields Limited",
+   "orgSlug": "northern-coalfields-limited",
+   "category": "construction",
+   "publishedAt": "2026-10-08T18:55:00+05:30",
+   "closingAt": "2026-10-27T11:00:00+05:30",
+   "openingAt": "2026-10-28T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODIzNDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQ2NzM0MA==A13h1Qi9DaXZpbC8yMDI2LTI3L0VUTi0wOCBkdGQgMDguMTAuMjAyNg==A13h1MjAyNl9OQ0xfMzY2NjA4XzE=",
    "hasCorrigendum": false
   },
   {
@@ -167189,6 +167245,20 @@
    "closingAt": "2026-10-29T18:00:00+05:30",
    "openingAt": "2026-11-05T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODIwMzU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQ0MDY2NQ==A13h1Q0EgTk8uIEdFKEFGKS9CSUQvVE9LRU4vNjIgT0YgMjAyNi0yMDI3IDgyODcvRTg=A13h1MjAyNl9NRVNfNzkyNzg5XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_792974_1",
+   "slug": "2026-mes-792974-1",
+   "title": "WELCOME MAINT OF OFFRS MD ACCN AT TARAPORE ENCLAVE AND OTHER ALLIED WORKS UNDER AGE B/R-II AND AGE E/M OF GE (SOUTH) DELHI CANTT-10",
+   "refNo": "GE/TOKEN-60/2026-27",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "other",
+   "publishedAt": "2026-10-08T18:55:00+05:30",
+   "closingAt": "2026-10-29T18:00:00+05:30",
+   "openingAt": "2026-10-31T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODI5NzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQ2NzM0MA==A13h1R0UvVE9LRU4tNjAvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzkyOTc0XzE=",
    "hasCorrigendum": false
   },
   {
