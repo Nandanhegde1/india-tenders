@@ -1,22 +1,8 @@
 {
- "generatedAt": "2026-10-08T13:49:04.951Z",
+ "generatedAt": "2026-10-08T23:31:16.770Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 11967,
+ "count": 11976,
  "tenders": [
-  {
-   "id": "2026_BPCL_26166",
-   "slug": "2026-bpcl-26166",
-   "title": "ETENDER FOR PROVIDING INSTALLATION CONFIGURATION AND SUPERVISION OF BECAFE EQUIPMENTS AT OSTS BP MATHURA UNDER MATHURA RETAIL TERRITORY",
-   "refNo": "1000461429",
-   "organisation": "Bharat Petroleum Corporation Limited",
-   "orgSlug": "bharat-petroleum-corporation-limited",
-   "category": "other",
-   "publishedAt": "2026-08-04T12:02:00+05:30",
-   "closingAt": "2026-08-10T00:15:00+05:30",
-   "openingAt": "2026-08-10T00:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMTE2Njk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTgzNTEwMg==A13h1MTAwMDQ2MTQyOQ==A13h1MjAyNl9CUENMXzI2MTY2",
-   "hasCorrigendum": false
-  },
   {
    "id": "2026_DGDE_778794_1",
    "slug": "2026-dgde-778794-1",
@@ -164322,6 +164308,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "171718",
+   "slug": "171718",
+   "title": "14/NIT/EE/BFD-I/IBBZ-I/2026-27",
+   "refNo": "14/NIT/EE/BFD-I/IBBZ-I/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-10-08T22:45:00+05:30",
+   "closingAt": "2026-10-13T15:00:00+05:30",
+   "openingAt": "2026-10-13T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODYxMzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTUwMjI2OA==A13h1MTQvTklUL0VFL0JGRC1JL0lCQlotSS8yMDI2LTI3A13h1MTcxNzE4",
+   "hasCorrigendum": false
+  },
+  {
    "id": "170144",
    "slug": "170144",
    "title": "128/EE(E)/NED/2026-27",
@@ -164980,6 +164980,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_26916",
+   "slug": "2026-bpcl-26916",
+   "title": "PROCUREMENT OF TRANSMITTERS FOR SUSTAINABLE AVIATION FUEL (SAF)",
+   "refNo": "1000466512",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-10-08T21:03:00+05:30",
+   "closingAt": "2026-10-15T14:00:00+05:30",
+   "openingAt": "2026-10-15T14:01:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODYxMzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTUwMjI2OA==A13h1MTAwMDQ2NjUxMg==A13h1MjAyNl9CUENMXzI2OTE2",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_HWB_927768_1",
    "slug": "2026-hwb-927768-1",
    "title": "HWPK/SE/2026/504",
@@ -165456,6 +165470,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "171717",
+   "slug": "171717",
+   "title": "13/NIT/EE/BFD-I/IBBZ-I/2026-27",
+   "refNo": "13/NIT/EE/BFD-I/IBBZ-I/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-10-08T22:31:00+05:30",
+   "closingAt": "2026-10-16T15:00:00+05:30",
+   "openingAt": "2026-10-16T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODYxMzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTUwMjI2OA==A13h1MTMvTklUL0VFL0JGRC1JL0lCQlotSS8yMDI2LTI3A13h1MTcxNzE3",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BPCL_26775",
    "slug": "2026-bpcl-26775",
    "title": "DESIGN, SUPPLY, INSTALLATION, TESTING AND COMMISSIONING OF DPT SHED EQUIPMENTS, OVERHEAD AND GROUND MOUNTED COVEYOR AT SOLUR LPG PLANT",
@@ -165733,6 +165761,20 @@
    "closingAt": "2026-10-19T11:00:00+05:30",
    "openingAt": "2026-10-19T11:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODE4MDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQxNDk2MQ==A13h1Q0MvVC9XLVRXL0RPTS9BMDYvMjYvMTM4NDE=A13h1Mjg3NTY=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "28768",
+   "slug": "28768",
+   "title": "Transmission Line Package TL05 for LILO of one circuit of 400kV Patiala-Panchkula -Bikaneer V-Part-B",
+   "refNo": "CC/T/W-TW/DOM/A06/26/13937",
+   "organisation": "Power Grid Corporation of India Limited",
+   "orgSlug": "power-grid-corporation-of-india-limited",
+   "category": "other",
+   "publishedAt": "2026-10-08T21:30:00+05:30",
+   "closingAt": "2026-10-19T11:00:00+05:30",
+   "openingAt": "2026-10-19T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODYxNDA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTUwMjI2OA==A13h1Q0MvVC9XLVRXL0RPTS9BMDYvMjYvMTM5Mzc=A13h1Mjg3Njg=",
    "hasCorrigendum": false
   },
   {
@@ -166492,6 +166534,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_26929",
+   "slug": "2026-bpcl-26929",
+   "title": "CCTV AT OSTS BP NELAMANGALA",
+   "refNo": "1000466612",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "other",
+   "publishedAt": "2026-10-08T19:43:00+05:30",
+   "closingAt": "2026-10-22T13:00:00+05:30",
+   "openingAt": "2026-10-22T13:01:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODYwOTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTUwMjI2OA==A13h1MTAwMDQ2NjYxMg==A13h1MjAyNl9CUENMXzI2OTI5",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107197739",
    "slug": "107197739",
    "title": "SET OF BRACKETS ON UNDER FRAME FOR MOUNTING OF IR-DRDO BIO-TOILET TANK AS PER RDSO DRG. NO. CG-15036, ITEM NOS.3,5,7&9, ALT.5",
@@ -166590,6 +166646,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "171715",
+   "slug": "171715",
+   "title": "Test tender half 01",
+   "refNo": "Test tender half 01",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-10-08T20:16:00+05:30",
+   "closingAt": "2026-10-22T15:13:00+05:30",
+   "openingAt": "2026-11-07T20:13:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODYxMTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTUwMjI2OA==A13h1VGVzdCB0ZW5kZXIgaGFsZiAwMQ==A13h1MTcxNzE1",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MoS_927861_1",
    "slug": "2026-mos-927861-1",
    "title": "Maintenance Dredging of Approach Channel, Entrance Channel, Turning Circles and Docks of Paradip Port Authority for the period of 03(three) years",
@@ -166657,6 +166727,20 @@
    "closingAt": "2026-10-23T15:00:00+05:30",
    "openingAt": "2026-10-23T15:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzMyNTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTE1MDI1NA==A13h1U1QtQ0tQLU9ULTI2LTI3LTE1MQ==A13h1OTE4NzYyNDc=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26927",
+   "slug": "2026-bpcl-26927",
+   "title": "LIMITED E-TENDER FOR PROCUREMENT OF MAK BRANDED CABIN LUGGAGE SUITCASES FOR DISTRIBUTION TO END CUSTOMERS",
+   "refNo": "1000466607",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-10-08T19:43:00+05:30",
+   "closingAt": "2026-10-23T15:00:00+05:30",
+   "openingAt": "2026-10-23T15:15:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODYwOTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTUwMjI2OA==A13h1MTAwMDQ2NjYwNw==A13h1MjAyNl9CUENMXzI2OTI3",
    "hasCorrigendum": false
   },
   {
@@ -167021,6 +167105,20 @@
    "closingAt": "2026-10-28T12:30:00+05:30",
    "openingAt": "2026-10-28T12:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5ODU0NDE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTEyNTY1Mw==A13h1NTAyNjMwMzJBA13h1MTA3MTM1MDk0",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "171716",
+   "slug": "171716",
+   "title": "Bid Opener 1 Old key and bid Opener new key",
+   "refNo": "Bid Opener 1  Old key and bid Opener new key",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-10-08T22:03:00+05:30",
+   "closingAt": "2026-10-28T14:44:00+05:30",
+   "openingAt": "2026-11-07T21:45:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODYxMzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTUwMjI2OA==A13h1QmlkIE9wZW5lciAxICBPbGQga2V5IGFuZCBiaWQgT3BlbmVyIG5ldyBrZXk=A13h1MTcxNzE2",
    "hasCorrigendum": false
   },
   {
@@ -167444,6 +167542,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "28767",
+   "slug": "28767",
+   "title": "Transmission Line Package TL01 Solapur",
+   "refNo": "CC/T/W-TW/DOM/A00/26/13892",
+   "organisation": "Power Grid Corporation of India Limited",
+   "orgSlug": "power-grid-corporation-of-india-limited",
+   "category": "other",
+   "publishedAt": "2026-10-08T20:56:00+05:30",
+   "closingAt": "2026-11-05T11:00:00+05:30",
+   "openingAt": "2026-11-05T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODYxMzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTUwMjI2OA==A13h1Q0MvVC9XLVRXL0RPTS9BMDAvMjYvMTM4OTI=A13h1Mjg3Njc=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "107103757",
    "slug": "107103757",
    "title": "Brake caliper unit leverage ratio 2.48 for LHB Power Car without brake cylinder to FTRTIPL Part. No. 090002000.",
@@ -167455,6 +167567,20 @@
    "closingAt": "2026-11-10T11:30:00+05:30",
    "openingAt": "2026-11-10T11:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5Mzk5MDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MzkxNTc0Mw==A13h1MjIyNjExMDE=A13h1MTA3MTAzNzU3",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "28762",
+   "slug": "28762",
+   "title": "Bay Upgradation Works at Talegaon POWERGRID 400 KV Ss under the Scheme ISTS Works associated with upgradation of existing conductors by High-performance conductors by MSETCL in Talegaon area and upgradation of bay equipment at Navi Mumbai Ss",
+   "refNo": "WR1/NT/W-AIS/DOM/F01/26/13284",
+   "organisation": "Power Grid Corporation of India Limited",
+   "orgSlug": "power-grid-corporation-of-india-limited",
+   "category": "other",
+   "publishedAt": "2026-10-08T20:00:00+05:30",
+   "closingAt": "2026-11-11T11:00:00+05:30",
+   "openingAt": "2026-11-13T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODI1ODg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTUwMjI2OA==A13h1V1IxL05UL1ctQUlTL0RPTS9GMDEvMjYvMTMyODQ=A13h1Mjg3NjI=",
    "hasCorrigendum": false
   },
   {
