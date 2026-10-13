@@ -1,36 +1,8 @@
 {
- "generatedAt": "2026-10-13T14:27:53.166Z",
+ "generatedAt": "2026-10-13T22:59:40.698Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 8532,
+ "count": 8540,
  "tenders": [
-  {
-   "id": "2026_BPCL_25734",
-   "slug": "2026-bpcl-25734",
-   "title": "PROVIDING SERVICES FOR SUPPLY OF REFRESHMENT PACKETS FOR OFFICERS AT SATELLITE LOCATION - MALARNA",
-   "refNo": "1000458923",
-   "organisation": "Bharat Petroleum Corporation Limited",
-   "orgSlug": "bharat-petroleum-corporation-limited",
-   "category": "goods-supply",
-   "publishedAt": "2026-07-24T22:13:00+05:30",
-   "closingAt": "2026-08-14T23:59:00+05:30",
-   "openingAt": "2026-08-15T17:11:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5ODA2Nzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NDk2ODEzOA==A13h1MTAwMDQ1ODkyMw==A13h1MjAyNl9CUENMXzI1NzM0",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_BPCL_26138",
-   "slug": "2026-bpcl-26138",
-   "title": "SITC OF 5KG & 10KG COMPOSITE LPG CYLINDER FILLING MACHINES WITH ASSOCIATED HANDLING SYSTEM AT PIYALA LPG PLANT.",
-   "refNo": "1000461280",
-   "organisation": "Bharat Petroleum Corporation Limited",
-   "orgSlug": "bharat-petroleum-corporation-limited",
-   "category": "other",
-   "publishedAt": "2026-07-31T21:10:00+05:30",
-   "closingAt": "2026-08-15T00:30:00+05:30",
-   "openingAt": "2026-08-15T13:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMDM4MTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTU3MzU3OQ==A13h1MTAwMDQ2MTI4MA==A13h1MjAyNl9CUENMXzI2MTM4",
-   "hasCorrigendum": false
-  },
   {
    "id": "2026_MES_780611_1",
    "slug": "2026-mes-780611-1",
@@ -116120,6 +116092,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "172133",
+   "slug": "172133",
+   "title": "14(1)/AE(E)-V/PHEWD/2026/48, Dated: 13.10.2026",
+   "refNo": "14(1)/AE(E)-V/PHEWD/2026/48, Dated: 13.10.2026",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-10-13T20:50:00+05:30",
+   "closingAt": "2026-10-17T15:00:00+05:30",
+   "openingAt": "2026-10-17T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTg5ODI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTkzMjM3NQ==A13h1MTQoMSkvQUUoRSktVi9QSEVXRC8yMDI2LzQ4LCBEYXRlZDogMTMuMTAuMjAyNg==A13h1MTcyMTMz",
+   "hasCorrigendum": false
+  },
+  {
    "id": "171829",
    "slug": "171829",
    "title": "133/EE()/NED/2026-27",
@@ -116131,6 +116117,20 @@
    "closingAt": "2026-10-17T15:05:00+05:30",
    "openingAt": "2026-10-17T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTA0OTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTU1MjgxNA==A13h1MTMzL0VFKCkvTkVELzIwMjYtMjc=A13h1MTcxODI5",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "172135",
+   "slug": "172135",
+   "title": "10/AE(C)/Vadodara/2026-27 (Recall)",
+   "refNo": "10/AE(C)/Vadodara/2026-27 (Recall)",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-10-13T22:43:00+05:30",
+   "closingAt": "2026-10-17T16:00:00+05:30",
+   "openingAt": "2026-10-17T16:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTkwMDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTkzMjM3NQ==A13h1MTAvQUUoQykvVmFkb2RhcmEvMjAyNi0yNyAoUmVjYWxsKQ==A13h1MTcyMTM1",
    "hasCorrigendum": false
   },
   {
@@ -116229,6 +116229,20 @@
    "closingAt": "2026-10-17T18:00:00+05:30",
    "openingAt": "2026-10-19T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTMxOTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDQyMjY5OQ==A13h1ODA2OQ==A13h1MjAyNl9NRVNfNzkwNTgwXzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26995",
+   "slug": "2026-bpcl-26995",
+   "title": "CIVIL AND STRUCTURAL WORKS FOR EXTENSION OF COUNTING PLATFORM AT MADURAI LPG PLANT",
+   "refNo": "1000466858",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "other",
+   "publishedAt": "2026-10-13T21:58:00+05:30",
+   "closingAt": "2026-10-17T18:00:00+05:30",
+   "openingAt": "2026-10-17T18:10:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTkwMDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTkzMjM3NQ==A13h1MTAwMDQ2Njg1OA==A13h1MjAyNl9CUENMXzI2OTk1",
    "hasCorrigendum": false
   },
   {
@@ -116848,6 +116862,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "172134",
+   "slug": "172134",
+   "title": "32/EE/AE/TCSD-III/TCD-I/CPWD/2026-27",
+   "refNo": "32/EE/AE/TCSD-III/TCD-I/CPWD/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-10-13T21:10:00+05:30",
+   "closingAt": "2026-10-20T15:00:00+05:30",
+   "openingAt": "2026-10-20T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTg5OTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTkzMjM3NQ==A13h1MzIvRUUvQUUvVENTRC1JSUkvVENELUkvQ1BXRC8yMDI2LTI3A13h1MTcyMTM0",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26976",
+   "slug": "2026-bpcl-26976",
+   "title": "TENDER FOR CONSTRUCTION OF NRO HALAHALLI VILLAGE, BIJAPUR",
+   "refNo": "1000466849",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "construction",
+   "publishedAt": "2026-10-13T21:29:00+05:30",
+   "closingAt": "2026-10-20T15:30:00+05:30",
+   "openingAt": "2026-10-20T15:40:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTg5OTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTkzMjM3NQ==A13h1MTAwMDQ2Njg0OQ==A13h1MjAyNl9CUENMXzI2OTc2",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_791721_1",
    "slug": "2026-mes-791721-1",
    "title": "REPAIR REPLACEMENT REWINDING OF SUBMERSIBLE PUMP CENTRIFUGAL PUMP MOTOR CONTROL PANEL AND CLEANING OF OHT AND UG SUMP, IMPROVEMENT OF WATER SUPPLY INSTALLATION AT AF STN THANJAVUR",
@@ -117041,6 +117083,20 @@
    "closingAt": "2026-10-21T11:00:00+05:30",
    "openingAt": "2026-10-21T11:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjQ3MTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDc3Mjk3Nw==A13h1U1IxL1QvVy1DSVZJTC9ET00vQjAwLzI2LzEzMjM0A13h1Mjg3MDg=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "172125",
+   "slug": "172125",
+   "title": "55/NIT/EE(E)/PCED/2026-27",
+   "refNo": "55/NIT/EE(E)/PCED/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-10-13T20:12:00+05:30",
+   "closingAt": "2026-10-21T11:00:00+05:30",
+   "openingAt": "2026-10-21T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTg5Nzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTkzMjM3NQ==A13h1NTUvTklUL0VFKEUpL1BDRUQvMjAyNi0yNw==A13h1MTcyMTI1",
    "hasCorrigendum": false
   },
   {
@@ -117335,6 +117391,62 @@
    "closingAt": "2026-10-21T15:00:00+05:30",
    "openingAt": "2026-10-21T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTg5MzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTkwMTY2Nw==A13h1MzcvTklRL0VFIFNNKEUpL0lQRUQvQ1BXRC8yMDI2LTI3A13h1MTcyMTI3",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "172083",
+   "slug": "172083",
+   "title": "21/2026-27/EE-Dhanbad/AE/Dhanbad-I",
+   "refNo": "21/2026-27/EE-Dhanbad/AE/Dhanbad-I",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-10-13T20:21:00+05:30",
+   "closingAt": "2026-10-21T15:00:00+05:30",
+   "openingAt": "2026-10-21T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTg5ODE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTkzMjM3NQ==A13h1MjEvMjAyNi0yNy9FRS1EaGFuYmFkL0FFL0RoYW5iYWQtSQ==A13h1MTcyMDgz",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "172131",
+   "slug": "172131",
+   "title": "45/2026-27/Hyd-I/Hyderabad",
+   "refNo": "45/2026-27/Hyd-I/Hyderabad",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-10-13T20:09:00+05:30",
+   "closingAt": "2026-10-21T15:00:00+05:30",
+   "openingAt": "2026-10-21T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTg5Nzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTkzMjM3NQ==A13h1NDUvMjAyNi0yNy9IeWQtSS9IeWRlcmFiYWQ=A13h1MTcyMTMx",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "172132",
+   "slug": "172132",
+   "title": "01/EE/SD/RSD-3/2026-27/2nd Call",
+   "refNo": "01/EE/SD/RSD-3/2026-27/2nd Call",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-10-13T20:07:00+05:30",
+   "closingAt": "2026-10-21T15:00:00+05:30",
+   "openingAt": "2026-10-21T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTg5Nzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTkzMjM3NQ==A13h1MDEvRUUvU0QvUlNELTMvMjAyNi0yNy8ybmQgQ2FsbA==A13h1MTcyMTMy",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "172074",
+   "slug": "172074",
+   "title": "136/2026-27/EE-1/AE-1/Shimla",
+   "refNo": "136/2026-27/EE-1/AE-1/Shimla",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-10-13T20:12:00+05:30",
+   "closingAt": "2026-10-21T16:00:00+05:30",
+   "openingAt": "2026-10-21T16:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTg5ODA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTkzMjM3NQ==A13h1MTM2LzIwMjYtMjcvRUUtMS9BRS0xL1NoaW1sYQ==A13h1MTcyMDc0",
    "hasCorrigendum": false
   },
   {
