@@ -1,22 +1,8 @@
 {
- "generatedAt": "2026-10-14T21:53:48.527Z",
+ "generatedAt": "2026-10-15T04:57:46.921Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 8324,
+ "count": 8332,
  "tenders": [
-  {
-   "id": "2026_BPCL_26137",
-   "slug": "2026-bpcl-26137",
-   "title": "PROVIDING AND INSTALLATION OF RO SYSTEM IN ADMIN BUILDING AND MISC WORKS",
-   "refNo": "1000461289",
-   "organisation": "Bharat Petroleum Corporation Limited",
-   "orgSlug": "bharat-petroleum-corporation-limited",
-   "category": "construction",
-   "publishedAt": "2026-08-01T19:20:00+05:30",
-   "closingAt": "2026-08-16T10:00:00+05:30",
-   "openingAt": "2026-08-16T10:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMDgzNDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTcyOTg1Mg==A13h1MTAwMDQ2MTI4OQ==A13h1MjAyNl9CUENMXzI2MTM3",
-   "hasCorrigendum": false
-  },
   {
    "id": "2026_IIEST_919248_1",
    "slug": "2026-iiest-919248-1",
@@ -112172,20 +112158,6 @@
    "hasCorrigendum": false
   },
   {
-   "id": "1",
-   "slug": "1",
-   "title": "Tender Notice",
-   "refNo": "KAPL/OTE/K-ENP/SR/1169/2026-27",
-   "organisation": "Karnataka Antibiotics and Pharmaceuticals Limited",
-   "orgSlug": "karnataka-antibiotics-and-pharmaceuticals-limited",
-   "category": "other",
-   "publishedAt": "2026-09-25T10:05:00+05:30",
-   "closingAt": "2026-10-15T23:59:00+05:30",
-   "openingAt": "2026-10-16T09:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTAwMTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDMxMjk5Mg==A13h1S0FQTC9PVEUvSy1FTlAvU1IvMTE2OS8yMDI2LTI3A13h1MQ==",
-   "hasCorrigendum": false
-  },
-  {
    "id": "171949",
    "slug": "171949",
    "title": "183/2026-27/PaWD-III/Delhi-Short Notice",
@@ -112225,6 +112197,20 @@
    "closingAt": "2026-10-16T11:00:00+05:30",
    "openingAt": "2026-10-16T11:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTY0OTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTg1Mjg2NQ==A13h1MjAvRUVTTS9TQ1BELUlJLzIwMjYtMjc=A13h1MTcxOTgw",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "1",
+   "slug": "1",
+   "title": "Tender Notice",
+   "refNo": "KAPL/ME/013/1292/2026-27",
+   "organisation": "Karnataka Antibiotics and Pharmaceuticals Limited",
+   "orgSlug": "karnataka-antibiotics-and-pharmaceuticals-limited",
+   "category": "other",
+   "publishedAt": "2026-10-15T10:05:00+05:30",
+   "closingAt": "2026-10-16T13:00:00+05:30",
+   "openingAt": "2026-10-16T13:02:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDMwOTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjA0MDI1Nw==A13h1S0FQTC9NRS8wMTMvMTI5Mi8yMDI2LTI3A13h1MQ==",
    "hasCorrigendum": false
   },
   {
@@ -114300,6 +114286,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_27011",
+   "slug": "2026-bpcl-27011",
+   "title": "TENDER FOR CONSTRUCTION OF NEW RETAIL OUTLET FROM TUNI TO KATHIPUDI ON NH-16 (LHS), KAKINADA DISTRICT",
+   "refNo": "1000467009",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "construction",
+   "publishedAt": "2026-10-15T10:20:00+05:30",
+   "closingAt": "2026-10-22T10:00:00+05:30",
+   "openingAt": "2026-10-22T10:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDMwOTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjA0MDI1Nw==A13h1MTAwMDQ2NzAwOQ==A13h1MjAyNl9CUENMXzI3MDEx",
+   "hasCorrigendum": false
+  },
+  {
    "id": "28716",
    "slug": "28716",
    "title": "Supply and AMC of Self-propelled Articulating Boom Lift at Various Site of WR-II and NR-I of POWERGRID (Specification No.:NCN0396)",
@@ -114608,6 +114608,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "172290",
+   "slug": "172290",
+   "title": "81/EE(E)/DED-301/2026-27",
+   "refNo": "81/EE(E)/DED-301/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "electrical",
+   "publishedAt": "2026-10-15T10:23:00+05:30",
+   "closingAt": "2026-10-22T15:00:00+05:30",
+   "openingAt": "2026-10-22T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDMwOTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjA0MDI1Nw==A13h1ODEvRUUoRSkvREVELTMwMS8yMDI2LTI3A13h1MTcyMjkw",
+   "hasCorrigendum": false
+  },
+  {
    "id": "171715",
    "slug": "171715",
    "title": "Test tender half 01",
@@ -114815,6 +114829,20 @@
    "closingAt": "2026-10-23T15:00:00+05:30",
    "openingAt": "2026-10-23T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDI5NTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTk5ODcyNA==A13h1TklUMzBFRVJBSktPVDIwMjYyNw==A13h1MTcyMjgy",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_HWB_930056_1",
+   "slug": "2026-hwb-930056-1",
+   "title": "HWPT/MECH/2026/1123",
+   "refNo": "HWPT/MECH/2026/1123",
+   "organisation": "Heavy Water Board",
+   "orgSlug": "heavy-water-board",
+   "category": "other",
+   "publishedAt": "2026-10-15T10:00:00+05:30",
+   "closingAt": "2026-10-23T15:00:00+05:30",
+   "openingAt": "2026-10-28T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTY2NTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjA0MDI1Nw==A13h1SFdQVC9NRUNILzIwMjYvMTEyMw==A13h1MjAyNl9IV0JfOTMwMDU2XzE=",
    "hasCorrigendum": false
   },
   {
@@ -115294,6 +115322,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BCCL_366903_1",
+   "slug": "2026-bccl-366903-1",
+   "title": "Casting and machining of 04 nos. bearing housing and 3200 GPM Pump at ABOCP Mine, at Block II Area.",
+   "refNo": "GM/B-II/AM (ENM)/E-TENDER/2026-27/123 dtd 13.10.2026",
+   "organisation": "Bharat Coking Coal Limited",
+   "orgSlug": "bharat-coking-coal-limited",
+   "category": "other",
+   "publishedAt": "2026-10-15T10:00:00+05:30",
+   "closingAt": "2026-10-26T17:00:00+05:30",
+   "openingAt": "2026-10-27T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTkyOTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjA0MDI1Nw==A13h1R00vQi1JSS9BTSAoRU5NKS9FLVRFTkRFUi8yMDI2LTI3LzEyMyBkdGQgMTMuMTAuMjAyNg==A13h1MjAyNl9CQ0NMXzM2NjkwM18x",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_792206_1",
    "slug": "2026-mes-792206-1",
    "title": "PROVN OF EXTERNAL ELECTRICITY SUPPLY CONNECTION FOR VARIOUS ENGR OP WKS SHELTER, CHEQURED/INTERLOCKING TILES TRACK WITH CGI SHEET COVERING PATHWAY WITH IRON FRAME NEAR FROM T-197 TO T-191 AND T-188 TO T-189 (APPROX 90 MTR), (JCO MESS TO COOK HOUSE)",
@@ -115445,6 +115487,20 @@
    "closingAt": "2026-10-27T15:00:00+05:30",
    "openingAt": "2026-10-27T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzc5ODM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTMxMTYyNw==A13h1MTAvQ0VjdW1FRC9EUFotMi8yMDI2LTI3A13h1MTcxNDAz",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_HWB_930132_1",
+   "slug": "2026-hwb-930132-1",
+   "title": "Supply, Installation, Testing and Commissioning of Integrated Fire Detection, Alarm and Suppression system for DG sets of HWPM",
+   "refNo": "HWPM/FS/4.5/DG Set/2026/02/NIT",
+   "organisation": "Heavy Water Board",
+   "orgSlug": "heavy-water-board",
+   "category": "goods-supply",
+   "publishedAt": "2026-10-15T10:00:00+05:30",
+   "closingAt": "2026-10-27T16:00:00+05:30",
+   "openingAt": "2026-10-30T14:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTY5MTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjA0MDI1Nw==A13h1SFdQTS9GUy80LjUvREcgU2V0LzIwMjYvMDIvTklUA13h1MjAyNl9IV0JfOTMwMTMyXzE=",
    "hasCorrigendum": false
   },
   {
@@ -115700,6 +115756,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_27001",
+   "slug": "2026-bpcl-27001",
+   "title": "PROVIDING DGR SECURITY SERVICES AT BAKANIA LPG PLANT",
+   "refNo": "1000466721",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "other",
+   "publishedAt": "2026-10-15T10:05:00+05:30",
+   "closingAt": "2026-10-29T11:00:00+05:30",
+   "openingAt": "2026-10-29T11:05:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDMwOTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjA0MDI1Nw==A13h1MTAwMDQ2NjcyMQ==A13h1MjAyNl9CUENMXzI3MDAx",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_NHPC_929160_1",
    "slug": "2026-nhpc-929160-1",
    "title": "Repair and Retubing of Stator Air Cooler and GGB Oil Cooler",
@@ -115767,6 +115837,20 @@
    "closingAt": "2026-10-29T15:00:00+05:30",
    "openingAt": "2026-10-29T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDMwMjU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjAxNDgxOA==A13h1MTAwMDQ2NzAyNQ==A13h1MjAyNl9CUENMXzI3MDE4",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_26943",
+   "slug": "2026-bpcl-26943",
+   "title": "TENDER FOR SUPPLY & LAYING OF PAVER BLOCKS AT VARIOUS RETAIL OUTLETS IN KARNATAKA STATE.",
+   "refNo": "1000466688",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "goods-supply",
+   "publishedAt": "2026-10-15T10:18:00+05:30",
+   "closingAt": "2026-10-29T15:00:00+05:30",
+   "openingAt": "2026-10-29T15:01:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDMwOTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjA0MDI1Nw==A13h1MTAwMDQ2NjY4OA==A13h1MjAyNl9CUENMXzI2OTQz",
    "hasCorrigendum": false
   },
   {
@@ -115991,6 +116075,20 @@
    "closingAt": "2026-10-30T15:00:00+05:30",
    "openingAt": "2026-10-30T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDI5ODg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjAxNDgxOA==A13h1MjEvU0UvRUUoQylQdWR1Y2hlcnJ5LUlJL0NQV0QvMjAyNi0yNw==A13h1MTcyMjgz",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "137176",
+   "slug": "137176",
+   "title": "TANK DYKE REPAIR WORKS MUNDRA TERMINAL",
+   "refNo": "2600028096-HB-07350",
+   "organisation": "Hindustan Petroleum Corporation Limited",
+   "orgSlug": "hindustan-petroleum-corporation-limited",
+   "category": "construction",
+   "publishedAt": "2026-10-15T10:00:00+05:30",
+   "closingAt": "2026-10-30T15:00:00+05:30",
+   "openingAt": "2026-10-30T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDMwNDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjA0MDI1Nw==A13h1MjYwMDAyODA5Ni1IQi0wNzM1MA==A13h1MTM3MTc2",
    "hasCorrigendum": false
   },
   {
@@ -116411,6 +116509,20 @@
    "closingAt": "2026-11-10T12:00:00+05:30",
    "openingAt": "2026-11-11T12:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTUzMzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTc4NTg0NA==A13h1SUlUL1NSSUMvQ1kvSU9JL1BNLzI2IDI3L0VRIDE=A13h1MjAyNl9JSVRLR185Mjk4ODJfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MES_793992_1",
+   "slug": "2026-mes-793992-1",
+   "title": "REPAIRS, PAINTING AND REPLACEMENT OF VARIOUS PARTS OF CHARPOY GI/IRON FRAME/IP FOLDING AT UMROI MIL STN UNDER GE UMROI",
+   "refNo": "8514/E8",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "construction",
+   "publishedAt": "2026-10-15T10:05:00+05:30",
+   "closingAt": "2026-11-10T18:00:00+05:30",
+   "openingAt": "2026-11-12T10:05:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDMwOTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjA0MDI1Nw==A13h1ODUxNC9FOA==A13h1MjAyNl9NRVNfNzkzOTkyXzE=",
    "hasCorrigendum": false
   },
   {
