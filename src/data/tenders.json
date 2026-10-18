@@ -1,218 +1,8 @@
 {
- "generatedAt": "2026-10-17T20:48:12.895Z",
+ "generatedAt": "2026-10-18T04:51:05.642Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
- "count": 6796,
+ "count": 6783,
  "tenders": [
-  {
-   "id": "2026_MES_780035_1",
-   "slug": "2026-mes-780035-1",
-   "title": "SPL REPAIRS TO INTERNALS ROADS AT FMSD, MAIN OFFICE TO LRW ENTRANCE GATE, SPL REPAIR OF BLACK TOP ROAD FROM JCO CLUB (BLDG T-60) TO ATT LINE (BLDG T-61), SPL REPAIR OF ROAD AT SINGHPORA ASCON NODE, INTERNAL ROAD 260 MTR FROM BHQ STORE ENTRY GATE TO",
-   "refNo": "CWEK/T-39/969 EWS/2026-27",
-   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-   "orgSlug": "e-in-c-branch-military-engineer-services",
-   "category": "construction",
-   "publishedAt": "2026-07-22T18:55:00+05:30",
-   "closingAt": "2026-08-19T09:00:00+05:30",
-   "openingAt": "2026-08-27T12:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5NjY3NDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NDc5NzY1MA==A13h1Q1dFSy9ULTM5Lzk2OSBFV1MvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzgwMDM1XzE=",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_ARMHA_917472_1",
-   "slug": "2026-armha-917472-1",
-   "title": "Procurement of Cartg SA 7.62mm A-7 MK II",
-   "refNo": "18015/Provn/26-27/AMN/Cartg SA7.62mmA-7MKII",
-   "organisation": "Assam Rifles - MHA",
-   "orgSlug": "assam-rifles-mha",
-   "category": "goods-supply",
-   "publishedAt": "2026-07-31T18:00:00+05:30",
-   "closingAt": "2026-08-19T09:00:00+05:30",
-   "openingAt": "2026-08-20T10:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMDEzNTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTUyODA0Ng==A13h1MTgwMTUvUHJvdm4vMjYtMjcvQU1OL0NhcnRnIFNBNy42Mm1tQS03TUtJSQ==A13h1MjAyNl9BUk1IQV85MTc0NzJfMQ==",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_CCL_363278_1",
-   "slug": "2026-ccl-363278-1",
-   "title": "Repairing of damage and flight assembly of BWF 1 , BWF 2 , Elecon , IR and Black Diamond make feeder breaker for six months under AADOCM.",
-   "refNo": "GM(D)/SO(EnM)/NIT/2026-27/23 dtd-06.08.2026",
-   "organisation": "Central Coalfields Limited",
-   "orgSlug": "central-coalfields-limited",
-   "category": "other",
-   "publishedAt": "2026-08-07T18:55:00+05:30",
-   "closingAt": "2026-08-19T09:00:00+05:30",
-   "openingAt": "2026-08-20T09:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMjU5MzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjE3NDAxNQ==A13h1R00oRCkvU08oRW5NKS9OSVQvMjAyNi0yNy8yMyBkdGQtMDYuMDguMjAyNg==A13h1MjAyNl9DQ0xfMzYzMjc4XzE=",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_MCD_287338_1",
-   "slug": "2026-mcd-287338-1",
-   "title": "44/MS/MGH/MCD/2026",
-   "refNo": "44/MS/MGH/MCD/2026",
-   "organisation": "Municipal Corporation of Delhi",
-   "orgSlug": "municipal-corporation-of-delhi",
-   "category": "other",
-   "publishedAt": "2026-08-12T09:00:00+05:30",
-   "closingAt": "2026-08-19T09:00:00+05:30",
-   "openingAt": "2026-08-20T09:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDAzMDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjUyMTQ5NQ==A13h1NDQvTVMvTUdIL01DRC8yMDI2A13h1MjAyNl9NQ0RfMjg3MzM4XzE=",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_NAVY_784269_1",
-   "slug": "2026-navy-784269-1",
-   "title": "CISR/EOI/SM/002",
-   "refNo": "CISR/EOI/SM/002",
-   "organisation": "IHQ of MOD (Navy)",
-   "orgSlug": "ihq-of-mod-navy",
-   "category": "other",
-   "publishedAt": "2026-08-13T12:50:00+05:30",
-   "closingAt": "2026-08-19T09:00:00+05:30",
-   "openingAt": "2026-08-20T09:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDM0MDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjYwNzk0Mw==A13h1Q0lTUi9FT0kvU00vMDAyA13h1MjAyNl9OQVZZXzc4NDI2OV8x",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_BPSCL_285079_1",
-   "slug": "2026-bpscl-285079-1",
-   "title": "Annual / Running and Breakdown Maintenance of Pipe Lines (08) Nos. in the areas of Ash Pond Situated Outside Gate No.- 4.",
-   "refNo": "26-27/C-098/NIT-310",
-   "organisation": "Bokaro Power Supply Company (P) Limited",
-   "orgSlug": "bokaro-power-supply-company-p-limited",
-   "category": "construction",
-   "publishedAt": "2026-07-22T13:15:00+05:30",
-   "closingAt": "2026-08-19T10:00:00+05:30",
-   "openingAt": "2026-08-20T10:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5NjY5NDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NDcxMTExNQ==A13h1MjYtMjcvQy0wOTgvTklULTMxMA==A13h1MjAyNl9CUFNDTF8yODUwNzlfMQ==",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_DRDO_780381_1",
-   "slug": "2026-drdo-780381-1",
-   "title": "Integrated RF Rotary Joint With Slip Rings",
-   "refNo": "LRDE/27ATT001/MMFD",
-   "organisation": "Department of Defence Research and Development",
-   "orgSlug": "department-of-defence-research-and-development",
-   "category": "other",
-   "publishedAt": "2026-07-23T18:00:00+05:30",
-   "closingAt": "2026-08-19T10:00:00+05:30",
-   "openingAt": "2026-08-20T10:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5NzIyODY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NDgzNjQ2NQ==A13h1TFJERS8yN0FUVDAwMS9NTUZEA13h1MjAyNl9EUkRPXzc4MDM4MV8x",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_IIMU_919560_1",
-   "slug": "2026-iimu-919560-1",
-   "title": "Request for Expression of Interest (EOIs) For Empanelment of Chartered Accountant firms",
-   "refNo": "Request for Expression of Interest (EOIs) For Empanelment of Chartered Accountant firms",
-   "organisation": "Indian Institute of Management Udaipur",
-   "orgSlug": "indian-institute-of-management-udaipur",
-   "category": "other",
-   "publishedAt": "2026-07-28T18:00:00+05:30",
-   "closingAt": "2026-08-19T10:00:00+05:30",
-   "openingAt": "2026-08-19T11:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5ODg3NzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTI2ODcyMQ==A13h1UmVxdWVzdCBmb3IgRXhwcmVzc2lvbiBvZiBJbnRlcmVzdCAoRU9JcykgRm9yIEVtcGFuZWxtZW50IG9mIENoYXJ0ZXJlZCBBY2NvdW50YW50IGZpcm1zA13h1MjAyNl9JSU1VXzkxOTU2MF8x",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_NPCIL_285538_1",
-   "slug": "2026-npcil-285538-1",
-   "title": "Supply Erection Commissioning and Testing of Electrical Equipments of Feeder Fabrication Shop",
-   "refNo": "MAPS/CMM(W)/EM/PT/ET927/2026",
-   "organisation": "Nuclear Power Corporation Of India Limited",
-   "orgSlug": "nuclear-power-corporation-of-india-limited",
-   "category": "electrical",
-   "publishedAt": "2026-07-29T10:00:00+05:30",
-   "closingAt": "2026-08-19T10:00:00+05:30",
-   "openingAt": "2026-08-20T10:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5ODU4NDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTMxNjgwOQ==A13h1TUFQUy9DTU0oVykvRU0vUFQvRVQ5MjcvMjAyNg==A13h1MjAyNl9OUENJTF8yODU1MzhfMQ==",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_ARMY_781574_1",
-   "slug": "2026-army-781574-1",
-   "title": "Supply and Construction of FD WSS (Borewell) in UT of Ladakh",
-   "refNo": "1311/RFP/26-27/98/OPW",
-   "organisation": "IHQ of MoD (Army)-(OSCC)",
-   "orgSlug": "ihq-of-mod-army-oscc",
-   "category": "construction",
-   "publishedAt": "2026-07-29T18:00:00+05:30",
-   "closingAt": "2026-08-19T10:00:00+05:30",
-   "openingAt": "2026-08-20T11:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5OTI0Nzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTM4MjgxNg==A13h1MTMxMS9SRlAvMjYtMjcvOTgvT1BXA13h1MjAyNl9BUk1ZXzc4MTU3NF8x",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_CSIR_285941_1",
-   "slug": "2026-csir-285941-1",
-   "title": "Replacement of defective 30 HP submersible pump sets,Submersible Cables, NRV and sluice valves at CDRI Jankipuram Extension, Lucknow.",
-   "refNo": "2/12/2026-Engg.",
-   "organisation": "Council of Scientific and Industrial Research",
-   "orgSlug": "council-of-scientific-and-industrial-research",
-   "category": "other",
-   "publishedAt": "2026-07-29T17:30:00+05:30",
-   "closingAt": "2026-08-19T10:00:00+05:30",
-   "openingAt": "2026-08-20T10:05:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5OTI0MzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTM4Mjg4OQ==A13h1Mi8xMi8yMDI2LUVuZ2cuA13h1MjAyNl9DU0lSXzI4NTk0MV8x",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_ARMHA_920714_1",
-   "slug": "2026-armha-920714-1",
-   "title": "Term contract for B and R work at Bn HQ Veng",
-   "refNo": "14000/27 Sect AR/Engr-MW/5 AR/2026-27/01",
-   "organisation": "Assam Rifles - MHA",
-   "orgSlug": "assam-rifles-mha",
-   "category": "other",
-   "publishedAt": "2026-08-05T17:00:00+05:30",
-   "closingAt": "2026-08-19T10:00:00+05:30",
-   "openingAt": "2026-08-20T11:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMTU1ODg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTk0MTU0NA==A13h1MTQwMDAvMjcgU2VjdCBBUi9FbmdyLU1XLzUgQVIvMjAyNi0yNy8wMQ==A13h1MjAyNl9BUk1IQV85MjA3MTRfMQ==",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_ARMHA_920688_1",
-   "slug": "2026-armha-920688-1",
-   "title": "Term Contact for B and R Works at Bn HQ Khuga",
-   "refNo": "14000/27 Sect AR/Engr-MW/37 AR/2026-27/01",
-   "organisation": "Assam Rifles - MHA",
-   "orgSlug": "assam-rifles-mha",
-   "category": "other",
-   "publishedAt": "2026-08-05T17:00:00+05:30",
-   "closingAt": "2026-08-19T10:00:00+05:30",
-   "openingAt": "2026-08-20T11:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMTU0NTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTk0MTU0NA==A13h1MTQwMDAvMjcgU2VjdCBBUi9FbmdyLU1XLzM3IEFSLzIwMjYtMjcvMDE=A13h1MjAyNl9BUk1IQV85MjA2ODhfMQ==",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_ARMHA_920691_1",
-   "slug": "2026-armha-920691-1",
-   "title": "Term Contact for E and M Works at Bn HQ Khuga",
-   "refNo": "14000/27 Sect AR/Engr-MW/37 AR/2026-27/02",
-   "organisation": "Assam Rifles - MHA",
-   "orgSlug": "assam-rifles-mha",
-   "category": "other",
-   "publishedAt": "2026-08-05T17:00:00+05:30",
-   "closingAt": "2026-08-19T10:00:00+05:30",
-   "openingAt": "2026-08-20T11:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMTU0Njg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTk4ODE1Nw==A13h1MTQwMDAvMjcgU2VjdCBBUi9FbmdyLU1XLzM3IEFSLzIwMjYtMjcvMDI=A13h1MjAyNl9BUk1IQV85MjA2OTFfMQ==",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_BHEL_63829_1",
-   "slug": "2026-bhel-63829-1",
-   "title": "Part Processing of Fittings - EP machining",
-   "refNo": "2026OSB047",
-   "organisation": "Bharat Heavy Electricals Limited",
-   "orgSlug": "bharat-heavy-electricals-limited",
-   "category": "other",
-   "publishedAt": "2026-08-08T15:40:00+05:30",
-   "closingAt": "2026-08-19T10:00:00+05:30",
-   "openingAt": "2026-08-19T11:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMjk0MzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjMyOTcwNg==A13h1MjAyNk9TQjA0Nw==A13h1MjAyNl9CSEVMXzYzODI5XzE=",
-   "hasCorrigendum": false
-  },
   {
    "id": "164741",
    "slug": "164741",
@@ -91280,7 +91070,7 @@
    "publishedAt": "2026-10-17T19:19:00+05:30",
    "closingAt": "2026-10-21T15:00:00+05:30",
    "openingAt": "2026-10-21T15:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTQyNDE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjI3MDA4OA==A13h1NDIvRUUoRSkoUFVEVUNIRVJSWSkvQ1BXRC8yMDI2LTI3A13h1MTcyNzc1",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTQyNDE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjI5OTA2Mg==A13h1NDIvRUUoRSkoUFVEVUNIRVJSWSkvQ1BXRC8yMDI2LTI3A13h1MTcyNzc1",
    "hasCorrigendum": false
   },
   {
@@ -92414,7 +92204,7 @@
    "publishedAt": "2026-10-17T23:55:00+05:30",
    "closingAt": "2026-10-23T15:00:00+05:30",
    "openingAt": "2026-10-23T15:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTQyOTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjI3MDA4OA==A13h1MTAvQUUoQykvVmFkb2RhcmEvMjAyNi0yNygybmQgY2FsbCk=A13h1MTcyNzgw",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTQyOTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjI5OTA2Mg==A13h1MTAvQUUoQykvVmFkb2RhcmEvMjAyNi0yNygybmQgY2FsbCk=A13h1MTcyNzgw",
    "hasCorrigendum": false
   },
   {
@@ -92694,7 +92484,7 @@
    "publishedAt": "2026-10-17T20:49:00+05:30",
    "closingAt": "2026-10-23T23:30:00+05:30",
    "openingAt": "2026-10-23T23:35:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTQyNjA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjI3MDA4OA==A13h1MTAwMDQ2NzI1MQ==A13h1MjAyNl9CUENMXzI3MDY0",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTQyNjA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjI5OTA2Mg==A13h1MTAwMDQ2NzI1MQ==A13h1MjAyNl9CUENMXzI3MDY0",
    "hasCorrigendum": false
   },
   {
@@ -93212,7 +93002,7 @@
    "publishedAt": "2026-10-17T20:00:00+05:30",
    "closingAt": "2026-10-26T15:00:00+05:30",
    "openingAt": "2026-10-26T15:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTQyNTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjI3MDA4OA==A13h1NTcvRUUvS2FucHVyLzIwMjYtMjc=A13h1MTcyNzc5",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTQyNTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjI5OTA2Mg==A13h1NTcvRUUvS2FucHVyLzIwMjYtMjc=A13h1MTcyNzc5",
    "hasCorrigendum": false
   },
   {
@@ -93226,7 +93016,7 @@
    "publishedAt": "2026-10-17T19:39:00+05:30",
    "closingAt": "2026-10-26T15:00:00+05:30",
    "openingAt": "2026-10-26T15:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTQyNDI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjI3MDA4OA==A13h1NTgvRUUvS2FucHVyLzIwMjYtMjc=A13h1MTcyNzc4",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTQyNDI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjI5OTA2Mg==A13h1NTgvRUUvS2FucHVyLzIwMjYtMjc=A13h1MTcyNzc4",
    "hasCorrigendum": false
   },
   {
@@ -93240,7 +93030,7 @@
    "publishedAt": "2026-10-17T19:11:00+05:30",
    "closingAt": "2026-10-26T15:00:00+05:30",
    "openingAt": "2026-10-26T15:30:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTQyNDA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjI3MDA4OA==A13h1MTEvRUUvQkZELVYvQmh1ai8yMDI2LTI3A13h1MTcyNzc3",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTQyNDA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjI5OTA2Mg==A13h1MTEvRUUvQkZELVYvQmh1ai8yMDI2LTI3A13h1MTcyNzc3",
    "hasCorrigendum": false
   },
   {
@@ -93324,7 +93114,7 @@
    "publishedAt": "2026-10-17T19:08:00+05:30",
    "closingAt": "2026-10-27T10:30:00+05:30",
    "openingAt": "2026-10-27T11:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTQyMzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjI3MDA4OA==A13h1MzgvRUUtQkxZLzIwMjYtMjc=A13h1MTcyNzc2",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTQyMzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjI5OTA2Mg==A13h1MzgvRUUtQkxZLzIwMjYtMjc=A13h1MTcyNzc2",
    "hasCorrigendum": false
   },
   {
@@ -93492,7 +93282,7 @@
    "publishedAt": "2026-10-17T21:00:00+05:30",
    "closingAt": "2026-10-27T15:00:00+05:30",
    "openingAt": "2026-10-27T17:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTQyODU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjI3MDA4OA==A13h1MTAwMDQ2NzIzOA==A13h1MjAyNl9CUENMXzI3MDYy",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTQyODU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjI5OTA2Mg==A13h1MTAwMDQ2NzIzOA==A13h1MjAyNl9CUENMXzI3MDYy",
    "hasCorrigendum": false
   },
   {
@@ -93717,6 +93507,20 @@
    "closingAt": "2026-10-28T17:00:00+05:30",
    "openingAt": "2026-10-30T11:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTg4Nzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTk1NDQ2NQ==A13h1MTM0OTAvQ0UvVGVuZGVyLzIwMjYvMTEzOSBkYXRlZCAwOSBTZXB0IDIwMjY=A13h1MjAyNl9ER0RFXzc4ODcwNl8y",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_MCL_367338_1",
+   "slug": "2026-mcl-367338-1",
+   "title": "Laying of R.C.C Hume pipe in different locations, cleaning of existing R..C.C Hume pipe culvert and Box culvert, Supplying and laying sandbags as and when required at mines and cleaning of jungle at workshop complex and DG room campus of",
+   "refNo": "MCL/GM(HA)/Civil/e-Tender/ 26-27/76 Dt.17.10.2026",
+   "organisation": "Mahanadi Coalfields Limited",
+   "orgSlug": "mahanadi-coalfields-limited",
+   "category": "construction",
+   "publishedAt": "2026-10-18T09:00:00+05:30",
+   "closingAt": "2026-10-28T17:00:00+05:30",
+   "openingAt": "2026-10-30T09:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTA2Nzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjI5OTA2Mg==A13h1TUNML0dNKEhBKS9DaXZpbC9lLVRlbmRlci8gMjYtMjcvNzYgRHQuMTcuMTAuMjAyNg==A13h1MjAyNl9NQ0xfMzY3MzM4XzE=",
    "hasCorrigendum": false
   },
   {
@@ -95075,6 +94879,20 @@
    "closingAt": "2026-11-19T12:00:00+05:30",
    "openingAt": "2026-11-20T12:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDcwMDA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjE1MDk2Nw==A13h1R2xvYmFsIFRlbmRlciBFbnF1aXJ5IE5vdGljZSBOby4gUEkoRVApLzI2LTI3L0cvMDIvMTY=A13h1MjAyNl9QR0lNRV85MjY0NjBfMQ==",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "172759",
+   "slug": "172759",
+   "title": "03/SE cum PD/Amaravati/NIT/2026-27",
+   "refNo": "03/SE cum PD/Amaravati/NIT/2026-27",
+   "organisation": "Central Public Works Department (CPWD)",
+   "orgSlug": "central-public-works-department-cpwd",
+   "category": "other",
+   "publishedAt": "2026-10-18T05:22:00+05:30",
+   "closingAt": "2026-11-20T15:00:00+05:30",
+   "openingAt": "2026-11-20T15:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTQyOTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjI5OTA2Mg==A13h1MDMvU0UgY3VtIFBEL0FtYXJhdmF0aS9OSVQvMjAyNi0yNw==A13h1MTcyNzU5",
    "hasCorrigendum": false
   },
   {
