@@ -1,162 +1,8 @@
 {
- "generatedAt": "2026-10-20T21:47:44.566Z",
+ "generatedAt": "2026-10-21T05:08:44.289Z",
  "source": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
  "count": 5400,
  "tenders": [
-  {
-   "id": "2026_MES_779367_1",
-   "slug": "2026-mes-779367-1",
-   "title": "PROVN OF AF SHARE OF WORK FOR CERTAIN INFRASTRUCTURE AT AF STN WADSAR UNDER GE (AF) CHILODA",
-   "refNo": "89419/E8",
-   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-   "orgSlug": "e-in-c-branch-military-engineer-services",
-   "category": "other",
-   "publishedAt": "2026-07-17T18:50:00+05:30",
-   "closingAt": "2026-08-22T09:00:00+05:30",
-   "openingAt": "2026-08-24T09:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5NTY4MDU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NDM2MjU1OA==A13h1ODk0MTkvRTg=A13h1MjAyNl9NRVNfNzc5MzY3XzE=",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_ARMY_782269_1",
-   "slug": "2026-army-782269-1",
-   "title": "7018/26-27",
-   "refNo": "7018/2026-27",
-   "organisation": "IHQ of MoD (Army)-(OSCC)",
-   "orgSlug": "ihq-of-mod-army-oscc",
-   "category": "other",
-   "publishedAt": "2026-08-01T12:20:00+05:30",
-   "closingAt": "2026-08-22T09:00:00+05:30",
-   "openingAt": "2026-08-22T12:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMDUxNzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTU3MzQ4NA==A13h1NzAxOC8yMDI2LTI3A13h1MjAyNl9BUk1ZXzc4MjI2OV8x",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_MES_782290_1",
-   "slug": "2026-mes-782290-1",
-   "title": "CA NO.CWE BLY/GE (E)/28 OF 2026- 2027SPECIAL REPAIR TO DAMGE/ LOOSE WIRING FROM TPN BN TO SPN DB AND ALLIED WORK OF BLDG NO P-1 OF INF BDE CAMP AT SHAHJAHANPUR CANTT UNDER GE (EAST) BAREILLY",
-   "refNo": "8200/B/940/E8",
-   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-   "orgSlug": "e-in-c-branch-military-engineer-services",
-   "category": "electrical",
-   "publishedAt": "2026-08-01T18:00:00+05:30",
-   "closingAt": "2026-08-22T09:00:00+05:30",
-   "openingAt": "2026-08-29T09:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMDUyODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTcyOTkxMQ==A13h1ODIwMC9CLzk0MC9FOA==A13h1MjAyNl9NRVNfNzgyMjkwXzE=",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_CCL_363493_1",
-   "slug": "2026-ccl-363493-1",
-   "title": "Repairing of wiring replacement of damaged electrical accessories like swiches MCB etc as per requirement for various Office establishments work shop pit office WBs etc for a period of 01 year under Ashok OCP PPR Area.",
-   "refNo": "PO(AK)/PE(EnM)/e-NIT/26-27/25",
-   "organisation": "Central Coalfields Limited",
-   "orgSlug": "central-coalfields-limited",
-   "category": "electrical",
-   "publishedAt": "2026-08-11T17:00:00+05:30",
-   "closingAt": "2026-08-22T09:00:00+05:30",
-   "openingAt": "2026-08-24T09:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMzY3MDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjQ1NjMwMQ==A13h1UE8oQUspL1BFKEVuTSkvZS1OSVQvMjYtMjcvMjU=A13h1MjAyNl9DQ0xfMzYzNDkzXzE=",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_BPSCL_285493_1",
-   "slug": "2026-bpscl-285493-1",
-   "title": "Annual / Running and Breakdown Maintenance of Pipe Lines including interconnection lines and valves carrying Ash Slurry of Dredge Pump House of TPP, CPP and Boiler # 9.",
-   "refNo": "26-27/C-111/NIT-312",
-   "organisation": "Bokaro Power Supply Company (P) Limited",
-   "orgSlug": "bokaro-power-supply-company-p-limited",
-   "category": "construction",
-   "publishedAt": "2026-07-25T14:00:00+05:30",
-   "closingAt": "2026-08-22T10:00:00+05:30",
-   "openingAt": "2026-08-24T10:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM5ODA5ODA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NTA1NTQ1Nw==A13h1MjYtMjcvQy0xMTEvTklULTMxMg==A13h1MjAyNl9CUFNDTF8yODU0OTNfMQ==",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_CCL_363566_1",
-   "slug": "2026-ccl-363566-1",
-   "title": "Day-to-Day repair and maintenance of 11KV overhead line from Regional Sub-Station to Riverside Pump House with 550-Volt and 440-Volt overhead line of Kathara Colliery for the period of 02-Years (730-Days).",
-   "refNo": "KTC/PE/EnM/26-27/22 Dated-11.08.2026",
-   "organisation": "Central Coalfields Limited",
-   "orgSlug": "central-coalfields-limited",
-   "category": "construction",
-   "publishedAt": "2026-08-12T09:00:00+05:30",
-   "closingAt": "2026-08-22T10:00:00+05:30",
-   "openingAt": "2026-08-24T10:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDAxNTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjUyMTUwOA==A13h1S1RDL1BFL0VuTS8yNi0yNy8yMiBEYXRlZC0xMS4wOC4yMDI2A13h1MjAyNl9DQ0xfMzYzNTY2XzE=",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_ERO_190984_1",
-   "slug": "2026-ero-190984-1",
-   "title": "Development of new RO on NH-15 within 6 KM from Golden Pagoda Temple towards Tezu, District- Namsai, State- Arunachal Pradesh under Tinsukia Divisional Office",
-   "refNo": "ER-MAC/2026-27/LT/251",
-   "organisation": "IndianOil",
-   "orgSlug": "indianoil",
-   "category": "other",
-   "publishedAt": "2026-08-15T10:00:00+05:30",
-   "closingAt": "2026-08-22T10:00:00+05:30",
-   "openingAt": "2026-08-24T10:00:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwNDgwMDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4Njc3NzU1Mw==A13h1RVItTUFDLzIwMjYtMjcvTFQvMjUxA13h1MjAyNl9FUk9fMTkwOTg0XzE=",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_ARMHA_921298_1",
-   "slug": "2026-armha-921298-1",
-   "title": "Term contract for artificers work in field workshop complex for various buildings at Khatla",
-   "refNo": "8023/S/18/E8/2026",
-   "organisation": "Assam Rifles - MHA",
-   "orgSlug": "assam-rifles-mha",
-   "category": "other",
-   "publishedAt": "2026-08-08T18:30:00+05:30",
-   "closingAt": "2026-08-22T10:30:00+05:30",
-   "openingAt": "2026-08-24T11:05:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMzAxNzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjM0OTU1MQ==A13h1ODAyMy9TLzE4L0U4LzIwMjY=A13h1MjAyNl9BUk1IQV85MjEyOThfMQ==",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_ARMHA_921295_1",
-   "slug": "2026-armha-921295-1",
-   "title": "Term contract for artificers work in MD JCOs Resdl Bldg at Sect HQ Khatla",
-   "refNo": "8023/S/17/E8/2026",
-   "organisation": "Assam Rifles - MHA",
-   "orgSlug": "assam-rifles-mha",
-   "category": "other",
-   "publishedAt": "2026-08-08T18:20:00+05:30",
-   "closingAt": "2026-08-22T10:30:00+05:30",
-   "openingAt": "2026-08-24T11:05:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMzAxNjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjM0OTU1Ng==A13h1ODAyMy9TLzE3L0U4LzIwMjY=A13h1MjAyNl9BUk1IQV85MjEyOTVfMQ==",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_ARMHA_921293_1",
-   "slug": "2026-armha-921293-1",
-   "title": "Term contract for artificers work in Offrs Resdl Bldgs at Sect HQ Khatla",
-   "refNo": "8023/S/16/E8/2026",
-   "organisation": "Assam Rifles - MHA",
-   "orgSlug": "assam-rifles-mha",
-   "category": "other",
-   "publishedAt": "2026-08-08T18:15:00+05:30",
-   "closingAt": "2026-08-22T10:30:00+05:30",
-   "openingAt": "2026-08-24T11:05:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMzAxMzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjM0OTU1Ng==A13h1ODAyMy9TLzE2L0U4LzIwMjY=A13h1MjAyNl9BUk1IQV85MjEyOTNfMQ==",
-   "hasCorrigendum": false
-  },
-  {
-   "id": "2026_ARMHA_921292_1",
-   "slug": "2026-armha-921292-1",
-   "title": "Term contract for artificers work in Dental Unit Complex for various buildings at Khatla",
-   "refNo": "8023/S/15/E8/2026",
-   "organisation": "Assam Rifles - MHA",
-   "orgSlug": "assam-rifles-mha",
-   "category": "other",
-   "publishedAt": "2026-08-08T18:00:00+05:30",
-   "closingAt": "2026-08-22T10:30:00+05:30",
-   "openingAt": "2026-08-24T11:05:00+05:30",
-   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMjk1MTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjM0OTU4Ng==A13h1ODAyMy9TLzE1L0U4LzIwMjY=A13h1MjAyNl9BUk1IQV85MjEyOTJfMQ==",
-   "hasCorrigendum": false
-  },
   {
    "id": "2026_BRO_780323_1",
    "slug": "2026-bro-780323-1",
@@ -72440,6 +72286,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "28820",
+   "slug": "28820",
+   "title": "Underground Dark Fiber Lease from PNQ20 to MTCIL SS Hinjewadi Phase 1 for the period of three years.",
+   "refNo": "WR1/NT/S-MISC/DOM/ZA3/26/14449",
+   "organisation": "Power Grid Corporation of India Limited",
+   "orgSlug": "power-grid-corporation-of-india-limited",
+   "category": "other",
+   "publishedAt": "2026-10-21T10:05:00+05:30",
+   "closingAt": "2026-10-24T11:00:00+05:30",
+   "openingAt": "2026-10-25T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTc0ODU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjU1OTMxOQ==A13h1V1IxL05UL1MtTUlTQy9ET00vWkEzLzI2LzE0NDQ5A13h1Mjg4MjA=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BPCL_26914",
    "slug": "2026-bpcl-26914",
    "title": "PROVIDING STRUCTURAL OPERATING PLATFROM FOR FOAM MONITORS AT TANK FARM AREA AT BPCL GOOTY DEPOT",
@@ -73658,6 +73518,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_IITRP_931073_1",
+   "slug": "2026-iitrp-931073-1",
+   "title": "Providing, fabricating, supplying, transporting and fixing Outdoor Two-Faced Directional Signage at IIT Ropar",
+   "refNo": "IITRPR/EE/T/26/331",
+   "organisation": "Indian Institute of Technology Ropar",
+   "orgSlug": "indian-institute-of-technology-ropar",
+   "category": "other",
+   "publishedAt": "2026-10-21T10:30:00+05:30",
+   "closingAt": "2026-10-28T18:00:00+05:30",
+   "openingAt": "2026-10-29T09:05:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTc0NzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjU1OTMxOQ==A13h1SUlUUlBSL0VFL1QvMjYvMzMxA13h1MjAyNl9JSVRSUF85MzEwNzNfMQ==",
+   "hasCorrigendum": false
+  },
+  {
    "id": "28726",
    "slug": "28726",
    "title": "765kV AIS New Substation Package SS 191T",
@@ -74204,6 +74078,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MCL_367344_1",
+   "slug": "2026-mcl-367344-1",
+   "title": "Construction 14 nos. of Temporary Shelter/ Accommodation for Employees at GOCP of Basundhara Area",
+   "refNo": "MCL/BA/PO/GOCP/Civil/E-Tender/ 26-27/17 dtd 17.10.2026",
+   "organisation": "Mahanadi Coalfields Limited",
+   "orgSlug": "mahanadi-coalfields-limited",
+   "category": "construction",
+   "publishedAt": "2026-10-21T10:00:00+05:30",
+   "closingAt": "2026-10-30T17:00:00+05:30",
+   "openingAt": "2026-11-02T11:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTQzMjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjU1OTMxOQ==A13h1TUNML0JBL1BPL0dPQ1AvQ2l2aWwvRS1UZW5kZXIvIDI2LTI3LzE3IGR0ZCAxNy4xMC4yMDI2A13h1MjAyNl9NQ0xfMzY3MzQ0XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_MES_790970_1",
    "slug": "2026-mes-790970-1",
    "title": "PROVISION OF INFRASTRUCTURE FOR (ETH) UNDER GE (C) KHADKI.",
@@ -74229,6 +74117,20 @@
    "closingAt": "2026-10-30T18:00:00+05:30",
    "openingAt": "2026-11-04T15:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzU0MTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTI2ODY3NQ==A13h1QkFSQy9SUk1EL0VULyA2IC8yMDI2LTIwMjcgRGF0ZTIzLzA5LzIwMjY=A13h1MjAyNl9CQVJDXzkyODgxNF8x",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "28819",
+   "slug": "28819",
+   "title": "Hiring of 8 Mbps Point to Point Bandwidth (P2P BW) on lease from third party for Deep Bhawan Connectivity in Gujarat state for the period of One year Through GeM Portal",
+   "refNo": "WR1/NT/S-MISC/DOM/ZA3/26/14406",
+   "organisation": "Power Grid Corporation of India Limited",
+   "orgSlug": "power-grid-corporation-of-india-limited",
+   "category": "it-software",
+   "publishedAt": "2026-10-21T10:00:00+05:30",
+   "closingAt": "2026-10-31T10:00:00+05:30",
+   "openingAt": "2026-11-01T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTc0ODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjU1OTMxOQ==A13h1V1IxL05UL1MtTUlTQy9ET00vWkEzLzI2LzE0NDA2A13h1Mjg4MTk=",
    "hasCorrigendum": false
   },
   {
@@ -74383,6 +74285,20 @@
    "closingAt": "2026-10-31T18:00:00+05:30",
    "openingAt": "2026-11-02T10:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTA4ODg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjIzNDkxMw==A13h1ODcxNy9FOA==A13h1MjAyNl9NRVNfNzk0Njk4XzE=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_HWB_930912_1",
+   "slug": "2026-hwb-930912-1",
+   "title": "Maintenance of Drinking Water Pumps",
+   "refNo": "HWPM/Col/Elect/PUMPS/2026/NIT dt.09/10/2026",
+   "organisation": "Heavy Water Board",
+   "orgSlug": "heavy-water-board",
+   "category": "construction",
+   "publishedAt": "2026-10-21T10:00:00+05:30",
+   "closingAt": "2026-10-31T18:45:00+05:30",
+   "openingAt": "2026-11-07T14:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTE0ODY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjU1OTMxOQ==A13h1SFdQTS9Db2wvRWxlY3QvUFVNUFMvMjAyNi9OSVQgZHQuMDkvMTAvMjAyNg==A13h1MjAyNl9IV0JfOTMwOTEyXzE=",
    "hasCorrigendum": false
   },
   {
@@ -74834,6 +74750,34 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_BPCL_27090",
+   "slug": "2026-bpcl-27090",
+   "title": "COTTON WASTE, LED MIRROR AND SPILL CHEMICAL KIT",
+   "refNo": "1000467358",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "electrical",
+   "publishedAt": "2026-10-21T10:18:00+05:30",
+   "closingAt": "2026-11-04T15:00:00+05:30",
+   "openingAt": "2026-11-04T15:01:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTc0OTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjU1OTMxOQ==A13h1MTAwMDQ2NzM1OA==A13h1MjAyNl9CUENMXzI3MDkw",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BPCL_27091",
+   "slug": "2026-bpcl-27091",
+   "title": "FIRE HOSE AND SPARES",
+   "refNo": "1000467362",
+   "organisation": "Bharat Petroleum Corporation Limited",
+   "orgSlug": "bharat-petroleum-corporation-limited",
+   "category": "other",
+   "publishedAt": "2026-10-21T10:34:00+05:30",
+   "closingAt": "2026-11-04T15:00:00+05:30",
+   "openingAt": "2026-11-04T15:01:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTc0OTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjU1OTMxOQ==A13h1MTAwMDQ2NzM2Mg==A13h1MjAyNl9CUENMXzI3MDkx",
+   "hasCorrigendum": false
+  },
+  {
    "id": "2026_BPCL_27089",
    "slug": "2026-bpcl-27089",
    "title": "SUPPLY OF SPARES FOR JISL SCALES AT URAN LPG TERMINAL",
@@ -74845,6 +74789,20 @@
    "closingAt": "2026-11-04T17:00:00+05:30",
    "openingAt": "2026-11-04T18:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTc0MDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjUzMjg2MA==A13h1MTAwMDQ2NzM2Nw==A13h1MjAyNl9CUENMXzI3MDg5",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_CEHP_149854_1",
+   "slug": "2026-cehp-149854-1",
+   "title": "Construction of 30.00 metre span bridge over Khauli khad at RD 5/825 on Rirkumar to Kutharna road km 0/000 to 6/975 under PMGSY-III, Batch-I in District Kangra (HP) (Missing Bridge)",
+   "refNo": "NIT NO. 5744-5844 dt 14-10-2026 (Shahpur)",
+   "organisation": "National Rural Roads Development Agency (NRRDA)",
+   "orgSlug": "national-rural-roads-development-agency-nrrda",
+   "category": "construction",
+   "publishedAt": "2026-10-21T10:00:00+05:30",
+   "closingAt": "2026-11-04T17:00:00+05:30",
+   "openingAt": "2026-11-05T11:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTUzODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjU1OTMxOQ==A13h1TklUIE5PLiA1NzQ0LTU4NDQgZHQgMTQtMTAtMjAyNiAoU2hhaHB1cik=A13h1MjAyNl9DRUhQXzE0OTg1NF8x",
    "hasCorrigendum": false
   },
   {
@@ -75366,6 +75324,20 @@
    "hasCorrigendum": false
   },
   {
+   "id": "2026_MES_794886_1",
+   "slug": "2026-mes-794886-1",
+   "title": "PROVN OF RELIGIOUS INSTITUTE OF 14 WEU AT OLD AIR FIELD, SRINAGAR UNDER GE 970 EWS",
+   "refNo": "GE 970 EWS-92(T)/2026-27",
+   "organisation": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+   "orgSlug": "e-in-c-branch-military-engineer-services",
+   "category": "other",
+   "publishedAt": "2026-10-21T10:00:00+05:30",
+   "closingAt": "2026-11-10T18:00:00+05:30",
+   "openingAt": "2026-11-12T10:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTYxNzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjU1OTE3Nw==A13h1R0UgOTcwIEVXUy05MihUKS8yMDI2LTI3A13h1MjAyNl9NRVNfNzk0ODg2XzE=",
+   "hasCorrigendum": false
+  },
+  {
    "id": "28762",
    "slug": "28762",
    "title": "Bay Upgradation Works at Talegaon POWERGRID 400 KV Ss under the Scheme ISTS Works associated with upgradation of existing conductors by High-performance conductors by MSETCL in Talegaon area and upgradation of bay equipment at Navi Mumbai Ss",
@@ -75419,6 +75391,20 @@
    "closingAt": "2026-11-11T15:00:00+05:30",
    "openingAt": "2026-11-11T15:00:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQwMzI5NjA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4NjM0OTUxNw==A13h1Q0FPLUMtQlNQLTI2LTI3LTE2A13h1OTEwNTgzNDc=",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_BSNL_294296_1",
+   "slug": "2026-bsnl-294296-1",
+   "title": "OFC Construction work under 4G Saturation in Chittorhgarh OA of Ajmer BA",
+   "refNo": "RJCO-23/11(11)/14/2025-TX AND MM",
+   "organisation": "Bharat Sanchar Nigam Limited (Govt of India Enterprise)",
+   "orgSlug": "bharat-sanchar-nigam-limited-govt-of-india-enterprise",
+   "category": "construction",
+   "publishedAt": "2026-10-21T10:00:00+05:30",
+   "closingAt": "2026-11-11T18:00:00+05:30",
+   "openingAt": "2026-11-13T10:30:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTA1NTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjU1OTMxOQ==A13h1UkpDTy0yMy8xMSgxMSkvMTQvMjAyNS1UWCBBTkQgTU0=A13h1MjAyNl9CU05MXzI5NDI5Nl8x",
    "hasCorrigendum": false
   },
   {
@@ -75517,6 +75503,20 @@
    "closingAt": "2026-11-20T15:00:00+05:30",
    "openingAt": "2026-11-20T15:30:00+05:30",
    "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTQyOTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjMzOTQxMg==A13h1MDMvU0UgY3VtIFBEL0FtYXJhdmF0aS9OSVQvMjAyNi0yNw==A13h1MTcyNzU5",
+   "hasCorrigendum": false
+  },
+  {
+   "id": "2026_IITM_295155_1",
+   "slug": "2026-iitm-295155-1",
+   "title": "Laser Combiner for Total Internal Reflection Microscopy",
+   "refNo": "GTE01/9000/90/2026/MICROSCOPY",
+   "organisation": "Indian Institute of Technology Madras",
+   "orgSlug": "indian-institute-of-technology-madras",
+   "category": "other",
+   "publishedAt": "2026-10-21T10:10:00+05:30",
+   "closingAt": "2026-11-20T15:00:00+05:30",
+   "openingAt": "2026-11-23T15:00:00+05:30",
+   "sourceUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTc0Mzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjU1OTMxOQ==A13h1R1RFMDEvOTAwMC85MC8yMDI2L01JQ1JPU0NPUFk=A13h1MjAyNl9JSVRNXzI5NTE1NV8x",
    "hasCorrigendum": false
   },
   {
